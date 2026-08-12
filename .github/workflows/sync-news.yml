@@ -43,7 +43,6 @@ jobs:
           git push
 
   deploy-pages:
-    if: vars.DEPLOY_PAGES == 'true'
     needs: sync-news
     runs-on: ubuntu-latest
     environment:
