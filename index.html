@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="从诺坎普进入巴萨球员、比赛档案、俱乐部历史与传奇纪录。" />
+    <meta name="theme-color" content="#050814" />
+    <title>巴萨赛场档案</title>
+    <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data/site-data.js" defer></script>
+    <script src="data/news-data.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body class="home-page home-page--premium-v0">
+    <main class="home-main" data-design-version="premium-v0">
+      <section class="home-hero">
+        <h1 class="sr-only">巴萨赛场档案</h1>
+
+      <section class="hero-carousel" aria-label="Spotify Camp Nou 高清图片轮播" data-carousel data-interval="6500" data-hover-delay="280" data-hover-interval="1100" tabindex="0">
+        <div class="hero-carousel__track">
+          <figure class="hero-carousel__slide is-active" data-slide>
+            <img src="assets/barca-brand/camp-nou-classic.jpg" alt="诺坎普球场全景" width="2400" height="1350" />
+            <figcaption><span>01 / 03</span><b>THE HOME · 1957—</b></figcaption>
+          </figure>
+          <figure class="hero-carousel__slide" data-slide>
+            <img src="assets/barca-brand/camp-nou-return-2025.jpg" alt="球迷重返 Spotify Camp Nou" width="2400" height="1350" />
+            <figcaption><span>02 / 03</span><b>THE RETURN · 2025</b></figcaption>
+          </figure>
+          <figure class="hero-carousel__slide" data-slide>
+            <img src="assets/barca-brand/camp-nou-training-2025.jpg" alt="新诺坎普开放训练日" width="2400" height="1350" />
+            <figcaption><span>03 / 03</span><b>THE NEW ERA · BARCELONA</b></figcaption>
+          </figure>
+        </div>
+        <div class="home-hero__shade" aria-hidden="true"></div>
+        <div class="home-hero__grain" aria-hidden="true"></div>
+
+        <div class="carousel-edge carousel-edge--previous" data-carousel-hover="-1" aria-hidden="true">
+          <span>←</span>
+        </div>
+        <div class="carousel-edge carousel-edge--next" data-carousel-hover="1" aria-hidden="true">
+          <span>→</span>
+        </div>
+
+        <div class="carousel-controls carousel-controls--home">
+          <button type="button" data-carousel-prev aria-label="上一张图片">←</button>
+          <div class="carousel-dots" data-carousel-dots aria-label="选择图片"></div>
+          <button type="button" data-carousel-next aria-label="下一张图片">→</button>
+          <button class="carousel-pause" type="button" data-carousel-pause aria-label="暂停自动播放">Ⅱ</button>
+        </div>
+      </section>
+
+      <header class="home-header">
+        <a class="brand" href="index.html" aria-label="巴萨赛场档案首页">
+          <img src="assets/barca-brand/fcb-crest.png" alt="FC Barcelona" width="354" height="72" />
+        </a>
+        <div class="home-header__edition" aria-hidden="true"><span>1899—2026</span><b>BARÇA MATCH ARCHIVE</b></div>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="home-navigation" data-menu-toggle>
+          <span></span><span></span><b>栏目</b>
+        </button>
+      </header>
+
+      <nav class="portal-nav" id="home-navigation" aria-label="网站栏目" data-menu>
+        <a href="players.html"><b>01</b><span>球员<small>PLAYERS</small></span><i>↗</i></a>
+        <a href="fixtures.html"><b>02</b><span>比赛档案<small>MATCH ARCHIVE</small></span><i>↗</i></a>
+        <a href="history.html"><b>03</b><span>俱乐部历史<small>CLUB HISTORY</small></span><i>↗</i></a>
+        <a href="appearances.html"><b>04</b><span>历史出场榜<small>APPEARANCES</small></span><i>↗</i></a>
+        <a href="goals.html"><b>05</b><span>历史进球榜<small>GOALSCORERS</small></span><i>↗</i></a>
+        <a href="assists.html"><b>06</b><span>历史助攻榜<small>ASSISTS</small></span><i>↗</i></a>
+        <a href="news.html"><b>07</b><span>时事资讯<small>LATEST NEWS</small></span><i>↗</i></a>
+      </nav>
+
+        <p class="home-caption"><span>ARCHIVE / HOME</span><b>SPOTIFY CAMP NOU · BARCELONA</b></p>
+        <p class="home-credit" aria-hidden="true">FC BARCELONA OFFICIAL IMAGERY</p>
+      </section>
+
+      <section class="home-news" aria-labelledby="home-news-title">
+        <header class="home-news__header page-shell">
+          <div><p>LIVE DESK / OFFICIAL FEED</p><h2 id="home-news-title">此刻的<br />巴萨</h2></div>
+          <div><strong>从诺坎普向下，进入正在发生的故事。</strong><p>内容定时同步自 FC Barcelona Official Channel，点击新闻可直接进入本站详情。</p><time data-home-news-updated>读取最近一次同步</time></div>
+          <a href="news.html">查看全部资讯 <span>↗</span></a>
+        </header>
+        <div class="home-news__feed page-shell" data-home-news-list aria-live="polite">
+          <div class="data-empty data-empty--dark"><strong>正在读取最新资讯</strong><p>请稍候。</p></div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

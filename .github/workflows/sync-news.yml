@@ -1,0 +1,68 @@
+name: Sync latest FC Barcelona news
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-fcbarcelona-news
+  cancel-in-progress: true
+
+jobs:
+  sync-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Read official news feed
+        run: node scripts/sync-news.mjs
+
+      - name: Commit changed news data
+        shell: bash
+        run: |
+          git config user.name "barca-news-bot"
+          git config user.email "barca-news-bot@users.noreply.github.com"
+          git add data/news.json data/news-data.js data/site-data.js assets/news
+          if git diff --cached --quiet; then
+            echo "No new official news."
+            exit 0
+          fi
+          git commit -m "chore: sync latest FC Barcelona news"
+          git push
+
+  deploy-pages:
+    if: vars.DEPLOY_PAGES == 'true'
+    needs: sync-news
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out updated website
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

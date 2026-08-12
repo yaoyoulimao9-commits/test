@@ -1,0 +1,452 @@
+{
+  "updatedAt": "2026-08-12T15:58:06.337Z",
+  "note": "比赛双方队徽来自 TheSportsDB 免费公开接口并已下载到项目本地；FC Barcelona 使用项目中的官方品牌图。",
+  "teams": {
+    "AD Ceuta FC": {
+      "name": "AD Ceuta",
+      "badge": "assets/team-badges/ad-ceuta.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/137762",
+      "query": "AD Ceuta"
+    },
+    "AS Monaco FC": {
+      "name": "Monaco",
+      "badge": "assets/team-badges/monaco.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133823",
+      "query": "Monaco"
+    },
+    "Atalanta BC": {
+      "name": "Atalanta",
+      "badge": "assets/team-badges/atalanta.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134782",
+      "query": "Atalanta"
+    },
+    "Athletic Bilbao": {
+      "name": "Athletic Bilbao",
+      "badge": "assets/team-badges/athletic-bilbao.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133727",
+      "query": "Athletic Bilbao"
+    },
+    "Athletic Club": {
+      "name": "Athletic Bilbao",
+      "badge": "assets/team-badges/athletic-bilbao.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133727",
+      "query": "Athletic Bilbao"
+    },
+    "Atlético Madrid": {
+      "name": "Atlético Madrid",
+      "badge": "assets/team-badges/atletico-madrid.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133729",
+      "query": "Atletico Madrid"
+    },
+    "BSC Young Boys": {
+      "name": "Young Boys",
+      "badge": "assets/team-badges/bsc-young-boys.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134001",
+      "query": "BSC Young Boys"
+    },
+    "Bayern München": {
+      "name": "Bayern Munich",
+      "badge": "assets/team-badges/bayern-munich.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133664",
+      "query": "Bayern Munich"
+    },
+    "Borussia Dortmund": {
+      "name": "Borussia Dortmund",
+      "badge": "assets/team-badges/borussia-dortmund.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133650",
+      "query": "Borussia Dortmund"
+    },
+    "CA Osasuna": {
+      "name": "Osasuna",
+      "badge": "assets/team-badges/osasuna.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133730",
+      "query": "Osasuna"
+    },
+    "CD Leganés": {
+      "name": "Leganés",
+      "badge": "assets/team-badges/leganes.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134701",
+      "query": "Leganes"
+    },
+    "CF Intercity": {
+      "name": "Intercity",
+      "badge": "assets/team-badges/cf-intercity.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/144244",
+      "query": "CF Intercity"
+    },
+    "Chelsea FC": {
+      "name": "Chelsea",
+      "badge": "assets/team-badges/chelsea.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133610",
+      "query": "Chelsea"
+    },
+    "Club Atlético de Madrid": {
+      "name": "Atlético Madrid",
+      "badge": "assets/team-badges/atletico-madrid.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133729",
+      "query": "Atletico Madrid"
+    },
+    "Club Brugge KV": {
+      "name": "Club Brugge",
+      "badge": "assets/team-badges/club-brugge.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133789",
+      "query": "Club Brugge"
+    },
+    "Cádiz CF": {
+      "name": "Cádiz",
+      "badge": "assets/team-badges/cadiz.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134222",
+      "query": "Cadiz"
+    },
+    "Deportivo Alavés": {
+      "name": "Deportivo Alavés",
+      "badge": "assets/team-badges/deportivo-alaves.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134221",
+      "query": "Deportivo Alaves"
+    },
+    "Dinamo Kiev": {
+      "name": "Dynamo Kyiv",
+      "badge": "assets/team-badges/dynamo-kyiv.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133944",
+      "query": "Dynamo Kyiv"
+    },
+    "Eintracht Frankfurt": {
+      "name": "Eintracht Frankfurt",
+      "badge": "assets/team-badges/eintracht-frankfurt.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133814",
+      "query": "Eintracht Frankfurt"
+    },
+    "Elche CF": {
+      "name": "Elche",
+      "badge": "assets/team-badges/elche.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134384",
+      "query": "Elche"
+    },
+    "FC Barcelona": {
+      "name": "FC Barcelona",
+      "badge": "assets/barca-brand/fcb-crest.png",
+      "provider": "FC Barcelona"
+    },
+    "FC Bayern München": {
+      "name": "Bayern Munich",
+      "badge": "assets/team-badges/bayern-munich.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133664",
+      "query": "Bayern Munich"
+    },
+    "FC Internazionale Milano": {
+      "name": "Inter Milan",
+      "badge": "assets/team-badges/inter-milan.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133681",
+      "query": "Inter Milan"
+    },
+    "FC København": {
+      "name": "FC Copenhagen",
+      "badge": "assets/team-badges/fc-copenhagen.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133898",
+      "query": "FC Copenhagen"
+    },
+    "FC Porto": {
+      "name": "Porto",
+      "badge": "assets/team-badges/porto.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134114",
+      "query": "Porto"
+    },
+    "FK Crvena Zvezda": {
+      "name": "Crvena Zvezda",
+      "badge": "assets/team-badges/red-star-belgrade.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133987",
+      "query": "Red Star Belgrade"
+    },
+    "FK Shakhtar Donetsk": {
+      "name": "Shakhtar Donetsk",
+      "badge": "assets/team-badges/shakhtar-donetsk.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134126",
+      "query": "Shakhtar Donetsk"
+    },
+    "Galatasaray": {
+      "name": "Galatasaray",
+      "badge": "assets/team-badges/galatasaray.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133804",
+      "query": "Galatasaray"
+    },
+    "Getafe CF": {
+      "name": "Getafe",
+      "badge": "assets/team-badges/getafe.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133731",
+      "query": "Getafe"
+    },
+    "Girona FC": {
+      "name": "Girona",
+      "badge": "assets/team-badges/girona.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134700",
+      "query": "Girona"
+    },
+    "Granada CF": {
+      "name": "Granada",
+      "badge": "assets/team-badges/granada.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133721",
+      "query": "Granada"
+    },
+    "Inter": {
+      "name": "Inter Milan",
+      "badge": "assets/team-badges/inter-milan.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133681",
+      "query": "Inter Milan"
+    },
+    "Levante UD": {
+      "name": "Levante",
+      "badge": "assets/team-badges/levante.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133732",
+      "query": "Levante"
+    },
+    "Linares Deportivo": {
+      "name": "Linares Deportivo",
+      "badge": "assets/team-badges/linares-deportivo.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/140501",
+      "query": "Linares Deportivo"
+    },
+    "Manchester United": {
+      "name": "Manchester United",
+      "badge": "assets/team-badges/manchester-united.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133612",
+      "query": "Manchester United"
+    },
+    "Newcastle United FC": {
+      "name": "Newcastle United",
+      "badge": "assets/team-badges/newcastle-united.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134777",
+      "query": "Newcastle United"
+    },
+    "PAE Olympiakos SFP": {
+      "name": "Olympiacos",
+      "badge": "assets/team-badges/olympiacos.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133754",
+      "query": "Olympiacos"
+    },
+    "Paris Saint-Germain FC": {
+      "name": "Paris Saint-Germain",
+      "badge": "assets/team-badges/paris-saint-germain.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133714",
+      "query": "Paris Saint Germain"
+    },
+    "RC Celta de Vigo": {
+      "name": "Celta Vigo",
+      "badge": "assets/team-badges/celta-vigo.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133937",
+      "query": "Celta Vigo"
+    },
+    "RCD Espanyol de Barcelona": {
+      "name": "Espanyol",
+      "badge": "assets/team-badges/espanyol.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133734",
+      "query": "Espanyol"
+    },
+    "RCD Mallorca": {
+      "name": "Mallorca",
+      "badge": "assets/team-badges/mallorca.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133733",
+      "query": "Mallorca"
+    },
+    "Rayo Vallecano de Madrid": {
+      "name": "Rayo Vallecano",
+      "badge": "assets/team-badges/rayo-vallecano.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133728",
+      "query": "Rayo Vallecano"
+    },
+    "Real Betis": {
+      "name": "Real Betis",
+      "badge": "assets/team-badges/real-betis.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133722",
+      "query": "Real Betis"
+    },
+    "Real Betis Balompié": {
+      "name": "Real Betis",
+      "badge": "assets/team-badges/real-betis.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133722",
+      "query": "Real Betis"
+    },
+    "Real Madrid": {
+      "name": "Real Madrid",
+      "badge": "assets/team-badges/real-madrid.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133738",
+      "query": "Real Madrid"
+    },
+    "Real Madrid CF": {
+      "name": "Real Madrid",
+      "badge": "assets/team-badges/real-madrid.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133738",
+      "query": "Real Madrid"
+    },
+    "Real Oviedo": {
+      "name": "Real Oviedo",
+      "badge": "assets/team-badges/real-oviedo.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/135455",
+      "query": "Real Oviedo"
+    },
+    "Real Sociedad": {
+      "name": "Real Sociedad",
+      "badge": "assets/team-badges/real-sociedad.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133724",
+      "query": "Real Sociedad"
+    },
+    "Real Sociedad de Fútbol": {
+      "name": "Real Sociedad",
+      "badge": "assets/team-badges/real-sociedad.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133724",
+      "query": "Real Sociedad"
+    },
+    "Real Valladolid CF": {
+      "name": "Real Valladolid",
+      "badge": "assets/team-badges/real-valladolid.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133841",
+      "query": "Real Valladolid"
+    },
+    "Royal Antwerp FC": {
+      "name": "Antwerp",
+      "badge": "assets/team-badges/royal-antwerp.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134245",
+      "query": "Royal Antwerp"
+    },
+    "SK Slavia Praha": {
+      "name": "Slavia Prague",
+      "badge": "assets/team-badges/slavia-prague.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/136036",
+      "query": "Slavia Prague"
+    },
+    "SL Benfica": {
+      "name": "Benfica",
+      "badge": "assets/team-badges/benfica.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134108",
+      "query": "Benfica"
+    },
+    "SSC Napoli": {
+      "name": "Napoli",
+      "badge": "assets/team-badges/napoli.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133670",
+      "query": "Napoli"
+    },
+    "Sevilla FC": {
+      "name": "Sevilla",
+      "badge": "assets/team-badges/sevilla-fc.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133735",
+      "query": "Sevilla FC"
+    },
+    "Sport Lisboa e Benfica": {
+      "name": "Benfica",
+      "badge": "assets/team-badges/benfica.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134108",
+      "query": "Benfica"
+    },
+    "Stade Brestois 29": {
+      "name": "Brest",
+      "badge": "assets/team-badges/brest.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133704",
+      "query": "Brest"
+    },
+    "UD Almería": {
+      "name": "Almería",
+      "badge": "assets/team-badges/almeria.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133817",
+      "query": "Almeria"
+    },
+    "UD Barbastro": {
+      "name": "Barbastro",
+      "badge": "assets/team-badges/ud-barbastro.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/147599",
+      "query": "UD Barbastro"
+    },
+    "UD Las Palmas": {
+      "name": "Las Palmas",
+      "badge": "assets/team-badges/las-palmas.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134259",
+      "query": "Las Palmas"
+    },
+    "Unionistas CF": {
+      "name": "Unionistas de Salamanca",
+      "badge": "assets/team-badges/unionistas-de-salamanca.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/137758",
+      "query": "Unionistas de Salamanca"
+    },
+    "Valencia CF": {
+      "name": "Valencia",
+      "badge": "assets/team-badges/valencia.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133725",
+      "query": "Valencia"
+    },
+    "Viktoria Plzeň": {
+      "name": "Viktoria Plzeň",
+      "badge": "assets/team-badges/viktoria-plzen.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/134015",
+      "query": "Viktoria Plzen"
+    },
+    "Villarreal CF": {
+      "name": "Villarreal",
+      "badge": "assets/team-badges/villarreal.png",
+      "provider": "TheSportsDB",
+      "source": "https://www.thesportsdb.com/team/133740",
+      "query": "Villarreal"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="巴塞罗那单场比赛阵容、事件和球员数据。" />
+    <meta name="theme-color" content="#050814" />
+    <title>比赛详情 · 巴萨赛场档案</title>
+    <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data/site-data.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body class="inside-page match-detail-page">
+    <a class="skip-link" href="#content">跳至主要内容</a>
+    <header class="inside-header">
+      <a class="brand" href="index.html" aria-label="返回首页"><img src="assets/barca-brand/fcb-crest.png" alt="FC Barcelona" width="354" height="72" /></a>
+      <a class="header-back" href="fixtures.html">← 返回比赛档案</a>
+    </header>
+
+    <main id="content" data-match-detail>
+      <section class="match-scoreboard">
+        <div class="page-shell" data-match-scoreboard>
+          <p class="loading-state loading-state--light">正在读取比赛资料…</p>
+        </div>
+      </section>
+
+      <nav class="match-detail-nav page-shell" aria-label="比赛详情栏目">
+        <a href="#lineup">阵型</a><a href="#events">比赛事件</a><a href="#player-data">球员数据</a><a href="#source">数据说明</a>
+      </nav>
+
+      <section class="match-detail-grid page-shell">
+        <section class="lineup-panel" id="lineup" aria-labelledby="lineup-title">
+          <header><p>LINE-UP</p><h2 id="lineup-title">阵容与阵型</h2><span data-formation-label>阵型数据状态</span><div class="lineup-team-switch" data-lineup-switch hidden></div></header>
+          <div class="football-pitch" data-football-pitch>
+            <div class="pitch-markings" aria-hidden="true"><i></i><b></b><span></span></div>
+            <div class="pitch-empty" data-lineup-empty><strong>暂无免费阵容数据</strong><span>足球场阵型界面已经就位，接入可用的免费阵容数据后会按真实位置显示球员头像。</span></div>
+          </div>
+          <div class="bench-list" data-bench-list></div>
+        </section>
+
+        <aside class="events-panel" id="events" aria-labelledby="events-title">
+          <header><p>TIMELINE</p><h2 id="events-title">比赛事件</h2></header>
+          <div class="event-timeline" data-event-timeline>
+            <div class="data-empty"><strong>暂无免费事件数据</strong><p>进球、助攻、红黄牌和换人将在开放源提供时显示。</p></div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="player-match-data" id="player-data">
+        <div class="page-shell">
+          <header><p>PLAYER DATA</p><h2>球员单场数据</h2></header>
+          <div data-match-player-data><div class="data-empty data-empty--dark"><strong>暂无球员单场数据</strong><p>完整数据可用时，点击阵型中的头像即可查看出场时间、射门、传球、抢断与评分。</p></div></div>
+        </div>
+      </section>
+
+      <section class="match-source page-shell" id="source" data-match-source></section>
+    </main>
+
+    <dialog class="player-dialog" data-player-dialog aria-labelledby="player-dialog-title">
+      <button class="dialog-close" type="button" data-dialog-close aria-label="关闭">×</button>
+      <div data-player-dialog-content></div>
+    </dialog>
+
+    <footer class="inside-footer"><a href="fixtures.html">← 返回比赛档案</a><p>只展示免费公开数据源已经核实的内容</p></footer>
+  </body>
+</html>

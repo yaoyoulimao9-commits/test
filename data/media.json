@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-08-12T14:56:57.807Z",
+  "stadiumImages": [
+    {
+      "file": "camp-nou-classic.jpg",
+      "alt": "诺坎普球场全景",
+      "credit": "FC Barcelona",
+      "sourcePage": "https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou",
+      "src": "assets/barca-brand/camp-nou-classic.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/13/770788f8-49e4-4eb4-b4f5-aa7daa7f1e13/Camp-Nou-Grass.jpg?height=1350&width=2400"
+    },
+    {
+      "file": "camp-nou-return-2025.jpg",
+      "alt": "球迷重返 Spotify Camp Nou",
+      "credit": "German Parga / FC Barcelona",
+      "sourcePage": "https://www.fcbarcelona.com/en/club/news/4407337/45157-culers-roar-as-spotify-camp-nou-comes-back-to-life",
+      "src": "assets/barca-brand/camp-nou-return-2025.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/11/22/7582c744-834c-460a-85f9-4c4d82a9c56a/DAG-032-0M1A0354.JPG?height=1350&width=2400"
+    },
+    {
+      "file": "camp-nou-training-2025.jpg",
+      "alt": "新诺坎普开放训练日",
+      "credit": "FC Barcelona",
+      "sourcePage": "https://www.fcbarcelona.com/en/news/4397724/day-to-remember-at-the-new-spotify-camp-nou",
+      "src": "assets/barca-brand/camp-nou-training-2025.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/11/07/847cb868-dc99-48cd-9f4b-4f287ad75d6a/_SLS3045.jpg?height=1350&width=2400"
+    }
+  ]
+}

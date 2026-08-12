@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="巴萨赛场档案：浏览 FC Barcelona 球员、近期赛程、俱乐部历史与传奇纪录。"
+    />
+    <meta name="theme-color" content="#050814" />
+    <title>巴萨赛场档案</title>
+    <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳至主要内容</a>
+
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="返回首页">
+        <img
+          src="assets/barca-brand/fcb-crest.png"
+          alt="FC Barcelona"
+          width="354"
+          height="72"
+        />
+        <span>赛场档案</span>
+      </a>
+
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="primary-navigation"
+        data-menu-toggle
+      >
+        <span></span>
+        <span></span>
+        <span class="sr-only">打开导航</span>
+      </button>
+
+      <nav class="primary-nav" id="primary-navigation" aria-label="主要导航" data-menu>
+        <a href="#players">球员</a>
+        <a href="#fixtures">赛程</a>
+        <a href="#history">俱乐部历史</a>
+        <a href="#records">传奇纪录</a>
+      </nav>
+
+      <p class="prototype-badge">V0 · 方向预览</p>
+    </header>
+
+    <main id="main-content">
+      <section class="hero" id="top" aria-labelledby="hero-title">
+        <div class="hero-media" aria-hidden="true">
+          <img
+            src="assets/barca-brand/spotify-camp-nou-2026.jpg"
+            alt=""
+            width="1680"
+            height="1050"
+          />
+        </div>
+        <div class="hero-shade" aria-hidden="true"></div>
+        <div class="hero-grid" aria-hidden="true"></div>
+
+        <div class="hero-content page-shell">
+          <div class="hero-copy">
+            <p class="hero-kicker">BARCELONA · CATALUNYA · 1899</p>
+            <h1 id="hero-title">
+              <span>诺坎普，</span>
+              故事仍在继续
+            </h1>
+            <p class="hero-intro">
+              从每一次触球到每一座奖杯，沿着蓝红色的时间线，重新走进巴塞罗那的赛场记忆。
+            </p>
+            <a class="text-link text-link--light" href="#fixtures">
+              查看近期赛程
+              <span aria-hidden="true">→</span>
+            </a>
+          </div>
+
+          <aside class="next-match" aria-labelledby="next-match-title">
+            <div class="match-heading">
+              <p id="next-match-title">下一场比赛</p>
+              <span>甘伯杯 · 决赛</span>
+            </div>
+            <div class="match-date">
+              <strong>19</strong>
+              <span>八月<br />20:00</span>
+            </div>
+            <div class="match-clubs">
+              <span>FC BARCELONA</span>
+              <b>VS</b>
+              <span>AL AHLY</span>
+            </div>
+            <p class="match-location">Spotify Camp Nou · 西班牙半岛时间</p>
+          </aside>
+        </div>
+
+        <div class="scroll-cue" aria-hidden="true">
+          <span></span>
+          SCROLL TO EXPLORE
+        </div>
+      </section>
+
+      <nav class="section-index" aria-label="首页栏目">
+        <div class="page-shell section-index__inner">
+          <a href="#players"><b>01</b><span>一线队球员</span></a>
+          <a href="#fixtures"><b>02</b><span>近期赛程</span></a>
+          <a href="#history"><b>03</b><span>俱乐部历史</span></a>
+          <a href="#honours"><b>04</b><span>冠军荣誉</span></a>
+          <a href="#records"><b>05</b><span>传奇纪录</span></a>
+        </div>
+      </nav>
+
+      <section class="fixtures section-block" id="fixtures" aria-labelledby="fixtures-title">
+        <div class="page-shell">
+          <div class="section-heading section-heading--split">
+            <div>
+              <p class="section-number">02 / FIXTURES</p>
+              <h2 id="fixtures-title">八月，重返主场</h2>
+            </div>
+            <p>
+              2026/27 赛季近期比赛。时间采用西班牙半岛时间，正式开球时间以俱乐部最终公告为准。
+            </p>
+          </div>
+
+          <div class="fixture-list" role="list">
+            <article class="fixture fixture--featured" role="listitem">
+              <div class="fixture-date"><strong>19</strong><span>AUG<br />WED</span></div>
+              <p class="fixture-type">甘伯杯 · 决赛</p>
+              <div class="fixture-clubs">
+                <span>巴塞罗那</span><b>20:00</b><span>阿尔阿赫利</span>
+              </div>
+              <p class="fixture-ground">Spotify Camp Nou</p>
+            </article>
+
+            <article class="fixture" role="listitem">
+              <div class="fixture-date"><strong>23</strong><span>AUG<br />SUN</span></div>
+              <p class="fixture-type">西甲 · 第 2 轮</p>
+              <div class="fixture-clubs">
+                <span>埃尔切</span><b>21:30</b><span>巴塞罗那</span>
+              </div>
+              <p class="fixture-ground">Martínez Valero</p>
+            </article>
+
+            <article class="fixture" role="listitem">
+              <div class="fixture-date"><strong>27</strong><span>AUG<br />THU</span></div>
+              <p class="fixture-type">西甲 · 第 1 轮</p>
+              <div class="fixture-clubs">
+                <span>巴塞罗那</span><b>21:00</b><span>毕尔巴鄂竞技</span>
+              </div>
+              <p class="fixture-ground">Spotify Camp Nou</p>
+            </article>
+
+            <article class="fixture" role="listitem">
+              <div class="fixture-date"><strong>31</strong><span>AUG<br />MON</span></div>
+              <p class="fixture-type">西甲 · 第 3 轮</p>
+              <div class="fixture-clubs">
+                <span>巴塞罗那</span><b>21:30</b><span>巴列卡诺</span>
+              </div>
+              <p class="fixture-ground">Spotify Camp Nou</p>
+            </article>
+          </div>
+
+          <a
+            class="text-link"
+            href="https://www.fcbarcelona.com/en/football/first-team/schedule"
+            target="_blank"
+            rel="noreferrer"
+          >
+            查看官方完整赛程 <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="players section-block" id="players" aria-labelledby="players-title">
+        <div class="players-layout page-shell">
+          <div class="players-image-wrap">
+            <img
+              class="players-image"
+              src="assets/barca-brand/first-team-trio-2025-26.jpg"
+              alt="身穿巴萨主场球衣的亚马尔、拉菲尼亚和佩德里"
+              width="1600"
+              height="1000"
+              loading="lazy"
+            />
+            <p class="photo-note">官方图片 · 2025/26 主场球衣</p>
+          </div>
+
+          <div class="players-copy">
+            <p class="section-number section-number--gold">01 / FIRST TEAM</p>
+            <h2 id="players-title">这一代，<br />正在书写自己的时代</h2>
+            <p class="players-lead">
+              拉玛西亚的创造力与世界级经验重新汇合。首页将从阵容、位置与个人赛场记录进入每位球员的故事。
+            </p>
+
+            <div class="player-names" aria-label="重点球员">
+              <div><b>10</b><span>LAMINE YAMAL<small>前锋 · 亚马尔</small></span></div>
+              <div><b>11</b><span>RAPHINHA<small>前锋 · 拉菲尼亚</small></span></div>
+              <div><b>08</b><span>PEDRI<small>中场 · 佩德里</small></span></div>
+            </div>
+
+            <div class="v0-placeholder">
+              <span>[ V1 ]</span>
+              球员筛选、完整阵容与个人资料入口将在确认方向后补全
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="history section-block" id="history" aria-labelledby="history-title">
+        <div class="page-shell">
+          <div class="section-heading history-heading">
+            <p class="section-number">03 / HISTORY</p>
+            <h2 id="history-title">一条跨越三个世纪的蓝红时间线</h2>
+            <p>
+              俱乐部从 1899 年的一次聚会开始，逐渐成为加泰罗尼亚文化与世界足球的重要符号。
+            </p>
+          </div>
+
+          <ol class="timeline">
+            <li>
+              <strong>1899</strong>
+              <span>俱乐部成立</span>
+              <p>琼·甘伯与十一位伙伴在巴塞罗那共同创建俱乐部。</p>
+            </li>
+            <li>
+              <strong>1957</strong>
+              <span>诺坎普启用</span>
+              <p>新主场在 9 月 24 日正式开放，开启更宏大的时代。</p>
+            </li>
+            <li>
+              <strong>1992</strong>
+              <span>梦之队登顶欧洲</span>
+              <p>温布利之夜，巴萨赢得队史第一座欧洲冠军杯。</p>
+            </li>
+            <li>
+              <strong>2009</strong>
+              <span>六冠王</span>
+              <p>瓜迪奥拉率队在同一自然年赢下全部六项赛事冠军。</p>
+            </li>
+            <li class="timeline-future">
+              <strong>2026</strong>
+              <span>新诺坎普</span>
+              <p>焕新的主场继续承载属于下一代球员与球迷的故事。</p>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="honours" id="honours" aria-labelledby="honours-title">
+        <div class="honours-intro">
+          <div class="page-shell honours-intro__inner">
+            <p class="section-number section-number--gold">04 / HONOURS</p>
+            <h2 id="honours-title">冠军不是终点，<br />是历史的刻度</h2>
+          </div>
+        </div>
+        <div class="honour-stats page-shell" role="list">
+          <div role="listitem"><strong>29</strong><span>西甲冠军</span></div>
+          <div role="listitem"><strong>32</strong><span>国王杯冠军</span></div>
+          <div role="listitem"><strong>05</strong><span>欧冠冠军</span></div>
+          <div role="listitem"><strong>03</strong><span>世俱杯冠军</span></div>
+        </div>
+      </section>
+
+      <section class="records section-block" id="records" aria-labelledby="records-title">
+        <div class="page-shell">
+          <div class="section-heading records-heading">
+            <div>
+              <p class="section-number">05 / ALL-TIME RECORDS</p>
+              <h2 id="records-title">传奇，写在数字里</h2>
+            </div>
+            <p>当前 v0 展示前三名的榜单形式，正式版将扩展完整排名、球员年代与详情入口。</p>
+          </div>
+
+          <div class="record-columns">
+            <section class="record-table" aria-labelledby="appearances-title">
+              <div class="record-table__title">
+                <h3 id="appearances-title">历史出场榜</h3>
+                <span>正式比赛</span>
+              </div>
+              <ol>
+                <li style="--record: 100%">
+                  <b>01</b><span>LIONEL MESSI<small>梅西</small></span><strong>778</strong>
+                </li>
+                <li style="--record: 98.6%">
+                  <b>02</b><span>XAVI HERNÁNDEZ<small>哈维</small></span><strong>767</strong>
+                </li>
+                <li style="--record: 92.8%">
+                  <b>03</b><span>SERGIO BUSQUETS<small>布斯克茨</small></span><strong>722</strong>
+                </li>
+              </ol>
+            </section>
+
+            <section class="record-table record-table--goals" aria-labelledby="goals-title">
+              <div class="record-table__title">
+                <h3 id="goals-title">历史进球榜</h3>
+                <span>正式比赛</span>
+              </div>
+              <ol>
+                <li style="--record: 100%">
+                  <b>01</b><span>LIONEL MESSI<small>梅西</small></span><strong>672</strong>
+                </li>
+                <li style="--record: 34.5%">
+                  <b>02</b><span>CÉSAR RODRÍGUEZ<small>塞萨尔</small></span><strong>232</strong>
+                </li>
+                <li style="--record: 29.5%">
+                  <b>03</b><span>LUIS SUÁREZ<small>苏亚雷斯</small></span><strong>198</strong>
+                </li>
+              </ol>
+            </section>
+          </div>
+
+          <div class="v0-placeholder v0-placeholder--dark">
+            <span>[ V1 ]</span>
+            完整榜单、纪录口径说明与球员详情将在方向确认后补全
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <div>
+          <img
+            src="assets/barca-brand/fcb-crest.png"
+            alt="FC Barcelona"
+            width="354"
+            height="72"
+          />
+          <p>巴萨赛场档案 · 非官方中文球迷项目</p>
+        </div>
+        <p>
+          页面资料优先参考 FC Barcelona 官方网站。队徽、球员及球场图片版权归其各自权利人所有。
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+

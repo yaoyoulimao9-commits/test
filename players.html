@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="浏览 FC Barcelona 一线队球员与官方高清定妆照。" />
+    <meta name="theme-color" content="#050814" />
+    <title>一线队球员 · 巴萨赛场档案</title>
+    <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data/site-data.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body class="inside-page players-page">
+    <a class="skip-link" href="#content">跳至主要内容</a>
+    <header class="inside-header">
+      <a class="brand" href="index.html" aria-label="返回首页">
+        <img src="assets/barca-brand/fcb-crest.png" alt="FC Barcelona" width="354" height="72" />
+      </a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation" data-menu-toggle>
+        <span></span><span></span><b>栏目</b>
+      </button>
+      <nav class="inside-nav" id="site-navigation" aria-label="网站栏目" data-menu>
+        <a class="is-active" href="players.html">球员</a><a href="fixtures.html">比赛档案</a><a href="history.html">俱乐部历史</a><a href="appearances.html">出场榜</a><a href="goals.html">进球榜</a><a href="assists.html">助攻榜</a><a href="news.html">时事资讯</a>
+      </nav>
+    </header>
+
+    <main id="content">
+      <section class="player-showcase">
+        <div class="player-showcase__intro">
+          <p class="section-code">01 / FIRST TEAM</p>
+          <h1>一线队<br />球员</h1>
+          <p>真实官方定妆照与一线队索引。点击球员可查看出生信息、身体数据、个人荣誉与官方档案简介。</p>
+        </div>
+
+        <div class="player-carousel" data-carousel data-interval="6000" aria-label="一线队高清图片轮播">
+          <div class="player-carousel__track">
+            <figure class="player-carousel__slide player-carousel__slide--photo is-active" data-slide>
+              <img src="assets/barca-brand/first-team-trio-2025-26.jpg" alt="亚马尔、拉菲尼亚和佩德里" width="1600" height="1000" />
+              <figcaption><b>新一代核心</b><span>亚马尔 · 拉菲尼亚 · 佩德里</span></figcaption>
+            </figure>
+            <figure class="player-carousel__slide player-carousel__slide--portrait" data-slide>
+              <img src="assets/barca-brand/players/129404.png" alt="亚马尔官方定妆照" width="670" height="790" />
+              <figcaption><b>10 · LAMINE YAMAL</b><span>前锋 · 拉玛西亚</span></figcaption>
+            </figure>
+            <figure class="player-carousel__slide player-carousel__slide--portrait player-carousel__slide--red" data-slide>
+              <img src="assets/barca-brand/players/70486.png" alt="佩德里官方定妆照" width="670" height="790" />
+              <figcaption><b>08 · PEDRI</b><span>中场 · 西班牙</span></figcaption>
+            </figure>
+            <figure class="player-carousel__slide player-carousel__slide--portrait player-carousel__slide--gold" data-slide>
+              <img src="assets/barca-brand/players/24156.png" alt="拉菲尼亚官方定妆照" width="670" height="790" />
+              <figcaption><b>11 · RAPHINHA</b><span>前锋 · 巴西</span></figcaption>
+            </figure>
+          </div>
+          <div class="carousel-controls carousel-controls--players">
+            <button type="button" data-carousel-prev aria-label="上一张图片">←</button>
+            <div class="carousel-dots" data-carousel-dots aria-label="选择图片"></div>
+            <button type="button" data-carousel-next aria-label="下一张图片">→</button>
+            <button class="carousel-pause" type="button" data-carousel-pause aria-label="暂停自动播放">Ⅱ</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="squad-directory" aria-labelledby="squad-title">
+        <div class="page-shell">
+          <header class="directory-header">
+            <div><p>官方一线队索引</p><h2 id="squad-title">球员与位置</h2></div>
+            <p>头像采用透明高清定妆照；23 名球员的出生信息、身高、体重、简介与荣誉均由巴萨官方球员页同步。</p>
+          </header>
+          <div class="position-filter" data-player-filter aria-label="按位置筛选球员">
+            <button class="is-active" type="button" data-position="all">全部</button>
+            <button type="button" data-position="Goalkeeper">门将</button>
+            <button type="button" data-position="Defender">后卫</button>
+            <button type="button" data-position="Midfielder">中场</button>
+            <button type="button" data-position="Forward">前锋</button>
+          </div>
+          <div class="player-directory" data-player-directory aria-live="polite">
+            <p class="loading-state">正在读取官方球员名单…</p>
+          </div>
+          <noscript><p class="data-empty">需要启用 JavaScript 才能显示球员索引。</p></noscript>
+          <a class="source-link" href="https://www.fcbarcelona.com/en/football/first-team/squad" target="_blank" rel="noreferrer">查看巴萨官方完整阵容 ↗</a>
+        </div>
+      </section>
+
+      <section class="player-archive-band" aria-labelledby="historical-player-title">
+        <div class="page-shell player-archive-band__grid">
+          <strong>2,800+</strong>
+          <div>
+            <h2 id="historical-player-title">1899 至今的历史球员入口</h2>
+            <p>当前一线队档案已经保存在本项目中；更早年代的所有一线队球员、正式比赛与友谊赛档案，则连接至巴萨官方历史球员数据库。统计口径会与本站的“正式比赛榜单”分开标注。</p>
+            <div class="player-archive-band__links"><a href="https://players.fcbarcelona.com/en/players" target="_blank" rel="noreferrer">浏览全部历史球员 ↗</a><a href="https://players.fcbarcelona.com/en/chronology" target="_blank" rel="noreferrer">按赛季查看球队 ↗</a></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <dialog class="player-dialog" data-player-dialog aria-labelledby="player-dialog-title">
+      <button class="dialog-close" type="button" data-dialog-close aria-label="关闭">×</button>
+      <div data-player-dialog-content></div>
+    </dialog>
+
+    <footer class="inside-footer"><a href="index.html">← 返回诺坎普首页</a><p>非官方中文球迷项目 · 球员图片与档案来自 FC Barcelona 官方网站</p></footer>
+  </body>
+</html>
