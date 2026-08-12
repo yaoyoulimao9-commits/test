@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-12T20:05:41.925Z",
+  "generatedAt": "2026-08-12T22:24:47.002Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4558308",
+      "title": "Barça 3-1 Montpeller: Winning start",
+      "description": "Pere Romeu’s side beat Montpellier in front of the home fans in their first preseason friendly",
+      "category": "Women",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-08-12",
+      "dateLabel": "August 12",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4558308/barca-3-1-montpeller-fc-winning-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/9fa65b35-74ac-4641-a7bd-373c6b3fc2d1/Primer-Gol-Patri.jpeg",
+      "localImage": "assets/news/4558308.jpg"
+    },
+    {
       "id": "4558328",
       "title": "Roony Bardghji surgery a success",
       "description": "Swede's operation this Wednesday goes as planned",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Double session completed",
       "description": "Dani Olmo, Pedri, Jules Kounde, Gordon, Bisiwu, Joan Garcia, Cubarsí, Lamine Yamal and Eric Garcia continued to follow individual training programmes during the afternoon session",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/double-session-completed",
@@ -6377,7 +6389,7 @@ window.BARCA_DATA = {
       "title": "Women's preseason live on Barça Play and YouTube",
       "description": "The games against Brighton & Hove Albion, Montpellier and Manchester City will be available to subscribers on the club’s official channels",
       "category": "Women",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4557250/womens-preseason-live-on-barca-play-and-youtube",
@@ -6581,22 +6593,8 @@ window.BARCA_DATA = {
       "titleZh": "杰西·比西乌完成巴萨首秀",
       "descriptionZh": "这名比利时边锋首次身披蓝红战袍；费尔明、拉菲尼亚和巴尔德也完成了季前赛首次出场。",
       "localImage": "assets/news/4556475.jpg"
-    },
-    {
-      "id": "4555798",
-      "title": "PREVIEW | Barça v Forest v Udinese",
-      "description": "This Saturday brings a double-test as the Catalans play two 45 minute games against English and Italian opposition",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Aug 26",
-      "publishedDate": "2026-08-08",
-      "dateLabel": "August 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4555798/preview-fc-barcelona-v-nottingham-forest-v-udinese-calcio",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/08/af66bc51-f4a1-40fa-ab46-48a4e7714030/FriuliCup-WEB.png",
-      "titleZh": "前瞻｜巴萨迎战森林与乌迪内斯",
-      "descriptionZh": "巴萨将在周六接受双重考验，分别与英格兰和意大利对手进行两场 45 分钟比赛。",
-      "localImage": "assets/news/4555798.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-12T20:05:41.925Z",
+  "newsUpdatedAt": "2026-08-12T22:24:47.002Z",
   "archive": {}
 };
