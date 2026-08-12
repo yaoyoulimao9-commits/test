@@ -1,13 +1,39 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-12T16:38:45.324Z",
+  "updatedAt": "2026-08-12T20:05:41.920Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4558328",
+      "title": "Roony Bardghji surgery a success",
+      "description": "Swede's operation this Wednesday goes as planned",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-12",
+      "dateLabel": "August 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
+      "id": "4558133",
+      "title": "Double session completed",
+      "description": "Dani Olmo, Pedri, Jules Kounde, Gordon, Bisiwu, Joan Garcia, Cubarsí, Lamine Yamal and Eric Garcia continued to follow individual training programmes during the afternoon session",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-08-12",
+      "dateLabel": "August 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/double-session-completed",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/5616699c-fe8b-4e27-91d4-a904eab765c4/WhatsApp-Image-2026-08-12-at-19.23.02-1-.jpeg",
+      "titleZh": "四位世界杯冠军归队",
+      "descriptionZh": "亚马尔、奥尔莫、库巴西和佩德里全部参加了周三的双练。",
+      "localImage": "assets/news/4558133.jpg"
+    },
     {
       "id": "4557250",
       "title": "Women's preseason live on Barça Play and YouTube",
       "description": "The games against Brighton & Hove Albion, Montpellier and Manchester City will be available to subscribers on the club’s official channels",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4557250/womens-preseason-live-on-barca-play-and-youtube",
@@ -15,20 +41,6 @@ window.BARCA_NEWS = {
       "titleZh": "巴萨女足季前赛将在 Barça Play 与 YouTube 直播",
       "descriptionZh": "对阵布莱顿、蒙彼利埃和曼城的比赛将通过俱乐部官方频道向订阅用户播出。",
       "localImage": "assets/news/4557250.jpg"
-    },
-    {
-      "id": "4558133",
-      "title": "Four more world champions return",
-      "description": "Lamine Yamal, Olmo, Cubarsí and Pedri all join Wednesday's double session",
-      "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
-      "publishedDate": "2026-08-12",
-      "dateLabel": "August 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/four-more-world-champions-return",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/eae853f6-8aa5-419d-8226-b2f604a505ca/WhatsApp-Image-2026-08-12-at-12.28.29-2-.jpeg",
-      "titleZh": "四位世界杯冠军归队",
-      "descriptionZh": "亚马尔、奥尔莫、库巴西和佩德里全部参加了周三的双练。",
-      "localImage": "assets/news/4558133.jpg"
     },
     {
       "id": "4557361",
@@ -239,20 +251,6 @@ window.BARCA_NEWS = {
       "titleZh": "前瞻｜巴萨迎战森林与乌迪内斯",
       "descriptionZh": "巴萨将在周六接受双重考验，分别与英格兰和意大利对手进行两场 45 分钟比赛。",
       "localImage": "assets/news/4555798.png"
-    },
-    {
-      "id": "4556111",
-      "title": "Basel friendly on August 16",
-      "description": "Game to be played at St. Jakob-Park on Sunday 16 at 4.30pm CEST",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Aug 26",
-      "publishedDate": "2026-08-08",
-      "dateLabel": "August 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4556111/fc-barcelona-to-play-friendly-in-basel",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/07/fc5eda7e-26ef-4c5b-b541-fce29b9f68ab/web-amistos_basilea.jpg",
-      "titleZh": "8 月 16 日与巴塞尔进行友谊赛",
-      "descriptionZh": "比赛将于 8 月 16 日星期日在圣雅各布公园举行，欧洲中部夏令时 16:30 开球。",
-      "localImage": "assets/news/4556111.jpg"
     }
   ]
 };
