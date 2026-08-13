@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yaoyoulimao9-commits.github.io/test/sitemap.xml

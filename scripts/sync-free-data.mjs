@@ -408,3 +408,5 @@ await writeFile(
   "utf8",
 );
 console.log(`同步完成：${matches.length} 场比赛，${players.length} 名球员，${media.length} 张球场图片。`);
+await import("./build-browser-chunks.mjs");
+await import("./build-sitemap.mjs");

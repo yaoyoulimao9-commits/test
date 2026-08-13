@@ -37,6 +37,18 @@ const formatDate = (dateString) => {
   }).format(date);
 };
 
+const optimizedPlayerImage = (player, variant = "full") => {
+  const original = player?.portrait ?? "";
+  if (!original.includes("assets/barca-brand/players/")) return original;
+  const file = original.split("/").pop().replace(/\.[^.]+$/, ".webp");
+  return `assets/barca-brand/players/${variant === "thumb" ? "thumbs" : "webp"}/${file}`;
+};
+
+const optimizedNewsImage = (source = "") => source.startsWith("assets/news/") ? source.replace(/\.[^.]+$/, ".webp") : source;
+
+const imageWithFallback = ({ source, optimized = source, alt = "", loading = "lazy", className = "" }) =>
+  `<img${className ? ` class="${escapeHtml(className)}"` : ""} src="${escapeHtml(optimized)}" data-fallback-src="${escapeHtml(source)}" alt="${escapeHtml(alt)}" loading="${loading}" decoding="async" />`;
+
 const initMenu = () => {
   const menuToggle = document.querySelector("[data-menu-toggle]");
   const menu = document.querySelector("[data-menu]");
@@ -198,16 +210,17 @@ const openPlayerDialog = (player, stats = null) => {
   const biography = (player.biography ?? [])
     .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
     .join("");
+  const localizedSummary = window.BarcaExperience?.playerSummary(player) || player.tagline;
 
   content.innerHTML = `
     <div class="dialog-player">
       <div class="dialog-player__portrait">
-        ${player.portrait ? `<img src="${escapeHtml(player.portrait)}" alt="${escapeHtml(player.displayName)}定妆照" />` : `<span>${escapeHtml(player.number || "—")}</span>`}
+        ${player.portrait ? imageWithFallback({ source: player.portrait, optimized: optimizedPlayerImage(player), alt: `${player.displayName}定妆照`, loading: "eager" }) : `<span>${escapeHtml(player.number || "—")}</span>`}
       </div>
       <div class="dialog-player__copy">
         <p>${escapeHtml(player.number || "—")} · ${escapeHtml(positionNames[player.position] || player.position || "球员")}</p>
         <h2 id="player-dialog-title">${escapeHtml(player.displayName || player.name)}</h2>
-        ${player.tagline ? `<p class="dialog-player__tagline">${escapeHtml(player.tagline)}</p>` : ""}
+        ${localizedSummary ? `<p class="dialog-player__tagline">${escapeHtml(localizedSummary)}</p>` : ""}
         ${
           stats
             ? `<h3 class="dialog-subtitle">本场比赛</h3><ul class="dialog-stats">${statItems}</ul>`
@@ -217,6 +230,7 @@ const openPlayerDialog = (player, stats = null) => {
         ${honours ? `<h3 class="dialog-subtitle">个人荣誉</h3><ul class="profile-honours">${honours}</ul>` : ""}
         ${biography ? `<details class="profile-biography"><summary>官方档案简介（英文原文）</summary><div>${biography}</div></details>` : ""}
         ${!stats && !profileFacts ? `<div class="dialog-data-note"><strong>档案数据暂缺</strong><p>当前公开来源尚未提供这名球员的完整基础信息。</p></div>` : ""}
+        <div class="dialog-player__actions"><a href="player.html?id=${encodeURIComponent(player.id)}">进入完整球员档案 →</a><button type="button" data-favorite-player="${escapeHtml(player.id)}">${window.BarcaExperience?.isFavorite("players", player.id) ? "已收藏" : "收藏球员"}</button></div>
         ${player.profileUrl ? `<a href="${escapeHtml(player.profileUrl)}" target="_blank" rel="noreferrer">查看巴萨官方球员页 ↗</a>` : ""}
       </div>
     </div>`;
@@ -228,7 +242,14 @@ const openPlayerDialog = (player, stats = null) => {
 const initPlayerDialog = () => {
   const dialog = document.querySelector("[data-player-dialog]");
   if (!dialog) return;
+  const clearPreview = () => {
+    if (!document.querySelector("[data-player-directory]")) return;
+    const url = new URL(location.href);
+    url.searchParams.delete("preview");
+    history.replaceState({}, "", url);
+  };
   dialog.querySelector("[data-dialog-close]")?.addEventListener("click", () => dialog.close());
+  dialog.addEventListener("close", clearPreview);
   dialog.addEventListener("click", (event) => {
     if (event.target === dialog) dialog.close();
   });
@@ -238,10 +259,30 @@ const initPlayerDirectory = () => {
   const directory = document.querySelector("[data-player-directory]");
   if (!directory) return;
   const filters = document.querySelector("[data-player-filter]");
-  let activePosition = "all";
+  const search = document.querySelector("[data-player-search]");
+  const initialParams = new URLSearchParams(location.search);
+  let activePosition = initialParams.get("position") || "all";
+  let query = initialParams.get("q") || "";
+
+  if (search) search.value = query;
+  filters?.querySelectorAll("button").forEach((button) => button.classList.toggle("is-active", button.dataset.position === activePosition));
+
+  const updateUrl = () => {
+    const url = new URL(location.href);
+    if (activePosition === "all") url.searchParams.delete("position");
+    else url.searchParams.set("position", activePosition);
+    if (query) url.searchParams.set("q", query);
+    else url.searchParams.delete("q");
+    history.replaceState({}, "", url);
+  };
 
   const render = () => {
-    const players = siteData.players.filter((player) => activePosition === "all" || player.position === activePosition);
+    const normalizedQuery = query.trim().toLocaleLowerCase("zh-CN");
+    const players = siteData.players.filter((player) => {
+      if (activePosition !== "all" && player.position !== activePosition) return false;
+      if (normalizedQuery && !`${player.displayName} ${player.firstName || ""} ${player.lastName || ""} ${positionNames[player.position] || player.position}`.toLocaleLowerCase("zh-CN").includes(normalizedQuery)) return false;
+      return true;
+    });
     if (!players.length) {
       directory.innerHTML = '<div class="data-empty"><strong>未读取到球员名单</strong><p>请先运行免费数据同步程序。</p></div>';
       return;
@@ -252,7 +293,7 @@ const initPlayerDirectory = () => {
         (player) => `
           <button class="directory-player" type="button" data-player-id="${escapeHtml(player.id)}">
             <span class="directory-player__portrait">
-              ${player.portrait ? `<img src="${escapeHtml(player.portrait)}" alt="${escapeHtml(player.displayName)}官方定妆照" loading="lazy" />` : `<i>${escapeHtml(player.number || "—")}</i>`}
+              ${player.portrait ? imageWithFallback({ source: player.portrait, optimized: optimizedPlayerImage(player, "thumb"), alt: `${player.displayName}官方定妆照` }) : `<i>${escapeHtml(player.number || "—")}</i>`}
             </span>
             <span class="directory-player__number">${escapeHtml(String(player.number || "—").padStart(2, "0"))}</span>
             <span class="directory-player__name"><b>${escapeHtml(player.displayName)}</b><small>${escapeHtml(positionNames[player.position] || player.position)} · 查看完整档案</small></span>
@@ -262,7 +303,12 @@ const initPlayerDirectory = () => {
       .join("");
 
     directory.querySelectorAll("[data-player-id]").forEach((button) => {
-      button.addEventListener("click", () => openPlayerDialog(playerById(button.dataset.playerId)));
+      button.addEventListener("click", () => {
+        const url = new URL(location.href);
+        url.searchParams.set("preview", button.dataset.playerId);
+        history.replaceState({}, "", url);
+        openPlayerDialog(playerById(button.dataset.playerId));
+      });
     });
   };
 
@@ -270,11 +316,20 @@ const initPlayerDirectory = () => {
     button.addEventListener("click", () => {
       activePosition = button.dataset.position;
       filters.querySelectorAll("button").forEach((item) => item.classList.toggle("is-active", item === button));
+      updateUrl();
       render();
     });
   });
 
+  search?.addEventListener("input", () => {
+    query = search.value;
+    updateUrl();
+    render();
+  });
+
   render();
+  const previewPlayer = playerById(initialParams.get("preview"));
+  if (previewPlayer) openPlayerDialog(previewPlayer);
 };
 
 const getBarcaResult = (match) => {
@@ -291,7 +346,7 @@ const renderTeamMark = (team) => {
   const entry = siteData.teamBadges?.[team];
   if (entry?.badge) {
     const markClass = team === "FC Barcelona" ? "team-mark team-mark--barca" : "team-mark";
-    return `<img class="${markClass}" src="${escapeHtml(entry.badge)}" alt="${escapeHtml(team)} 队徽" loading="lazy" />`;
+    return `<img class="${markClass}" src="${escapeHtml(entry.badge)}" alt="${escapeHtml(team)} 队徽" loading="lazy" decoding="async" />`;
   }
   return `<span class="team-mark--missing" role="img" aria-label="${escapeHtml(team)} 队徽暂缺">—</span>`;
 };
@@ -304,7 +359,11 @@ const initMatchBrowser = () => {
   const queryInput = document.querySelector("[data-filter-query]");
   const loadMore = document.querySelector("[data-load-more]");
   const count = document.querySelector("[data-match-count]");
+  const dashboard = document.querySelector("[data-match-dashboard]");
+  const viewButtons = [...document.querySelectorAll("[data-match-view]")];
+  const params = new URLSearchParams(location.search);
   let visibleCount = 36;
+  let view = params.get("view") === "months" ? "months" : "list";
 
   if (count) count.textContent = new Intl.NumberFormat("zh-CN").format(siteData.matches.length);
 
@@ -315,6 +374,59 @@ const initMatchBrowser = () => {
   [...new Set(siteData.matches.map((match) => match.competitionCode))]
     .sort()
     .forEach((code) => competitionSelect?.insertAdjacentHTML("beforeend", `<option value="${code}">${escapeHtml(competitionNames[code] || code)}</option>`));
+
+  if (seasonSelect && [...seasonSelect.options].some((option) => option.value === params.get("season"))) seasonSelect.value = params.get("season");
+  if (competitionSelect && [...competitionSelect.options].some((option) => option.value === params.get("competition"))) competitionSelect.value = params.get("competition");
+  if (queryInput) queryInput.value = params.get("q") || "";
+
+  const renderMatch = (match) => {
+    const result = getBarcaResult(match);
+    const score = match.score ? `${match.score[0]} <i>—</i> ${match.score[1]}` : match.time || "待定";
+    return `
+      <a class="archive-match" href="match.html?id=${encodeURIComponent(match.id)}">
+        <time datetime="${escapeHtml(match.date)}"><b>${escapeHtml(match.date.slice(8, 10))}</b><span>${escapeHtml(formatDate(match.date).replace(/\d{4}年/, ""))}</span></time>
+        <div class="archive-match__meta"><strong>${escapeHtml(match.competition)}</strong><span>${escapeHtml(match.round || match.season)}</span></div>
+        <div class="archive-match__teams">
+          <span>${renderTeamMark(match.home)}<b>${escapeHtml(match.home)}</b></span>
+          <strong>${score}</strong>
+          <span>${renderTeamMark(match.away)}<b>${escapeHtml(match.away)}</b></span>
+        </div>
+        <div class="archive-match__status"><span class="result-tag ${result.className}">${result.label}</span><small>${match.dataLevel === "full" ? "完整详情" : "基础赛果"}</small><i>→</i></div>
+      </a>`;
+  };
+
+  const updateUrl = () => {
+    const url = new URL(location.href);
+    const values = { season: seasonSelect?.value, competition: competitionSelect?.value, q: queryInput?.value.trim(), view };
+    Object.entries(values).forEach(([key, value]) => {
+      if (!value || value === "all" || (key === "view" && value === "list")) url.searchParams.delete(key);
+      else url.searchParams.set(key, value);
+    });
+    history.replaceState({}, "", url);
+  };
+
+  const renderDashboard = (filtered) => {
+    if (!dashboard) return;
+    const completed = filtered.filter((match) => Array.isArray(match.score));
+    const totals = completed.reduce((summary, match) => {
+      const result = getBarcaResult(match).className;
+      if (result === "is-win") summary.wins += 1;
+      else if (result === "is-loss") summary.losses += 1;
+      else summary.draws += 1;
+      const barcaHome = match.home === "FC Barcelona";
+      summary.goalsFor += Number(match.score[barcaHome ? 0 : 1] || 0);
+      summary.goalsAgainst += Number(match.score[barcaHome ? 1 : 0] || 0);
+      return summary;
+    }, { wins: 0, draws: 0, losses: 0, goalsFor: 0, goalsAgainst: 0 });
+    const recent = [...completed].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 5).reverse();
+    const full = filtered.filter((match) => match.dataLevel === "full").length;
+    dashboard.innerHTML = `
+      <div><span>当前范围</span><strong>${new Intl.NumberFormat("zh-CN").format(filtered.length)}</strong><small>场比赛</small></div>
+      <div><span>战绩</span><strong>${totals.wins}<i>胜</i> ${totals.draws}<i>平</i> ${totals.losses}<i>负</i></strong><small>${completed.length} 场已有比分</small></div>
+      <div><span>进失球</span><strong>${totals.goalsFor}<i>进</i> ${totals.goalsAgainst}<i>失</i></strong><small>按巴萨视角统计</small></div>
+      <div class="match-form"><span>最近五场</span><p>${recent.length ? recent.map((match) => { const result = getBarcaResult(match); return `<i class="${result.className}" title="${escapeHtml(match.home)} vs ${escapeHtml(match.away)}">${result.label}</i>`; }).join("") : "暂无比分"}</p><small>由左至右：早 → 晚</small></div>
+      <div class="match-coverage"><span>完整数据覆盖</span><strong>${full}/${filtered.length}</strong><small>其余场次仅显示已核实赛果</small></div>`;
+  };
 
   const render = () => {
     const season = seasonSelect?.value ?? "all";
@@ -327,30 +439,31 @@ const initMatchBrowser = () => {
       return true;
     });
 
+    updateUrl();
+    renderDashboard(filtered);
+    viewButtons.forEach((button) => {
+      const active = button.dataset.matchView === view;
+      button.classList.toggle("is-active", active);
+      button.setAttribute("aria-pressed", String(active));
+    });
+
     if (!filtered.length) {
       list.innerHTML = '<div class="data-empty"><strong>没有找到比赛</strong><p>请尝试更换赛季、赛事或搜索词。</p></div>';
       if (loadMore) loadMore.hidden = true;
       return;
     }
 
-    list.innerHTML = filtered
-      .slice(0, visibleCount)
-      .map((match) => {
-        const result = getBarcaResult(match);
-        const score = match.score ? `${match.score[0]} <i>—</i> ${match.score[1]}` : match.time || "待定";
-        return `
-          <a class="archive-match" href="match.html?id=${encodeURIComponent(match.id)}">
-            <time datetime="${escapeHtml(match.date)}"><b>${escapeHtml(match.date.slice(8, 10))}</b><span>${escapeHtml(formatDate(match.date).replace(/\d{4}年/, ""))}</span></time>
-            <div class="archive-match__meta"><strong>${escapeHtml(match.competition)}</strong><span>${escapeHtml(match.round || match.season)}</span></div>
-            <div class="archive-match__teams">
-              <span>${renderTeamMark(match.home)}<b>${escapeHtml(match.home)}</b></span>
-              <strong>${score}</strong>
-              <span>${renderTeamMark(match.away)}<b>${escapeHtml(match.away)}</b></span>
-            </div>
-            <div class="archive-match__status"><span class="result-tag ${result.className}">${result.label}</span><small>${match.dataLevel === "full" ? "完整详情" : "基础赛果"}</small><i>→</i></div>
-          </a>`;
-      })
-      .join("");
+    const visible = filtered.slice(0, visibleCount);
+    list.classList.toggle("archive-list--months", view === "months");
+    if (view === "months") {
+      const groups = new Map();
+      visible.forEach((match) => {
+        const month = match.date.slice(0, 7);
+        if (!groups.has(month)) groups.set(month, []);
+        groups.get(month).push(match);
+      });
+      list.innerHTML = [...groups.entries()].map(([month, matches]) => `<section class="match-month"><header><strong>${escapeHtml(month.replace("-", " / "))}</strong><span>${matches.length} 场</span></header><div>${matches.map(renderMatch).join("")}</div></section>`).join("");
+    } else list.innerHTML = visible.map(renderMatch).join("");
 
     if (loadMore) loadMore.hidden = visibleCount >= filtered.length;
   };
@@ -358,6 +471,7 @@ const initMatchBrowser = () => {
   seasonSelect?.addEventListener("change", () => { visibleCount = 36; render(); });
   competitionSelect?.addEventListener("change", () => { visibleCount = 36; render(); });
   queryInput?.addEventListener("input", () => { visibleCount = 36; render(); });
+  viewButtons.forEach((button) => button.addEventListener("click", () => { view = button.dataset.matchView; visibleCount = 36; render(); }));
   loadMore?.addEventListener("click", () => { visibleCount += 36; render(); });
   render();
 };
@@ -374,7 +488,7 @@ const renderPitchPlayers = (pitch, lineup) => {
     button.style.left = `${Math.max(5, Math.min(95, lineupPlayer.x ?? 50))}%`;
     button.style.top = `${Math.max(5, Math.min(95, lineupPlayer.y ?? 50))}%`;
     const player = playerById(lineupPlayer.id) ?? { ...lineupPlayer, portrait: lineupPlayer.portrait || lineupPlayer.photo };
-    button.innerHTML = `${player.portrait ? `<img src="${escapeHtml(player.portrait)}" alt="" />` : `<span>${escapeHtml(player.number || lineupPlayer.number || "")}</span>`}<b>${escapeHtml(player.displayName || player.name || lineupPlayer.name)}</b>`;
+    button.innerHTML = `${player.portrait ? imageWithFallback({ source: player.portrait, optimized: optimizedPlayerImage(player, "thumb"), alt: "" }) : `<span>${escapeHtml(player.number || lineupPlayer.number || "")}</span>`}<b>${escapeHtml(player.displayName || player.name || lineupPlayer.name)}</b>`;
     button.addEventListener("click", () => openPlayerDialog(player, lineupPlayer.stats));
     pitch.append(button);
   });
@@ -465,7 +579,7 @@ const renderNewsStory = (item, lead = false) => {
   return `
     <article class="news-story ${lead ? "news-story--lead" : ""}">
       <a href="${localUrl}" aria-label="在站内阅读 ${escapeHtml(title)}">
-        <figure>${item.localImage ? `<img src="${escapeHtml(item.localImage)}" alt="" loading="lazy" />` : '<div class="news-image-missing">官方图片暂缺</div>'}</figure>
+        <figure>${item.localImage ? imageWithFallback({ source: item.localImage, optimized: optimizedNewsImage(item.localImage), alt: "" }) : '<div class="news-image-missing">官方图片暂缺</div>'}</figure>
         <div class="news-story__body">
           <div class="news-story__meta"><time datetime="${escapeHtml(item.publishedDate)}">${escapeHtml(formatNewsDate(item.publishedDate))}</time><span>${escapeHtml(newsCategoryNames[item.category] || item.category || "官方资讯")}</span></div>
           <h2>${escapeHtml(title)}</h2>
@@ -573,7 +687,7 @@ const initNewsArticle = () => {
             <h1>${escapeHtml(title)}</h1>
             ${item.titleZh ? `<p lang="en">${escapeHtml(item.title)}</p>` : ""}
           </div>
-          ${item.localImage ? `<figure><img src="${escapeHtml(item.localImage)}" alt="${escapeHtml(title)}" /></figure>` : ""}
+          ${item.localImage ? `<figure>${imageWithFallback({ source: item.localImage, optimized: optimizedNewsImage(item.localImage), alt: title, loading: "eager" })}</figure>` : ""}
         </header>
         <div class="news-article__layout page-shell">
           <aside><span>FCB / ${escapeHtml(item.id)}</span><strong>站内资讯摘要</strong><p>根据俱乐部官方发布内容整理</p></aside>

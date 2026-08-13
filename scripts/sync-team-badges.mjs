@@ -195,3 +195,4 @@ await rebuildBrowserData(teams);
 
 const successCount = Object.values(teams).filter((team) => team.badge).length;
 console.log(`完成：${successCount}/${originalTeams.length} 个比赛队名已映射本地真实队徽。`);
+await import("./build-browser-chunks.mjs");

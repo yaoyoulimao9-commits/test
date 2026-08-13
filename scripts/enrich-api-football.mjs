@@ -209,3 +209,4 @@ const browserData = {
 await writeFile(path.join(dataDir, "site-data.js"), `window.BARCA_DATA = ${JSON.stringify(browserData, null, 2)};\n`, "utf8");
 
 console.log(`详情增强完成：${enrichedCount} 场。API 密钥只从 .env 读取，未写入网站文件。`);
+await import("./build-browser-chunks.mjs");

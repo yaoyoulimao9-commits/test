@@ -7,9 +7,12 @@
     <meta name="theme-color" content="#050814" />
     <title>比赛档案 · 巴萨赛场档案</title>
     <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
     <link rel="stylesheet" href="styles.css" />
-    <script src="data/site-data.js" defer></script>
+    <link rel="stylesheet" href="experience.css" />
+    <script src="data/matches-data.js" defer></script>
     <script src="script.js" defer></script>
+    <script src="experience.js" defer></script>
   </head>
   <body class="inside-page fixtures-archive-page">
     <a class="skip-link" href="#content">跳至主要内容</a>
@@ -46,6 +49,18 @@
           <label><span>赛事</span><select name="competition" data-filter-competition><option value="all">全部赛事</option></select></label>
           <label class="match-search"><span>球队 / 日期</span><input type="search" name="query" placeholder="搜索对手或日期" autocomplete="off" data-filter-query /></label>
         </form>
+
+        <div class="match-browser-tools">
+          <div class="match-view-switch" aria-label="比赛显示方式">
+            <button class="is-active" type="button" data-match-view="list" aria-pressed="true">列表视图</button>
+            <button type="button" data-match-view="months" aria-pressed="false">月度视图</button>
+          </div>
+          <a href="favorites.html#matches">查看收藏的比赛 →</a>
+        </div>
+
+        <section class="match-dashboard" data-match-dashboard aria-live="polite">
+          <p class="loading-state">正在计算筛选范围内的赛季数据…</p>
+        </section>
 
         <div class="archive-legend" aria-label="数据状态说明">
           <span><i class="status-dot status-dot--full"></i>完整详情</span>

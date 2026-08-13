@@ -7,9 +7,12 @@
     <meta name="theme-color" content="#050814" />
     <title>一线队球员 · 巴萨赛场档案</title>
     <link rel="icon" href="assets/barca-brand/fcb-crest.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
     <link rel="stylesheet" href="styles.css" />
-    <script src="data/site-data.js" defer></script>
+    <link rel="stylesheet" href="experience.css" />
+    <script src="data/players-data.js" defer></script>
     <script src="script.js" defer></script>
+    <script src="experience.js" defer></script>
   </head>
   <body class="inside-page players-page">
     <a class="skip-link" href="#content">跳至主要内容</a>
@@ -73,6 +76,11 @@
             <button type="button" data-position="Defender">后卫</button>
             <button type="button" data-position="Midfielder">中场</button>
             <button type="button" data-position="Forward">前锋</button>
+          </div>
+          <div class="player-directory-tools">
+            <label><span>搜索球员</span><input type="search" placeholder="输入姓名或位置" autocomplete="off" data-player-search /></label>
+            <a href="compare.html">球员对比 <span>→</span></a>
+            <a href="favorites.html">我的收藏 <span>→</span></a>
           </div>
           <div class="player-directory" data-player-directory aria-live="polite">
             <p class="loading-state">正在读取官方球员名单…</p>

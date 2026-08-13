@@ -134,3 +134,4 @@ const nextDocument = {
 await writeFile(playersFile, `${JSON.stringify(nextDocument, null, 2)}\n`, "utf8");
 await rebuildBrowserData(enrichedPlayers);
 console.log(`完成：${enrichedPlayers.filter((player) => player.birthDate).length}/${enrichedPlayers.length} 名球员档案包含完整基础信息。`);
+await import("./build-browser-chunks.mjs");
