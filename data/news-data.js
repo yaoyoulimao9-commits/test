@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-12T22:24:46.997Z",
+  "updatedAt": "2026-08-13T05:20:04.626Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça 3-1 Montpeller: Winning start",
       "description": "Pere Romeu’s side beat Montpellier in front of the home fans in their first preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4558308/barca-3-1-montpeller-fc-winning-start",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Roony Bardghji surgery a success",
       "description": "Swede's operation this Wednesday goes as planned",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Double session completed",
       "description": "Dani Olmo, Pedri, Jules Kounde, Gordon, Bisiwu, Joan Garcia, Cubarsí, Lamine Yamal and Eric Garcia continued to follow individual training programmes during the afternoon session",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/double-session-completed",
@@ -45,7 +45,7 @@ window.BARCA_NEWS = {
       "title": "Women's preseason live on Barça Play and YouTube",
       "description": "The games against Brighton & Hove Albion, Montpellier and Manchester City will be available to subscribers on the club’s official channels",
       "category": "Women",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4557250/womens-preseason-live-on-barca-play-and-youtube",
