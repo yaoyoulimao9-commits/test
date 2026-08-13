@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-13T18:04:25.927Z",
+  "generatedAt": "2026-08-13T20:05:56.822Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Istanbul to host 2027 Super Cup",
       "description": "Barça set to play for first trophy of the season in the Turkish city from 2 to 7 February",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558958/2027-spanish-super-cup-to-be-played-in-istanbul",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Tunisia set to open",
       "description": "Club invests in a country where football is one of the most popular sports",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4558848/barca-academy-tunisia-set-to-open",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Everyone in group training",
       "description": "Hansi Flick coaches a session with all players now in group training",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558842/first-day-with-everyone-in-group-training",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 3-1 Montpeller: Winning start",
       "description": "Pere Romeu’s side beat Montpellier in front of the home fans in their first preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 12 Aug 26",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4558308/barca-3-1-montpeller-fc-winning-start",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Roony Bardghji surgery a success",
       "description": "Swede's operation this Wednesday goes as planned",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 12 Aug 26",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
@@ -6589,6 +6589,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4557041.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-13T18:04:25.927Z",
+  "newsUpdatedAt": "2026-08-13T20:05:56.822Z",
   "archive": {}
 };
