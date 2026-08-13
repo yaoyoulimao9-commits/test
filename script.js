@@ -220,6 +220,7 @@ const openPlayerDialog = (player, stats = null) => {
         ${player.profileUrl ? `<a href="${escapeHtml(player.profileUrl)}" target="_blank" rel="noreferrer">查看巴萨官方球员页 ↗</a>` : ""}
       </div>
     </div>`;
+  dialog.scrollTop = 0;
   if (typeof dialog.showModal === "function") dialog.showModal();
   else dialog.setAttribute("open", "");
 };
@@ -288,7 +289,10 @@ const getBarcaResult = (match) => {
 
 const renderTeamMark = (team) => {
   const entry = siteData.teamBadges?.[team];
-  if (entry?.badge) return `<img src="${escapeHtml(entry.badge)}" alt="${escapeHtml(team)} 队徽" loading="lazy" />`;
+  if (entry?.badge) {
+    const markClass = team === "FC Barcelona" ? "team-mark team-mark--barca" : "team-mark";
+    return `<img class="${markClass}" src="${escapeHtml(entry.badge)}" alt="${escapeHtml(team)} 队徽" loading="lazy" />`;
+  }
   return `<span class="team-mark--missing" role="img" aria-label="${escapeHtml(team)} 队徽暂缺">—</span>`;
 };
 

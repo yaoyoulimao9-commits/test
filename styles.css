@@ -255,6 +255,7 @@ p {
 
 .portal-nav a {
   position: relative;
+  min-width: 0;
   min-height: 146px;
   display: grid;
   grid-template-columns: 34px 1fr auto;
@@ -302,8 +303,12 @@ p {
 }
 
 .portal-nav span {
+  min-width: 0;
   font-size: clamp(16px, 1.35vw, 20px);
   font-weight: 700;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
 }
 
 .portal-nav small {
@@ -314,6 +319,7 @@ p {
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 0.16em;
+  line-height: 1.35;
 }
 
 .portal-nav i {
@@ -2121,6 +2127,14 @@ p {
   height: 138px;
   object-fit: contain;
   object-position: center bottom;
+  transform-origin: center bottom;
+  transition: transform 320ms var(--ease-out), filter 240ms ease;
+}
+
+.directory-player:hover .directory-player__portrait img,
+.directory-player:focus-visible .directory-player__portrait img {
+  filter: saturate(1.06) contrast(1.02);
+  transform: scale(1.045);
 }
 
 .directory-player__portrait i {
@@ -2431,9 +2445,24 @@ p {
 .archive-match__teams > span img,
 .archive-match__teams > span > span {
   flex: 0 0 auto;
-  width: 38px;
-  height: 38px;
+  width: 46px;
+  height: 46px;
   object-fit: contain;
+}
+
+.team-mark {
+  transition: transform 240ms var(--ease-out), filter 220ms ease;
+}
+
+.team-mark--barca {
+  object-fit: cover !important;
+  object-position: left center;
+}
+
+.archive-match:hover .team-mark,
+.archive-match:focus-visible .team-mark {
+  filter: drop-shadow(0 6px 12px rgba(5, 8, 20, 0.22));
+  transform: scale(1.1);
 }
 
 .archive-match__teams > span > span {
@@ -2984,7 +3013,13 @@ p {
   background: #f4f1e8;
   border: 0;
   overflow: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
   box-shadow: 0 30px 100px rgba(0, 0, 0, 0.48);
+}
+
+.player-dialog[open] {
+  animation: dialog-enter 320ms var(--ease-out) both;
 }
 
 .player-dialog::backdrop {
@@ -3007,17 +3042,32 @@ p {
   border-radius: 50%;
   font-size: 26px;
   cursor: pointer;
+  transition: color 180ms ease, background 180ms ease, transform 220ms var(--ease-out);
+}
+
+.dialog-close:hover,
+.dialog-close:focus-visible {
+  color: var(--night);
+  background: var(--gold);
+  transform: rotate(5deg) scale(1.06);
 }
 
 .dialog-player {
   display: grid;
   grid-template-columns: minmax(280px, 42%) 1fr;
+  align-items: start;
   min-height: 540px;
 }
 
 .dialog-player__portrait {
+  position: sticky;
+  top: 0;
+  align-self: start;
   display: grid;
   place-items: end center;
+  width: 100%;
+  height: min(760px, calc(100vh - 40px));
+  min-height: 540px;
   overflow: hidden;
   background:
     linear-gradient(150deg, rgba(0, 77, 152, 0.14), transparent 45%),
@@ -3025,10 +3075,13 @@ p {
 }
 
 .dialog-player__portrait img {
-  width: 100%;
-  height: 92%;
+  width: auto;
+  max-width: none;
+  height: 100%;
   object-fit: contain;
-  object-position: center bottom;
+  object-position: center;
+  transform: scale(1.02);
+  transform-origin: center bottom;
 }
 
 .dialog-player__portrait > span {
@@ -3054,8 +3107,21 @@ p {
 
 .dialog-player__copy h2 {
   margin: 0;
-  font: 900 clamp(45px, 6vw, 80px)/0.9 var(--display);
+  font: 900 clamp(45px, 6vw, 80px)/0.96 var(--display);
   letter-spacing: -0.045em;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+@keyframes dialog-enter {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 .dialog-player__tagline {
@@ -3547,8 +3613,8 @@ p {
 
   .archive-match__teams > span img,
   .archive-match__teams > span > span {
-    width: 32px;
-    height: 32px;
+    width: 38px;
+    height: 38px;
   }
 
   .archive-match__teams > strong {
@@ -4348,6 +4414,10 @@ p {
   border-bottom: 1px solid var(--ink);
 }
 
+.home-news__header > div {
+  min-width: 0;
+}
+
 .home-news__header > div:first-child > p {
   margin: 0 0 28px;
   color: var(--garnet);
@@ -4357,13 +4427,17 @@ p {
 
 .home-news__header h2 {
   margin: 0;
-  font: 900 clamp(76px, 9vw, 142px)/0.76 var(--display);
+  font: 900 clamp(76px, 9vw, 142px)/0.96 var(--display);
   letter-spacing: -0.05em;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
 }
 
 .home-news__header > div:nth-child(2) strong {
   display: block;
   font: 800 clamp(26px, 2.8vw, 40px)/1.05 var(--display);
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
 }
 
 .home-news__header > div:nth-child(2) p {
@@ -4657,6 +4731,26 @@ p {
     grid-column: auto;
   }
 
+  .player-dialog {
+    width: min(680px, calc(100vw - 24px));
+    max-height: calc(100vh - 24px);
+  }
+
+  .dialog-player {
+    grid-template-columns: 1fr;
+  }
+
+  .dialog-player__portrait {
+    position: relative;
+    height: clamp(390px, 68vh, 560px);
+    min-height: 0;
+  }
+
+  .dialog-player__copy {
+    justify-content: flex-start;
+    padding: 52px 28px 44px;
+  }
+
   .news-article__heading h1 {
     font-size: clamp(56px, 15vw, 90px);
   }
@@ -4674,5 +4768,22 @@ p {
 
   .home-news__header h2 {
     font-size: clamp(72px, 26vw, 108px);
+    line-height: 0.98;
+  }
+
+  .dialog-player__portrait {
+    height: min(112vw, 500px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .player-dialog[open] {
+    animation: none;
+  }
+
+  .directory-player__portrait img,
+  .team-mark,
+  .dialog-close {
+    transition: none;
   }
 }
