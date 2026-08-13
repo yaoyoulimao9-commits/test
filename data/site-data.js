@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-13T05:20:04.631Z",
+  "generatedAt": "2026-08-13T09:44:44.235Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 3-1 Montpeller: Winning start",
       "description": "Pere Romeu’s side beat Montpellier in front of the home fans in their first preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4558308/barca-3-1-montpeller-fc-winning-start",
@@ -6363,19 +6363,19 @@ window.BARCA_DATA = {
       "title": "Roony Bardghji surgery a success",
       "description": "Swede's operation this Wednesday goes as planned",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/fe7362d7-a274-4417-9d42-bd6c295b57f4/_MGA8891-1-.jpg",
+      "localImage": "assets/news/4558328.jpg"
     },
     {
       "id": "4558133",
       "title": "Double session completed",
       "description": "Dani Olmo, Pedri, Jules Kounde, Gordon, Bisiwu, Joan Garcia, Cubarsí, Lamine Yamal and Eric Garcia continued to follow individual training programmes during the afternoon session",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/double-session-completed",
@@ -6389,7 +6389,7 @@ window.BARCA_DATA = {
       "title": "Women's preseason live on Barça Play and YouTube",
       "description": "The games against Brighton & Hove Albion, Montpellier and Manchester City will be available to subscribers on the club’s official channels",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-12",
       "dateLabel": "August 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4557250/womens-preseason-live-on-barca-play-and-youtube",
@@ -6595,6 +6595,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4556475.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-13T05:20:04.631Z",
+  "newsUpdatedAt": "2026-08-13T09:44:44.235Z",
   "archive": {}
 };
