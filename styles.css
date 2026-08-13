@@ -3075,12 +3075,15 @@ p {
 }
 
 .dialog-player__portrait img {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
   width: auto;
   max-width: none;
   height: 100%;
   object-fit: contain;
   object-position: center;
-  transform: scale(1.02);
+  transform: translateX(-50%) scale(1.02);
   transform-origin: center bottom;
 }
 
