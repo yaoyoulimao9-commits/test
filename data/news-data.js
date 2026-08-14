@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-14T05:16:28.045Z",
+  "updatedAt": "2026-08-14T09:38:05.495Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4559433",
+      "title": "Barça Online Store on futsal and roller hockey jerseys",
+      "description": "Club's e-commerce URL, storeFCB.cat, to be included on the front of the jerseys of both professional teams during the 2026/27 season",
+      "category": "Club",
+      "relativeTime": "Published date 38 Mins ago",
+      "publishedDate": "2026-08-14",
+      "dateLabel": "August 14",
+      "source": "https://www.fcbarcelona.com/en/club/news/4559433/barca-online-store-to-feature-on-futsal-and-roller-hockey-jerseys",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/103013c7-cf1f-4878-826c-5bc5e41519c0/Samarreta-StoreFCBCat.png",
+      "localImage": "assets/news/4559433.jpg"
+    },
+    {
+      "id": "4559456",
+      "title": "Barça Foundation contributes to the fight against the ebola epidemic in the Democratic Republic of the Congo",
+      "description": "FC Barcelona and its Foundation, in collaboration with the international medical NGO ALIMA, will help strengthen prevention, healthcare, and community awareness efforts in one of the most serious health emergencies in the history of this African country",
+      "category": "",
+      "relativeTime": "Published date 39 Mins ago",
+      "publishedDate": "2026-08-14",
+      "dateLabel": "August 14",
+      "source": "https://www.fcbarcelona.com/en/news/4559456/barca-foundation-contributes-to-the-fight-against-the-ebola-epidemic-in-the-democratic-republic-of-the-congo",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/79265cf3-c430-4c8f-bea5-a52da0650618/ALIMA_RDC_EBOLA_2026_-ALIMA-ALIMA_PHOTOS_-11.JPG",
+      "localImage": "assets/news/4559456.jpg"
+    },
     {
       "id": "4558958",
       "title": "Istanbul to host 2027 Super Cup",
       "description": "Barça set to play for first trophy of the season in the Turkish city from 2 to 7 February",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558958/2027-spanish-super-cup-to-be-played-in-istanbul",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Tunisia set to open",
       "description": "Club invests in a country where football is one of the most popular sports",
       "category": "Club",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4558848/barca-academy-tunisia-set-to-open",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Everyone in group training",
       "description": "Hansi Flick coaches a session with all players now in group training",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558842/first-day-with-everyone-in-group-training",
@@ -215,34 +239,6 @@ window.BARCA_NEWS = {
       "titleZh": "亚历山大·塞库利奇参观巴萨博物馆",
       "descriptionZh": "新任篮球主教练表示，成为这家“不止是一家俱乐部”的一员既是责任也是荣誉。",
       "localImage": "assets/news/4557190.jpg"
-    },
-    {
-      "id": "4557105",
-      "title": "First training session of the week",
-      "description": "Following the triangular tournament in Udine and the return of Gordon, Eric and Joan Garcia, Barça were back to work on Monday morning",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Aug 26",
-      "publishedDate": "2026-08-10",
-      "dateLabel": "August 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557105/first-training-session-of-the-week",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/10/c7c4a82c-9c68-4a05-8769-2edfe34933ce/image00007.jpeg",
-      "titleZh": "新一周首堂训练课完成",
-      "descriptionZh": "结束乌迪内三角赛并迎回戈登、埃里克和霍安·加西亚后，球队于周一上午恢复训练。",
-      "localImage": "assets/news/4557105.jpg"
-    },
-    {
-      "id": "4557041",
-      "title": "Barça returns to Egypt",
-      "description": "Barça Academy will hold two camps, one in October and another in November",
-      "category": "Club",
-      "relativeTime": "Published date 10 Aug 26",
-      "publishedDate": "2026-08-10",
-      "dateLabel": "August 10",
-      "source": "https://www.fcbarcelona.com/en/club/news/4557041/barca-returns-to-egypt",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/10/3132b0da-13ad-4155-b13a-08a5c6b28fd1/Campus-Egipte-1.jpg",
-      "titleZh": "巴萨重返埃及",
-      "descriptionZh": "巴萨学院将在 10 月和 11 月分别举办一期训练营。",
-      "localImage": "assets/news/4557041.jpg"
     }
   ]
 };
