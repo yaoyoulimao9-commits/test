@@ -13,7 +13,7 @@
 - `player.html`：独立球员档案、中文简介、官方资料、荣誉和已核实比赛覆盖
 - `compare.html`：两名球员的官方档案与荣誉横向对比
 - `favorites.html`：只保存在浏览器本机的收藏球员、收藏比赛和最近浏览
-- `fixtures.html`：2021/22—2025/26 共 262 场比赛档案、数据看板、赛季/赛事筛选、列表/月历视图和双方真实队徽
+- `fixtures.html`：2021/22 至今的比赛档案、数据看板、赛季/赛事筛选、列表/月历视图和双方真实队徽
 - `match.html`：比分、足球场阵型、比赛事件和球员单场数据界面
 - `history.html`：1899 年至今的 13 段历史时间轴、时代筛选与荣誉分类
 - `appearances.html`：一线队正式比赛历史出场前十名
@@ -59,13 +59,30 @@ node scripts/sync-news.mjs
 node scripts/verify-site.mjs
 ```
 
-如需在免费额度内补充阵容、事件和球员数据：
+### 零成本比赛详情同步
+
+API-Football 免费计划目前提供每天 100 次请求。本项目采用增量策略：每 6 小时最多使用 20 次、始终保留 10 次，只请求当前赛季和没有完整详情的比赛；失败记录会延迟重试，不会在每轮反复浪费额度。
+
+本地使用：
 
 1. 注册 API-Football 免费账户并取得 API Key。
 2. 将 `.env.example` 复制为 `.env`，只在 `.env` 中填写密钥。
 3. 运行 `node scripts/enrich-api-football.mjs`。
 
-`.env` 已被 Git 忽略，密钥不会进入网页或 GitHub。免费计划的赛季覆盖有限，因此没有返回详情的比赛会保留真实比分，并明确显示“暂无免费阵容数据”。
+可以先运行不联网自检：
+
+```powershell
+node scripts/enrich-api-football.mjs --self-test
+```
+
+GitHub 自动同步：
+
+1. 打开仓库 `Settings → Secrets and variables → Actions`。
+2. 新增 Repository secret：名称为 `API_FOOTBALL_KEY`，值为免费 API Key。
+3. `.github/workflows/sync-match-details.yml` 会每 6 小时运行一次，也可以在 Actions 页面手动运行。
+4. 若要尝试补充旧赛季，可新增 Repository variable `API_FOOTBALL_SEASONS`，值如 `2024,2025,2026`；不设置时自动使用当前赛季。
+
+密钥只从本地 `.env` 或 GitHub Secret 读取，不会进入网页、日志或提交记录。同步器会合并新赛程、比分、阵容、事件和球员统计，同时缓存新对手队徽。免费计划的赛季覆盖有限，因此没有返回详情的比赛会保留真实比分，并明确显示“暂无免费阵容数据”。
 
 ## 数据与素材来源
 

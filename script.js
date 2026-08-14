@@ -391,7 +391,7 @@ const initMatchBrowser = () => {
           <strong>${score}</strong>
           <span>${renderTeamMark(match.away)}<b>${escapeHtml(match.away)}</b></span>
         </div>
-        <div class="archive-match__status"><span class="result-tag ${result.className}">${result.label}</span><small>${match.dataLevel === "full" ? "完整详情" : "基础赛果"}</small><i>→</i></div>
+        <div class="archive-match__status"><span class="result-tag ${result.className}">${result.label}</span><small>${match.dataLevel === "full" ? "完整详情" : match.dataLevel === "partial" ? "部分详情" : "基础赛果"}</small><i>→</i></div>
       </a>`;
   };
 
@@ -517,7 +517,7 @@ const initMatchDetail = () => {
         <strong>${match.score ? `<b>${match.score[0]}</b><i>—</i><b>${match.score[1]}</b>` : `<span>${escapeHtml(match.time || "VS")}</span>`}</strong>
         <div>${renderTeamMark(match.away)}<h1>${escapeHtml(match.away)}</h1></div>
       </div>
-      <p class="scoreboard-status"><i class="status-dot ${match.dataLevel === "full" ? "status-dot--full" : ""}"></i>${match.dataLevel === "full" ? "本场包含完整比赛详情" : "本场目前为基础赛果档案"}</p>`;
+      <p class="scoreboard-status"><i class="status-dot ${match.dataLevel === "full" ? "status-dot--full" : match.dataLevel === "partial" ? "status-dot--partial" : ""}"></i>${match.dataLevel === "full" ? "本场包含完整比赛详情" : match.dataLevel === "partial" ? "本场已收录部分比赛详情" : "本场目前为基础赛果档案"}</p>`;
   }
 
   const lineups = match.details?.lineups ?? (match.details?.lineup ? [match.details.lineup] : []);
@@ -546,7 +546,7 @@ const initMatchDetail = () => {
   const timeline = document.querySelector("[data-event-timeline]");
   if (timeline && events.length) {
     timeline.innerHTML = events
-      .map((event) => `<article class="timeline-event timeline-event--${escapeHtml(event.type)}"><time>${escapeHtml(event.minute)}′</time><div><strong>${escapeHtml(event.player)}</strong><span>${escapeHtml(event.label)}${event.assist ? ` · 助攻 ${escapeHtml(event.assist)}` : ""}</span></div></article>`)
+      .map((event) => `<article class="timeline-event timeline-event--${escapeHtml(event.type)}"><time>${escapeHtml(event.minute)}′</time><div><strong>${escapeHtml(event.player)}</strong><span>${escapeHtml(event.label)}${event.assist ? ` · 助攻 ${escapeHtml(event.assist)}` : ""}${event.relatedPlayer ? ` · 换上 ${escapeHtml(event.relatedPlayer)}` : ""}</span></div></article>`)
       .join("");
   }
 

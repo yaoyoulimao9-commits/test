@@ -2353,6 +2353,11 @@ p {
   box-shadow: 0 0 0 4px rgba(27, 164, 103, 0.13);
 }
 
+.status-dot--partial {
+  background: var(--gold);
+  box-shadow: 0 0 0 4px rgba(255, 199, 44, 0.16);
+}
+
 .archive-list {
   border-bottom: 1px solid var(--ink);
 }

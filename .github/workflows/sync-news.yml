@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: sync-fcbarcelona-news
-  cancel-in-progress: true
+  group: sync-barca-content
+  cancel-in-progress: false
 
 jobs:
   sync-news:

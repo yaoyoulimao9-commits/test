@@ -1,0 +1,99 @@
+name: Sync free FC Barcelona match details
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-barca-content
+  cancel-in-progress: false
+
+jobs:
+  sync-match-details:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    env:
+      API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+      API_FOOTBALL_SEASONS: ${{ vars.API_FOOTBALL_SEASONS }}
+      API_FOOTBALL_MAX_REQUESTS: "20"
+      API_FOOTBALL_MAX_DETAILS: "15"
+      API_FOOTBALL_RESERVE_REQUESTS: "10"
+      API_FOOTBALL_INTERVAL_MS: "6500"
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Check API key configuration
+        id: key
+        shell: bash
+        run: |
+          if [ -z "$API_FOOTBALL_KEY" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "API_FOOTBALL_KEY is not configured; sync is safely skipped."
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Sync only new or incomplete matches
+        if: steps.key.outputs.configured == 'true'
+        run: node scripts/enrich-api-football.mjs
+
+      - name: Verify generated website data
+        if: steps.key.outputs.configured == 'true'
+        run: node scripts/verify-site.mjs
+
+      - name: Commit changed match data
+        id: commit
+        shell: bash
+        run: |
+          git config user.name "barca-match-bot"
+          git config user.email "barca-match-bot@users.noreply.github.com"
+          git add data/matches.json data/api-football-sync-state.json data/team-badges.json data/site-data.js data/matches-data.js data/players-data.js sitemap.xml assets/team-badges
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No match data changes."
+            exit 0
+          fi
+          git commit -m "chore: sync free Barcelona match details"
+          git pull --rebase origin main
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy-pages:
+    needs: sync-match-details
+    if: needs.sync-match-details.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out updated website
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
