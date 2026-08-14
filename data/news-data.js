@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-13T22:25:30.786Z",
+  "updatedAt": "2026-08-14T05:16:28.045Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Istanbul to host 2027 Super Cup",
       "description": "Barça set to play for first trophy of the season in the Turkish city from 2 to 7 February",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558958/2027-spanish-super-cup-to-be-played-in-istanbul",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Tunisia set to open",
       "description": "Club invests in a country where football is one of the most popular sports",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4558848/barca-academy-tunisia-set-to-open",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Everyone in group training",
       "description": "Hansi Flick coaches a session with all players now in group training",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-13",
       "dateLabel": "August 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558842/first-day-with-everyone-in-group-training",
