@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-15T10:54:51.163Z",
+  "generatedAt": "2026-08-15T11:50:02.544Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Last session and off to Basel",
       "description": "Culers trained on Saturday morning before travelling to Switzerland for the friendly",
       "category": "First Team",
-      "relativeTime": "Published date 54 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559935/last-session-and-off-to-basel",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch FC Basel v Barça",
       "description": "Our guide to the international kick-off times for the friendly against Basel, which subscribers in Spain can watch live via Barça Play and the YouTube Premium channel",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 14 Aug 26",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557103/when-and-where-to-watch-fc-basel-v-fc-barcelona",
@@ -6571,6 +6571,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4557677.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-15T10:54:51.163Z",
+  "newsUpdatedAt": "2026-08-15T11:50:02.544Z",
   "archive": {}
 };
