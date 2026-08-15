@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-15T09:03:14.892Z",
+  "updatedAt": "2026-08-15T09:55:41.040Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4559667",
+      "title": "Agreement for Ferran Torres' transfer",
+      "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
+      "category": "First Team",
+      "relativeTime": "Published date 46 Mins ago",
+      "publishedDate": "2026-08-15",
+      "dateLabel": "August 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/a42cbecf-52a5-42c0-94ce-a4bea33be15b/web_comiat-Ferran-Torres-notxt.jpg.jpeg",
+      "localImage": "assets/news/4559667.jpg"
+    },
     {
       "id": "4557486",
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 53 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch FC Basel v Barça",
       "description": "Our guide to the international kick-off times for the friendly against Basel, which subscribers in Spain can watch live via Barça Play and the YouTube Premium channel",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557103/when-and-where-to-watch-fc-basel-v-fc-barcelona",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Basel v Barça, live on Barça Play and the YouTube channel in Spain only",
       "description": "Sunday's friendly (4.30pm CEST) will be available to watch live by subscription on the club's official channels, exclusively in Spain",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4559008/basel-v-barca-live-on-barca-play-and-the-youtube-channel-in-spain-only",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Frenkie de Jong interview",
       "description": "Dutch midfielder discusses return and shares excitement at rejoining team and helping to win more trophies this season",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559104/frenkie-de-jong-focused-on-recovery-and-continuing-to-make-history-with-barca",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Penultimate training ahead of FC Basel friendly",
       "description": "Every available first team squad member trains during the morning session today",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 14 Aug 26",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559472/penultimate-training-ahead-of-fc-basel-friendly",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Barça Online Store on futsal and roller hockey jerseys",
       "description": "Club's e-commerce URL, storeFCB.cat, to be included on the front of the jerseys of both professional teams during the 2026/27 season",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 14 Aug 26",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4559433/barca-online-store-to-feature-on-futsal-and-roller-hockey-jerseys",
@@ -215,20 +227,6 @@ window.BARCA_NEWS = {
       "titleZh": "2026/27 赛季第三球衣正式发布",
       "descriptionZh": "新球衣采用绿色调，致敬从小梦想身披俱乐部战袍的一代球员，并于 8 月 12 日开始发售。",
       "localImage": "assets/news/4557670.jpg"
-    },
-    {
-      "id": "4557491",
-      "title": "Google Gemini and Google Pixel become new partners",
-      "description": "The collaboration will reinvent the way fans experience football through artificial intelligence and advanced mobile technology, alongside the Club's men's and women's first football teams",
-      "category": "Club",
-      "relativeTime": "Published date 11 Aug 26",
-      "publishedDate": "2026-08-11",
-      "dateLabel": "August 11",
-      "source": "https://www.fcbarcelona.com/en/club/news/4557491/google-gemini-and-google-pixel-become-new-fc-barcelona-partners",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/11/a8628220-8854-4285-87de-7cb63386f00d/Gemini-x-Pixel-x-Barcelona-KV_3200x2000-HeroWeb.png",
-      "titleZh": "Google Gemini 与 Google Pixel 成为巴萨新合作伙伴",
-      "descriptionZh": "双方将通过人工智能和先进移动技术，围绕男足与女足一线队重新构想球迷体验。",
-      "localImage": "assets/news/4557491.png"
     }
   ]
 };
