@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-15T17:53:10.755Z",
+  "updatedAt": "2026-08-15T19:02:53.988Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4560071",
+      "title": "All square at the Joie Stadium (2-2)",
+      "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-15",
+      "dateLabel": "August 15",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/15/2bdf13ee-97c1-4792-8e22-c3d6b622fa2e/_5DS1457.jpg",
+      "localImage": "assets/news/4560071.jpg"
+    },
     {
       "id": "4559983",
       "title": "The squad for FC Basel v Barça",
       "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Last session and off to Basel",
       "description": "Culers trained on Saturday morning before travelling to Switzerland for the friendly",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559935/last-session-and-off-to-basel",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -209,20 +221,6 @@ window.BARCA_NEWS = {
       "titleZh": "巴萨女足季前赛将在 Barça Play 与 YouTube 直播",
       "descriptionZh": "对阵布莱顿、蒙彼利埃和曼城的比赛将通过俱乐部官方频道向订阅用户播出。",
       "localImage": "assets/news/4557250.jpg"
-    },
-    {
-      "id": "4557361",
-      "title": "Barça and Basel's many connections",
-      "description": "Barça have strong ties with the Swiss club, with the two sharing the same initials and colours",
-      "category": "First Team",
-      "relativeTime": "Published date 11 Aug 26",
-      "publishedDate": "2026-08-11",
-      "dateLabel": "August 11",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557361/barca-and-basels-many-connections",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/10/0b56359f-af22-482b-8d84-c207af329f51/FCBasel-FCBarcelona0-5J03FasedeGrupsUEFAChampionsLeague20082009_pic_basilea-fcb5.jpg",
-      "titleZh": "巴萨与巴塞尔之间的诸多联系",
-      "descriptionZh": "两家俱乐部拥有相同的英文缩写和相近的代表色，彼此之间也有深厚渊源。",
-      "localImage": "assets/news/4557361.jpg"
     }
   ]
 };
