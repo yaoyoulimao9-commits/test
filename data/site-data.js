@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-15T15:52:46.273Z",
+  "generatedAt": "2026-08-15T16:58:01.833Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4559983",
+      "title": "The squad for FC Basel v Barça",
+      "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-15",
+      "dateLabel": "August 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/15/26998212-c82d-47d8-943e-ef39ebbf0a9c/image00016.jpeg",
+      "localImage": "assets/news/4559983.jpg"
+    },
+    {
       "id": "4559935",
       "title": "Last session and off to Basel",
       "description": "Culers trained on Saturday morning before travelling to Switzerland for the friendly",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559935/last-session-and-off-to-basel",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -6555,22 +6567,8 @@ window.BARCA_DATA = {
       "titleZh": "巴萨与巴塞尔之间的诸多联系",
       "descriptionZh": "两家俱乐部拥有相同的英文缩写和相近的代表色，彼此之间也有深厚渊源。",
       "localImage": "assets/news/4557361.jpg"
-    },
-    {
-      "id": "4557677",
-      "title": "Roony Bardghji injury news",
-      "description": "Swede has suffered rupture of anterior cruciate ligament in right knee",
-      "category": "First Team",
-      "relativeTime": "Published date 11 Aug 26",
-      "publishedDate": "2026-08-11",
-      "dateLabel": "August 11",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557677/roony-bardghji-injury-news",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/11/c82b0982-cb98-469e-b6dd-c9178aa9ed31/_MGA7685_1.jpg",
-      "titleZh": "鲁尼·巴德吉伤情公告",
-      "descriptionZh": "这名瑞典球员右膝前十字韧带断裂。",
-      "localImage": "assets/news/4557677.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-15T15:52:46.273Z",
+  "newsUpdatedAt": "2026-08-15T16:58:01.833Z",
   "archive": {}
 };
