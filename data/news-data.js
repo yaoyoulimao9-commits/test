@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-15T19:49:28.590Z",
+  "updatedAt": "2026-08-15T20:56:27.030Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4560180",
+      "title": "First preseason victory (1-2)",
+      "description": "Juliano Belletti's side claim their first preseason win at the Camp d'Esports de l'Hospitalet",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-15",
+      "dateLabel": "August 15",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/15/fea196b3-65fb-4c34-8786-05a6bd74e0d2/WhatsApp-Image-2026-08-15-at-20.53.33.jpeg",
+      "localImage": "assets/news/4560180.jpg"
+    },
     {
       "id": "4560071",
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "The squad for FC Basel v Barça",
       "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Last session and off to Basel",
       "description": "Culers trained on Saturday morning before travelling to Switzerland for the friendly",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559935/last-session-and-off-to-basel",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -207,20 +219,6 @@ window.BARCA_NEWS = {
       "titleZh": "四位世界杯冠军归队",
       "descriptionZh": "亚马尔、奥尔莫、库巴西和佩德里全部参加了周三的双练。",
       "localImage": "assets/news/4558133.jpg"
-    },
-    {
-      "id": "4557250",
-      "title": "Women's preseason live on Barça Play and YouTube",
-      "description": "The games against Brighton & Hove Albion, Montpellier and Manchester City will be available to subscribers on the club’s official channels",
-      "category": "Women",
-      "relativeTime": "Published date 12 Aug 26",
-      "publishedDate": "2026-08-12",
-      "dateLabel": "August 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4557250/womens-preseason-live-on-barca-play-and-youtube",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/82aa848e-b969-4dd2-9470-6153d1dd97f4/Notiweb_Hero_3200x2000.jpg",
-      "titleZh": "巴萨女足季前赛将在 Barça Play 与 YouTube 直播",
-      "descriptionZh": "对阵布莱顿、蒙彼利埃和曼城的比赛将通过俱乐部官方频道向订阅用户播出。",
-      "localImage": "assets/news/4557250.jpg"
     }
   ]
 };
