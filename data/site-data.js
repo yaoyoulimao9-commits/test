@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-14T23:58:12.828Z",
+  "generatedAt": "2026-08-15T03:06:54.353Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Manchester City-Barça: segon partit de la pretemporada",
       "description": "Les blaugranes han entrenat aquest divendres al City Football Academy preparant així el partit davant el City d’aquest dissabte (17.00 hores / Barça Play i 3Cat)",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4559700/manchester-city-barca-segon-partit-de-la-pretemporada",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch FC Basel v Barça",
       "description": "Our guide to the international kick-off times for the friendly against Basel, which subscribers in Spain can watch live via Barça Play and the YouTube Premium channel",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557103/when-and-where-to-watch-fc-basel-v-fc-barcelona",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Basel v Barça, live on Barça Play and the YouTube channel in Spain only",
       "description": "Sunday's friendly (4.30pm CEST) will be available to watch live by subscription on the club's official channels, exclusively in Spain",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4559008/basel-v-barca-live-on-barca-play-and-the-youtube-channel-in-spain-only",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong interview",
       "description": "Dutch midfielder discusses return and shares excitement at rejoining team and helping to win more trophies this season",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559104/frenkie-de-jong-focused-on-recovery-and-continuing-to-make-history-with-barca",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Penultimate training ahead of FC Basel friendly",
       "description": "Every available first team squad member trains during the morning session today",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559472/penultimate-training-ahead-of-fc-basel-friendly",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Online Store on futsal and roller hockey jerseys",
       "description": "Club's e-commerce URL, storeFCB.cat, to be included on the front of the jerseys of both professional teams during the 2026/27 season",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4559433/barca-online-store-to-feature-on-futsal-and-roller-hockey-jerseys",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça Foundation contributes to the fight against the ebola epidemic in the Democratic Republic of the Congo",
       "description": "FC Barcelona and its Foundation, in collaboration with the international medical NGO ALIMA, will help strengthen prevention, healthcare, and community awareness efforts in one of the most serious health emergencies in the history of this African country",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-14",
       "dateLabel": "August 14",
       "source": "https://www.fcbarcelona.com/en/news/4559456/barca-foundation-contributes-to-the-fight-against-the-ebola-epidemic-in-the-democratic-republic-of-the-congo",
@@ -6575,6 +6575,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4557491.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-14T23:58:12.828Z",
+  "newsUpdatedAt": "2026-08-15T03:06:54.353Z",
   "archive": {}
 };
