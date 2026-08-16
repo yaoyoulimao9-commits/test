@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-16T15:53:43.596Z",
+  "updatedAt": "2026-08-16T16:58:33.370Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4560597",
+      "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
+      "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
+      "category": "First Team",
+      "relativeTime": "Published date 33 Mins ago",
+      "publishedDate": "2026-08-16",
+      "dateLabel": "August 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/b11e7e36-5638-4b17-ade9-83b91bba053c/_MGA5548.jpg",
+      "localImage": "assets/news/4560597.jpg"
+    },
     {
       "id": "4560514",
       "title": "Institutional activities in Basel",
       "description": "Rafael Yuste and Miquel Camps welcomed representatives of the Penya Blaugrana de Basel and attended the directors’ lunch with the Swiss club ahead of Sunday afternoon’s friendly",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/club/news/4560514/institutional-activities-in-basel",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Basel v Barça",
       "description": "The third friendly of the preseason takes the team to Switzerland for a 4.30pm CET kick-off on Sunday",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557495/preview-fc-basel-v-fc-barcelona",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "First preseason victory (1-2)",
       "description": "Juliano Belletti's side claim their first preseason win at the Camp d'Esports de l'Hospitalet",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558842/first-day-with-everyone-in-group-training",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/5cef59fe-ba8d-4c36-b79b-2c8774461475/image00011.jpeg",
       "localImage": "assets/news/4558842.jpg"
-    },
-    {
-      "id": "4558308",
-      "title": "Barça 3-1 Montpeller: Winning start",
-      "description": "Pere Romeu’s side beat Montpellier in front of the home fans in their first preseason friendly",
-      "category": "Women",
-      "relativeTime": "Published date 12 Aug 26",
-      "publishedDate": "2026-08-12",
-      "dateLabel": "August 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4558308/barca-3-1-montpeller-fc-winning-start",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/9fa65b35-74ac-4641-a7bd-373c6b3fc2d1/Primer-Gol-Patri.jpeg",
-      "localImage": "assets/news/4558308.jpg"
     }
   ]
 };
