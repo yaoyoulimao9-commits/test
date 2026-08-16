@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-16T19:03:09.829Z",
+  "generatedAt": "2026-08-16T19:48:19.011Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça debut for Anthony Gordon",
       "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Institutional activities in Basel",
       "description": "Rafael Yuste and Miquel Camps welcomed representatives of the Penya Blaugrana de Basel and attended the directors’ lunch with the Swiss club ahead of Sunday afternoon’s friendly",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/club/news/4560514/institutional-activities-in-basel",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4558958.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-16T19:03:09.829Z",
+  "newsUpdatedAt": "2026-08-16T19:48:19.011Z",
   "archive": {}
 };
