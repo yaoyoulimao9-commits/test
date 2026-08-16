@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-16T09:03:27.417Z",
+  "updatedAt": "2026-08-16T09:56:49.052Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "The squad for FC Basel v Barça",
       "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 15 Aug 26",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
