@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-16T13:46:16.214Z",
+  "generatedAt": "2026-08-16T14:56:59.464Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Institutional activities in Basel",
       "description": "Rafael Yuste and Miquel Camps welcomed representatives of the Penya Blaugrana de Basel and attended the directors’ lunch with the Swiss club ahead of Sunday afternoon’s friendly",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/club/news/4560514/institutional-activities-in-basel",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Basel v Barça",
       "description": "The third friendly of the preseason takes the team to Switzerland for a 4.30pm CET kick-off on Sunday",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557495/preview-fc-basel-v-fc-barcelona",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "First preseason victory (1-2)",
       "description": "Juliano Belletti's side claim their first preseason win at the Camp d'Esports de l'Hospitalet",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The squad for FC Basel v Barça",
       "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4558308.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-16T13:46:16.214Z",
+  "newsUpdatedAt": "2026-08-16T14:56:59.464Z",
   "archive": {}
 };
