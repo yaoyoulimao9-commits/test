@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-16T16:58:33.376Z",
+  "generatedAt": "2026-08-16T17:51:01.856Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4560634",
+      "title": "Adeyemi and Bisiwu score first goals",
+      "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
+      "category": "First Team",
+      "relativeTime": "Published date 54 Mins ago",
+      "publishedDate": "2026-08-16",
+      "dateLabel": "August 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/89858ac2-4e63-4caa-a152-8f761721b782/_MGA5718.jpg",
+      "localImage": "assets/news/4560634.jpg"
+    },
+    {
+      "id": "4560589",
+      "title": "Barça debut for Anthony Gordon",
+      "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-16",
+      "dateLabel": "August 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/bd9a4584-6a51-4409-8abf-1bfefa56ebd0/_MGA5422.jpg",
+      "localImage": "assets/news/4560589.jpg"
+    },
+    {
       "id": "4560597",
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 33 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Institutional activities in Basel",
       "description": "Rafael Yuste and Miquel Camps welcomed representatives of the Penya Blaugrana de Basel and attended the directors’ lunch with the Swiss club ahead of Sunday afternoon’s friendly",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/club/news/4560514/institutional-activities-in-basel",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Basel v Barça",
       "description": "The third friendly of the preseason takes the team to Switzerland for a 4.30pm CET kick-off on Sunday",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557495/preview-fc-basel-v-fc-barcelona",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "First preseason victory (1-2)",
       "description": "Juliano Belletti's side claim their first preseason win at the Camp d'Esports de l'Hospitalet",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 15 Aug 26",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558958/2027-spanish-super-cup-to-be-played-in-istanbul",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/7826f032-3a7e-4e1c-b7c3-c2cf4555b9ad/TrobadaEntrenadorsFinalSupercopaEspanya20222023_img_1476.jpg",
       "localImage": "assets/news/4558958.jpg"
-    },
-    {
-      "id": "4558848",
-      "title": "Barça Academy Tunisia set to open",
-      "description": "Club invests in a country where football is one of the most popular sports",
-      "category": "Club",
-      "relativeTime": "Published date 13 Aug 26",
-      "publishedDate": "2026-08-13",
-      "dateLabel": "August 13",
-      "source": "https://www.fcbarcelona.com/en/club/news/4558848/barca-academy-tunisia-set-to-open",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/70258983-4b54-4b0a-a0ad-d8c973406259/BA-Tunis.jfif",
-      "localImage": "assets/news/4558848.jpg"
-    },
-    {
-      "id": "4558842",
-      "title": "Everyone in group training",
-      "description": "Hansi Flick coaches a session with all players now in group training",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Aug 26",
-      "publishedDate": "2026-08-13",
-      "dateLabel": "August 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558842/first-day-with-everyone-in-group-training",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/5cef59fe-ba8d-4c36-b79b-2c8774461475/image00011.jpeg",
-      "localImage": "assets/news/4558842.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-16T16:58:33.376Z",
+  "newsUpdatedAt": "2026-08-16T17:51:01.856Z",
   "archive": {}
 };
