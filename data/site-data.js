@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-16T07:47:10.065Z",
+  "generatedAt": "2026-08-16T09:03:27.422Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4557495",
+      "title": "PREVIEW | Basel v Barça",
+      "description": "The third friendly of the preseason takes the team to Switzerland for a 4.30pm CET kick-off on Sunday",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-16",
+      "dateLabel": "August 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557495/preview-fc-basel-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/1979b613-586d-4e2f-806d-a9c237fb8301/WhatsApp-Image-2026-08-16-at-10.43.27.jpeg",
+      "localImage": "assets/news/4557495.jpg"
+    },
+    {
       "id": "4560180",
       "title": "First preseason victory (1-2)",
       "description": "Juliano Belletti's side claim their first preseason win at the Camp d'Esports de l'Hospitalet",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "All square at the Joie Stadium (2-2)",
       "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "The squad for FC Basel v Barça",
       "description": "Flick names a 24-player squad for the friendly at Sankt Jakob-Park",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559983/the-squad-for-fc-basel-v-barca",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Last session and off to Basel",
       "description": "Culers trained on Saturday morning before travelling to Switzerland for the friendly",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559935/last-session-and-off-to-basel",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Agreement for Ferran Torres' transfer",
       "description": "FC Barcelona and Paris Saint-Germain have reached terms for the striker's move to the French club",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559667/agreement-with-paris-saint-germain-for-the-transfer-of-ferran-torres",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Memories of Basel",
       "description": "The team will play in the Swiss city again almost 18 years after their last visit.",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 15 Aug 26",
       "publishedDate": "2026-08-15",
       "dateLabel": "August 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
@@ -6549,22 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558328/roony-bardghji-surgery-a-success",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/fe7362d7-a274-4417-9d42-bd6c295b57f4/_MGA8891-1-.jpg",
       "localImage": "assets/news/4558328.jpg"
-    },
-    {
-      "id": "4558133",
-      "title": "Double session completed",
-      "description": "Dani Olmo, Pedri, Jules Kounde, Gordon, Bisiwu, Joan Garcia, Cubarsí, Lamine Yamal and Eric Garcia continued to follow individual training programmes during the afternoon session",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Aug 26",
-      "publishedDate": "2026-08-12",
-      "dateLabel": "August 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558133/double-session-completed",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/12/5616699c-fe8b-4e27-91d4-a904eab765c4/WhatsApp-Image-2026-08-12-at-19.23.02-1-.jpeg",
-      "titleZh": "四位世界杯冠军归队",
-      "descriptionZh": "亚马尔、奥尔莫、库巴西和佩德里全部参加了周三的双练。",
-      "localImage": "assets/news/4558133.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-16T07:47:10.065Z",
+  "newsUpdatedAt": "2026-08-16T09:03:27.422Z",
   "archive": {}
 };
