@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-17T11:57:25.315Z",
+  "generatedAt": "2026-08-17T13:59:49.602Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Gamper live on Barça Play and YouTube",
       "description": "Follow all the action from the Gamper Festival, including the game against Al Ahly, with a subscription to the Club's official channels",
       "category": "First Team",
-      "relativeTime": "Published date 57 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561063/la-festa-del-gamper-estrella-damm-live-on-barca-play-and-youtube",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Serrajordi suffers wrist injury",
       "description": "The Barça Femení midfielder picks up injury training with the Spain U20 squad and is expected to be out for six weeks",
       "category": "Women",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4561121/serrajordi-suffers-wrist-injury",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Squad back to work to prepare for the Gamper",
       "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Adeyemi and Bisiwu score first goals",
       "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça debut for Anthony Gordon",
       "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4559472.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-17T11:57:25.315Z",
+  "newsUpdatedAt": "2026-08-17T13:59:49.602Z",
   "archive": {}
 };
