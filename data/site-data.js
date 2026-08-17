@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-17T10:06:52.609Z",
+  "generatedAt": "2026-08-17T11:04:17.932Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4561034",
+      "title": "Squad back to work to prepare for the Gamper",
+      "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
+      "category": "First Team",
+      "relativeTime": "Published date 45 Mins ago",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/3cf814c0-29f0-4afb-a49f-5403112db8ff/_MGA5840.jpg",
+      "localImage": "assets/news/4561034.jpg"
+    },
+    {
       "id": "4560634",
       "title": "Adeyemi and Bisiwu score first goals",
       "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça debut for Anthony Gordon",
       "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Institutional activities in Basel",
       "description": "Rafael Yuste and Miquel Camps welcomed representatives of the Penya Blaugrana de Basel and attended the directors’ lunch with the Swiss club ahead of Sunday afternoon’s friendly",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 16 Aug 26",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/club/news/4560514/institutional-activities-in-basel",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4559456/barca-foundation-contributes-to-the-fight-against-the-ebola-epidemic-in-the-democratic-republic-of-the-congo",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/79265cf3-c430-4c8f-bea5-a52da0650618/ALIMA_RDC_EBOLA_2026_-ALIMA-ALIMA_PHOTOS_-11.JPG",
       "localImage": "assets/news/4559456.jpg"
-    },
-    {
-      "id": "4558958",
-      "title": "Istanbul to host 2027 Super Cup",
-      "description": "Barça set to play for first trophy of the season in the Turkish city from 2 to 7 February",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Aug 26",
-      "publishedDate": "2026-08-13",
-      "dateLabel": "August 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4558958/2027-spanish-super-cup-to-be-played-in-istanbul",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/7826f032-3a7e-4e1c-b7c3-c2cf4555b9ad/TrobadaEntrenadorsFinalSupercopaEspanya20222023_img_1476.jpg",
-      "localImage": "assets/news/4558958.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-17T10:06:52.609Z",
+  "newsUpdatedAt": "2026-08-17T11:04:17.932Z",
   "archive": {}
 };
