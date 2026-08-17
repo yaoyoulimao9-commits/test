@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-17T14:59:49.284Z",
+  "updatedAt": "2026-08-17T15:56:28.873Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4557615",
+      "title": "When and where to watch the Gamper",
+      "description": "International kick off times for the game which can be seen live on Barça Play and YouTube for subscribers",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557615/when-and-where-to-watch-the-festa-del-gamper-estrella-damm",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/8c2e2776-4bc9-42db-975f-742e758c08e5/3200x2000_Horarios.png",
+      "localImage": "assets/news/4557615.png"
+    },
     {
       "id": "4561063",
       "title": "Gamper live on Barça Play and YouTube",
       "description": "Follow all the action from the Gamper Festival, including the game against Al Ahly, with a subscription to the Club's official channels",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561063/la-festa-del-gamper-estrella-damm-live-on-barca-play-and-youtube",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Serrajordi suffers wrist injury",
       "description": "The Barça Femení midfielder picks up injury training with the Spain U20 squad and is expected to be out for six weeks",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4561121/serrajordi-suffers-wrist-injury",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Squad back to work to prepare for the Gamper",
       "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Adeyemi and Bisiwu score first goals",
       "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça debut for Anthony Gordon",
       "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559104/frenkie-de-jong-focused-on-recovery-and-continuing-to-make-history-with-barca",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/23e39651-910e-48cb-a10a-01ec3c73d59a/WhatsApp-Image-2026-08-13-at-18.15.34.jpeg",
       "localImage": "assets/news/4559104.jpg"
-    },
-    {
-      "id": "4559472",
-      "title": "Penultimate training ahead of FC Basel friendly",
-      "description": "Every available first team squad member trains during the morning session today",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Aug 26",
-      "publishedDate": "2026-08-14",
-      "dateLabel": "August 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559472/penultimate-training-ahead-of-fc-basel-friendly",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/e850cf8c-37c1-4a6a-8d6d-f843209c8644/image00002.jpeg",
-      "localImage": "assets/news/4559472.jpg"
     }
   ]
 };
