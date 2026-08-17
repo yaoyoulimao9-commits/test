@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-17T17:13:17.424Z",
+  "generatedAt": "2026-08-17T19:16:40.282Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4556728",
+      "title": "Jofre Torrents transferred to Ajax",
+      "description": "The defender heads to the Netherlands after progressing through the youth ranks at La Masia all the way to the first team",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4556728/agreement-with-ajax-for-the-transfer-of-jofre-torrents",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/09/d3965a8a-1a38-4dc0-8516-a5fb8624123d/3200x2000-comiat-jofre.jpg",
+      "localImage": "assets/news/4556728.jpg"
+    },
+    {
       "id": "4561380",
       "title": "Agreement to terminate Alan Godoy's contract",
       "description": "FC Barcelona have reached an agreement to terminate the Canary Islander's contract with the club",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4561380/agreement-to-terminate-alan-godoys-contract",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "A week away from the 100th anniversary of Barça basketball",
       "description": "The blaugrana team will reach 100 years of age next Monday 24 August which will mark the start of a season long programme of celebrations",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561317/a-week-away-from-the-100th-anniversary-of-barca-basketball",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch the Gamper",
       "description": "International kick off times for the game which can be seen live on Barça Play and YouTube for subscribers",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557615/when-and-where-to-watch-the-festa-del-gamper-estrella-damm",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Gamper live on Barça Play and YouTube",
       "description": "Follow all the action from the Gamper Festival, including the game against Al Ahly, with a subscription to the Club's official channels",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561063/la-festa-del-gamper-estrella-damm-live-on-barca-play-and-youtube",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Serrajordi suffers wrist injury",
       "description": "The Barça Femení midfielder picks up injury training with the Spain U20 squad and is expected to be out for six weeks",
       "category": "Women",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4561121/serrajordi-suffers-wrist-injury",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Squad back to work to prepare for the Gamper",
       "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557486/basel-a-city-of-great-european-memories-for-barca",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/11/c0b5dd8c-0bf4-409f-9ff0-d7724bd72218/Recopa19793_pic_2396_03_11-1-.jpg",
       "localImage": "assets/news/4557486.jpg"
-    },
-    {
-      "id": "4557103",
-      "title": "When and where to watch FC Basel v Barça",
-      "description": "Our guide to the international kick-off times for the friendly against Basel, which subscribers in Spain can watch live via Barça Play and the YouTube Premium channel",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Aug 26",
-      "publishedDate": "2026-08-14",
-      "dateLabel": "August 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557103/when-and-where-to-watch-fc-basel-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/13/434f5fce-22f0-4946-a6e4-cd61586031fe/3200x2000_Horarios-Basel.png",
-      "localImage": "assets/news/4557103.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-17T17:13:17.424Z",
+  "newsUpdatedAt": "2026-08-17T19:16:40.282Z",
   "archive": {}
 };
