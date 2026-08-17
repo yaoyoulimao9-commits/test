@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-17T11:04:17.932Z",
+  "generatedAt": "2026-08-17T11:57:25.315Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4561063",
+      "title": "Gamper live on Barça Play and YouTube",
+      "description": "Follow all the action from the Gamper Festival, including the game against Al Ahly, with a subscription to the Club's official channels",
+      "category": "First Team",
+      "relativeTime": "Published date 57 Mins ago",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561063/la-festa-del-gamper-estrella-damm-live-on-barca-play-and-youtube",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/a67cd1d5-5fcb-4f19-8f71-92c069db08bb/HeroWeb_3200x2000_v2_C_C.jpg",
+      "localImage": "assets/news/4561063.jpg"
+    },
+    {
+      "id": "4561121",
+      "title": "Serrajordi suffers wrist injury",
+      "description": "The Barça Femení midfielder picks up injury training with the Spain U20 squad and is expected to be out for six weeks",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4561121/serrajordi-suffers-wrist-injury",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/77e6e932-f1a4-40a0-9304-b12d6ffd3702/_GP10955_iay2tvdw.jpg",
+      "localImage": "assets/news/4561121.jpg"
+    },
+    {
       "id": "4561034",
       "title": "Squad back to work to prepare for the Gamper",
       "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
       "category": "First Team",
-      "relativeTime": "Published date 45 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Adeyemi and Bisiwu score first goals",
       "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça debut for Anthony Gordon",
       "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Basel 2-5 Barça: Five at Sankt Jakob-Park",
       "description": "Adeyemi scores on his first start, Bisiwu bags a late brace and Lamine Yamal returns with a goal and an assist as the blaugrana win 5-2 in Switzerland",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560597/fc-basel-2-5-fc-barcelona-five-at-sankt-jakob-park",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4559472/penultimate-training-ahead-of-fc-basel-friendly",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/e850cf8c-37c1-4a6a-8d6d-f843209c8644/image00002.jpeg",
       "localImage": "assets/news/4559472.jpg"
-    },
-    {
-      "id": "4559433",
-      "title": "Barça Online Store on futsal and roller hockey jerseys",
-      "description": "Club's e-commerce URL, storeFCB.cat, to be included on the front of the jerseys of both professional teams during the 2026/27 season",
-      "category": "Club",
-      "relativeTime": "Published date 14 Aug 26",
-      "publishedDate": "2026-08-14",
-      "dateLabel": "August 14",
-      "source": "https://www.fcbarcelona.com/en/club/news/4559433/barca-online-store-to-feature-on-futsal-and-roller-hockey-jerseys",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/26470ebb-060b-4d21-b69a-701a2fd1546d/Samarreta-StoreFCBCat.png",
-      "localImage": "assets/news/4559433.jpg"
-    },
-    {
-      "id": "4559456",
-      "title": "Barça Foundation contributes to the fight against the ebola epidemic in the Democratic Republic of the Congo",
-      "description": "FC Barcelona and its Foundation, in collaboration with the international medical NGO ALIMA, will help strengthen prevention, healthcare, and community awareness efforts in one of the most serious health emergencies in the history of this African country",
-      "category": "",
-      "relativeTime": "Published date 14 Aug 26",
-      "publishedDate": "2026-08-14",
-      "dateLabel": "August 14",
-      "source": "https://www.fcbarcelona.com/en/news/4559456/barca-foundation-contributes-to-the-fight-against-the-ebola-epidemic-in-the-democratic-republic-of-the-congo",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/79265cf3-c430-4c8f-bea5-a52da0650618/ALIMA_RDC_EBOLA_2026_-ALIMA-ALIMA_PHOTOS_-11.JPG",
-      "localImage": "assets/news/4559456.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-17T11:04:17.932Z",
+  "newsUpdatedAt": "2026-08-17T11:57:25.315Z",
   "archive": {}
 };
