@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-18T12:00:11.265Z",
+  "generatedAt": "2026-08-18T14:08:58.764Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4561868",
+      "title": "'We have a fantastic team ready to fight for everything'",
+      "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-18",
+      "dateLabel": "August 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/5512f284-68d7-4437-897d-ab5d058e4358/_MGA6330.jpg",
+      "localImage": "assets/news/4561868.jpg"
+    },
+    {
       "id": "4561806",
       "title": "Anthony Gordon and Adeyemi with the Joan Gamper Trophy",
       "description": "The two new signings for Barça pose with the trophy ahead of Wednesday's game against Egyptian giants Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 50 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561806/anthony-gordon-and-adeyemi-with-the-joan-gamper-trophy",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Session looking ahead to the Gamper",
       "description": "The Barça squad train with eyes on Wednesday's game against Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 53 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561805/session-looking-ahead-to-the-gamper",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Kuzey Kiliç, new chief of scouting",
       "description": "The 26 year old comes to Barça after gaining international experience with major European clubs such as Fenerbahçe, Zenit St. Petersburg, and Dubai BC.",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561794/kuzey-kilic-joins-the-sporting-department-as-chief-of-scouting-and-data-analytics",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for the Gamper Festival",
       "description": "The club recommends arriving at Spotify Camp Nou in good time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4561329/mobility-and-accessibility-for-the-61st-estrella-damm-gamper-festival",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Jofre Torrents transferred to Ajax",
       "description": "The defender heads to the Netherlands after progressing through the youth ranks at La Masia all the way to the first team",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4556728/agreement-with-ajax-for-the-transfer-of-jofre-torrents",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Agreement to terminate Alan Godoy's contract",
       "description": "FC Barcelona have reached an agreement to terminate the Canary Islander's contract with the club",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4561380/agreement-to-terminate-alan-godoys-contract",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "A week away from the 100th anniversary of Barça basketball",
       "description": "The blaugrana team will reach 100 years of age next Monday 24 August which will mark the start of a season long programme of celebrations",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561317/a-week-away-from-the-100th-anniversary-of-barca-basketball",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch the Gamper",
       "description": "International kick off times for the game which can be seen live on Barça Play and YouTube for subscribers",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 17 Aug 26",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557615/when-and-where-to-watch-the-festa-del-gamper-estrella-damm",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4560180/lhospitalet-1-2-barca-atletic-first-preseason-victory",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/15/fea196b3-65fb-4c34-8786-05a6bd74e0d2/WhatsApp-Image-2026-08-15-at-20.53.33.jpeg",
       "localImage": "assets/news/4560180.jpg"
-    },
-    {
-      "id": "4560071",
-      "title": "All square at the Joie Stadium (2-2)",
-      "description": "Blaugranes take the lead in the first half, but the hosts come back to draw in the second",
-      "category": "Women",
-      "relativeTime": "Published date 15 Aug 26",
-      "publishedDate": "2026-08-15",
-      "dateLabel": "August 15",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4560071/manchester-city-2-2-barca-all-square-at-the-joie-stadium",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/15/2bdf13ee-97c1-4792-8e22-c3d6b622fa2e/_5DS1457.jpg",
-      "localImage": "assets/news/4560071.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-18T12:00:11.265Z",
+  "newsUpdatedAt": "2026-08-18T14:08:58.764Z",
   "archive": {}
 };
