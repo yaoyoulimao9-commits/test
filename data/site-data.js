@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-18T19:17:09.038Z",
+  "generatedAt": "2026-08-18T20:01:50.449Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "'Barça really suits my personality'",
       "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
@@ -6362,11 +6362,11 @@ window.BARCA_DATA = {
       "id": "4561501",
       "title": "Rodri signs for Barça",
       "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
-      "category": "Feature",
-      "relativeTime": "Published date 2 hrs ago",
-      "publishedDate": "2026-08-16",
-      "dateLabel": "August 16",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez/featured",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-08-18",
+      "dateLabel": "August 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
       "localImage": "assets/news/4561501.jpg"
     },
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "10 things about Rodri",
       "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
       "category": "Feature",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "'We have a fantastic team ready to fight for everything'",
       "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for the Gamper Festival",
       "description": "The club recommends arriving at Spotify Camp Nou in good time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4561329/mobility-and-accessibility-for-the-61st-estrella-damm-gamper-festival",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4560589.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-18T19:17:09.038Z",
+  "newsUpdatedAt": "2026-08-18T20:01:50.449Z",
   "archive": {}
 };
