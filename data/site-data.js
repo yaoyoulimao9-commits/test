@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-18T14:08:58.764Z",
+  "generatedAt": "2026-08-18T15:59:59.060Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "'We have a fantastic team ready to fight for everything'",
       "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Anthony Gordon and Adeyemi with the Joan Gamper Trophy",
       "description": "The two new signings for Barça pose with the trophy ahead of Wednesday's game against Egyptian giants Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561806/anthony-gordon-and-adeyemi-with-the-joan-gamper-trophy",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Session looking ahead to the Gamper",
       "description": "The Barça squad train with eyes on Wednesday's game against Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561805/session-looking-ahead-to-the-gamper",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Kuzey Kiliç, new chief of scouting",
       "description": "The 26 year old comes to Barça after gaining international experience with major European clubs such as Fenerbahçe, Zenit St. Petersburg, and Dubai BC.",
       "category": "Basketball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561794/kuzey-kilic-joins-the-sporting-department-as-chief-of-scouting-and-data-analytics",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for the Gamper Festival",
       "description": "The club recommends arriving at Spotify Camp Nou in good time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4561329/mobility-and-accessibility-for-the-61st-estrella-damm-gamper-festival",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Jofre Torrents transferred to Ajax",
       "description": "The defender heads to the Netherlands after progressing through the youth ranks at La Masia all the way to the first team",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4556728/agreement-with-ajax-for-the-transfer-of-jofre-torrents",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Agreement to terminate Alan Godoy's contract",
       "description": "FC Barcelona have reached an agreement to terminate the Canary Islander's contract with the club",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 17 Aug 26",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4561380/agreement-to-terminate-alan-godoys-contract",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "A week away from the 100th anniversary of Barça basketball",
       "description": "The blaugrana team will reach 100 years of age next Monday 24 August which will mark the start of a season long programme of celebrations",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 17 Aug 26",
       "publishedDate": "2026-08-17",
       "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561317/a-week-away-from-the-100th-anniversary-of-barca-basketball",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4560180.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-18T14:08:58.764Z",
+  "newsUpdatedAt": "2026-08-18T15:59:59.060Z",
   "archive": {}
 };
