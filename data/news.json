@@ -1,15 +1,51 @@
 {
-  "updatedAt": "2026-08-19T17:57:21.089Z",
+  "updatedAt": "2026-08-19T19:14:26.154Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4562594",
+      "title": "Vote for the Star Player!",
+      "description": "Culers! You decide who has been player of the match in the Festa del Gamper Estrella Damm",
+      "category": "First Team",
+      "relativeTime": "Published date 24 Mins ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562594/vote-for-the-star-player",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/8e4cbbaa-5c9b-40b2-9e99-284d2330233d/3200x2000_MVP-Gamper-2-.jpg",
+      "localImage": "assets/news/4562594.jpg"
+    },
+    {
+      "id": "4562674",
+      "title": "Flick: 'Together we are stronger'",
+      "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/d3392d8e-4826-4d40-b84f-54d317117ba8/_MGA6642.jpg",
+      "localImage": "assets/news/4562674.jpg"
+    },
+    {
+      "id": "4562719",
+      "title": "Stadium comes alive for squad presentation",
+      "description": "The new Barça home has hosted its first Gamper, with plenty of huge ovations, especially for Rodri",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562719/spotify-camp-nou-comes-alive-for-the-presentation-of-the-202627-barca-squad",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/5c0db7b5-387f-40b0-ba16-bc0acddd1240/_MGA6883.jpg",
+      "localImage": "assets/news/4562719.jpg"
+    },
+    {
       "id": "4550349",
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -21,7 +57,7 @@
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -70,8 +106,8 @@
       "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
       "category": "Feature",
       "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-16",
-      "dateLabel": "August 16",
+      "publishedDate": "2026-08-17",
+      "dateLabel": "August 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/085c24c8-a892-461b-aa70-62a034199f8e/Vila-real0-FCBarcelona2MiguelRuiz_pic_2017-12-10villarreal-barcelona22.jpg",
       "localImage": "assets/news/4561492.jpg"
@@ -183,42 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557615/when-and-where-to-watch-the-festa-del-gamper-estrella-damm",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/8c2e2776-4bc9-42db-975f-742e758c08e5/3200x2000_Horarios.png",
       "localImage": "assets/news/4557615.png"
-    },
-    {
-      "id": "4561063",
-      "title": "Gamper live on Barça Play and YouTube",
-      "description": "Follow all the action from the Gamper Festival, including the game against Al Ahly, with a subscription to the Club's official channels",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561063/la-festa-del-gamper-estrella-damm-live-on-barca-play-and-youtube",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/a67cd1d5-5fcb-4f19-8f71-92c069db08bb/HeroWeb_3200x2000_v2_C_C.jpg",
-      "localImage": "assets/news/4561063.jpg"
-    },
-    {
-      "id": "4561121",
-      "title": "Serrajordi suffers wrist injury",
-      "description": "The Barça Femení midfielder picks up injury training with the Spain U20 squad and is expected to be out for six weeks",
-      "category": "Women",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4561121/serrajordi-suffers-wrist-injury",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/77e6e932-f1a4-40a0-9304-b12d6ffd3702/_GP10955_iay2tvdw.jpg",
-      "localImage": "assets/news/4561121.jpg"
-    },
-    {
-      "id": "4561034",
-      "title": "Squad back to work to prepare for the Gamper",
-      "description": "Hansi Flick oversees the first session of the week with all the available first team players available",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/3cf814c0-29f0-4afb-a49f-5403112db8ff/_MGA5840.jpg",
-      "localImage": "assets/news/4561034.jpg"
     }
   ]
 }
