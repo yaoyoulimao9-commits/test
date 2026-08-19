@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-19T11:01:31.826Z",
+  "generatedAt": "2026-08-19T11:59:30.061Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "'Barça really suits my personality'",
       "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Rodri signs for Barça",
       "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "10 things about Rodri",
       "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
       "category": "Feature",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "'We have a fantastic team ready to fight for everything'",
       "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Anthony Gordon, Adeyemi and Rodrigo with the Joan Gamper Trophy",
       "description": "The three new signings for Barça pose with the trophy ahead of Wednesday's game against Egyptian giants Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561806/anthony-gordon-adeyemi-and-rodrigo-with-the-joan-gamper-trophy",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Session looking ahead to the Gamper",
       "description": "The Barça squad train with eyes on Wednesday's game against Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561805/session-looking-ahead-to-the-gamper",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4560634.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-19T11:01:31.826Z",
+  "newsUpdatedAt": "2026-08-19T11:59:30.061Z",
   "archive": {}
 };
