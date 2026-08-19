@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-19T17:02:58.255Z",
+  "generatedAt": "2026-08-19T17:57:21.094Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'Barça really suits my personality'",
       "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561034.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-19T17:02:58.255Z",
+  "newsUpdatedAt": "2026-08-19T17:57:21.094Z",
   "archive": {}
 };
