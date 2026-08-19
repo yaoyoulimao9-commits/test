@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-19T14:08:49.075Z",
+  "updatedAt": "2026-08-19T16:00:05.407Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4550349",
+      "title": "How to watch the games?",
+      "description": "",
+      "category": "",
+      "relativeTime": "Published date 24 Mins ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/30/b22e49d0-29bf-45d5-b6c3-11e3111972ef/BarcaPlay_HeroWeb_3200x2000_WHITE.jpg",
+      "localImage": "assets/news/4550349.jpg"
+    },
     {
       "id": "4561033",
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'Barça really suits my personality'",
       "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Rodri signs for Barça",
       "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "10 things about Rodri",
       "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
       "category": "Feature",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561034/squad-back-to-work-to-prepare-for-the-gamper",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/3cf814c0-29f0-4afb-a49f-5403112db8ff/_MGA5840.jpg",
       "localImage": "assets/news/4561034.jpg"
-    },
-    {
-      "id": "4560634",
-      "title": "Adeyemi and Bisiwu score first goals",
-      "description": "Ger,man scores first of the five in Basel and Bisiwu comes on to score a speedy brace late in the game",
-      "category": "First Team",
-      "relativeTime": "Published date 16 Aug 26",
-      "publishedDate": "2026-08-16",
-      "dateLabel": "August 16",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/89858ac2-4e63-4caa-a152-8f761721b782/_MGA5718.jpg",
-      "localImage": "assets/news/4560634.jpg"
     }
   ]
 };
