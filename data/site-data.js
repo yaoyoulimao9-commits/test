@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-19T19:14:26.158Z",
+  "generatedAt": "2026-08-19T20:55:58.068Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,23 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
-      "id": "4562594",
-      "title": "Vote for the Star Player!",
-      "description": "Culers! You decide who has been player of the match in the Festa del Gamper Estrella Damm",
+      "id": "4562739",
+      "title": "Barça 2-1 Al Ahly: Gamper stays at home",
+      "description": "Festa del Gamper Estrella Damm is blaugrana thanks to goals from Abdelkarim and Raphinha",
       "category": "First Team",
-      "relativeTime": "Published date 24 Mins ago",
+      "relativeTime": "Published date 40 Mins ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562594/vote-for-the-star-player",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/8e4cbbaa-5c9b-40b2-9e99-284d2330233d/3200x2000_MVP-Gamper-2-.jpg",
-      "localImage": "assets/news/4562594.jpg"
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562739/fc-barcelona-2-1-al-ahly-gamper-stays-at-home",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/a099f4f6-ecc2-414b-8a6c-2d5c67b9900a/_MGA4770.jpg",
+      "localImage": "assets/news/4562739.jpg"
     },
     {
       "id": "4562674",
       "title": "Flick: 'Together we are stronger'",
       "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Stadium comes alive for squad presentation",
       "description": "The new Barça home has hosted its first Gamper, with plenty of huge ovations, especially for Rodri",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562719/spotify-camp-nou-comes-alive-for-the-presentation-of-the-202627-barca-squad",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4557615.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-19T19:14:26.158Z",
+  "newsUpdatedAt": "2026-08-19T20:55:58.068Z",
   "archive": {}
 };
