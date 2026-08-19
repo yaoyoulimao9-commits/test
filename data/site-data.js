@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-19T08:04:27.939Z",
+  "generatedAt": "2026-08-19T09:54:14.537Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4561033",
+      "title": "GAMPER PREVIEW | Barça v Al Ahly",
+      "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/d1ccd2fc-26ff-44a5-85b1-709cd02f6474/GamperMD-web.png",
+      "localImage": "assets/news/4561033.png"
+    },
+    {
       "id": "4561949",
       "title": "'Barça really suits my personality'",
       "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
@@ -6359,23 +6371,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561949.jpg"
     },
     {
-      "id": "4561501",
-      "title": "Rodri signs for Barça",
-      "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
-      "localImage": "assets/news/4561501.jpg"
-    },
-    {
       "id": "4561506",
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
@@ -6383,11 +6383,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561506.jpg"
     },
     {
+      "id": "4561501",
+      "title": "Rodri signs for Barça",
+      "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
+      "category": "First Team",
+      "relativeTime": "Published date 17 hrs ago",
+      "publishedDate": "2026-08-18",
+      "dateLabel": "August 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
+      "localImage": "assets/news/4561501.jpg"
+    },
+    {
       "id": "4561492",
       "title": "10 things about Rodri",
       "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
       "category": "Feature",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-16",
       "dateLabel": "August 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "'We have a fantastic team ready to fight for everything'",
       "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Anthony Gordon, Adeyemi and Rodrigo with the Joan Gamper Trophy",
       "description": "The three new signings for Barça pose with the trophy ahead of Wednesday's game against Egyptian giants Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561806/anthony-gordon-adeyemi-and-rodrigo-with-the-joan-gamper-trophy",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Session looking ahead to the Gamper",
       "description": "The Barça squad train with eyes on Wednesday's game against Al Ahly",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561805/session-looking-ahead-to-the-gamper",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Kuzey Kiliç, new chief of scouting",
       "description": "The 26 year old comes to Barça after gaining international experience with major European clubs such as Fenerbahçe, Zenit St. Petersburg, and Dubai BC.",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561794/kuzey-kilic-joins-the-sporting-department-as-chief-of-scouting-and-data-analytics",
@@ -6447,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for the Gamper Festival",
       "description": "The club recommends arriving at Spotify Camp Nou in good time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4561329/mobility-and-accessibility-for-the-61st-estrella-damm-gamper-festival",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560634/adeyemi-and-bisiwu-score-first-goals-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/89858ac2-4e63-4caa-a152-8f761721b782/_MGA5718.jpg",
       "localImage": "assets/news/4560634.jpg"
-    },
-    {
-      "id": "4560589",
-      "title": "Barça debut for Anthony Gordon",
-      "description": "The English winger completes his first 45 minutes as a blaugrana with glimpses of his strength and pace",
-      "category": "First Team",
-      "relativeTime": "Published date 16 Aug 26",
-      "publishedDate": "2026-08-16",
-      "dateLabel": "August 16",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4560589/anthony-gordon-makes-fc-barcelona-debut",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/16/bd9a4584-6a51-4409-8abf-1bfefa56ebd0/_MGA5422.jpg",
-      "localImage": "assets/news/4560589.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-19T08:04:27.939Z",
+  "newsUpdatedAt": "2026-08-19T09:54:14.537Z",
   "archive": {}
 };
