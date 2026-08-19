@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-19T20:55:58.068Z",
+  "generatedAt": "2026-08-19T21:59:01.234Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,15 +6347,27 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4562822",
+      "title": "Raphinha, Star Player of the 2026 Gamper",
+      "description": "The Brazilian had a hand in both goals for Barça in the 61st edition of the 'Festa del Gamper Estrella Damm'",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-19",
+      "dateLabel": "August 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562822/raphinha-star-player-of-the-2026-gamper",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/f245a862-480a-444e-a4b1-516c43605b60/DAG-117-_M1A1119.jpg",
+      "localImage": "assets/news/4562822.jpg"
+    },
+    {
       "id": "4562739",
       "title": "Barça 2-1 Al Ahly: Gamper stays at home",
       "description": "Festa del Gamper Estrella Damm is blaugrana thanks to goals from Abdelkarim and Raphinha",
       "category": "First Team",
-      "relativeTime": "Published date 40 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562739/fc-barcelona-2-1-al-ahly-gamper-stays-at-home",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/a099f4f6-ecc2-414b-8a6c-2d5c67b9900a/_MGA4770.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/89a25a7d-14b7-4b75-896d-006c2ae8297d/_MGA7316.jpg",
       "localImage": "assets/news/4562739.jpg"
     },
     {
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Together we are stronger'",
       "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Stadium comes alive for squad presentation",
       "description": "The new Barça home has hosted its first Gamper, with plenty of huge ovations, especially for Rodri",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562719/spotify-camp-nou-comes-alive-for-the-presentation-of-the-202627-barca-squad",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561317/a-week-away-from-the-100th-anniversary-of-barca-basketball",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/e5d1a9d5-b3c4-45d3-9106-298722ced51f/3057_01_15.jpg",
       "localImage": "assets/news/4561317.jpg"
-    },
-    {
-      "id": "4557615",
-      "title": "When and where to watch the Gamper",
-      "description": "International kick off times for the game which can be seen live on Barça Play and YouTube for subscribers",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4557615/when-and-where-to-watch-the-festa-del-gamper-estrella-damm",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/14/8c2e2776-4bc9-42db-975f-742e758c08e5/3200x2000_Horarios.png",
-      "localImage": "assets/news/4557615.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-19T20:55:58.068Z",
+  "newsUpdatedAt": "2026-08-19T21:59:01.234Z",
   "archive": {}
 };
