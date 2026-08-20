@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-20T08:00:06.788Z",
+  "generatedAt": "2026-08-20T09:55:44.527Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4563204",
+      "title": "Abdelkarim top scorer in preseason",
+      "description": "A goal in the Festa del Gamper Estrella Damm game makes it four for the Egyptian in preseason",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-20",
+      "dateLabel": "August 20",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/9516f3f8-3037-49ec-8b50-0d2c448482ca/DAG-052-_M1A9358.jpg",
+      "localImage": "assets/news/4563204.jpg"
+    },
+    {
+      "id": "4563191",
+      "title": "Seven Spotify Camp Nou debuts",
+      "description": "Festa del Gamper Estrella Damm sees seven Barça players make their home debuts",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-20",
+      "dateLabel": "August 20",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/f274d17e-af0c-449a-81cd-dafc5543694d/_MGA7227.jpg",
+      "localImage": "assets/news/4563191.jpg"
+    },
+    {
       "id": "4562822",
       "title": "Raphinha, Star Player of the 2026 Gamper",
       "description": "The Brazilian had a hand in both goals for Barça in the 61st edition of the 'Festa del Gamper Estrella Damm'",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562822/raphinha-star-player-of-the-2026-gamper",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 2-1 Al Ahly: Gamper stays at home",
       "description": "Festa del Gamper Estrella Damm is blaugrana thanks to goals from Abdelkarim and Raphinha",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562739/fc-barcelona-2-1-al-ahly-gamper-stays-at-home",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Together we are stronger'",
       "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Stadium comes alive for squad presentation",
       "description": "The new Barça home has hosted its first Gamper, with plenty of huge ovations, especially for Rodri",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562719/spotify-camp-nou-comes-alive-for-the-presentation-of-the-202627-barca-squad",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 19 Aug 26",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4556728/agreement-with-ajax-for-the-transfer-of-jofre-torrents",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/09/d3965a8a-1a38-4dc0-8516-a5fb8624123d/3200x2000-comiat-jofre.jpg",
       "localImage": "assets/news/4556728.jpg"
-    },
-    {
-      "id": "4561380",
-      "title": "Agreement to terminate Alan Godoy's contract",
-      "description": "FC Barcelona have reached an agreement to terminate the Canary Islander's contract with the club",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4561380/agreement-to-terminate-alan-godoys-contract",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/dcc464b9-8630-4550-8016-e88280e80223/3200X2000-comiat-Godoy.jpg",
-      "localImage": "assets/news/4561380.jpg"
-    },
-    {
-      "id": "4561317",
-      "title": "A week away from the 100th anniversary of Barça basketball",
-      "description": "The blaugrana team will reach 100 years of age next Monday 24 August which will mark the start of a season long programme of celebrations",
-      "category": "Basketball",
-      "relativeTime": "Published date 17 Aug 26",
-      "publishedDate": "2026-08-17",
-      "dateLabel": "August 17",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4561317/a-week-away-from-the-100th-anniversary-of-barca-basketball",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/e5d1a9d5-b3c4-45d3-9106-298722ced51f/3057_01_15.jpg",
-      "localImage": "assets/news/4561317.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-20T08:00:06.788Z",
+  "newsUpdatedAt": "2026-08-20T09:55:44.527Z",
   "archive": {}
 };
