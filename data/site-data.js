@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-20T14:19:28.804Z",
+  "generatedAt": "2026-08-20T16:02:38.176Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "João Cancelo: 'I'm ready to play'",
       "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
       "category": "First Team",
-      "relativeTime": "Published date 46 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Cancelo back with Barça",
       "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
@@ -6371,11 +6371,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4562497.jpg"
     },
     {
+      "id": "4563272",
+      "title": "Barça Femení defines its captains",
+      "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
+      "category": "Women",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-08-20",
+      "dateLabel": "August 20",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
       "id": "4563228",
       "title": "Aron Yaakobishvili loaned to Almeria",
       "description": "Hungarian keeper goes on loan to the Segunda División again, this time joining the Andalusian outfit",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Van Asten, McCamey, Martina and Kerolin have photo taken with Joan Gamper Trophy",
       "description": "The four new blaugranes have the traditional photo taken with the cup ahead of the match against English outfit Brighton & Hove Albion tomorrow",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim top scorer in preseason",
       "description": "A goal in the Festa del Gamper Estrella Damm game makes it four for the Egyptian in preseason",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Seven Spotify Camp Nou debuts",
       "description": "Festa del Gamper Estrella Damm sees seven Barça players make their home debuts",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Raphinha, Star Player of the 2026 Gamper",
       "description": "The Brazilian had a hand in both goals for Barça in the 61st edition of the 'Festa del Gamper Estrella Damm'",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562822/raphinha-star-player-of-the-2026-gamper",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Barça 2-1 Al Ahly: Gamper stays at home",
       "description": "Festa del Gamper Estrella Damm is blaugrana thanks to goals from Abdelkarim and Raphinha",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562739/fc-barcelona-2-1-al-ahly-gamper-stays-at-home",
@@ -6447,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Together we are stronger'",
       "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
@@ -6459,7 +6471,7 @@ window.BARCA_DATA = {
       "title": "Stadium comes alive for squad presentation",
       "description": "The new Barça home has hosted its first Gamper, with plenty of huge ovations, especially for Rodri",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562719/spotify-camp-nou-comes-alive-for-the-presentation-of-the-202627-barca-squad",
@@ -6471,7 +6483,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 19 Aug 26",
       "publishedDate": "2026-08-19",
       "dateLabel": "August 19",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6503,18 +6515,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561949.jpg"
     },
     {
-      "id": "4561506",
-      "title": "What connects Cruyff, Simonsen and Rodri?",
-      "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
-      "localImage": "assets/news/4561506.jpg"
-    },
-    {
       "id": "4561501",
       "title": "Rodri signs for Barça",
       "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
@@ -6525,6 +6525,18 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
       "localImage": "assets/news/4561501.jpg"
+    },
+    {
+      "id": "4561506",
+      "title": "What connects Cruyff, Simonsen and Rodri?",
+      "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
+      "category": "First Team",
+      "relativeTime": "Published date 18 Aug 26",
+      "publishedDate": "2026-08-18",
+      "dateLabel": "August 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
+      "localImage": "assets/news/4561506.jpg"
     },
     {
       "id": "4561492",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/5512f284-68d7-4437-897d-ab5d058e4358/_MGA6330.jpg",
       "localImage": "assets/news/4561868.jpg"
-    },
-    {
-      "id": "4561806",
-      "title": "Anthony Gordon, Adeyemi and Rodrigo with the Joan Gamper Trophy",
-      "description": "The three new signings for Barça pose with the trophy ahead of Wednesday's game against Egyptian giants Al Ahly",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561806/anthony-gordon-adeyemi-and-rodrigo-with-the-joan-gamper-trophy",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/c543ba10-cd24-415f-ba6e-0f27c052673b/WhatsApp-Image-2026-08-18-at-13.10.09.jpeg",
-      "localImage": "assets/news/4561806.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-20T14:19:28.804Z",
+  "newsUpdatedAt": "2026-08-20T16:02:38.176Z",
   "archive": {}
 };
