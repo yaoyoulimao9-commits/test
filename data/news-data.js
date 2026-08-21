@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-21T05:17:16.128Z",
+  "updatedAt": "2026-08-21T08:01:07.067Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "João Cancelo: 'I'm ready to play'",
       "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Cancelo back with Barça",
       "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça Femení defines its captains",
       "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
       "category": "Women",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Aron Yaakobishvili loaned to Almeria",
       "description": "Hungarian keeper goes on loan to the Segunda División again, this time joining the Andalusian outfit",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Van Asten, McCamey, Martina and Kerolin have photo taken with Joan Gamper Trophy",
       "description": "The four new blaugranes have the traditional photo taken with the cup ahead of the match against English outfit Brighton & Hove Albion tomorrow",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Abdelkarim top scorer in preseason",
       "description": "A goal in the Festa del Gamper Estrella Damm game makes it four for the Egyptian in preseason",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Seven Spotify Camp Nou debuts",
       "description": "Festa del Gamper Estrella Damm sees seven Barça players make their home debuts",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
@@ -171,18 +171,6 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4561949.jpg"
     },
     {
-      "id": "4561501",
-      "title": "Rodri signs for Barça",
-      "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
-      "localImage": "assets/news/4561501.jpg"
-    },
-    {
       "id": "4561506",
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
@@ -193,6 +181,18 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
       "localImage": "assets/news/4561506.jpg"
+    },
+    {
+      "id": "4561501",
+      "title": "Rodri signs for Barça",
+      "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
+      "category": "First Team",
+      "relativeTime": "Published date 18 Aug 26",
+      "publishedDate": "2026-08-18",
+      "dateLabel": "August 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
+      "localImage": "assets/news/4561501.jpg"
     },
     {
       "id": "4561492",
