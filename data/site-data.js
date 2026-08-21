@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-21T19:33:10.043Z",
+  "generatedAt": "2026-08-21T20:44:51.459Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "When and were to watch Elche v Barça",
       "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Tommy Marqués moves to SC Braga",
       "description": "Agreement reached between FC Barcelona and SC Braga for the transfer of the player Tommy Marqués",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563908/tommy-marques-moves-to-sc-braga",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "First session for Rodrigo and Cancelo",
       "description": "Midfielder does an individual session, while the fullback trains with the group",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564094/rodrigo-and-cancelo-train-at-the-ciutat-esportiva",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
       "description": "Blaugranes to be introduced to the fans ahead of the new season during the 5th women's Festa del Gamper Estrella Damm",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last 20 LaLiga openers",
       "description": "Barça have generally made positive starts to the LaLiga over the last 20 years, achieving 15 wins out of 20 in their first league game",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561033.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-21T19:33:10.043Z",
+  "newsUpdatedAt": "2026-08-21T20:44:51.459Z",
   "archive": {}
 };
