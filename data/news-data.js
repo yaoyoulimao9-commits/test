@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-21T14:08:48.250Z",
+  "updatedAt": "2026-08-21T16:01:50.621Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4562426",
+      "title": "When and were to watch Elche v Barça",
+      "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/adedf756-be78-4e4b-9935-592cfc55be59/3200x2000_Horarios-ELCHE.png",
+      "localImage": "assets/news/4562426.png"
+    },
+    {
+      "id": "4563908",
+      "title": "Tommy Marqués moves to SC Braga",
+      "description": "Agreement reached between FC Barcelona and SC Braga for the transfer of the player Tommy Marqués",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563908/tommy-marques-moves-to-sc-braga",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/f5996be3-c60f-49ba-a821-08343cf09faa/3200X2000-comiat-Tommy-Marque-s.jpg",
+      "localImage": "assets/news/4563908.jpg"
+    },
     {
       "id": "4564094",
       "title": "First session for Rodrigo and Cancelo",
       "description": "Midfielder does an individual session, while the fullback trains with the group",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564094/rodrigo-and-cancelo-train-at-the-ciutat-esportiva",
@@ -15,23 +39,11 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4564094.jpg"
     },
     {
-      "id": "4550349",
-      "title": "How to watch the games?",
-      "description": "",
-      "category": "",
-      "relativeTime": "Published date 3 hrs ago",
-      "publishedDate": "2026-08-21",
-      "dateLabel": "August 21",
-      "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/30/b22e49d0-29bf-45d5-b6c3-11e3111972ef/BarcaPlay_HeroWeb_3200x2000_WHITE.jpg",
-      "localImage": "assets/news/4550349.jpg"
-    },
-    {
       "id": "4563889",
       "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
       "description": "Blaugranes to be introduced to the fans ahead of the new season during the 6th women's Festa del Gamper Estrella Damm",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
@@ -39,11 +51,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4563889.jpg"
     },
     {
+      "id": "4550349",
+      "title": "How to watch the games?",
+      "description": "",
+      "category": "",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/30/b22e49d0-29bf-45d5-b6c3-11e3111972ef/BarcaPlay_HeroWeb_3200x2000_WHITE.jpg",
+      "localImage": "assets/news/4550349.jpg"
+    },
+    {
       "id": "4564067",
       "title": "Last 20 LaLiga openers",
       "description": "Barça have generally made positive starts to the LaLiga over the last 20 years, achieving 15 wins out of 20 in their first league game",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561033/gamper-preview-fc-barcelona-v-al-ahly",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/d1ccd2fc-26ff-44a5-85b1-709cd02f6474/GamperMD-web.png",
       "localImage": "assets/news/4561033.png"
-    },
-    {
-      "id": "4561949",
-      "title": "'Barça really suits my personality'",
-      "description": "The new Barça midfielder is determined to achieve all the team’s objectives this season",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561949/rodri-barca-really-suits-my-style-and-personality",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/da84b37d-081c-4519-9df5-54eb0149d25b/WhatsApp-Image-2026-08-18-at-18.36.51-1-.jpeg",
-      "localImage": "assets/news/4561949.jpg"
-    },
-    {
-      "id": "4561506",
-      "title": "What connects Cruyff, Simonsen and Rodri?",
-      "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
-      "localImage": "assets/news/4561506.jpg"
     }
   ]
 };
