@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-21T09:58:22.196Z",
+  "generatedAt": "2026-08-21T11:03:29.261Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4550349",
+      "title": "How to watch the games?",
+      "description": "",
+      "category": "",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/30/b22e49d0-29bf-45d5-b6c3-11e3111972ef/BarcaPlay_HeroWeb_3200x2000_WHITE.jpg",
+      "localImage": "assets/news/4550349.jpg"
+    },
+    {
+      "id": "4563889",
+      "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
+      "description": "Blaugranes to be introduced to the fans ahead of the new season during the 6th women's Festa del Gamper Estrella Damm",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/677571f3-f147-4959-868f-2f6d4766b179/_GP18751.jpg",
+      "localImage": "assets/news/4563889.jpg"
+    },
+    {
+      "id": "4564067",
+      "title": "Last 20 LaLiga openers",
+      "description": "Barça have generally made positive starts to the LaLiga over the last 20 years, achieving 15 wins out of 20 in their first league game",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/6310990f-d87d-41c6-b6c5-594d6e6f84ae/_MGA9315.jpg",
+      "localImage": "assets/news/4564067.jpg"
+    },
+    {
       "id": "4563626",
       "title": "João Cancelo: 'I'm ready to play'",
       "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Cancelo back with Barça",
       "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení defines its captains",
       "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
       "category": "Women",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Aron Yaakobishvili loaned to Almeria",
       "description": "Hungarian keeper goes on loan to the Segunda División again, this time joining the Andalusian outfit",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 20 Aug 26",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
@@ -6399,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Van Asten, McCamey, Martina and Kerolin have photo taken with Joan Gamper Trophy",
       "description": "The four new blaugranes have the traditional photo taken with the cup ahead of the match against English outfit Brighton & Hove Albion tomorrow",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 20 Aug 26",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
@@ -6479,18 +6515,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4562719.jpg"
     },
     {
-      "id": "4550349",
-      "title": "How to watch the games?",
-      "description": "",
-      "category": "",
-      "relativeTime": "Published date 19 Aug 26",
-      "publishedDate": "2026-08-19",
-      "dateLabel": "August 19",
-      "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/30/b22e49d0-29bf-45d5-b6c3-11e3111972ef/BarcaPlay_HeroWeb_3200x2000_WHITE.jpg",
-      "localImage": "assets/news/4550349.jpg"
-    },
-    {
       "id": "4561033",
       "title": "GAMPER PREVIEW | Barça v Al Ahly",
       "description": "The 2026/27 squad are presented to the fans at the 61st edition of the Festa del Gamper Estrella Damm ahead of another season of high hopes",
@@ -6515,18 +6539,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561949.jpg"
     },
     {
-      "id": "4561506",
-      "title": "What connects Cruyff, Simonsen and Rodri?",
-      "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
-      "localImage": "assets/news/4561506.jpg"
-    },
-    {
       "id": "4561501",
       "title": "Rodri signs for Barça",
       "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
@@ -6539,30 +6551,18 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561501.jpg"
     },
     {
-      "id": "4561492",
-      "title": "10 things about Rodri",
-      "description": "We take a look at the personal and sporting background of the new Barça signing, who was born in Madrid",
-      "category": "Feature",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/085c24c8-a892-461b-aa70-62a034199f8e/Vila-real0-FCBarcelona2MiguelRuiz_pic_2017-12-10villarreal-barcelona22.jpg",
-      "localImage": "assets/news/4561492.jpg"
-    },
-    {
-      "id": "4561868",
-      "title": "'We have a fantastic team ready to fight for everything'",
-      "description": "Before the 'Festa del Gamper Estrella Damm', the German coach says until a vote when the squad is complete, Raphinha, Eric and Pedri are the three captains",
+      "id": "4561506",
+      "title": "What connects Cruyff, Simonsen and Rodri?",
+      "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
       "category": "First Team",
       "relativeTime": "Published date 18 Aug 26",
       "publishedDate": "2026-08-18",
       "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561868/hansi-flick-we-have-a-fantastic-team-ready-to-fight-for-everything",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/5512f284-68d7-4437-897d-ab5d058e4358/_MGA6330.jpg",
-      "localImage": "assets/news/4561868.jpg"
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561506/what-connects-cruyff-simonsen-and-rodrix",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/22641870-6df8-4526-bd69-427dddb4f7e6/MsImatgesPilotadOr__gp14320.jpg",
+      "localImage": "assets/news/4561506.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-21T09:58:22.196Z",
+  "newsUpdatedAt": "2026-08-21T11:03:29.261Z",
   "archive": {}
 };
