@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-21T11:03:29.261Z",
+  "generatedAt": "2026-08-21T12:02:48.023Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4564094",
+      "title": "First session for Rodrigo and Cancelo",
+      "description": "Midfielder does an individual session, while the fullback trains with the group",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564094/rodrigo-and-cancelo-train-at-the-ciutat-esportiva",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/1a8b5009-62a4-4e93-9191-83c0ca667a21/WhatsApp-Image-2026-08-21-at-12.31.58-1-.jpeg",
+      "localImage": "assets/news/4564094.jpg"
+    },
+    {
       "id": "4550349",
       "title": "How to watch the games?",
       "description": "",
       "category": "",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/news/4550349/how-to-watch-the-gamesx",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
       "description": "Blaugranes to be introduced to the fans ahead of the new season during the 6th women's Festa del Gamper Estrella Damm",
       "category": "Women",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Last 20 LaLiga openers",
       "description": "Barça have generally made positive starts to the LaLiga over the last 20 years, achieving 15 wins out of 20 in their first league game",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "João Cancelo: 'I'm ready to play'",
       "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Cancelo back with Barça",
       "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení defines its captains",
       "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
@@ -6539,18 +6551,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561949.jpg"
     },
     {
-      "id": "4561501",
-      "title": "Rodri signs for Barça",
-      "description": "Agreement with Manchester City for the transfer of ‘Rodri’, who will commit to Barça until 30 June 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Aug 26",
-      "publishedDate": "2026-08-18",
-      "dateLabel": "August 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/18/b943c818-03d4-4121-b88a-5734eb9b4f2e/3200X000_Rodri.jpg",
-      "localImage": "assets/news/4561501.jpg"
-    },
-    {
       "id": "4561506",
       "title": "What connects Cruyff, Simonsen and Rodri?",
       "description": "They are the three players who have signed for Barça having won the Ballon d'Or",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561506.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-21T11:03:29.261Z",
+  "newsUpdatedAt": "2026-08-21T12:02:48.023Z",
   "archive": {}
 };
