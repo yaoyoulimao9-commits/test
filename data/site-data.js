@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-21T03:32:30.881Z",
+  "generatedAt": "2026-08-21T05:17:16.132Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "João Cancelo: 'I'm ready to play'",
       "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Cancelo back with Barça",
       "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení defines its captains",
       "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Aron Yaakobishvili loaned to Almeria",
       "description": "Hungarian keeper goes on loan to the Segunda División again, this time joining the Andalusian outfit",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Van Asten, McCamey, Martina and Kerolin have photo taken with Joan Gamper Trophy",
       "description": "The four new blaugranes have the traditional photo taken with the cup ahead of the match against English outfit Brighton & Hove Albion tomorrow",
       "category": "Women",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim top scorer in preseason",
       "description": "A goal in the Festa del Gamper Estrella Damm game makes it four for the Egyptian in preseason",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Seven Spotify Camp Nou debuts",
       "description": "Festa del Gamper Estrella Damm sees seven Barça players make their home debuts",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-20",
       "dateLabel": "August 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4561868.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-21T03:32:30.881Z",
+  "newsUpdatedAt": "2026-08-21T05:17:16.132Z",
   "archive": {}
 };
