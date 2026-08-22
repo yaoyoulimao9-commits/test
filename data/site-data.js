@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-22T19:10:24.477Z",
+  "generatedAt": "2026-08-22T20:00:37.761Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "David Oduro leaves for FC Annecy",
       "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "An unusual start to La Liga",
       "description": "Barça will play their first three league games in the space of eight days",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Patri Guijarro, 2026 Gamper star player",
       "description": "The midfielder takes the award for the second time in the preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4563204.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-22T19:10:24.477Z",
+  "newsUpdatedAt": "2026-08-22T20:00:37.761Z",
   "archive": {}
 };
