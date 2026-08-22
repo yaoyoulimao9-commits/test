@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-22T09:04:20.284Z",
+  "updatedAt": "2026-08-22T09:56:32.468Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4540543",
+      "title": "An unusual start to La Liga",
+      "description": "Barça will play their first three league games in the space of eight days",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-22",
+      "dateLabel": "August 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/66c9b2ae-ac5f-486a-ad90-4248b975592a/_MGA4754.jpg",
+      "localImage": "assets/news/4540543.jpg"
+    },
+    {
+      "id": "4564681",
+      "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
+      "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-08-22",
+      "dateLabel": "August 22",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
+      "sourceImage": "",
+      "localImage": ""
+    },
     {
       "id": "4564455",
       "title": "Patri Guijarro, 2026 Gamper star player",
       "description": "The midfielder takes the award for the second time in the preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça Femení 3-1 Brighton: Gamper win",
       "description": "In their final preseason test, the Barça women's team take a fifth consecutive win in the Joan Gamper Trophy game",
       "category": "Women",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564363/barca-femeni-3-1-brighton-hove-albion-gamper-win",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "When and were to watch Elche v Barça",
       "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
@@ -55,24 +79,12 @@ window.BARCA_NEWS = {
       "title": "First session for Rodrigo and Cancelo",
       "description": "Midfielder does an individual session, while the fullback trains with the group",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564094/rodrigo-and-cancelo-train-at-the-ciutat-esportiva",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/1a8b5009-62a4-4e93-9191-83c0ca667a21/WhatsApp-Image-2026-08-21-at-12.31.58-1-.jpeg",
       "localImage": "assets/news/4564094.jpg"
-    },
-    {
-      "id": "4563889",
-      "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
-      "description": "Blaugranes to be introduced to the fans ahead of the new season during the 5th women's Festa del Gamper Estrella Damm",
-      "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
-      "publishedDate": "2026-08-21",
-      "dateLabel": "August 21",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/677571f3-f147-4959-868f-2f6d4766b179/_GP18751.jpg",
-      "localImage": "assets/news/4563889.jpg"
     },
     {
       "id": "4550349",
@@ -87,11 +99,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4550349.jpg"
     },
     {
+      "id": "4563889",
+      "title": "GAMPER PREVIEW | Barça Femení v Brighton & Hove Albion Women",
+      "description": "Blaugranes to be introduced to the fans ahead of the new season during the 5th women's Festa del Gamper Estrella Damm",
+      "category": "Women",
+      "relativeTime": "Published date 23 hrs ago",
+      "publishedDate": "2026-08-21",
+      "dateLabel": "August 21",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563889/gamper-preview-fc-barcelona-femeni-v-brighton-hove-albion-women",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/677571f3-f147-4959-868f-2f6d4766b179/_GP18751.jpg",
+      "localImage": "assets/news/4563889.jpg"
+    },
+    {
       "id": "4564067",
       "title": "Last 20 LaLiga openers",
       "description": "Barça have generally made positive starts to the LaLiga over the last 20 years, achieving 15 wins out of 20 in their first league game",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 21 Aug 26",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562822/raphinha-star-player-of-the-2026-gamper",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/f245a862-480a-444e-a4b1-516c43605b60/DAG-117-_M1A1119.jpg",
       "localImage": "assets/news/4562822.jpg"
-    },
-    {
-      "id": "4562739",
-      "title": "Barça 2-1 Al Ahly: Gamper stays at home",
-      "description": "Festa del Gamper Estrella Damm is blaugrana thanks to goals from Abdelkarim and Raphinha",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Aug 26",
-      "publishedDate": "2026-08-19",
-      "dateLabel": "August 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562739/fc-barcelona-2-1-al-ahly-gamper-stays-at-home",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/89a25a7d-14b7-4b75-896d-006c2ae8297d/_MGA7316.jpg",
-      "localImage": "assets/news/4562739.jpg"
-    },
-    {
-      "id": "4562674",
-      "title": "Flick: 'Together we are stronger'",
-      "description": "The coach and Raphinha, acting as captain, addressed the culers before the start of the Festa del Gamper Estrella Damm",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Aug 26",
-      "publishedDate": "2026-08-19",
-      "dateLabel": "August 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562674/hansi-flick-together-we-are-stronger",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/d3392d8e-4826-4d40-b84f-54d317117ba8/_MGA6642.jpg",
-      "localImage": "assets/news/4562674.jpg"
     }
   ]
 };
