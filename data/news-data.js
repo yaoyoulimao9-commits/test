@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-22T11:53:22.141Z",
+  "updatedAt": "2026-08-22T13:45:36.567Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4564703",
+      "title": "Final session before La Liga opener",
+      "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-22",
+      "dateLabel": "August 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/0e45877f-09f2-4070-b482-914374e7d886/WhatsApp-Image-2026-08-22-at-14.04.16-1-.jpeg",
+      "localImage": "assets/news/4564703.jpg"
+    },
     {
       "id": "4540543",
       "title": "An unusual start to La Liga",
       "description": "Barça will play their first three league games in the space of eight days",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
@@ -19,19 +31,19 @@ window.BARCA_NEWS = {
       "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
       "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/103eb4b6-c25c-4dd4-b3f4-6751cae085b1/web-Transfer_2026-Makoundou.jpg",
+      "localImage": "assets/news/4564681.jpg"
     },
     {
       "id": "4564455",
       "title": "Patri Guijarro, 2026 Gamper star player",
       "description": "The midfielder takes the award for the second time in the preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça Femení 3-1 Brighton: Gamper win",
       "description": "In their final preseason test, the Barça women's team take a fifth consecutive win in the Joan Gamper Trophy game",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564363/barca-femeni-3-1-brighton-hove-albion-gamper-win",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "When and were to watch Elche v Barça",
       "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Tommy Marqués moves to SC Braga",
       "description": "Agreement reached between FC Barcelona and SC Braga for the transfer of the player Tommy Marqués",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563908/tommy-marques-moves-to-sc-braga",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/f274d17e-af0c-449a-81cd-dafc5543694d/_MGA7227.jpg",
       "localImage": "assets/news/4563191.jpg"
-    },
-    {
-      "id": "4562822",
-      "title": "Raphinha, Star Player of the 2026 Gamper",
-      "description": "The Brazilian had a hand in both goals for Barça in the 61st edition of the 'Festa del Gamper Estrella Damm'",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Aug 26",
-      "publishedDate": "2026-08-19",
-      "dateLabel": "August 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562822/raphinha-star-player-of-the-2026-gamper",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/f245a862-480a-444e-a4b1-516c43605b60/DAG-117-_M1A1119.jpg",
-      "localImage": "assets/news/4562822.jpg"
     }
   ]
 };
