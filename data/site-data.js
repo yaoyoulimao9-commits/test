@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-22T13:45:36.572Z",
+  "generatedAt": "2026-08-22T14:54:51.766Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4564312",
+      "title": "David Oduro leaves for FC Annecy",
+      "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-22",
+      "dateLabel": "August 22",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/e4a7e4ab-48a0-4d73-8bc3-93201640b143/WhatsApp-Image-2026-08-21-at-16.50.31.jpeg",
+      "localImage": "assets/news/4564312.jpg"
+    },
+    {
       "id": "4564703",
       "title": "Final session before La Liga opener",
       "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "An unusual start to La Liga",
       "description": "Barça will play their first three league games in the space of eight days",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
       "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Patri Guijarro, 2026 Gamper star player",
       "description": "The midfielder takes the award for the second time in the preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení 3-1 Brighton: Gamper win",
       "description": "In their final preseason test, the Barça women's team take a fifth consecutive win in the Joan Gamper Trophy game",
       "category": "Women",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564363/barca-femeni-3-1-brighton-hove-albion-gamper-win",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "When and were to watch Elche v Barça",
       "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 21 Aug 26",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Tommy Marqués moves to SC Braga",
       "description": "Agreement reached between FC Barcelona and SC Braga for the transfer of the player Tommy Marqués",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 21 Aug 26",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563908/tommy-marques-moves-to-sc-braga",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/9516f3f8-3037-49ec-8b50-0d2c448482ca/DAG-052-_M1A9358.jpg",
       "localImage": "assets/news/4563204.jpg"
-    },
-    {
-      "id": "4563191",
-      "title": "Seven Spotify Camp Nou debuts",
-      "description": "Festa del Gamper Estrella Damm sees seven Barça players make their home debuts",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563191/seven-players-make-spotify-camp-nou-debuts",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/f274d17e-af0c-449a-81cd-dafc5543694d/_MGA7227.jpg",
-      "localImage": "assets/news/4563191.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-22T13:45:36.572Z",
+  "newsUpdatedAt": "2026-08-22T14:54:51.766Z",
   "archive": {}
 };
