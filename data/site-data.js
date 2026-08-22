@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-22T10:56:29.943Z",
+  "generatedAt": "2026-08-22T11:53:22.145Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "An unusual start to La Liga",
       "description": "Barça will play their first three league games in the space of eight days",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
       "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Patri Guijarro, 2026 Gamper star player",
       "description": "The midfielder takes the award for the second time in the preseason friendly",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení 3-1 Brighton: Gamper win",
       "description": "In their final preseason test, the Barça women's team take a fifth consecutive win in the Joan Gamper Trophy game",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564363/barca-femeni-3-1-brighton-hove-albion-gamper-win",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "When and were to watch Elche v Barça",
       "description": "We take a look at kick off times around the globe for Barça's opening game of the 2026/27 La Liga season",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562426/when-and-where-to-watch-elche-v-fc-barcelona",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Tommy Marqués moves to SC Braga",
       "description": "Agreement reached between FC Barcelona and SC Braga for the transfer of the player Tommy Marqués",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-21",
       "dateLabel": "August 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563908/tommy-marques-moves-to-sc-braga",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4562822.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-22T10:56:29.943Z",
+  "newsUpdatedAt": "2026-08-22T11:53:22.145Z",
   "archive": {}
 };
