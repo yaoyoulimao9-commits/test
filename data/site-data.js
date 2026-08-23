@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T20:56:25.330Z",
+  "generatedAt": "2026-08-23T21:52:44.855Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Control but no reward (0-0; 3-0)",
       "description": "Barça Atlètic dominate play and the chance count, but the penalty shoot out loss means the home side take the Ciutat de Vilanova Trophy / Photo: CF Vilanova",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4565217/cf-vilanova-0-0-barca-atletic-control-but-no-reward-3-0-pens",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4562497.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T20:56:25.330Z",
+  "newsUpdatedAt": "2026-08-23T21:52:44.855Z",
   "archive": {}
 };
