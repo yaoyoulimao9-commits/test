@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T09:04:42.177Z",
+  "generatedAt": "2026-08-23T09:58:15.087Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4564872",
+      "title": "The squad for Elche",
+      "description": "23 players head to the Martínez Valero for Barça's first league fixture",
+      "category": "First Team",
+      "relativeTime": "Published date 51 Mins ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/31935b2a-30c0-43da-8a7a-4d2f13f39c86/WhatsApp-Image-2026-08-22-at-14.04.15-1-.jpeg",
+      "localImage": "assets/news/4564872.jpg"
+    },
+    {
       "id": "4564712",
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "David Oduro leaves for FC Annecy",
       "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Final session before La Liga opener",
       "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/216def0f-e45c-4c67-9ea9-22b679fbbdea/_MGA8866.jpg",
       "localImage": "assets/news/4563228.jpg"
-    },
-    {
-      "id": "4563220",
-      "title": "Van Asten, McCamey, Martina and Kerolin have photo taken with Joan Gamper Trophy",
-      "description": "The four new blaugranes have the traditional photo taken with the cup ahead of the match against English outfit Brighton & Hove Albion tomorrow",
-      "category": "Women",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/bb68b8af-0327-4d71-84e3-2532cdec0530/JC010869.jpg",
-      "localImage": "assets/news/4563220.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T09:04:42.177Z",
+  "newsUpdatedAt": "2026-08-23T09:58:15.087Z",
   "archive": {}
 };
