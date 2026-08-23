@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-23T07:50:49.405Z",
+  "updatedAt": "2026-08-23T09:04:42.172Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4564712",
+      "title": "PREVIEW | Elche v FC Barça",
+      "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/23/8ed5dd4a-e9bc-41c5-9382-49e684f00aaf/16X9_GAVI_PEDRI.png",
+      "localImage": "assets/news/4564712.png"
+    },
     {
       "id": "4564312",
       "title": "David Oduro leaves for FC Annecy",
       "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Final session before La Liga opener",
       "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "An unusual start to La Liga",
       "description": "Barça will play their first three league games in the space of eight days",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 22 Aug 26",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
       "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 22 Aug 26",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563220/van-asten-mccamey-martina-and-kerolin-have-photo-taken-with-joan-gamper-trophy",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/bb68b8af-0327-4d71-84e3-2532cdec0530/JC010869.jpg",
       "localImage": "assets/news/4563220.jpg"
-    },
-    {
-      "id": "4563204",
-      "title": "Abdelkarim top scorer in preseason",
-      "description": "A goal in the Festa del Gamper Estrella Damm game makes it four for the Egyptian in preseason",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563204/hamza-abdelkarim-top-scores-for-barca-in-preseason",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/9516f3f8-3037-49ec-8b50-0d2c448482ca/DAG-052-_M1A9358.jpg",
-      "localImage": "assets/news/4563204.jpg"
     }
   ]
 };
