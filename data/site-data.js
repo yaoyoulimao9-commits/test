@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T21:52:44.855Z",
+  "generatedAt": "2026-08-23T22:54:37.613Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4565349",
+      "title": "Raphinha and Fermín amongst the goals",
+      "description": "The two blaugranes score four of Barça's five goals in the blaugranes' big win at Elche on their debut in La Liga",
+      "category": "First Team",
+      "relativeTime": "Published date 32 Mins ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565349/raphinha-and-fermin-amongst-the-goals",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/dc175e6f-68d6-49e2-9862-398b3b5bdc12/_MGA4877.jpg",
+      "localImage": "assets/news/4565349.jpg"
+    },
+    {
+      "id": "4565259",
+      "title": "Statement of intent (0-5)",
+      "description": "League holders show hunger to score five without reply, with braces by Fermín and Raphinha, plus exciting debuts by Adeyemi and Gordon",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565259/elche-0-5-fc-barcelona-statement-of-intent",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/35fef44e-cd2e-43f1-84e6-ef80b072c61d/_MGA4974_1.jpg",
+      "localImage": "assets/news/4565259.jpg"
+    },
+    {
       "id": "4565285",
       "title": "Special tributes pre-match",
       "description": "Blaugrana World Cup winners, and former blaugrana and Elche player Marcial Pina honoured pre-match",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565285/special-tributes-ahead-of-elche-v-barca",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Control but no reward (0-0; 3-0)",
       "description": "Barça Atlètic dominate play and the chance count, but the penalty shoot out loss means the home side take the Ciutat de Vilanova Trophy / Photo: CF Vilanova",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4565217/cf-vilanova-0-0-barca-atletic-control-but-no-reward-3-0-pens",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564067/last-20-laliga-openers",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/6310990f-d87d-41c6-b6c5-594d6e6f84ae/_MGA9315.jpg",
       "localImage": "assets/news/4564067.jpg"
-    },
-    {
-      "id": "4563626",
-      "title": "João Cancelo: 'I'm ready to play'",
-      "description": "Portuguese fullback begins third spell as a blaugrana player and conveys his joy at joining the Club",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4563626/joao-cancelo-im-ready-to-play",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/db81c6a8-aa7e-48b2-9b9a-1b6d950c1202/_MGA7559.jpg",
-      "localImage": "assets/news/4563626.jpg"
-    },
-    {
-      "id": "4562497",
-      "title": "Cancelo back with Barça",
-      "description": "The Portuguese footballer joins on a permanent transfer basis from Al Hilal and signs for FC Barcelona for three seasons.",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/42849139-9fcc-4ca3-896c-8baed45ec666/3200x2000-CANCELO.jpg",
-      "localImage": "assets/news/4562497.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T21:52:44.855Z",
+  "newsUpdatedAt": "2026-08-23T22:54:37.613Z",
   "archive": {}
 };
