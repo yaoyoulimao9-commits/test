@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-23T11:53:29.898Z",
+  "updatedAt": "2026-08-23T13:47:54.025Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "David Oduro leaves for FC Annecy",
       "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 22 Aug 26",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Final session before La Liga opener",
       "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 22 Aug 26",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
