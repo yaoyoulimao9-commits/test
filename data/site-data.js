@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T14:57:55.585Z",
+  "generatedAt": "2026-08-23T15:54:28.209Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4563228.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T14:57:55.585Z",
+  "newsUpdatedAt": "2026-08-23T15:54:28.209Z",
   "archive": {}
 };
