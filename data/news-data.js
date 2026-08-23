@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-23T09:58:15.082Z",
+  "updatedAt": "2026-08-23T10:57:13.882Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 51 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -19,11 +19,11 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/07/23/8ed5dd4a-e9bc-41c5-9382-49e684f00aaf/16X9_GAVI_PEDRI.png",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/9d25ee91-1741-43d8-9ea8-553dfd4349d0/web-ELCHE-MD2.png",
       "localImage": "assets/news/4564712.png"
     },
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "David Oduro leaves for FC Annecy",
       "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Final session before La Liga opener",
       "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-22",
       "dateLabel": "August 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
