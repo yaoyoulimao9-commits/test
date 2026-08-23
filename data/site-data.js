@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T19:50:09.283Z",
+  "generatedAt": "2026-08-23T20:56:25.330Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4565285",
+      "title": "Special tributes pre-match",
+      "description": "Blaugrana World Cup winners, and former blaugrana and Elche player Marcial Pina honoured pre-match",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565285/special-tributes-ahead-of-elche-v-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/ae6811a7-e56f-4dbc-9996-d137e677dbba/_MGA8957.jpg",
+      "localImage": "assets/news/4565285.jpg"
+    },
+    {
+      "id": "4565217",
+      "title": "Control but no reward (0-0; 3-0)",
+      "description": "Barça Atlètic dominate play and the chance count, but the penalty shoot out loss means the home side take the Ciutat de Vilanova Trophy / Photo: CF Vilanova",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-23",
+      "dateLabel": "August 23",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4565217/cf-vilanova-0-0-barca-atletic-control-but-no-reward-3-0-pens",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/e7efc349-a5e6-4e43-82c8-4344f1d7d79a/fcb-once.jpg.jpeg",
+      "localImage": "assets/news/4565217.jpg"
+    },
+    {
       "id": "4564872",
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/19/42849139-9fcc-4ca3-896c-8baed45ec666/3200x2000-CANCELO.jpg",
       "localImage": "assets/news/4562497.jpg"
-    },
-    {
-      "id": "4563272",
-      "title": "Barça Femení defines its captains",
-      "description": "Patri Guijarro will be first captain this season, alongside Marta Torrejón, Irene Paredes, Aitana Bonmatí and Caroline Graham",
-      "category": "Women",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4563272/barca-femeni-defines-its-captains",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/12eaa510-8bf7-45fa-8a5c-5d4d2b1ecee5/_SLS1226-copia.jpg",
-      "localImage": "assets/news/4563272.jpg"
-    },
-    {
-      "id": "4563228",
-      "title": "Aron Yaakobishvili loaned to Almeria",
-      "description": "Hungarian keeper goes on loan to the Segunda División again, this time joining the Andalusian outfit",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 Aug 26",
-      "publishedDate": "2026-08-20",
-      "dateLabel": "August 20",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4563228/aron-yaakobishvili-loaned-to-almeria",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/20/216def0f-e45c-4c67-9ea9-22b679fbbdea/_MGA8866.jpg",
-      "localImage": "assets/news/4563228.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T19:50:09.283Z",
+  "newsUpdatedAt": "2026-08-23T20:56:25.330Z",
   "archive": {}
 };
