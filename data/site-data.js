@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-23T23:53:20.525Z",
+  "generatedAt": "2026-08-24T03:35:20.992Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha and Fermín amongst the goals",
       "description": "The two blaugranes score four of Barça's five goals in the blaugranes' big win at Elche on their debut in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565349/raphinha-and-fermin-amongst-the-goals",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Statement of intent (0-5)",
       "description": "League holders show hunger to score five without reply, with braces by Fermín and Raphinha, plus exciting debuts by Adeyemi and Gordon",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565259/elche-0-5-fc-barcelona-statement-of-intent",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Special tributes pre-match",
       "description": "Blaugrana World Cup winners, and former blaugrana and Elche player Marcial Pina honoured pre-match",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565285/special-tributes-ahead-of-elche-v-barca",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Control but no reward (0-0; 3-0)",
       "description": "Barça Atlètic dominate play and the chance count, but the penalty shoot out loss means the home side take the Ciutat de Vilanova Trophy / Photo: CF Vilanova",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4565217/cf-vilanova-0-0-barca-atletic-control-but-no-reward-3-0-pens",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The squad for Elche",
       "description": "23 players head to the Martínez Valero for Barça's first league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Elche v FC Barça",
       "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-23",
       "dateLabel": "August 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4564067.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-23T23:53:20.525Z",
+  "newsUpdatedAt": "2026-08-24T03:35:20.992Z",
   "archive": {}
 };
