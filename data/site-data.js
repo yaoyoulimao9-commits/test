@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-25T09:59:21.946Z",
+  "generatedAt": "2026-08-25T11:13:57.964Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4566188",
+      "title": "Second to last session before Spotify Camp Nou league debut",
+      "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
+      "category": "First Team",
+      "relativeTime": "Published date 48 Mins ago",
+      "publishedDate": "2026-08-25",
+      "dateLabel": "August 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/5e1a4094-6af5-4e26-a759-9a6c3fb99f72/WhatsApp-Image-2026-08-25-at-12.25.02-3-.jpeg",
+      "localImage": "assets/news/4566188.jpg"
+    },
+    {
       "id": "4565856",
       "title": "When and where to watch Barça v Athletic",
       "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Laporta: 'Our best basketball has yet to come'",
       "description": "Barça basketball celebrates its centenary with an event at the Auditori 1899",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4565548/joan-laporta-barcas-best-basketball-has-yet-to-come",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Gavi injury update",
       "description": "Latest on the Andalusian midfielder, while the rest of the team trains this Monday",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565550/gavi-injury-update",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Ten events for basketball centenary",
       "description": "The basketball section will celebrate its 100th anniversary throughout the season with a series of tributes, commemorations and celebrations",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4565499/ten-events-to-celebrate-the-centenary-of-barca-basketball",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona official statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/club/news/4565541/fc-barcelona-official-statement",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/103eb4b6-c25c-4dd4-b3f4-6751cae085b1/web-Transfer_2026-Makoundou.jpg",
       "localImage": "assets/news/4564681.jpg"
-    },
-    {
-      "id": "4564455",
-      "title": "Patri Guijarro, 2026 Gamper star player",
-      "description": "The midfielder takes the award for the second time in the preseason friendly",
-      "category": "Women",
-      "relativeTime": "Published date 21 Aug 26",
-      "publishedDate": "2026-08-21",
-      "dateLabel": "August 21",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/420050fd-92bd-4355-8405-78b7e332e9e3/DAG-101-_M1A5430.jpg",
-      "localImage": "assets/news/4564455.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-25T09:59:21.946Z",
+  "newsUpdatedAt": "2026-08-25T11:13:57.964Z",
   "archive": {}
 };
