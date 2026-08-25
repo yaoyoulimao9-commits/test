@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-25T08:03:40.549Z",
+  "generatedAt": "2026-08-25T09:59:21.946Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4565856",
+      "title": "When and where to watch Barça v Athletic",
+      "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-25",
+      "dateLabel": "August 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/24/4a15279f-8327-43af-9b89-17eb19732df4/3200x2000_Horarios-ATCLUB.png",
+      "localImage": "assets/news/4565856.png"
+    },
+    {
       "id": "4565548",
       "title": "Laporta: 'Our best basketball has yet to come'",
       "description": "Barça basketball celebrates its centenary with an event at the Auditori 1899",
       "category": "Basketball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4565548/joan-laporta-barcas-best-basketball-has-yet-to-come",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Gavi injury update",
       "description": "Latest on the Andalusian midfielder, while the rest of the team trains this Monday",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565550/gavi-injury-update",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Ten events for basketball centenary",
       "description": "The basketball section will celebrate its 100th anniversary throughout the season with a series of tributes, commemorations and celebrations",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4565499/ten-events-to-celebrate-the-centenary-of-barca-basketball",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona official statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/club/news/4565541/fc-barcelona-official-statement",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Debut goal for Adeyemi",
       "description": "German winger finds the net in his first official start for his new club",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565511/debut-goal-for-adeyemi",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Anthony Gordon, instant impact",
       "description": "New signing only needed four minutes to give two assists",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565520/anthony-gordon-instant-impact",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564455/patri-guijarro-2026-gamper-star-player",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/420050fd-92bd-4355-8405-78b7e332e9e3/DAG-101-_M1A5430.jpg",
       "localImage": "assets/news/4564455.jpg"
-    },
-    {
-      "id": "4564363",
-      "title": "Barça Femení 3-1 Brighton: Gamper win",
-      "description": "In their final preseason test, the Barça women's team take a fifth consecutive win in the Joan Gamper Trophy game",
-      "category": "Women",
-      "relativeTime": "Published date 21 Aug 26",
-      "publishedDate": "2026-08-21",
-      "dateLabel": "August 21",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4564363/barca-femeni-3-1-brighton-hove-albion-gamper-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/4177d342-eb70-4fb3-957b-7bc10068a974/AC207155.jpg",
-      "localImage": "assets/news/4564363.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-25T08:03:40.549Z",
+  "newsUpdatedAt": "2026-08-25T09:59:21.946Z",
   "archive": {}
 };
