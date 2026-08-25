@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-25T11:13:57.964Z",
+  "generatedAt": "2026-08-25T14:13:10.861Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before Spotify Camp Nou league debut",
       "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 48 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Athletic",
       "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Laporta: 'Our best basketball has yet to come'",
       "description": "Barça basketball celebrates its centenary with an event at the Auditori 1899",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 24 Aug 26",
       "publishedDate": "2026-08-24",
       "dateLabel": "August 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4565548/joan-laporta-barcas-best-basketball-has-yet-to-come",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4564681.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-25T11:13:57.964Z",
+  "newsUpdatedAt": "2026-08-25T14:13:10.861Z",
   "archive": {}
 };
