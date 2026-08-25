@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-25T14:13:10.861Z",
+  "generatedAt": "2026-08-25T16:20:36.932Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4566178",
+      "title": "Interesting facts about Barça v Athletic",
+      "description": "Blaugranes set to play their first home LaLiga game of the season at the Spotify Camp Nou against the Basque side on 27 August",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-08-25",
+      "dateLabel": "August 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566178/five-interesting-facts-about-barca-v-athletic-club",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/1dff740b-e603-4883-a224-5736d5a706d7/lamine-athletic.jpg",
+      "localImage": "assets/news/4566178.jpg"
+    },
+    {
       "id": "4566188",
       "title": "Second to last session before Spotify Camp Nou league debut",
       "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Athletic",
       "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/66c9b2ae-ac5f-486a-ad90-4248b975592a/_MGA4754.jpg",
       "localImage": "assets/news/4540543.jpg"
-    },
-    {
-      "id": "4564681",
-      "title": "Yoan Makoundou, new recruit for the blaugranes' inside game",
-      "description": "The 26 year old 2.07m player signs a contract until 30 June 2028",
-      "category": "Basketball",
-      "relativeTime": "Published date 22 Aug 26",
-      "publishedDate": "2026-08-22",
-      "dateLabel": "August 22",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4564681/yoan-makoundou-new-recruit-for-the-blaugranes-inside-game",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/103eb4b6-c25c-4dd4-b3f4-6751cae085b1/web-Transfer_2026-Makoundou.jpg",
-      "localImage": "assets/news/4564681.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-25T14:13:10.861Z",
+  "newsUpdatedAt": "2026-08-25T16:20:36.932Z",
   "archive": {}
 };
