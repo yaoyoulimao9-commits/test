@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-25T23:57:52.291Z",
+  "generatedAt": "2026-08-26T03:37:20.463Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Interesting facts about Barça v Athletic",
       "description": "Blaugranes set to play their first home LaLiga game of the season at the Spotify Camp Nou against the Basque side on 27 August",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566178/five-interesting-facts-about-barca-v-athletic-club",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before Spotify Camp Nou league debut",
       "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Athletic",
       "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4540543.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-25T23:57:52.291Z",
+  "newsUpdatedAt": "2026-08-26T03:37:20.463Z",
   "archive": {}
 };
