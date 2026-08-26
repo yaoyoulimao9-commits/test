@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-08-26T10:19:52.230Z",
+  "updatedAt": "2026-08-26T11:59:18.253Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4566822",
+      "title": "Final preparations ahead of home bow",
+      "description": "Hansi Flick runs final session featuring all available first team players ahead of the match against the Basque side",
+      "category": "First Team",
+      "relativeTime": "Published date 45 Mins ago",
+      "publishedDate": "2026-08-26",
+      "dateLabel": "August 26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566822/final-preparations-ahead-of-first-home-match-at-the-spotify-camp-nou-against-athletic-club",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/284a5fb2-6caf-401f-8679-af42edf7e057/WhatsApp-Image-2026-08-26-at-13.09.59-1-.jpeg",
+      "localImage": "assets/news/4566822.jpg"
+    },
+    {
+      "id": "4566835",
+      "title": "'The team has a hunger to win'",
+      "description": "Rodri, Pedri and Cubarsí were some of the names that came up during Hansi Flick¡s press conference ahead of Barça v Athletic",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-26",
+      "dateLabel": "August 26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566835/hansi-flick-the-team-has-a-hunger-to-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/89106a1d-5cce-4790-b3fc-bdcfccaa7aaa/_MGA0160.jpg",
+      "localImage": "assets/news/4566835.jpg"
+    },
+    {
       "id": "4566285",
       "title": "Lilac Point to be implemented at Spotify Camp Nou starting from Barça v Athletic Club",
       "description": "Lilac Point to be launched at Barça v Athletic Club and will remain available for all matches to be played at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 49 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/club/news/4566285/fc-barcelona-strengthens-its-commitment-to-fight-gender-based-violence-and-lgbti-phobic-behaviour-with-a-lilac-point-at-spotify-camp-nou",
@@ -21,7 +45,7 @@
       "title": "Sponsorship agreement with EGYPTAIR",
       "description": "Egyptian airline becomes a new ‘Global Partner’ for the Club and the ‘Exclusive Official Airline’ for the men's football first team, the basketball team and the handball team",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/club/news/4566789/egyptair-and-fc-barcelona-sign-three-season-sponsorship-agreement",
@@ -33,7 +57,7 @@
       "title": "Interesting facts about Barça v Athletic",
       "description": "Blaugranes set to play their first home LaLiga game of the season at the Spotify Camp Nou against the Basque side on 27 August",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 25 Aug 26",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566178/five-interesting-facts-about-barca-v-athletic-club",
@@ -45,7 +69,7 @@
       "title": "Second to last session before Spotify Camp Nou league debut",
       "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 25 Aug 26",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564872/the-squad-for-elche",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/31935b2a-30c0-43da-8a7a-4d2f13f39c86/WhatsApp-Image-2026-08-22-at-14.04.15-1-.jpeg",
       "localImage": "assets/news/4564872.jpg"
-    },
-    {
-      "id": "4564712",
-      "title": "PREVIEW | Elche v FC Barça",
-      "description": "The Catalans begin their domestic campaign this Sunday with a visit to the Martínez Valero",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Aug 26",
-      "publishedDate": "2026-08-23",
-      "dateLabel": "August 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564712/preview-elche-cf-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/23/15fc47dc-02aa-497c-af82-57345453fb1b/web-ELCHE-MD2.png",
-      "localImage": "assets/news/4564712.png"
-    },
-    {
-      "id": "4564312",
-      "title": "David Oduro leaves for FC Annecy",
-      "description": "FC Barcelona reserves a percentage of any future sale of the Ghanian full back",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 22 Aug 26",
-      "publishedDate": "2026-08-22",
-      "dateLabel": "August 22",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/e4a7e4ab-48a0-4d73-8bc3-93201640b143/WhatsApp-Image-2026-08-21-at-16.50.31.jpeg",
-      "localImage": "assets/news/4564312.jpg"
     }
   ]
 }
