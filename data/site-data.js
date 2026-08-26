@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-26T08:24:09.964Z",
+  "generatedAt": "2026-08-26T10:19:52.236Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,15 +6347,39 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4566285",
+      "title": "Lilac Point to be implemented at Spotify Camp Nou starting from Barça v Athletic Club",
+      "description": "Lilac Point to be launched at Barça v Athletic Club and will remain available for all matches to be played at Spotify Camp Nou",
+      "category": "Club",
+      "relativeTime": "Published date 49 Mins ago",
+      "publishedDate": "2026-08-26",
+      "dateLabel": "August 26",
+      "source": "https://www.fcbarcelona.com/en/club/news/4566285/fc-barcelona-strengthens-its-commitment-to-fight-gender-based-violence-and-lgbti-phobic-behaviour-with-a-lilac-point-at-spotify-camp-nou",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/0287ad3a-64ed-4a22-8a3d-9e24e0f682f0/2608_Punt_Lila_Web_Hero_3200x2000_01_CAT.jpg",
+      "localImage": "assets/news/4566285.jpg"
+    },
+    {
+      "id": "4566789",
+      "title": "Sponsorship agreement with EGYPTAIR",
+      "description": "Egyptian airline becomes a new ‘Global Partner’ for the Club and the ‘Exclusive Official Airline’ for the men's football first team, the basketball team and the handball team",
+      "category": "Club",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-26",
+      "dateLabel": "August 26",
+      "source": "https://www.fcbarcelona.com/en/club/news/4566789/egyptair-and-fc-barcelona-sign-three-season-sponsorship-agreement",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/2f348876-4571-424f-8a6a-98fe0dacea86/3200x2000_EGYPTAir-Anouncement-JL.jpg",
+      "localImage": "assets/news/4566789.jpg"
+    },
+    {
       "id": "4566178",
       "title": "Interesting facts about Barça v Athletic",
       "description": "Blaugranes set to play their first home LaLiga game of the season at the Spotify Camp Nou against the Basque side on 27 August",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566178/five-interesting-facts-about-barca-v-athletic-club",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/1dff740b-e603-4883-a224-5736d5a706d7/lamine-athletic.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/e3c8c410-bfa1-4351-914b-593af9b9162b/lamine-athletic.jpg",
       "localImage": "assets/news/4566178.jpg"
     },
     {
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before Spotify Camp Nou league debut",
       "description": "On Tuesday Hansi Flick had all his available first team players for the morning session at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566188/second-to-last-session-before-spotify-camp-nou-league-debut",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Athletic",
       "description": "We take a look at the kick-off times around the world for the first competitive game of the season at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 25 Aug 26",
       "publishedDate": "2026-08-25",
       "dateLabel": "August 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4565856/when-and-where-to-watch-fc-barcelona-v-athletic-club",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4564312/david-oduro-leaves-for-fc-annecy",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/21/e4a7e4ab-48a0-4d73-8bc3-93201640b143/WhatsApp-Image-2026-08-21-at-16.50.31.jpeg",
       "localImage": "assets/news/4564312.jpg"
-    },
-    {
-      "id": "4564703",
-      "title": "Final session before La Liga opener",
-      "description": "Hansi Flick's squad work out for the final time ahead of Sunday's game in the league away at Elche",
-      "category": "First Team",
-      "relativeTime": "Published date 22 Aug 26",
-      "publishedDate": "2026-08-22",
-      "dateLabel": "August 22",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4564703/final-session-before-la-liga-opener",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/0e45877f-09f2-4070-b482-914374e7d886/WhatsApp-Image-2026-08-22-at-14.04.16-1-.jpeg",
-      "localImage": "assets/news/4564703.jpg"
-    },
-    {
-      "id": "4540543",
-      "title": "An unusual start to La Liga",
-      "description": "Barça will play their first three league games in the space of eight days",
-      "category": "First Team",
-      "relativeTime": "Published date 22 Aug 26",
-      "publishedDate": "2026-08-22",
-      "dateLabel": "August 22",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4540543/an-unusual-start-to-la-liga",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/22/66c9b2ae-ac5f-486a-ad90-4248b975592a/_MGA4754.jpg",
-      "localImage": "assets/news/4540543.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-26T08:24:09.964Z",
+  "newsUpdatedAt": "2026-08-26T10:19:52.236Z",
   "archive": {}
 };
