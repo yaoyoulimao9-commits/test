@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-26T11:59:18.258Z",
+  "generatedAt": "2026-08-26T14:30:05.268Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Final preparations ahead of home bow",
       "description": "Hansi Flick runs final session featuring all available first team players ahead of the match against the Basque side",
       "category": "First Team",
-      "relativeTime": "Published date 45 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566822/final-preparations-ahead-of-first-home-match-at-the-spotify-camp-nou-against-athletic-club",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "'The team has a hunger to win'",
       "description": "Rodri, Pedri and Cubarsí were some of the names that came up during Hansi Flick¡s press conference ahead of Barça v Athletic",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566835/hansi-flick-the-team-has-a-hunger-to-win",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Lilac Point to be implemented at Spotify Camp Nou starting from Barça v Athletic Club",
       "description": "Lilac Point to be launched at Barça v Athletic Club and will remain available for all matches to be played at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/club/news/4566285/fc-barcelona-strengthens-its-commitment-to-fight-gender-based-violence-and-lgbti-phobic-behaviour-with-a-lilac-point-at-spotify-camp-nou",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Sponsorship agreement with EGYPTAIR",
       "description": "Egyptian airline becomes a new ‘Global Partner’ for the Club and the ‘Exclusive Official Airline’ for the men's football first team, the basketball team and the handball team",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-08-26",
       "dateLabel": "August 26",
       "source": "https://www.fcbarcelona.com/en/club/news/4566789/egyptair-and-fc-barcelona-sign-three-season-sponsorship-agreement",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4564872.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-26T11:59:18.258Z",
+  "newsUpdatedAt": "2026-08-26T14:30:05.268Z",
   "archive": {}
 };
