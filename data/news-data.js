@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-28T21:53:29.981Z",
+  "updatedAt": "2026-08-28T22:15:29.674Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "'I liked what I saw'",
       "description": "The Barça coach reflects on his team's win over Athletic Club in their Spotify Camp Nou league debut",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 27 Aug 26",
       "publishedDate": "2026-08-27",
       "dateLabel": "August 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567875/hansi-flick-i-liked-what-i-saw",
