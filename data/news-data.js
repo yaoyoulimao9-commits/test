@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T11:15:49.119Z",
+  "updatedAt": "2026-08-29T11:45:24.078Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4568631",
+      "title": "Dates and times for UEFA CL league phase fixtures confirmed",
+      "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
+      "category": "First Team",
+      "relativeTime": "Published date 24 Mins ago",
+      "publishedDate": "2026-08-29",
+      "dateLabel": "August 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/f2fc2878-c371-4f11-b76a-6b0aeb4e0d09/_MGA5037.jpg",
+      "localImage": "assets/news/4568631.jpg"
+    },
     {
       "id": "4568632",
       "title": "Preparations for Barça v Rayo under way",
       "description": "FC Barcelona first team in for training this morning, as Livaković completes second session",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Rayo",
       "description": "We take a look at the international kick-off times for another La Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4566893/mobility-and-accessibility-for-fc-barcelona-v-athletic-club",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/7beaa391-1c08-423c-ba9e-6f4418934772/DAG-446-_C4A1613.jpg",
       "localImage": "assets/news/4566893.jpg"
-    },
-    {
-      "id": "4566822",
-      "title": "Final preparations ahead of home bow",
-      "description": "Hansi Flick runs final session featuring all available first team players ahead of the match against the Basque side",
-      "category": "First Team",
-      "relativeTime": "Published date 26 Aug 26",
-      "publishedDate": "2026-08-26",
-      "dateLabel": "August 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566822/final-preparations-ahead-of-first-home-match-at-the-spotify-camp-nou-against-athletic-club",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/284a5fb2-6caf-401f-8679-af42edf7e057/WhatsApp-Image-2026-08-26-at-13.09.59-1-.jpeg",
-      "localImage": "assets/news/4566822.jpg"
     }
   ]
 };
