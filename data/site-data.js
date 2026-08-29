@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T22:45:38.576Z",
+  "generatedAt": "2026-08-29T23:15:29.392Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566224.png"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T22:45:38.576Z",
+  "newsUpdatedAt": "2026-08-29T23:15:29.392Z",
   "archive": {}
 };
