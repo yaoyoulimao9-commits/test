@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T19:45:37.648Z",
+  "generatedAt": "2026-08-29T20:15:38.359Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4568488",
+      "title": "Héctor Fort transferred to Real Sociedad",
+      "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
+      "category": "First Team",
+      "relativeTime": "Published date 15 Mins ago",
+      "publishedDate": "2026-08-29",
+      "dateLabel": "August 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/886b7ab4-5137-4797-9a2c-fd54eafbdfba/3200X2000-comiat-Hector.jpg",
+      "localImage": "assets/news/4568488.jpg"
+    },
+    {
       "id": "4567719",
       "title": "UEFA Youth League opponents and schedule for U-19As",
       "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566224/preview-fc-barcelona-v-athletic-club",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/6dd16f29-3cad-454f-86ae-e22f42ae4a5b/web-AthleticClub-MD.png",
       "localImage": "assets/news/4566224.png"
-    },
-    {
-      "id": "4566176",
-      "title": "Preview of the Champions League draw",
-      "description": "On Thursday, from 6pm CEST, FC Barcelona will discover their opponents in the League Phase of the 2026/27 edition of Europe's premier club competition",
-      "category": "First Team",
-      "relativeTime": "Published date 26 Aug 26",
-      "publishedDate": "2026-08-26",
-      "dateLabel": "August 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566176/all-you-need-to-know-about-the-uefa-champions-league-draw",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/778ca42b-e004-473c-9959-a1131c7a0c6a/GalaUEFAMillorJugadoradelAny20222023__sgb7879.jpg",
-      "localImage": "assets/news/4566176.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T19:45:37.648Z",
+  "newsUpdatedAt": "2026-08-29T20:15:38.359Z",
   "archive": {}
 };
