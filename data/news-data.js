@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T13:45:55.248Z",
+  "updatedAt": "2026-08-29T14:16:30.705Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
