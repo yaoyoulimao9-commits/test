@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T12:45:27.457Z",
+  "generatedAt": "2026-08-29T13:16:03.992Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4567719",
+      "title": "UEFA Youth League opponents and schedule for U-19As",
+      "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
+      "category": "Barça Youth",
+      "relativeTime": "Published date 50 Mins ago",
+      "publishedDate": "2026-08-29",
+      "dateLabel": "August 29",
+      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4567719/uefa-youth-league-opponents-and-schedule-for-u-19as",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/2b82d493-a3a9-45b2-a64e-2bc1bc4c706e/3200X200_DRAW-UYL.jpg",
+      "localImage": "assets/news/4567719.jpg"
+    },
+    {
       "id": "4568631",
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566176/all-you-need-to-know-about-the-uefa-champions-league-draw",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/778ca42b-e004-473c-9959-a1131c7a0c6a/GalaUEFAMillorJugadoradelAny20222023__sgb7879.jpg",
       "localImage": "assets/news/4566176.jpg"
-    },
-    {
-      "id": "4566893",
-      "title": "Mobility and accessibility for FC Barcelona v Athletic Club",
-      "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
-      "category": "Club",
-      "relativeTime": "Published date 26 Aug 26",
-      "publishedDate": "2026-08-26",
-      "dateLabel": "August 26",
-      "source": "https://www.fcbarcelona.com/en/club/news/4566893/mobility-and-accessibility-for-fc-barcelona-v-athletic-club",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/17/7beaa391-1c08-423c-ba9e-6f4418934772/DAG-446-_C4A1613.jpg",
-      "localImage": "assets/news/4566893.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T12:45:27.457Z",
+  "newsUpdatedAt": "2026-08-29T13:16:03.992Z",
   "archive": {}
 };
