@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T10:45:38.171Z",
+  "generatedAt": "2026-08-29T11:15:49.178Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 28 Aug 26",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566822.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T10:45:38.171Z",
+  "newsUpdatedAt": "2026-08-29T11:15:49.178Z",
   "archive": {}
 };
