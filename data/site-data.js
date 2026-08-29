@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T11:45:24.083Z",
+  "generatedAt": "2026-08-29T12:15:39.532Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 24 Mins ago",
+      "relativeTime": "Published date 54 Mins ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566893.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T11:45:24.083Z",
+  "newsUpdatedAt": "2026-08-29T12:15:39.532Z",
   "archive": {}
 };
