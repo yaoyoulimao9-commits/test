@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T05:45:42.051Z",
+  "updatedAt": "2026-08-29T06:15:50.428Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
