@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T00:15:38.285Z",
+  "updatedAt": "2026-08-29T00:45:29.873Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Rayo",
       "description": "We take a look at the international kick-off times for another La Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "The 2007 generation goes from strength to strength",
       "description": "Xavi Espart adds his names to those of Lamine Yamal, Marc Bernal and Pau Cubarsí as blaurganes born in the year 2007",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568150/the-2007-generation-goes-from-strength-to-strength",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "10 things from the Champions League draw",
       "description": "Some take aways for the blaugranes after discovering their eight opponents in the Champions League initial phase",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568107/10-things-from-the-champions-league-draw",

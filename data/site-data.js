@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-29T00:15:38.289Z",
+  "generatedAt": "2026-08-29T00:45:29.878Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Rayo",
       "description": "We take a look at the international kick-off times for another La Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "The 2007 generation goes from strength to strength",
       "description": "Xavi Espart adds his names to those of Lamine Yamal, Marc Bernal and Pau Cubarsí as blaurganes born in the year 2007",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568150/the-2007-generation-goes-from-strength-to-strength",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "10 things from the Champions League draw",
       "description": "Some take aways for the blaugranes after discovering their eight opponents in the Champions League initial phase",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568107/10-things-from-the-champions-league-draw",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566835.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-29T00:15:38.289Z",
+  "newsUpdatedAt": "2026-08-29T00:45:29.878Z",
   "archive": {}
 };
