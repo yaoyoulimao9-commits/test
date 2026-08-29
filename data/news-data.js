@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T03:45:23.073Z",
+  "updatedAt": "2026-08-29T04:15:45.784Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Marc Crosas with the Barça Foundation and Scotiabank in Mexico",
       "description": "The former Barça player shares his experience after visiting the socio-educational programme run by the Barça Foundation, Scotiabank and Fundación Don Bosco in the state of Morelos",
       "category": "",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/news/4568096/marc-crosas-with-the-barca-foundation-and-scotiabank-in-mexico",
