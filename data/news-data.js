@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-29T09:15:40.544Z",
+  "updatedAt": "2026-08-29T09:45:44.325Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4568632",
+      "title": "Preparations for Barça v Rayo under way",
+      "description": "FC Barcelona first team in for training this morning, as Livaković completes second session",
+      "category": "First Team",
+      "relativeTime": "Published date 12 Mins ago",
+      "publishedDate": "2026-08-29",
+      "dateLabel": "August 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/4b790afd-988c-4f26-ab7e-97eceb9564e1/WhatsApp-Image-2026-08-29-at-11.24.04-4-.jpeg",
+      "localImage": "assets/news/4568632.jpg"
+    },
     {
       "id": "4568142",
       "title": "When and where to watch Barça v Rayo",
       "description": "We take a look at the international kick-off times for another La Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "The 2007 generation goes from strength to strength",
       "description": "Xavi Espart adds his names to those of Lamine Yamal, Marc Bernal and Pau Cubarsí as blaurganes born in the year 2007",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568150/the-2007-generation-goes-from-strength-to-strength",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "10 things from the Champions League draw",
       "description": "Some take aways for the blaugranes after discovering their eight opponents in the Champions League initial phase",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-28",
       "dateLabel": "August 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568107/10-things-from-the-champions-league-draw",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566822/final-preparations-ahead-of-first-home-match-at-the-spotify-camp-nou-against-athletic-club",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/284a5fb2-6caf-401f-8679-af42edf7e057/WhatsApp-Image-2026-08-26-at-13.09.59-1-.jpeg",
       "localImage": "assets/news/4566822.jpg"
-    },
-    {
-      "id": "4566835",
-      "title": "'The team has a hunger to win'",
-      "description": "Rodri, Pedri and Cubarsí were some of the names that came up during Hansi Flick¡s press conference ahead of Barça v Athletic",
-      "category": "First Team",
-      "relativeTime": "Published date 26 Aug 26",
-      "publishedDate": "2026-08-26",
-      "dateLabel": "August 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566835/hansi-flick-the-team-has-a-hunger-to-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/89106a1d-5cce-4790-b3fc-bdcfccaa7aaa/_MGA0160.jpg",
-      "localImage": "assets/news/4566835.jpg"
     }
   ]
 };
