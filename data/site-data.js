@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T12:45:37.258Z",
+  "generatedAt": "2026-08-30T13:15:39.646Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4569011",
+      "title": "'Most important is how we play as a team'",
+      "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-30",
+      "dateLabel": "August 30",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/918cbcb4-1215-48bf-a423-1aef795dd66e/_MGA1813.jpg",
+      "localImage": "assets/news/4569011.jpg"
+    },
+    {
       "id": "4568965",
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Four facts ahead of Barça v Rayo",
       "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
       "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
       "category": "Futsal",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567003/rodri-in-squad-for-barca-v-athletic",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/9a86950b-c206-4702-adb2-f813ef235c1e/_MGA9555.jpg",
       "localImage": "assets/news/4567003.jpg"
-    },
-    {
-      "id": "4566445",
-      "title": "Xavi Espart official first team squad member",
-      "description": "The versatile La Masia product joins senior squad and picks up a jersey number unused since the 2021/22 season",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566445/xavi-espart-first-team-squad-member-with-the-number-12-jersey",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/7ede8acb-11e6-4d4f-a2bc-05b58345a109/WhatsApp-Image-2026-08-25-at-19.17.16.jpeg",
-      "localImage": "assets/news/4566445.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T12:45:37.258Z",
+  "newsUpdatedAt": "2026-08-30T13:15:39.646Z",
   "archive": {}
 };
