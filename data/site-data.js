@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T20:45:36.217Z",
+  "generatedAt": "2026-08-30T21:15:27.609Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-0 Tenerife: Five to start with",
       "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
       "category": "Women",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "'Most important is how we play as a team'",
       "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4567685.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T20:45:36.217Z",
+  "newsUpdatedAt": "2026-08-30T21:15:27.609Z",
   "archive": {}
 };
