@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T12:15:33.316Z",
+  "generatedAt": "2026-08-30T12:45:37.258Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4568965",
+      "title": "Last session ahead of visit of Rayo",
+      "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-08-30",
+      "dateLabel": "August 30",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/32133cf2-b685-4592-848f-760c59053706/WhatsApp-Image-2026-08-30-at-13.57.02.jpeg",
+      "localImage": "assets/news/4568965.jpg"
+    },
+    {
       "id": "4568157",
       "title": "Four facts ahead of Barça v Rayo",
       "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "UEFA Youth League opponents and schedule for U-19As",
       "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
       "category": "Barça Youth",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 29 Aug 26",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4567719/uefa-youth-league-opponents-and-schedule-for-u-19as",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566445/xavi-espart-first-team-squad-member-with-the-number-12-jersey",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/25/7ede8acb-11e6-4d4f-a2bc-05b58345a109/WhatsApp-Image-2026-08-25-at-19.17.16.jpeg",
       "localImage": "assets/news/4566445.jpg"
-    },
-    {
-      "id": "4566933",
-      "title": "Livaković is a new blaugrana player",
-      "description": "Agreement reached between FC Barcelona and Fenerbahçe SK for the transfer of the Croatian keeper, who signs for four seasons up to 30 June 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/4f02606a-ab07-4020-bbf9-d1e325fc295c/3200x2000_LIVAKOVIC.jpg",
-      "localImage": "assets/news/4566933.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T12:15:33.316Z",
+  "newsUpdatedAt": "2026-08-30T12:45:37.258Z",
   "archive": {}
 };
