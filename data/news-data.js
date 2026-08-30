@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-30T19:15:32.799Z",
+  "updatedAt": "2026-08-30T19:45:37.881Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4569141",
+      "title": "Barça 5-0 Tenerife: Five to start with",
+      "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
+      "category": "Women",
+      "relativeTime": "Published date 40 Mins ago",
+      "publishedDate": "2026-08-30",
+      "dateLabel": "August 30",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/f2433c28-3762-424e-9313-9a1e10da3966/WhatsApp-Image-2026-08-30-at-20.06.07.jpeg",
+      "localImage": "assets/news/4569141.jpg"
+    },
     {
       "id": "4569011",
       "title": "'Most important is how we play as a team'",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Four facts ahead of Barça v Rayo",
       "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567685/fc-barcelona-opponents-in-league-phase-of-champions-league",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d30b8ce2-faee-4e4d-82fd-d255a6790305/web-sorteig.jpg",
       "localImage": "assets/news/4567685.jpg"
-    },
-    {
-      "id": "4567003",
-      "title": "Rodri in squad for Barça v Athletic",
-      "description": "Midfielder receives his first call-up from Flick for the first competitive home game of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567003/rodri-in-squad-for-barca-v-athletic",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/9a86950b-c206-4702-adb2-f813ef235c1e/_MGA9555.jpg",
-      "localImage": "assets/news/4567003.jpg"
     }
   ]
 };
