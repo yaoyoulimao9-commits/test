@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-30T09:45:42.197Z",
+  "updatedAt": "2026-08-30T10:15:32.483Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
       "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
       "category": "Futsal",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",

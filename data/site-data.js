@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T09:45:42.203Z",
+  "generatedAt": "2026-08-30T10:15:32.487Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
       "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
       "category": "Futsal",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566933.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T09:45:42.203Z",
+  "newsUpdatedAt": "2026-08-30T10:15:32.487Z",
   "archive": {}
 };
