@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-30T07:45:36.826Z",
+  "updatedAt": "2026-08-30T08:15:40.506Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,12 +7,24 @@ window.BARCA_NEWS = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/886b7ab4-5137-4797-9a2c-fd54eafbdfba/3200X2000-comiat-Hector.jpg",
       "localImage": "assets/news/4568488.jpg"
+    },
+    {
+      "id": "4568781",
+      "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
+      "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
+      "category": "Futsal",
+      "relativeTime": "Published date 13 hrs ago",
+      "publishedDate": "2026-08-29",
+      "dateLabel": "August 29",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/25257b4b-a0ca-4acc-8403-937068e321b2/JC039652.jpg",
+      "localImage": "assets/news/4568781.jpg"
     },
     {
       "id": "4567719",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Dates and times for UEFA CL league phase fixtures confirmed",
       "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4567397/behind-the-jersey-there-are-stories-i-am-foundation-too",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d048cb33-8df5-4cbf-b5f4-4813e3e21802/dors-samarreta-logo.jpeg",
       "localImage": "assets/news/4567397.jpg"
-    },
-    {
-      "id": "4566224",
-      "title": "PREVIEW | Barça v Athletic Club",
-      "description": "Second league fixture and the first at home as the league champions look to continue their great start to their title defence",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566224/preview-fc-barcelona-v-athletic-club",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/6dd16f29-3cad-454f-86ae-e22f42ae4a5b/web-AthleticClub-MD.png",
-      "localImage": "assets/news/4566224.png"
     }
   ]
 };
