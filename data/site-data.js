@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T10:45:20.461Z",
+  "generatedAt": "2026-08-30T11:15:44.188Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Four facts ahead of Barça v Rayo",
       "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
       "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
       "category": "Futsal",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566933.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T10:45:20.461Z",
+  "newsUpdatedAt": "2026-08-30T11:15:44.188Z",
   "archive": {}
 };
