@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-30T08:15:40.506Z",
+  "updatedAt": "2026-08-30T08:45:15.785Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "UEFA Youth League opponents and schedule for U-19As",
       "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
       "category": "Barça Youth",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4567719/uefa-youth-league-opponents-and-schedule-for-u-19as",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Preparations for Barça v Rayo under way",
       "description": "FC Barcelona first team in for training this morning, as Livaković completes second session",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
