@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-30T18:45:23.432Z",
+  "updatedAt": "2026-08-30T19:15:32.799Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "'Most important is how we play as a team'",
       "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Santa Coloma 4-6 Barça: Copa Catalunya winners",
       "description": "Javi Rodríguez's team overcome their local rivals in a frenetic final to claim the trophy for the 13th time",
       "category": "Futsal",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 29 Aug 26",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
