@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-30T09:15:29.229Z",
+  "generatedAt": "2026-08-30T09:45:42.203Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4568157",
+      "title": "Four facts ahead of Barça v Rayo",
+      "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-30",
+      "dateLabel": "August 30",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/2111e103-c435-407b-b386-4cced4c770db/rapha-rayo.jpg",
+      "localImage": "assets/news/4568157.jpg"
+    },
+    {
       "id": "4568488",
       "title": "Héctor Fort transferred to Real Sociedad",
       "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "UEFA Youth League opponents and schedule for U-19As",
       "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
       "category": "Barça Youth",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4567719/uefa-youth-league-opponents-and-schedule-for-u-19as",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Preparations for Barça v Rayo under way",
       "description": "FC Barcelona first team in for training this morning, as Livaković completes second session",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 29 Aug 26",
       "publishedDate": "2026-08-29",
       "dateLabel": "August 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/26/4f02606a-ab07-4020-bbf9-d1e325fc295c/3200x2000_LIVAKOVIC.jpg",
       "localImage": "assets/news/4566933.jpg"
-    },
-    {
-      "id": "4567397",
-      "title": "Behind the crest, there are stories: “I Am Foundation Too”",
-      "description": "For the first time in history, the presence of the Barça Foundation logo on the back of the jerseys of FC Barcelona’s first professional teams will become a platform to showcase the stories behind the Foundation’s projects.",
-      "category": "Club",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/club/news/4567397/behind-the-jersey-there-are-stories-i-am-foundation-too",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d048cb33-8df5-4cbf-b5f4-4813e3e21802/dors-samarreta-logo.jpeg",
-      "localImage": "assets/news/4567397.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-30T09:15:29.229Z",
+  "newsUpdatedAt": "2026-08-30T09:45:42.203Z",
   "archive": {}
 };
