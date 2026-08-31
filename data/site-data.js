@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-31T08:15:40.950Z",
+  "generatedAt": "2026-08-31T08:45:38.974Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4568230",
+      "title": "PREVIEW | FC Barça v Rayo",
+      "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
+      "category": "First Team",
+      "relativeTime": "Published date 29 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/e28215ca-79ec-4c38-93cc-8dd81b376b4a/WEB-Rayo-MD.png",
+      "localImage": "assets/news/4568230.png"
+    },
+    {
       "id": "4569141",
       "title": "Barça 5-0 Tenerife: Five to start with",
       "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
@@ -6467,18 +6479,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4568142.png"
     },
     {
-      "id": "4568230",
-      "title": "PREVIEW | FC Barça v Rayo",
-      "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/e28215ca-79ec-4c38-93cc-8dd81b376b4a/WEB-Rayo-MD.png",
-      "localImage": "assets/news/4568230.png"
-    },
-    {
       "id": "4568175",
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4567808.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-31T08:15:40.950Z",
+  "newsUpdatedAt": "2026-08-31T08:45:38.974Z",
   "archive": {}
 };

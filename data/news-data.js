@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T08:15:40.945Z",
+  "updatedAt": "2026-08-31T08:45:38.968Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4568230",
+      "title": "PREVIEW | FC Barça v Rayo",
+      "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
+      "category": "First Team",
+      "relativeTime": "Published date 29 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/e28215ca-79ec-4c38-93cc-8dd81b376b4a/WEB-Rayo-MD.png",
+      "localImage": "assets/news/4568230.png"
+    },
     {
       "id": "4569141",
       "title": "Barça 5-0 Tenerife: Five to start with",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
@@ -121,18 +133,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/87c9dc9e-4e69-41cc-99e1-fa4e509f74ba/3200x2000_Horarios-RAYO.png",
       "localImage": "assets/news/4568142.png"
-    },
-    {
-      "id": "4568230",
-      "title": "PREVIEW | FC Barça v Rayo",
-      "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/e28215ca-79ec-4c38-93cc-8dd81b376b4a/WEB-Rayo-MD.png",
-      "localImage": "assets/news/4568230.png"
     },
     {
       "id": "4568175",
