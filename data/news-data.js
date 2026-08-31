@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T22:45:31.029Z",
+  "updatedAt": "2026-08-31T23:15:36.723Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4569807",
+      "title": "Hansi Flick: 'It's been a good start to the season'",
+      "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/c34c0c37-1e63-427c-b36b-90748a81ccaf/_MGA2257.jpg",
+      "localImage": "assets/news/4569807.jpg"
+    },
     {
       "id": "4569791",
       "title": "Abdelkarim makes competitive debut",
       "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 43 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 58 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/1dbac71a-936d-4c29-ac63-193a36a91445/WhatsApp-Image-2026-08-28-at-12.50.13.jpeg",
       "localImage": "assets/news/4568175.jpg"
-    },
-    {
-      "id": "4568150",
-      "title": "The 2007 generation goes from strength to strength",
-      "description": "Xavi Espart adds his names to those of Lamine Yamal, Marc Bernal and Pau Cubarsí as blaurganes born in the year 2007",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568150/the-2007-generation-goes-from-strength-to-strength",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/74abb218-5b87-4125-a08f-cc8218981acd/GENERACI-07.jpeg",
-      "localImage": "assets/news/4568150.jpg"
     }
   ]
 };
