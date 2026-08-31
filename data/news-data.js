@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T21:15:34.931Z",
+  "updatedAt": "2026-08-31T21:45:29.668Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
