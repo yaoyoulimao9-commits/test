@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T10:45:25.640Z",
+  "updatedAt": "2026-08-31T11:15:37.679Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | FC Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-0 Tenerife: Five to start with",
       "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'Most important is how we play as a team'",
       "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
