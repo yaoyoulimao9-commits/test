@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-31T09:15:40.378Z",
+  "generatedAt": "2026-08-31T09:45:34.610Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | FC Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 59 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4567808.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-31T09:15:40.378Z",
+  "newsUpdatedAt": "2026-08-31T09:45:34.610Z",
   "archive": {}
 };
