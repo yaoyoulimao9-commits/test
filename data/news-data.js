@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T08:45:38.968Z",
+  "updatedAt": "2026-08-31T09:15:40.373Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | FC Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 29 Mins ago",
+      "relativeTime": "Published date 59 Mins ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-0 Tenerife: Five to start with",
       "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'Most important is how we play as a team'",
       "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Four facts ahead of Barça v Rayo",
       "description": "Some talking points ahead of the game at Spotify Camp Nou in week 3 of La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 30 Aug 26",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
