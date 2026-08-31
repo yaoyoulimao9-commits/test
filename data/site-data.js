@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-31T21:45:29.672Z",
+  "generatedAt": "2026-08-31T22:15:37.284Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4566867",
+      "title": "Christensen reaches 100 Barça appearances",
+      "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
+      "category": "First Team",
+      "relativeTime": "Published date 29 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/ccf0a4a9-0974-473c-8fa1-b981317ffb59/3200x2000_MatchMilestone_Christensen_ENG_2026.jpg",
+      "localImage": "assets/news/4566867.jpg"
+    },
+    {
+      "id": "4569755",
+      "title": "Barça 5-2 Rayo: Three from three",
+      "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 39 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/687b1f67-46f0-4500-9d48-f43dbd9c8fa6/_MGA2133-1-.jpg",
+      "localImage": "assets/news/4569755.jpg"
+    },
+    {
       "id": "4569759",
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568107/10-things-from-the-champions-league-draw",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/5e1cf6a5-7989-4787-9edd-423cb17c0d2c/_MGA4116.jpg",
       "localImage": "assets/news/4568107.jpg"
-    },
-    {
-      "id": "4568096",
-      "title": "Marc Crosas with the Barça Foundation and Scotiabank in Mexico",
-      "description": "The former Barça player shares his experience after visiting the socio-educational programme run by the Barça Foundation, Scotiabank and Fundación Don Bosco in the state of Morelos",
-      "category": "",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/news/4568096/marc-crosas-with-the-barca-foundation-and-scotiabank-in-mexico",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/5d5c014e-3724-4f07-a900-cfd65d327793/visita-marc-crosas-mexic.jpg",
-      "localImage": "assets/news/4568096.jpg"
-    },
-    {
-      "id": "4567875",
-      "title": "'I liked what I saw'",
-      "description": "The Barça coach reflects on his team's win over Athletic Club in their Spotify Camp Nou league debut",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567875/hansi-flick-i-liked-what-i-saw",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/a214514c-403b-4531-b8e5-821c171721e8/_MGA0601.jpg",
-      "localImage": "assets/news/4567875.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-31T21:45:29.672Z",
+  "newsUpdatedAt": "2026-08-31T22:15:37.284Z",
   "archive": {}
 };
