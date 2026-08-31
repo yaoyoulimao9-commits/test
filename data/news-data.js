@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T07:15:36.642Z",
+  "updatedAt": "2026-08-31T07:45:37.719Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Last session ahead of visit of Rayo",
       "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
@@ -123,6 +123,18 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4568142.png"
     },
     {
+      "id": "4568230",
+      "title": "PREVIEW | FC Barça v Rayo",
+      "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
+      "category": "First Team",
+      "relativeTime": "Published date 28 Aug 26",
+      "publishedDate": "2026-08-28",
+      "dateLabel": "August 28",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/e28215ca-79ec-4c38-93cc-8dd81b376b4a/WEB-Rayo-MD.png",
+      "localImage": "assets/news/4568230.png"
+    },
+    {
       "id": "4568175",
       "title": "Recovery session",
       "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567808/fc-barcelona-2-0-athletic-club-first-home-laliga-win-of-season",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d08a219f-1e49-4e98-8a47-9779834e9c63/_MGA0770.jpg",
       "localImage": "assets/news/4567808.jpg"
-    },
-    {
-      "id": "4567685",
-      "title": "Barça's opponents in UCL league phase",
-      "description": "The blaugranes to face Manchester City, Aston Villa, Feyenoord, Como 1907, PSG, Sporting CP, Galatasaray and Sabah FC",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567685/fc-barcelona-opponents-in-league-phase-of-champions-league",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d30b8ce2-faee-4e4d-82fd-d255a6790305/web-sorteig.jpg",
-      "localImage": "assets/news/4567685.jpg"
     }
   ]
 };
