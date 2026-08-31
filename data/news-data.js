@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T22:15:37.280Z",
+  "updatedAt": "2026-08-31T22:45:31.029Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4569791",
+      "title": "Abdelkarim makes competitive debut",
+      "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
+      "category": "First Team",
+      "relativeTime": "Published date 43 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/96eb708c-395d-4d08-a68d-9a1ce37a55f3/_MGA2343.jpg",
+      "localImage": "assets/news/4569791.jpg"
+    },
     {
       "id": "4566867",
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 29 Mins ago",
+      "relativeTime": "Published date 58 Mins ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 39 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568150/the-2007-generation-goes-from-strength-to-strength",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/74abb218-5b87-4125-a08f-cc8218981acd/GENERACI-07.jpeg",
       "localImage": "assets/news/4568150.jpg"
-    },
-    {
-      "id": "4568107",
-      "title": "10 things from the Champions League draw",
-      "description": "Some take aways for the blaugranes after discovering their eight opponents in the Champions League initial phase",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568107/10-things-from-the-champions-league-draw",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/5e1cf6a5-7989-4787-9edd-423cb17c0d2c/_MGA4116.jpg",
-      "localImage": "assets/news/4568107.jpg"
     }
   ]
 };
