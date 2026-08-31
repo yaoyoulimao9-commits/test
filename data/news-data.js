@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T20:15:38.297Z",
+  "updatedAt": "2026-08-31T20:45:20.635Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4569759",
+      "title": "Lamine Yamal, 50 goals with a work of art",
+      "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
+      "category": "First Team",
+      "relativeTime": "Published date 35 Mins ago",
+      "publishedDate": "2026-08-31",
+      "dateLabel": "August 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/ad9ea0d4-03a6-415f-b7fc-a087ac9eea08/_MGA5128.jpg.jpeg",
+      "localImage": "assets/news/4569759.jpg"
+    },
     {
       "id": "4568230",
       "title": "PREVIEW | Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568230/preview-fc-barcelona-v-rayo-vallecano",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567875/hansi-flick-i-liked-what-i-saw",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/a214514c-403b-4531-b8e5-821c171721e8/_MGA0601.jpg",
       "localImage": "assets/news/4567875.jpg"
-    },
-    {
-      "id": "4567837",
-      "title": "Rodri debuts with a win for Barça",
-      "description": "The 2024 Ballon d'Or winner makes his first appearance as a blaugrana as a second half substitute in the win over Athletic Club at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567837/rodri-debuts-with-a-win-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/e39a5e0a-29bb-4a1f-a857-9746365ada08/DAG-057-_M1A0341.jpg",
-      "localImage": "assets/news/4567837.jpg"
     }
   ]
 };
