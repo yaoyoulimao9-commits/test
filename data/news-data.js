@@ -1,10 +1,10 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T11:15:37.679Z",
+  "updatedAt": "2026-08-31T11:45:26.608Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
       "id": "4568230",
-      "title": "PREVIEW | FC Barça v Rayo",
+      "title": "PREVIEW | Barça v Rayo",
       "description": "The Catalans play their second game of the season at Spotify Camp Nou against a side that has caused them trouble in recent seasons",
       "category": "First Team",
       "relativeTime": "Published date 3 hrs ago",
@@ -25,6 +25,18 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/f2433c28-3762-424e-9313-9a1e10da3966/WhatsApp-Image-2026-08-30-at-20.06.07.jpeg",
       "localImage": "assets/news/4569141.jpg"
+    },
+    {
+      "id": "4569083",
+      "title": "The squad to face Rayo",
+      "description": "Hansi Flick names 22 players for Monday's clash at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 21 hrs ago",
+      "publishedDate": "2026-08-30",
+      "dateLabel": "August 30",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569083/the-squad-to-face-rayo",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/fe8cb480-438f-4896-be4c-de0f24a0f3f5/WhatsApp-Image-2026-08-30-at-13.57.02-2-.jpeg",
+      "localImage": "assets/news/4569083.jpg"
     },
     {
       "id": "4569011",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567837/rodri-debuts-with-a-win-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/e39a5e0a-29bb-4a1f-a857-9746365ada08/DAG-057-_M1A0341.jpg",
       "localImage": "assets/news/4567837.jpg"
-    },
-    {
-      "id": "4567808",
-      "title": "First home LaLiga win of season (2-0)",
-      "description": "The blaugranes maintain their winning run at home as the first LaLiga match of the season at the Spotify Camp Nou ends with a 2-0 win over Athletic Club",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Aug 26",
-      "publishedDate": "2026-08-27",
-      "dateLabel": "August 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4567808/fc-barcelona-2-0-athletic-club-first-home-laliga-win-of-season",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/27/d08a219f-1e49-4e98-8a47-9779834e9c63/_MGA0770.jpg",
-      "localImage": "assets/news/4567808.jpg"
     }
   ]
 };
