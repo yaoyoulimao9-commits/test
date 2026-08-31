@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T14:45:38.013Z",
+  "updatedAt": "2026-08-31T15:15:58.224Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-0 Tenerife: Five to start with",
       "description": "A resounding victory in the opening Liga F fixture at the Estadi Johan Cruyff",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4569141/barca-5-0-tenerife-five-to-start-with",
