@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-31T13:15:59.007Z",
+  "generatedAt": "2026-08-31T13:45:24.562Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "The squad to face Rayo",
       "description": "Hansi Flick names 22 players for Monday's clash at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569083/the-squad-to-face-rayo",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4567837.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-31T13:15:59.007Z",
+  "newsUpdatedAt": "2026-08-31T13:45:24.562Z",
   "archive": {}
 };
