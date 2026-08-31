@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-08-31T20:45:20.635Z",
+  "updatedAt": "2026-08-31T21:15:34.931Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 35 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",

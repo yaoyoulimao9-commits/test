@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-08-31T20:45:20.641Z",
+  "generatedAt": "2026-08-31T21:15:34.935Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 35 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4567875.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-08-31T20:45:20.641Z",
+  "newsUpdatedAt": "2026-08-31T21:15:34.935Z",
   "archive": {}
 };
