@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T01:20:30.435Z",
+  "updatedAt": "2026-09-01T01:47:20.487Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
