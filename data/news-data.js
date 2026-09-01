@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T18:24:05.194Z",
+  "updatedAt": "2026-09-01T18:49:06.568Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4570303",
+      "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
+      "description": "Barça retain a buy-back option as well as a percentage of any future sale",
+      "category": "First Team",
+      "relativeTime": "Published date 5 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cbe95f7b-1dd8-49f7-aa8a-bc9de8060d9b/3200X2000-comiat-Toni_Fern-ndez.jpg",
+      "localImage": "assets/news/4570303.jpg"
+    },
     {
       "id": "4570301",
       "title": "Agreement with RCD Mallorca for the transfer of Guille Fernández",
       "description": "Club includes a sell-on clause in view of a future transfer of the player",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 41 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570301/agreement-with-rcd-mallorca-for-the-transfer-of-guille-fernandez",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Date and kick-off time of LaLiga Clásico at the Spotify Camp Nou confirmed",
       "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed",
@@ -139,7 +151,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/918cbcb4-1215-48bf-a423-1aef795dd66e/_MGA1813.jpg",
       "localImage": "assets/news/4569011.jpg"
-    },
-    {
-      "id": "4568965",
-      "title": "Last session ahead of visit of Rayo",
-      "description": "Hansi Flick's team worked out at the Ciutat Esportiva Joan to put the finishing touches to their preparations for Monday's game at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 30 Aug 26",
-      "publishedDate": "2026-08-30",
-      "dateLabel": "August 30",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568965/last-session-ahead-of-visit-of-rayo",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/32133cf2-b685-4592-848f-760c59053706/WhatsApp-Image-2026-08-30-at-13.57.02.jpeg",
-      "localImage": "assets/news/4568965.jpg"
     }
   ]
 };
