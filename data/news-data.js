@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T12:27:32.574Z",
+  "updatedAt": "2026-09-01T12:51:15.026Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4570072",
+      "title": "Gabriel Jesus signs for Barça",
+      "description": "Arsenal and FC Barcelona reach an agreement for the striker to become a blaugrana until 30 June 2029",
+      "category": "First Team",
+      "relativeTime": "Published date 6 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/abd1c12b-72f4-4508-87a3-42380ca27d8c/3200x2000-Transfer_2026_07-GABRIEL_JESUS-st.jpg",
+      "localImage": "assets/news/4570072.jpg"
+    },
+    {
+      "id": "4570086",
+      "title": "More Brazilian goals",
+      "description": "The long-standing connection between Brazilian forwards and FC Barcelona is set to continue with the arrival of the former Arsenal player",
+      "category": "First Team",
+      "relativeTime": "Published date 6 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570086/gabriel-jesus-another-brazilian-striker-ready-to-score-for-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/43202f70-f822-48ba-9417-d639b9127927/gabriel_jesus-st.jpg",
+      "localImage": "assets/news/4570086.jpg"
+    },
     {
       "id": "4570028",
       "title": "Raphinha rocketing",
       "description": "Brazilian is La Liga's leading scorer with five goals from the opening three games, having found the net in every round so far, a feat not achieved by a Barça player since Messi",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
@@ -67,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -79,7 +103,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4568781/santa-coloma-4-6-barca-copa-catalunya-winners",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/25257b4b-a0ca-4acc-8403-937068e321b2/JC039652.jpg",
       "localImage": "assets/news/4568781.jpg"
-    },
-    {
-      "id": "4567719",
-      "title": "UEFA Youth League opponents and schedule for U-19As",
-      "description": "Pol Planas' team now know who they will face and when in the UEFA youth competition",
-      "category": "Barça Youth",
-      "relativeTime": "Published date 29 Aug 26",
-      "publishedDate": "2026-08-29",
-      "dateLabel": "August 29",
-      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4567719/uefa-youth-league-opponents-and-schedule-for-u-19as",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/2b82d493-a3a9-45b2-a64e-2bc1bc4c706e/3200X200_DRAW-UYL.jpg",
-      "localImage": "assets/news/4567719.jpg"
-    },
-    {
-      "id": "4568631",
-      "title": "Dates and times for UEFA CL league phase fixtures confirmed",
-      "description": "Barça now know the schedule for the first eight fixtures in Europe's premier club competition",
-      "category": "First Team",
-      "relativeTime": "Published date 29 Aug 26",
-      "publishedDate": "2026-08-29",
-      "dateLabel": "August 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/f2fc2878-c371-4f11-b76a-6b0aeb4e0d09/_MGA5037.jpg",
-      "localImage": "assets/news/4568631.jpg"
     }
   ]
 };
