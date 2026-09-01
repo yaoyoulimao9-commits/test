@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T09:23:16.148Z",
+  "generatedAt": "2026-09-01T09:49:24.686Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4570030",
+      "title": "Justin Minaya strengthens blaugrana defense",
+      "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
+      "category": "Basketball",
+      "relativeTime": "Published date 29 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
       "id": "4569999",
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/4b790afd-988c-4f26-ab7e-97eceb9564e1/WhatsApp-Image-2026-08-29-at-11.24.04-4-.jpeg",
       "localImage": "assets/news/4568632.jpg"
-    },
-    {
-      "id": "4568142",
-      "title": "When and where to watch Barça v Rayo",
-      "description": "We take a look at the international kick-off times for another La Liga fixture at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/87c9dc9e-4e69-41cc-99e1-fa4e509f74ba/3200x2000_Horarios-RAYO.png",
-      "localImage": "assets/news/4568142.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T09:23:16.148Z",
+  "newsUpdatedAt": "2026-09-01T09:49:24.686Z",
   "archive": {}
 };
