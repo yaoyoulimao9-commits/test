@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T05:21:24.958Z",
+  "generatedAt": "2026-09-01T05:47:04.532Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4568175.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T05:21:24.958Z",
+  "newsUpdatedAt": "2026-09-01T05:47:04.532Z",
   "archive": {}
 };
