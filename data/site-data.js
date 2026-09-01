@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T12:51:15.031Z",
+  "generatedAt": "2026-09-01T13:22:29.658Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus signs for Barça",
       "description": "Arsenal and FC Barcelona reach an agreement for the striker to become a blaugrana until 30 June 2029",
       "category": "First Team",
-      "relativeTime": "Published date 6 Mins ago",
+      "relativeTime": "Published date 37 Mins ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "More Brazilian goals",
       "description": "The long-standing connection between Brazilian forwards and FC Barcelona is set to continue with the arrival of the former Arsenal player",
       "category": "First Team",
-      "relativeTime": "Published date 6 Mins ago",
+      "relativeTime": "Published date 37 Mins ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570086/gabriel-jesus-another-brazilian-striker-ready-to-score-for-barca",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'It's been a good start to the season'",
       "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim makes competitive debut",
       "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
@@ -6459,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4568781.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T12:51:15.031Z",
+  "newsUpdatedAt": "2026-09-01T13:22:29.658Z",
   "archive": {}
 };
