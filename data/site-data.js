@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T14:52:47.874Z",
+  "generatedAt": "2026-09-01T15:40:11.599Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4570226",
+      "title": "Date and kick-off time of LaLiga Clásico at the Spotify Camp Nou confirmed",
+      "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
+      "category": "First Team",
+      "relativeTime": "Published date 55 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cf32ae40-6359-4e15-be91-3d69232f7e51/_M1A1120-1-.jpg",
+      "localImage": "assets/news/4570226.jpg"
+    },
+    {
       "id": "4570156",
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'It's been a good start to the season'",
       "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim makes competitive debut",
       "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
@@ -6459,7 +6471,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -6471,7 +6483,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568157/four-facts-ahead-of-fc-barcelona-v-rayo",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/2111e103-c435-407b-b386-4cced4c770db/rapha-rayo.jpg",
       "localImage": "assets/news/4568157.jpg"
-    },
-    {
-      "id": "4568488",
-      "title": "Héctor Fort transferred to Real Sociedad",
-      "description": "La Masía graduate joins Basque club with Barça reserving a buyback option and keeping a percentage of any future sale",
-      "category": "First Team",
-      "relativeTime": "Published date 29 Aug 26",
-      "publishedDate": "2026-08-29",
-      "dateLabel": "August 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568488/hector-fort-transferred-to-real-sociedad",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/886b7ab4-5137-4797-9a2c-fd54eafbdfba/3200X2000-comiat-Hector.jpg",
-      "localImage": "assets/news/4568488.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T14:52:47.874Z",
+  "newsUpdatedAt": "2026-09-01T15:40:11.599Z",
   "archive": {}
 };
