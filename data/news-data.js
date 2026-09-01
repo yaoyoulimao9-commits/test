@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T19:19:27.407Z",
+  "updatedAt": "2026-09-01T19:45:30.000Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4570293",
+      "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
+      "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
+      "category": "Club",
+      "relativeTime": "Published date 14 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cd33ed0d-8cfa-4394-8cc0-d16809397c98/_23A0498.jpg",
+      "localImage": "assets/news/4570293.jpg"
+    },
     {
       "id": "4570303",
       "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
       "description": "Barça retain a buy-back option as well as a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 35 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
@@ -43,24 +55,12 @@ window.BARCA_NEWS = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/2d50482d-2e0d-488e-b22b-d973d684b40d/_5DS8434.jpg",
       "localImage": "assets/news/4570156.jpg"
-    },
-    {
-      "id": "4570072",
-      "title": "Gabriel Jesus signs for Barça",
-      "description": "Arsenal and FC Barcelona reach an agreement for the striker to become a blaugrana until 30 June 2029",
-      "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/abd1c12b-72f4-4508-87a3-42380ca27d8c/3200x2000-Transfer_2026_07-GABRIEL_JESUS-st.jpg",
-      "localImage": "assets/news/4570072.jpg"
     },
     {
       "id": "4570086",
@@ -73,6 +73,18 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570086/gabriel-jesus-another-brazilian-striker-ready-to-score-for-barca",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/43202f70-f822-48ba-9417-d639b9127927/gabriel_jesus-st.jpg",
       "localImage": "assets/news/4570086.jpg"
+    },
+    {
+      "id": "4570072",
+      "title": "Gabriel Jesus signs for Barça",
+      "description": "Arsenal and FC Barcelona reach an agreement for the striker to become a blaugrana until 30 June 2029",
+      "category": "First Team",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/abd1c12b-72f4-4508-87a3-42380ca27d8c/3200x2000-Transfer_2026_07-GABRIEL_JESUS-st.jpg",
+      "localImage": "assets/news/4570072.jpg"
     },
     {
       "id": "4570028",
@@ -91,7 +103,7 @@ window.BARCA_NEWS = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -103,7 +115,7 @@ window.BARCA_NEWS = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -151,7 +163,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569083/the-squad-to-face-rayo",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/fe8cb480-438f-4896-be4c-de0f24a0f3f5/WhatsApp-Image-2026-08-30-at-13.57.02-2-.jpeg",
       "localImage": "assets/news/4569083.jpg"
-    },
-    {
-      "id": "4569011",
-      "title": "'Most important is how we play as a team'",
-      "description": "The Barça coach appears before the press ahead of Monday's La Liga clash with Rayo Vallecano",
-      "category": "First Team",
-      "relativeTime": "Published date 30 Aug 26",
-      "publishedDate": "2026-08-30",
-      "dateLabel": "August 30",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569011/hansi-flick-most-important-is-how-we-play-as-a-team",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/30/918cbcb4-1215-48bf-a423-1aef795dd66e/_MGA1813.jpg",
-      "localImage": "assets/news/4569011.jpg"
     }
   ]
 };
