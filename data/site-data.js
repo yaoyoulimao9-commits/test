@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T20:47:13.112Z",
+  "generatedAt": "2026-09-01T21:20:49.478Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
       "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
       "category": "First Team",
-      "relativeTime": "Published date 17 Mins ago",
+      "relativeTime": "Published date 50 Mins ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Raphinha rocketing",
       "description": "Brazilian is La Liga's leading scorer with five goals from the opening three games, having found the net in every round so far, a feat not achieved by a Barça player since Messi",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
@@ -6459,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -6471,7 +6471,7 @@ window.BARCA_DATA = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -6483,7 +6483,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'It's been a good start to the season'",
       "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
@@ -6495,7 +6495,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim makes competitive debut",
       "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4569141.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T20:47:13.112Z",
+  "newsUpdatedAt": "2026-09-01T21:20:49.478Z",
   "archive": {}
 };
