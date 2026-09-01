@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T11:21:49.418Z",
+  "updatedAt": "2026-09-01T11:46:51.148Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
