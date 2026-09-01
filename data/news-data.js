@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T09:49:24.682Z",
+  "updatedAt": "2026-09-01T10:26:40.171Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4570028",
+      "title": "Raphinha rocketing",
+      "description": "Brazilian is La Liga's leading scorer with five goals from the opening three games, having found the net in every round so far, a feat not achieved by a Barça player since Messi",
+      "category": "First Team",
+      "relativeTime": "Published date 38 Mins ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/6699faaf-989f-4cfc-9b0c-8e3d0f18ed34/_MGA5152.jpg",
+      "localImage": "assets/news/4570028.jpg"
+    },
     {
       "id": "4570030",
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 29 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Hansi Flick: 'It's been a good start to the season'",
       "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Abdelkarim makes competitive debut",
       "description": "The top scorer in preseason made his first competitive appearance in the final moments of the game with Rayo Vallecano",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569791/hamza-abdelkarim-makes-competitive-debut-for-fc-barcelona",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Lamine Yamal, 50 goals with a work of art",
       "description": "Teenager sends a rocket straight into the top corner of the Rayo net to complete his first half ton of goals for his club",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569759/lamine-yamal-reaches-50-goals-for-fc-barcelona-with-a-work-of-art",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568631/dates-and-times-for-uefa-cl-league-phase-fixtures-confirmed",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/f2fc2878-c371-4f11-b76a-6b0aeb4e0d09/_MGA5037.jpg",
       "localImage": "assets/news/4568631.jpg"
-    },
-    {
-      "id": "4568632",
-      "title": "Preparations for Barça v Rayo under way",
-      "description": "FC Barcelona first team in for training this morning, as Livaković completes second session",
-      "category": "First Team",
-      "relativeTime": "Published date 29 Aug 26",
-      "publishedDate": "2026-08-29",
-      "dateLabel": "August 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/29/4b790afd-988c-4f26-ab7e-97eceb9564e1/WhatsApp-Image-2026-08-29-at-11.24.04-4-.jpeg",
-      "localImage": "assets/news/4568632.jpg"
     }
   ]
 };
