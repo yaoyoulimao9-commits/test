@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T21:20:49.474Z",
+  "updatedAt": "2026-09-01T21:45:51.134Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
       "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
       "category": "First Team",
-      "relativeTime": "Published date 50 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
       "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
       "description": "Barça retain a buy-back option as well as a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
@@ -175,7 +175,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 31 Aug 26",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
