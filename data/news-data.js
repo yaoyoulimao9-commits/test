@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-01T08:24:39.768Z",
+  "updatedAt": "2026-09-01T08:49:27.764Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4569999",
+      "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
+      "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
+      "category": "",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/6546c72e-ce89-4a11-a99c-15df0d3d4639/2025-06-17_FCBFUTSALvsCARTAGENA_157.jpg",
+      "localImage": "assets/news/4569999.jpg"
+    },
     {
       "id": "4569807",
       "title": "Hansi Flick: 'It's been a good start to the season'",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Christensen reaches 100 Barça appearances",
       "description": "Danish centre back reaches the round figure as he starts his fifth season with FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566867/christensen-reaches-100-fc-barcelona-appearances",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Rayo: Three from three",
       "description": "Braces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569755/fc-barcelona-5-2-rayo-vallecano-three-from-three",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568142/when-and-where-to-watch-fc-barcelona-v-rayo-vallecano",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/87c9dc9e-4e69-41cc-99e1-fa4e509f74ba/3200x2000_Horarios-RAYO.png",
       "localImage": "assets/news/4568142.png"
-    },
-    {
-      "id": "4568175",
-      "title": "Recovery session",
-      "description": "Hansi Flick has all his available players at the Ciutat Esportiva after the victory against Athletic Club",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Aug 26",
-      "publishedDate": "2026-08-28",
-      "dateLabel": "August 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4568175/recovery-day-after-win-at-spotify-camp-nou",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/28/1dbac71a-936d-4c29-ac63-193a36a91445/WhatsApp-Image-2026-08-28-at-12.50.13.jpeg",
-      "localImage": "assets/news/4568175.jpg"
     }
   ]
 };
