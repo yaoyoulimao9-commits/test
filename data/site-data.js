@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-01T23:18:08.801Z",
+  "generatedAt": "2026-09-01T23:45:37.126Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 58 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
       "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
       "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
       "description": "Barça retain a buy-back option as well as a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
@@ -6507,7 +6507,7 @@ window.BARCA_DATA = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
@@ -6519,7 +6519,7 @@ window.BARCA_DATA = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566867.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-01T23:18:08.801Z",
+  "newsUpdatedAt": "2026-09-01T23:45:37.125Z",
   "archive": {}
 };
