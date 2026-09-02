@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-02T12:51:14.370Z",
+  "generatedAt": "2026-09-02T13:23:14.011Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Brian Fariñas registered as first team player in number '4' jersey",
       "description": "The midfielder from La Masia becomes part of the Barça first team squad",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Marc Casadó loaned to Deportivo A Coruña",
       "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4569807.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-02T12:51:14.370Z",
+  "newsUpdatedAt": "2026-09-02T13:23:14.011Z",
   "archive": {}
 };
