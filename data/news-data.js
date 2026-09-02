@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-02T15:50:44.059Z",
+  "updatedAt": "2026-09-02T16:23:47.050Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4571124",
+      "title": "Three blaugranes nominated for LaLiga awards for August",
+      "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
+      "category": "First Team",
+      "relativeTime": "Published date 21 Mins ago",
+      "publishedDate": "2026-09-02",
+      "dateLabel": "September 02",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/c12f0ef0-fc88-432d-a6c0-0c658bc032cf/_MGA2106.jpg",
+      "localImage": "assets/news/4571124.jpg"
+    },
     {
       "id": "4569533",
       "title": "Five games in fourteen days",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Chicago enjoys unforgettable day at Soldier Field",
       "description": "Boys and girls play series of mini-matches before Chicago Fire's 2-1 home win",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Brian Fariñas registered as first team player in number '4' jersey",
       "description": "The midfielder from La Masia becomes part of the Barça first team squad",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Marc Casadó loaned to Deportivo A Coruña",
       "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/6546c72e-ce89-4a11-a99c-15df0d3d4639/2025-06-17_FCBFUTSALvsCARTAGENA_157.jpg",
       "localImage": "assets/news/4569999.jpg"
-    },
-    {
-      "id": "4569807",
-      "title": "Hansi Flick: 'It's been a good start to the season'",
-      "description": "The Barça coach reflects on his team's third win out of three in La Liga this season against Rayo at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 31 Aug 26",
-      "publishedDate": "2026-08-31",
-      "dateLabel": "August 31",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569807/hansi-flick-its-been-a-good-start-to-the-season",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/c34c0c37-1e63-427c-b36b-90748a81ccaf/_MGA2257.jpg",
-      "localImage": "assets/news/4569807.jpg"
     }
   ]
 };
