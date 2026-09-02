@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-02T07:47:26.087Z",
+  "updatedAt": "2026-09-02T08:23:51.624Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Brian Fariñas registered as first team player in number '4' jersey",
       "description": "The midfielder from La Masia becomes part of the Barça first team squad",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Marc Casadó loaned to Deportivo A Coruña",
       "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
@@ -103,24 +103,12 @@ window.BARCA_NEWS = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/2d50482d-2e0d-488e-b22b-d973d684b40d/_5DS8434.jpg",
       "localImage": "assets/news/4570156.jpg"
-    },
-    {
-      "id": "4570087",
-      "title": "10 things about Gabriel Jesus",
-      "description": "We get to know a little bit better Barça's new Brazilian striker",
-      "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570087/10-things-about-gabriel-jesus",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/db151abb-b7c9-4bec-9fac-568a83b0c1a4/3200x2000_Mercato_GABRIEL_JESUS4.jpg",
-      "localImage": "assets/news/4570087.jpg"
     },
     {
       "id": "4570072",
@@ -133,6 +121,18 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/abd1c12b-72f4-4508-87a3-42380ca27d8c/3200x2000-Transfer_2026_07-GABRIEL_JESUS-st.jpg",
       "localImage": "assets/news/4570072.jpg"
+    },
+    {
+      "id": "4570087",
+      "title": "10 things about Gabriel Jesus",
+      "description": "We get to know a little bit better Barça's new Brazilian striker",
+      "category": "First Team",
+      "relativeTime": "Published date 19 hrs ago",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570087/10-things-about-gabriel-jesus",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/db151abb-b7c9-4bec-9fac-568a83b0c1a4/3200x2000_Mercato_GABRIEL_JESUS4.jpg",
+      "localImage": "assets/news/4570087.jpg"
     },
     {
       "id": "4570086",
@@ -151,7 +151,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha rocketing",
       "description": "Brazilian is La Liga's leading scorer with five goals from the opening three games, having found the net in every round so far, a feat not achieved by a Barça player since Messi",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
@@ -163,7 +163,7 @@ window.BARCA_NEWS = {
       "title": "Justin Minaya strengthens blaugrana defense",
       "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
