@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-02T04:23:52.974Z",
+  "generatedAt": "2026-09-02T04:48:13.321Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
       "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
       "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
       "description": "Barça retain a buy-back option as well as a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Agreement with RCD Mallorca for the transfer of Guille Fernández",
       "description": "Club includes a sell-on clause in view of a future transfer of the player",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570301/agreement-with-rcd-mallorca-for-the-transfer-of-guille-fernandez",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Date and kick-off time of LaLiga Clásico at the Spotify Camp Nou confirmed",
       "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
       "category": "Feature",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-08-30",
       "dateLabel": "August 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed/featured",
@@ -6459,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "10 things about Gabriel Jesus",
       "description": "We get to know a little bit better Barça's new Brazilian striker",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570087/10-things-about-gabriel-jesus",
@@ -6471,7 +6471,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus signs for Barça",
       "description": "Arsenal and FC Barcelona reach an agreement for the striker to become a blaugrana until 30 June 2029",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
@@ -6483,7 +6483,7 @@ window.BARCA_DATA = {
       "title": "More Brazilian goals",
       "description": "The long-standing connection between Brazilian forwards and FC Barcelona is set to continue with the arrival of the former Arsenal player",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570086/gabriel-jesus-another-brazilian-striker-ready-to-score-for-barca",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566867.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-02T04:23:52.974Z",
+  "newsUpdatedAt": "2026-09-02T04:48:13.321Z",
   "archive": {}
 };
