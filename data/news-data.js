@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-02T13:49:11.057Z",
+  "updatedAt": "2026-09-02T14:22:28.728Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -11,7 +11,7 @@ window.BARCA_NEWS = {
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/ba21191f-3e77-4af2-90fc-0cc2f14a7d6c/3200X2000_Calendar-SEPT-ENG.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/8615c08d-9b2f-4a92-afbf-b11538e46127/3200X2000_Calendar-SEPT-ENG.jpg",
       "localImage": "assets/news/4569533.jpg"
     },
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Brian Fariñas registered as first team player in number '4' jersey",
       "description": "The midfielder from La Masia becomes part of the Barça first team squad",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Marc Casadó loaned to Deportivo A Coruña",
       "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
