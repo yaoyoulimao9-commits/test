@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-02T21:20:27.456Z",
+  "generatedAt": "2026-09-02T21:46:24.682Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4571179",
+      "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
+      "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-02",
+      "dateLabel": "September 02",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/4a78e0a0-082a-43f6-9c92-d642412f1ea1/DAG-082-_M1A8817.jpg",
+      "localImage": "assets/news/4571179.jpg"
+    },
+    {
       "id": "4570894",
       "title": "2026/27 first team jersey numbers",
       "description": "The FC Barcelona first team squad numbers for this season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Five games in fourteen days",
       "description": "A lot of games between now and the first international break of 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Chicago enjoys unforgettable day at Soldier Field",
       "description": "Boys and girls play series of mini-matches before Chicago Fire's 2-1 home win",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/6699faaf-989f-4cfc-9b0c-8e3d0f18ed34/_MGA5152.jpg",
       "localImage": "assets/news/4570028.jpg"
-    },
-    {
-      "id": "4570030",
-      "title": "Justin Minaya strengthens blaugrana defense",
-      "description": "The 27 year old US basketball player will be a blaugrana until 30 June 2028",
-      "category": "Basketball",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4570030/justin-minaya-strengthens-blaugrana-defense",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/592cd6bc-d013-424d-bac6-77b1ab7f4858/3200x2000-Transfer_2026_07-JUSTIN.jpg",
-      "localImage": "assets/news/4570030.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-02T21:20:27.456Z",
+  "newsUpdatedAt": "2026-09-02T21:46:24.682Z",
   "archive": {}
 };
