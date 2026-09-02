@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-02T13:23:14.011Z",
+  "generatedAt": "2026-09-02T13:49:11.061Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five games in fourteen days",
       "description": "A lot of games between now and the first international break of 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Chicago enjoys unforgettable day at Soldier Field",
       "description": "Boys and girls play series of mini-matches before Chicago Fire's 2-1 home win",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
       "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
       "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
       "description": "Barça retain a buy-back option as well as a percentage of any future sale",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Agreement with RCD Mallorca for the transfer of Guille Fernández",
       "description": "Club includes a sell-on clause in view of a future transfer of the player",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570301/agreement-with-rcd-mallorca-for-the-transfer-of-guille-fernandez",
@@ -6459,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Date and kick-off time of LaLiga Clásico at the Spotify Camp Nou confirmed",
       "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
       "category": "Feature",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-08-31",
       "dateLabel": "August 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed/featured",
@@ -6471,7 +6471,7 @@ window.BARCA_DATA = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 01 Sep 26",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4569807.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-02T13:23:14.011Z",
+  "newsUpdatedAt": "2026-09-02T13:49:11.061Z",
   "archive": {}
 };
