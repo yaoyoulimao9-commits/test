@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-02T02:53:33.456Z",
+  "generatedAt": "2026-09-02T03:21:11.834Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Mirza Catovic, new Barça Atlètic player",
       "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Brian Fariñas registered as first team player in number '4' jersey",
       "description": "The midfielder from La Masia becomes part of the Barça first team squad",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Marc Casadó loaned to Deportivo A Coruña",
       "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "'I knew something nice would happen'",
       "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
@@ -6519,7 +6519,7 @@ window.BARCA_DATA = {
       "title": "'Llotja Oberta' at the Palau Blaugrana and at the Estadi Johan Cruyff for members",
       "description": "FC Barcelona members can register for the scheme at the Palau Blaugrana to see the four professional teams and at the Estadi Johan Cruyff to see Barça Atlètic from a unique and privileged position",
       "category": "",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-01",
       "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/news/4569999/llotja-oberta-at-the-palau-blaugrana-and-at-the-estadi-johan-cruyff-for-members",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4566867.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-02T02:53:33.456Z",
+  "newsUpdatedAt": "2026-09-02T03:21:11.834Z",
   "archive": {}
 };
