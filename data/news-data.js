@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T10:46:39.097Z",
+  "updatedAt": "2026-09-03T11:20:30.873Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4571566",
+      "title": "Bisiwu injury update",
+      "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 42 Mins ago",
+      "publishedDate": "2026-09-03",
+      "dateLabel": "September 03",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/da9f35d3-b15e-438c-85fc-f7c4e990990d/DAG-003-_C4A7819.jpg",
+      "localImage": "assets/news/4571566.jpg"
+    },
     {
       "id": "4571179",
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Three blaugranes nominated for LaLiga awards for August",
       "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
@@ -152,8 +164,8 @@ window.BARCA_NEWS = {
       "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
       "category": "Feature",
       "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-08-31",
-      "dateLabel": "August 31",
+      "publishedDate": "2026-09-01",
+      "dateLabel": "September 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed/featured",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cf32ae40-6359-4e15-be91-3d69232f7e51/_M1A1120-1-.jpg",
       "localImage": "assets/news/4570226.jpg"
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/abd1c12b-72f4-4508-87a3-42380ca27d8c/3200x2000-Transfer_2026_07-GABRIEL_JESUS-st.jpg",
       "localImage": "assets/news/4570072.jpg"
-    },
-    {
-      "id": "4570028",
-      "title": "Raphinha rocketing",
-      "description": "Brazilian is La Liga's leading scorer with five goals from the opening three games, having found the net in every round so far, a feat not achieved by a Barça player since Messi",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570028/raphinha-rocketing",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/6699faaf-989f-4cfc-9b0c-8e3d0f18ed34/_MGA5152.jpg",
-      "localImage": "assets/news/4570028.jpg"
     }
   ]
 };
