@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-03T17:48:09.688Z",
+  "generatedAt": "2026-09-03T18:25:25.109Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4571765",
+      "title": "FC Barcelona announcement",
+      "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
+      "category": "Club",
+      "relativeTime": "Published date 44 Mins ago",
+      "publishedDate": "2026-09-03",
+      "dateLabel": "September 03",
+      "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/12f269d2-4ebe-4a95-9a87-d0d36b59f733/Foto-Junta-Directiva-3.9.2026.jpeg",
+      "localImage": "assets/news/4571765.jpg"
+    },
+    {
       "id": "4571558",
       "title": "Gavi and Gabriel Jesus at training",
       "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/2d50482d-2e0d-488e-b22b-d973d684b40d/_5DS8434.jpg",
       "localImage": "assets/news/4570156.jpg"
-    },
-    {
-      "id": "4570087",
-      "title": "10 things about Gabriel Jesus",
-      "description": "We get to know a little bit better Barça's new Brazilian striker",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570087/10-things-about-gabriel-jesus",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/db151abb-b7c9-4bec-9fac-568a83b0c1a4/3200x2000_Mercato_GABRIEL_JESUS4.jpg",
-      "localImage": "assets/news/4570087.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-03T17:48:09.688Z",
+  "newsUpdatedAt": "2026-09-03T18:25:25.109Z",
   "archive": {}
 };
