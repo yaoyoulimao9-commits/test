@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-03T13:48:46.613Z",
+  "generatedAt": "2026-09-03T14:23:54.192Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6371,6 +6371,18 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4571566.jpg"
     },
     {
+      "id": "4571041",
+      "title": "When and where to watch Valencia v Barça",
+      "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-03",
+      "dateLabel": "September 03",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
       "id": "4571179",
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
       "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Three blaugranes nominated for LaLiga awards for August",
       "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570087/10-things-about-gabriel-jesus",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/db151abb-b7c9-4bec-9fac-568a83b0c1a4/3200x2000_Mercato_GABRIEL_JESUS4.jpg",
       "localImage": "assets/news/4570087.jpg"
-    },
-    {
-      "id": "4570086",
-      "title": "More Brazilian goals",
-      "description": "The long-standing connection between Brazilian forwards and FC Barcelona is set to continue with the arrival of the former Arsenal player",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570086/gabriel-jesus-another-brazilian-striker-ready-to-score-for-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/43202f70-f822-48ba-9417-d639b9127927/gabriel_jesus-st.jpg",
-      "localImage": "assets/news/4570086.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-03T13:48:46.613Z",
+  "newsUpdatedAt": "2026-09-03T14:23:54.192Z",
   "archive": {}
 };
