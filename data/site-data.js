@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-03T17:21:08.805Z",
+  "generatedAt": "2026-09-03T17:48:09.688Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Gavi and Gabriel Jesus at training",
       "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Bisiwu injury update",
       "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
       "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "2026/27 first team jersey numbers",
       "description": "The FC Barcelona first team squad numbers for this season",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 02 Sep 26",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570087.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-03T17:21:08.805Z",
+  "newsUpdatedAt": "2026-09-03T17:48:09.688Z",
   "archive": {}
 };
