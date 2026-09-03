@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T11:20:30.873Z",
+  "updatedAt": "2026-09-03T11:47:05.006Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Bisiwu injury update",
       "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 42 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
       "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "2026/27 first team jersey numbers",
       "description": "The FC Barcelona first team squad numbers for this season",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
