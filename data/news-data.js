@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T09:23:02.444Z",
+  "updatedAt": "2026-09-03T09:48:37.100Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
       "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "2026/27 first team jersey numbers",
       "description": "The FC Barcelona first team squad numbers for this season",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Five games in fourteen days",
       "description": "A lot of games between now and the first international break of 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Chicago enjoys unforgettable day at Soldier Field",
       "description": "Boys and girls play series of mini-matches before Chicago Fire's 2-1 home win",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 02 Sep 26",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
