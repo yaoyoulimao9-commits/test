@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T20:20:55.077Z",
+  "updatedAt": "2026-09-03T20:46:04.397Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona announcement",
       "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Gavi and Gabriel Jesus at training",
       "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Bisiwu injury update",
       "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
       "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 02 Sep 26",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
