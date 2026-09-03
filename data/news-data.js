@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T14:49:54.827Z",
+  "updatedAt": "2026-09-03T15:25:07.897Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Three blaugranes nominated for LaLiga awards for August",
       "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
