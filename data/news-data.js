@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-03T08:49:43.638Z",
+  "updatedAt": "2026-09-03T09:23:02.444Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Three blaugranes nominated for LaLiga awards for August",
       "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-02",
       "dateLabel": "September 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
