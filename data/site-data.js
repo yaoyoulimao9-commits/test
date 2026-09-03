@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-03T22:45:52.322Z",
+  "generatedAt": "2026-09-03T23:19:01.269Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570156.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-03T22:45:52.322Z",
+  "newsUpdatedAt": "2026-09-03T23:19:01.269Z",
   "archive": {}
 };
