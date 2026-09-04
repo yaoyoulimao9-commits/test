@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-04T17:45:57.602Z",
+  "generatedAt": "2026-09-04T18:22:48.246Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4572227",
+      "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
+      "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
+      "category": "Handball",
+      "relativeTime": "Published date 54 Mins ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/aee2f553-c5f2-457d-ad36-6af6d5245f06/_JLR7490.JPG",
+      "localImage": "assets/news/4572227.jpg"
+    },
+    {
       "id": "4572025",
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Barcelona back in action",
       "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/dbaddd13-a4fc-4269-9b67-2cb584c4df3c/WhatsApp-Image-2026-09-01-at-23.52.39.jpeg",
       "localImage": "assets/news/4570494.jpg"
-    },
-    {
-      "id": "4570290",
-      "title": "Marc Casadó loaned to Deportivo A Coruña",
-      "description": "FC Barcelona and Galician club reach agreement for a season-long loan of the Catalan midfielder",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/38a328b1-e8d3-4c60-b329-48f5ced3c50c/_MGA6770.jpg",
-      "localImage": "assets/news/4570290.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-04T17:45:57.602Z",
+  "newsUpdatedAt": "2026-09-04T18:22:48.246Z",
   "archive": {}
 };
