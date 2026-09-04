@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T15:22:30.673Z",
+  "updatedAt": "2026-09-04T15:47:21.164Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça's opponents in the Women's UCL",
       "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Call for Ordinary General Assembly 2026",
       "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona announcement",
       "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
