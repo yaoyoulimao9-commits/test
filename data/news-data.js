@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T11:21:07.714Z",
+  "updatedAt": "2026-09-04T11:47:00.963Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572049",
+      "title": "Barça's opponents in the Women's UCL",
+      "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/dc8f6f83-57a5-4b97-a35f-b1cce8ab0eb6/Juan_Ortensi.png",
+      "localImage": "assets/news/4572049.png"
+    },
     {
       "id": "4572015",
       "title": "Call for Ordinary General Assembly 2026",
       "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona announcement",
       "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Gavi and Gabriel Jesus at training",
       "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 03 Sep 26",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cbe95f7b-1dd8-49f7-aa8a-bc9de8060d9b/3200X2000-comiat-Toni_Fern-ndez.jpg",
       "localImage": "assets/news/4570303.jpg"
-    },
-    {
-      "id": "4570301",
-      "title": "Agreement with RCD Mallorca for the transfer of Guille Fernández",
-      "description": "Club includes a sell-on clause in view of a future transfer of the player",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570301/agreement-with-rcd-mallorca-for-the-transfer-of-guille-fernandez",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/e6c0018f-b386-4eac-a613-b455078d3cfc/WhatsApp-Image-2026-09-01-at-19.35.19.jpeg",
-      "localImage": "assets/news/4570301.jpg"
     }
   ]
 };
