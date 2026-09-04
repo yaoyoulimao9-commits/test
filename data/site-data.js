@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-04T16:45:56.099Z",
+  "generatedAt": "2026-09-04T17:19:56.837Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Barcelona back in action",
       "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
       "category": "",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570290.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-04T16:45:56.099Z",
+  "newsUpdatedAt": "2026-09-04T17:19:56.837Z",
   "archive": {}
 };
