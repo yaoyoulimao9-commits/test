@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-04T13:48:33.336Z",
+  "generatedAt": "2026-09-04T14:21:30.228Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,12 +6363,24 @@ window.BARCA_DATA = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/39a58539-2ce5-426f-9f36-868c8d5a40e8/image00015.jpeg",
       "localImage": "assets/news/4572031.jpg"
+    },
+    {
+      "id": "4572073",
+      "title": "Barça Academy Barcelona back in action",
+      "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
+      "category": "",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/b4c94dae-7b3b-4bb4-aa7b-3977bedc25e3/2026-09-03_PRESENTACIOFCBESCOLA_132.jpg",
+      "localImage": "assets/news/4572073.jpg"
     },
     {
       "id": "4572049",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570290/marc-casado-loaned-to-deportivo-a-coruna",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/38a328b1-e8d3-4c60-b329-48f5ced3c50c/_MGA6770.jpg",
       "localImage": "assets/news/4570290.jpg"
-    },
-    {
-      "id": "4570297",
-      "title": "Agreement with Antwerp for the transfer of Álvaro Cortés",
-      "description": "FC Barcelona wishes the player all the best in this next stage of his career and thanks for his dedication during his time with the Club",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/73c8e717-61f5-4176-9339-11942ab52b6d/COMIAT-CORTES-3200x2000.png",
-      "localImage": "assets/news/4570297.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-04T13:48:33.336Z",
+  "newsUpdatedAt": "2026-09-04T14:21:30.228Z",
   "archive": {}
 };
