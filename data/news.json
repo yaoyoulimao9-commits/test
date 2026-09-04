@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-09-04T11:47:00.963Z",
+  "updatedAt": "2026-09-04T12:27:32.059Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
+    {
+      "id": "4572025",
+      "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
+      "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
+      "category": "Club",
+      "relativeTime": "Published date Just now",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/c80280af-fbf2-4176-9fee-a927fbe03cba/_MGA3371.jpg",
+      "localImage": "assets/news/4572025.jpg"
+    },
+    {
+      "id": "4572031",
+      "title": "Second to last session before trip to Mestalla",
+      "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
+      "category": "First Team",
+      "relativeTime": "Published date 35 Mins ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/39a58539-2ce5-426f-9f36-868c8d5a40e8/image00015.jpeg",
+      "localImage": "assets/news/4572031.jpg"
+    },
     {
       "id": "4572049",
       "title": "Barça's opponents in the Women's UCL",
@@ -33,7 +57,7 @@
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570297/agreement-with-royal-antwerp-for-the-transfer-of-alvaro-cortes",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/73c8e717-61f5-4176-9339-11942ab52b6d/COMIAT-CORTES-3200x2000.png",
       "localImage": "assets/news/4570297.jpg"
-    },
-    {
-      "id": "4570293",
-      "title": "Lamine Yamal and Patri Guijarro win 2025/26 season AFE awards",
-      "description": "FC Barcelona players acknowledged as the best players in the Primera División and Liga F respectively",
-      "category": "Club",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/club/news/4570293/lamine-yamal-and-patri-guijarro-win-202526-season-afe-awards",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cd33ed0d-8cfa-4394-8cc0-d16809397c98/_23A0498.jpg",
-      "localImage": "assets/news/4570293.jpg"
-    },
-    {
-      "id": "4570303",
-      "title": "Agreement with Venezia FC for the transfer of Toni Fernández",
-      "description": "Barça retain a buy-back option as well as a percentage of any future sale",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570303/agreement-with-venezia-fc-for-the-transfer-of-toni-fernandez",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cbe95f7b-1dd8-49f7-aa8a-bc9de8060d9b/3200X2000-comiat-Toni_Fern-ndez.jpg",
-      "localImage": "assets/news/4570303.jpg"
     }
   ]
 }
