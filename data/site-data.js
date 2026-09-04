@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-04T10:22:38.080Z",
+  "generatedAt": "2026-09-04T10:48:05.874Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4572015",
+      "title": "Call for Ordinary General Assembly 2026",
+      "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/9335060b-d7a1-4906-8182-28d46642fab3/WhatsApp-Image-2026-09-04-at-10.59.18.jpeg",
+      "localImage": "assets/news/4572015.jpg"
+    },
+    {
       "id": "4571115",
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona announcement",
       "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Gavi and Gabriel Jesus at training",
       "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Bisiwu injury update",
       "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 03 Sep 26",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570301/agreement-with-rcd-mallorca-for-the-transfer-of-guille-fernandez",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/e6c0018f-b386-4eac-a613-b455078d3cfc/WhatsApp-Image-2026-09-01-at-19.35.19.jpeg",
       "localImage": "assets/news/4570301.jpg"
-    },
-    {
-      "id": "4570226",
-      "title": "Date and kick-off time of LaLiga Clásico at the Spotify Camp Nou confirmed",
-      "description": "Blaugranes and all-whites meet on 25 October (kick-off 9.00pm CEST) to fulfil the LaLiga gameweek 10 fixture",
-      "category": "Feature",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed/featured",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cf32ae40-6359-4e15-be91-3d69232f7e51/_M1A1120-1-.jpg",
-      "localImage": "assets/news/4570226.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-04T10:22:38.080Z",
+  "newsUpdatedAt": "2026-09-04T10:48:05.874Z",
   "archive": {}
 };
