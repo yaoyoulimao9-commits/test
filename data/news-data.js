@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T10:48:05.869Z",
+  "updatedAt": "2026-09-04T11:21:07.714Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
