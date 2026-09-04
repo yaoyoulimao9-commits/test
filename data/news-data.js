@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T08:49:32.930Z",
+  "updatedAt": "2026-09-04T09:22:35.283Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4571115",
+      "title": "Last visit to Mestalla",
+      "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
+      "sourceImage": "",
+      "localImage": ""
+    },
     {
       "id": "4571765",
       "title": "FC Barcelona announcement",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed/featured",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/cf32ae40-6359-4e15-be91-3d69232f7e51/_M1A1120-1-.jpg",
       "localImage": "assets/news/4570226.jpg"
-    },
-    {
-      "id": "4570156",
-      "title": "'I knew something nice would happen'",
-      "description": "Brazilian speaks at his presentation about how excited he is to be joining FC Barcelona",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570156/gabriel-jesus-i-knew-something-nice-would-happen",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/2d50482d-2e0d-488e-b22b-d973d684b40d/_5DS8434.jpg",
-      "localImage": "assets/news/4570156.jpg"
     }
   ]
 };
