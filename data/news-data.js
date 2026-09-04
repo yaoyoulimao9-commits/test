@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T15:47:21.164Z",
+  "updatedAt": "2026-09-04T16:22:47.296Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Barcelona back in action",
       "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
       "category": "",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
