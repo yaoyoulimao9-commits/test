@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-04T12:51:38.395Z",
+  "updatedAt": "2026-09-04T13:22:05.989Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
       "category": "Club",
-      "relativeTime": "Published date 26 Mins ago",
+      "relativeTime": "Published date 51 Mins ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
