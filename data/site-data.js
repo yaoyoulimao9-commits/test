@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-04T09:48:39.402Z",
+  "generatedAt": "2026-09-04T10:22:38.080Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,12 +6351,12 @@ window.BARCA_DATA = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/f9174771-2b14-4d46-ac4e-48649a44b5ac/AthleticClub-FCBarcelona4-1CopadelRei20082009v4_pic__m3_9614.jpg",
+      "localImage": "assets/news/4571115.jpg"
     },
     {
       "id": "4571765",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Valencia v Barça",
       "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 03 Sep 26",
       "publishedDate": "2026-09-03",
       "dateLabel": "September 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570226.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-04T09:48:39.402Z",
+  "newsUpdatedAt": "2026-09-04T10:22:38.080Z",
   "archive": {}
 };
