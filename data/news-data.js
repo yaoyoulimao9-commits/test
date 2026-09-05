@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T14:19:48.392Z",
+  "updatedAt": "2026-09-05T14:45:32.339Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -35,8 +35,8 @@ window.BARCA_NEWS = {
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/458769a8-8022-45b8-a19d-4f1b8780e93d/PUYAL-AL-CAMP-NOU.jpg",
+      "localImage": "assets/news/4572023.jpg"
     },
     {
       "id": "4572111",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
