@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T15:45:30.455Z",
+  "generatedAt": "2026-09-05T16:21:04.537Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4572395",
+      "title": "The squad for Valencia",
+      "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
+      "category": "First Team",
+      "relativeTime": "Published date 20 Mins ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/8aa0bbc0-b863-4277-af64-036898883d15/_MGA2532.jpg",
+      "localImage": "assets/news/4572395.jpg"
+    },
+    {
       "id": "4572392",
       "title": "Last session before Valencia",
       "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "50 years of making ourselves heard",
       "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Valencia v Barça: Did you know?",
       "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/f9bd6524-6acb-4881-96a8-98cdbb41a1e6/WhatsApp-Image-2026-09-02-at-18.55.08.jpeg",
       "localImage": "assets/news/4570894.jpg"
-    },
-    {
-      "id": "4571124",
-      "title": "Three blaugranes nominated for LaLiga awards for August",
-      "description": "Raphinha, Xavi Espart and Hansi Flick candidates for best player, best U-23 and best coach respectively",
-      "category": "First Team",
-      "relativeTime": "Published date 02 Sep 26",
-      "publishedDate": "2026-09-02",
-      "dateLabel": "September 02",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/c12f0ef0-fc88-432d-a6c0-0c658bc032cf/_MGA2106.jpg",
-      "localImage": "assets/news/4571124.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T15:45:30.455Z",
+  "newsUpdatedAt": "2026-09-05T16:21:04.537Z",
   "archive": {}
 };
