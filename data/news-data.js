@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T11:19:24.218Z",
+  "updatedAt": "2026-09-05T12:24:43.351Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572392",
+      "title": "Last session before Valencia",
+      "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/064266ff-1354-4dd5-bdfb-a05b839886d8/WhatsApp-Image-2026-09-05-at-12.51.57.jpeg",
+      "localImage": "assets/news/4572392.jpg"
+    },
+    {
+      "id": "4572396",
+      "title": "'A top quality squad'",
+      "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/c2ee6f2d-b02f-402e-96d4-81ad458d3879/_MGA3779.jpg",
+      "localImage": "assets/news/4572396.jpg"
+    },
     {
       "id": "4572023",
       "title": "50 years of making ourselves heard",
       "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Valencia v Barça: Did you know?",
       "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
@@ -55,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Sep 26",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571124/three-blaugranes-nominated-for-laliga-awards-for-august",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/c12f0ef0-fc88-432d-a6c0-0c658bc032cf/_MGA2106.jpg",
       "localImage": "assets/news/4571124.jpg"
-    },
-    {
-      "id": "4569533",
-      "title": "Five games in fourteen days",
-      "description": "A lot of games between now and the first international break of 2026/27",
-      "category": "First Team",
-      "relativeTime": "Published date 02 Sep 26",
-      "publishedDate": "2026-09-02",
-      "dateLabel": "September 02",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/8615c08d-9b2f-4a92-afbf-b11538e46127/3200X2000_Calendar-SEPT-ENG.jpg",
-      "localImage": "assets/news/4569533.jpg"
-    },
-    {
-      "id": "4570916",
-      "title": "Barça Academy Chicago enjoys unforgettable day at Soldier Field",
-      "description": "Boys and girls play series of mini-matches before Chicago Fire's 2-1 home win",
-      "category": "",
-      "relativeTime": "Published date 02 Sep 26",
-      "publishedDate": "2026-09-02",
-      "dateLabel": "September 02",
-      "source": "https://www.fcbarcelona.com/en/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/75fde9f5-ed43-40f0-ac6e-60ebe2efb351/aaaaaaaa.jpeg",
-      "localImage": "assets/news/4570916.jpg"
     }
   ]
 };
