@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T00:31:18.305Z",
+  "generatedAt": "2026-09-05T00:50:16.972Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça's opponents in the Women's UCL",
       "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Call for Ordinary General Assembly 2026",
       "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
       "category": "Club",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570494.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T00:31:18.305Z",
+  "newsUpdatedAt": "2026-09-05T00:50:16.972Z",
   "archive": {}
 };

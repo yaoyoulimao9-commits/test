@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T00:31:18.300Z",
+  "updatedAt": "2026-09-05T00:50:16.969Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça's opponents in the Women's UCL",
       "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Call for Ordinary General Assembly 2026",
       "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
       "category": "Club",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
