@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T09:20:02.579Z",
+  "generatedAt": "2026-09-05T09:45:44.136Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça's opponents in the Women's UCL",
       "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570916.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T09:20:02.579Z",
+  "newsUpdatedAt": "2026-09-05T09:45:44.136Z",
   "archive": {}
 };
