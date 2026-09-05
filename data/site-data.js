@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T20:20:37.479Z",
+  "generatedAt": "2026-09-05T20:45:46.537Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 4-4 Jaén: Finalists on penalties",
       "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
       "category": "Futsal",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4571179.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T20:20:37.479Z",
+  "newsUpdatedAt": "2026-09-05T20:45:46.537Z",
   "archive": {}
 };
