@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:46:21.278Z",
+  "updatedAt": "2026-09-05T09:20:02.575Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
@@ -9,7 +9,7 @@
       "title": "Valencia v Barça: Did you know?",
       "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
       "category": "First Team",
-      "relativeTime": "Published date 55 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
@@ -45,7 +45,7 @@
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -57,7 +57,7 @@
       "title": "Barça Academy Barcelona back in action",
       "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
       "category": "",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
@@ -75,6 +75,18 @@
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-opponents-in-the-womens-ucl",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/dc8f6f83-57a5-4b97-a35f-b1cce8ab0eb6/Juan_Ortensi.png",
       "localImage": "assets/news/4572049.png"
+    },
+    {
+      "id": "4572023",
+      "title": "50 years of making ourselves heard",
+      "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
+      "category": "Club",
+      "relativeTime": "Published date 04 Sep 26",
+      "publishedDate": "2026-09-04",
+      "dateLabel": "September 04",
+      "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
+      "sourceImage": "",
+      "localImage": ""
     },
     {
       "id": "4572015",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/news/4570916/barca-academy-chicago-enjoys-unforgettable-day-at-soldier-field",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/75fde9f5-ed43-40f0-ac6e-60ebe2efb351/aaaaaaaa.jpeg",
       "localImage": "assets/news/4570916.jpg"
-    },
-    {
-      "id": "4570214",
-      "title": "Mirza Catovic, new Barça Atlètic player",
-      "description": "FC Barcelona and Stuttgart reach agreement for the loan of the German midfielder until 30 June 2027, including a purchase option",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/b42d8b33-fab2-4d9d-85a6-357ef36189ae/WhatsApp-Image-2026-09-01-at-18.34.46.jpeg",
-      "localImage": "assets/news/4570214.jpg"
     }
   ]
 }
