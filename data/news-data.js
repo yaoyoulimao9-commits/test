@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T17:18:59.645Z",
+  "updatedAt": "2026-09-05T17:45:37.129Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Sep 26",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",

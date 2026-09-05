@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T17:18:59.650Z",
+  "generatedAt": "2026-09-05T17:45:37.134Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Sep 26",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4570894.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T17:18:59.650Z",
+  "newsUpdatedAt": "2026-09-05T17:45:37.134Z",
   "archive": {}
 };
