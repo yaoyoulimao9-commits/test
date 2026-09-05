@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-05T07:45:29.554Z",
+  "generatedAt": "2026-09-05T08:21:29.071Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4572111",
+      "title": "Valencia v Barça: Did you know?",
+      "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
+      "category": "First Team",
+      "relativeTime": "Published date 29 Mins ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/902940c4-1672-4f32-b527-5828fe55df6b/_MGA8314.jpg",
+      "localImage": "assets/news/4572111.jpg"
+    },
+    {
       "id": "4572227",
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Second to last session before trip to Mestalla",
       "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Barcelona back in action",
       "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
       "category": "",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Last visit to Mestalla",
       "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Sep 26",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4570214/mirza-catovic-new-barca-atletic-player",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/b42d8b33-fab2-4d9d-85a6-357ef36189ae/WhatsApp-Image-2026-09-01-at-18.34.46.jpeg",
       "localImage": "assets/news/4570214.jpg"
-    },
-    {
-      "id": "4570494",
-      "title": "Brian Fariñas registered as first team player in number '4' jersey",
-      "description": "The midfielder from La Masia becomes part of the Barça first team squad",
-      "category": "First Team",
-      "relativeTime": "Published date 01 Sep 26",
-      "publishedDate": "2026-09-01",
-      "dateLabel": "September 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570494/brian-farinas-registered-as-first-team-player-in-number-4-jersey",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/01/dbaddd13-a4fc-4269-9b67-2cb584c4df3c/WhatsApp-Image-2026-09-01-at-23.52.39.jpeg",
-      "localImage": "assets/news/4570494.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-05T07:45:29.554Z",
+  "newsUpdatedAt": "2026-09-05T08:21:29.071Z",
   "archive": {}
 };
