@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T18:22:32.787Z",
+  "updatedAt": "2026-09-05T18:48:34.278Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572442",
+      "title": "Barça 4-4 Jaén: Finalists on penalties",
+      "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
+      "category": "Futsal",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/3ec33e1f-f972-4ca5-bc0a-605f4e8422bb/2026-09-05_FCBFUTSALvsJAEN_SEMIFINALSUPERCOPAESPANYA_102.jpg",
+      "localImage": "assets/news/4572442.jpg"
+    },
     {
       "id": "4572395",
       "title": "The squad for Valencia",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/4a78e0a0-082a-43f6-9c92-d642412f1ea1/DAG-082-_M1A8817.jpg",
       "localImage": "assets/news/4571179.jpg"
-    },
-    {
-      "id": "4570894",
-      "title": "2026/27 first team jersey numbers",
-      "description": "The FC Barcelona first team squad numbers for this season",
-      "category": "First Team",
-      "relativeTime": "Published date 02 Sep 26",
-      "publishedDate": "2026-09-02",
-      "dateLabel": "September 02",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4570894/202627-first-team-jersey-numbers-confirmed",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/f9bd6524-6acb-4881-96a8-98cdbb41a1e6/WhatsApp-Image-2026-09-02-at-18.55.08.jpeg",
-      "localImage": "assets/news/4570894.jpg"
     }
   ]
 };
