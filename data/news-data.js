@@ -1,7 +1,31 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T20:45:46.533Z",
+  "updatedAt": "2026-09-05T21:19:14.049Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572506",
+      "title": "Barça 39-34 Sporting CP: Iberian champions",
+      "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
+      "category": "Handball",
+      "relativeTime": "Published date 30 Mins ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
+      "id": "4572504",
+      "title": "Sevilla 0-4 Barça: Victorious again",
+      "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
+      "category": "Women",
+      "relativeTime": "Published date 45 Mins ago",
+      "publishedDate": "2026-09-05",
+      "dateLabel": "September 05",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/edf9dcb1-655b-4864-9b91-cd839db6f5fe/WhatsApp-Image-2026-09-05-at-22.15.19.jpeg",
+      "localImage": "assets/news/4572504.jpg"
+    },
     {
       "id": "4572442",
       "title": "Barça 4-4 Jaén: Finalists on penalties",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Valencia",
       "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Valencia",
       "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
@@ -55,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "50 years of making ourselves heard",
       "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
@@ -67,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Valencia v Barça: Did you know?",
       "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/da9f35d3-b15e-438c-85fc-f7c4e990990d/DAG-003-_C4A7819.jpg",
       "localImage": "assets/news/4571566.jpg"
-    },
-    {
-      "id": "4571041",
-      "title": "When and where to watch Valencia v Barça",
-      "description": "International viewing guide to this weekend's Liga fixture at Mestalla",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Sep 26",
-      "publishedDate": "2026-09-03",
-      "dateLabel": "September 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571041/when-and-where-to-watch-valencia-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/b40f7e2d-2dcd-44a1-872e-fbacb08e9781/3200x2000_Horarios-Valencia_06_09.png",
-      "localImage": "assets/news/4571041.png"
-    },
-    {
-      "id": "4571179",
-      "title": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away",
-      "description": "The blaugranes lose out to a late goal to finish runners up in the competition",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 02 Sep 26",
-      "publishedDate": "2026-09-02",
-      "dateLabel": "September 02",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571179/barca-atletic-1-2-ce-sabadell-copa-catalunya-slips-away",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/02/4a78e0a0-082a-43f6-9c92-d642412f1ea1/DAG-082-_M1A8817.jpg",
-      "localImage": "assets/news/4571179.jpg"
     }
   ]
 };
