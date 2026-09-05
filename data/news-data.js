@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-05T12:24:43.351Z",
+  "updatedAt": "2026-09-05T12:49:18.961Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
       "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
       "category": "Handball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
       "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Sep 26",
       "publishedDate": "2026-09-04",
       "dateLabel": "September 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
