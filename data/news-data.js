@@ -1,18 +1,30 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T07:46:04.949Z",
+  "updatedAt": "2026-09-06T08:22:25.685Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572267",
+      "title": "PREVIEW | Valencia v Barça",
+      "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
+      "category": "First Team",
+      "relativeTime": "Published date 19 Mins ago",
+      "publishedDate": "2026-09-06",
+      "dateLabel": "September 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/d1b09e9d-af69-473f-b624-1076ac878fb6/_MGA2225.jpg",
+      "localImage": "assets/news/4572267.jpg"
+    },
     {
       "id": "4572506",
       "title": "Barça 39-34 Sporting CP: Iberian champions",
       "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
       "category": "Handball",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/f692ed27-4895-474d-ab07-f3bf79239919/_JLR3180.JPG",
+      "localImage": "assets/news/4572506.jpg"
     },
     {
       "id": "4572504",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Valencia",
       "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Valencia",
       "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "50 years of making ourselves heard",
       "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
@@ -91,7 +103,7 @@ window.BARCA_NEWS = {
       "title": "Valencia v Barça: Did you know?",
       "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 05 Sep 26",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/466afcaf-cc25-4157-993b-844d1248147f/image00012.jpeg",
       "localImage": "assets/news/4571558.jpg"
-    },
-    {
-      "id": "4571566",
-      "title": "Bisiwu injury update",
-      "description": "Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 03 Sep 26",
-      "publishedDate": "2026-09-03",
-      "dateLabel": "September 03",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4571566/bisiwu-injury-update",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/da9f35d3-b15e-438c-85fc-f7c4e990990d/DAG-003-_C4A7819.jpg",
-      "localImage": "assets/news/4571566.jpg"
     }
   ]
 };
