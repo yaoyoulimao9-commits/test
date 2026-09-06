@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-06T17:45:34.662Z",
+  "generatedAt": "2026-09-06T18:22:43.505Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4571115.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-06T17:45:34.662Z",
+  "newsUpdatedAt": "2026-09-06T18:22:43.505Z",
   "archive": {}
 };

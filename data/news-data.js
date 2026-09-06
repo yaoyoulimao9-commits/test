@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T17:45:34.657Z",
+  "updatedAt": "2026-09-06T18:22:43.502Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
