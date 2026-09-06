@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T16:21:56.042Z",
+  "updatedAt": "2026-09-06T16:45:43.726Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572837",
+      "title": "Valencia 0-5 Barça: High five!",
+      "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
+      "category": "First Team",
+      "relativeTime": "Published date 20 Mins ago",
+      "publishedDate": "2026-09-06",
+      "dateLabel": "September 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/bced39c1-3b8d-4fc8-950a-c5fe38fa1aa1/_MGA5352.jpg",
+      "localImage": "assets/news/4572837.jpg"
+    },
     {
       "id": "4572267",
       "title": "PREVIEW | Valencia v Barça",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-34 Sporting CP: Iberian champions",
       "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 4-4 Jaén: Finalists on penalties",
       "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
       "category": "Futsal",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 05 Sep 26",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/12f269d2-4ebe-4a95-9a87-d0d36b59f733/Foto-Junta-Directiva-3.9.2026.jpeg",
       "localImage": "assets/news/4571765.jpg"
-    },
-    {
-      "id": "4571558",
-      "title": "Gavi and Gabriel Jesus at training",
-      "description": "Andalusian midfielder and the new Brazilian signing have started training with the group",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Sep 26",
-      "publishedDate": "2026-09-03",
-      "dateLabel": "September 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571558/gavi-and-gabriel-jesus-feature-in-return-to-work",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/466afcaf-cc25-4157-993b-844d1248147f/image00012.jpeg",
-      "localImage": "assets/news/4571558.jpg"
     }
   ]
 };
