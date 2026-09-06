@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T04:21:29.093Z",
+  "updatedAt": "2026-09-06T04:46:47.326Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-34 Sporting CP: Iberian champions",
       "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
       "category": "Handball",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 4-4 Jaén: Finalists on penalties",
       "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
       "category": "Futsal",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "'A top quality squad'",
       "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
