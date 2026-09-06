@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T05:19:50.930Z",
+  "updatedAt": "2026-09-06T05:45:41.619Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 4-4 Jaén: Finalists on penalties",
       "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
       "category": "Futsal",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
