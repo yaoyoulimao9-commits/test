@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T08:22:25.685Z",
+  "updatedAt": "2026-09-06T08:46:56.868Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 19 Mins ago",
+      "relativeTime": "Published date 43 Mins ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça 4-4 Jaén: Finalists on penalties",
       "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
       "category": "Futsal",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
