@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-06T17:19:01.598Z",
+  "generatedAt": "2026-09-06T17:45:34.662Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 35 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 50 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-34 Sporting CP: Iberian champions",
       "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
       "category": "Handball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4571115.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-06T17:19:01.598Z",
+  "newsUpdatedAt": "2026-09-06T17:45:34.662Z",
   "archive": {}
 };
