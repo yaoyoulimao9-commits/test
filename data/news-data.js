@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T00:54:11.203Z",
+  "updatedAt": "2026-09-06T01:19:09.025Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Valencia",
       "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Valencia",
       "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "50 years of making ourselves heard",
       "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
       "category": "Club",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
