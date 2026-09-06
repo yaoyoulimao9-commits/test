@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-06T21:19:40.908Z",
+  "generatedAt": "2026-09-06T21:45:48.583Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572927.jpg"
     },
     {
+      "id": "4572924",
+      "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
+      "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
+      "category": "Futsal",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-06",
+      "dateLabel": "September 06",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/22208d3b-d75d-4fc9-bcd3-7dab39209197/2026-09-06_FCBFUTSALvsElPozo_FINALSUPERCOPAESPANYA_102.jpg",
+      "localImage": "assets/news/4572924.jpg"
+    },
+    {
       "id": "4572904",
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-schedule-in-the-uwcl",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/dc8f6f83-57a5-4b97-a35f-b1cce8ab0eb6/Juan_Ortensi.png",
       "localImage": "assets/news/4572049.png"
-    },
-    {
-      "id": "4572015",
-      "title": "Call for Ordinary General Assembly 2026",
-      "description": "To be held online on Saturday 19 September, with Table formed in Auditori 1899",
-      "category": "Club",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/9335060b-d7a1-4906-8182-28d46642fab3/WhatsApp-Image-2026-09-04-at-10.59.18.jpeg",
-      "localImage": "assets/news/4572015.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-06T21:19:40.908Z",
+  "newsUpdatedAt": "2026-09-06T21:45:48.583Z",
   "archive": {}
 };
