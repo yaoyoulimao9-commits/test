@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-06T16:45:43.732Z",
+  "generatedAt": "2026-09-06T17:19:01.598Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4572904",
+      "title": "Gabriel Jesus makes his debut",
+      "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
+      "category": "First Team",
+      "relativeTime": "Published date 35 Mins ago",
+      "publishedDate": "2026-09-06",
+      "dateLabel": "September 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/7d68b2c2-5e5f-4cbd-8530-969c03ed1982/_MGA4710.jpg",
+      "localImage": "assets/news/4572904.jpg"
+    },
+    {
       "id": "4572837",
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 20 Mins ago",
+      "relativeTime": "Published date 50 Mins ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/f9174771-2b14-4d46-ac4e-48649a44b5ac/AthleticClub-FCBarcelona4-1CopadelRei20082009v4_pic__m3_9614.jpg",
       "localImage": "assets/news/4571115.jpg"
-    },
-    {
-      "id": "4571765",
-      "title": "FC Barcelona announcement",
-      "description": "Date for the Ordinary General Assembly and presentation of the 25/26 fiscal year results announced",
-      "category": "Club",
-      "relativeTime": "Published date 03 Sep 26",
-      "publishedDate": "2026-09-03",
-      "dateLabel": "September 03",
-      "source": "https://www.fcbarcelona.com/en/club/news/4571765/fc-barcelona-announcement",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/03/12f269d2-4ebe-4a95-9a87-d0d36b59f733/Foto-Junta-Directiva-3.9.2026.jpeg",
-      "localImage": "assets/news/4571765.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-06T16:45:43.732Z",
+  "newsUpdatedAt": "2026-09-06T17:19:01.598Z",
   "archive": {}
 };
