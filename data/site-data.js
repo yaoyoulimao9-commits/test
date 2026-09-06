@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-06T09:45:41.141Z",
+  "generatedAt": "2026-09-06T10:20:59.241Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The squad for Valencia",
       "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last session before Valencia",
       "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4571558.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-06T09:45:41.141Z",
+  "newsUpdatedAt": "2026-09-06T10:20:59.241Z",
   "archive": {}
 };
