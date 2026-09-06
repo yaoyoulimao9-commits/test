@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-06T19:18:52.508Z",
+  "updatedAt": "2026-09-06T19:45:31.672Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4572927",
+      "title": "Barça Atlètic 5-0 Náxara: Strong start",
+      "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 26 Mins ago",
+      "publishedDate": "2026-09-06",
+      "dateLabel": "September 06",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/ee6352ec-fd67-423b-a499-0fc3e8e90160/BARC-A-B_NAXARA-100.jpg",
+      "localImage": "assets/news/4572927.jpg"
+    },
     {
       "id": "4572904",
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Sevilla 0-4 Barça: Victorious again",
       "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-05",
       "dateLabel": "September 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4572015/call-for-ordinary-general-assembly-2026",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/9335060b-d7a1-4906-8182-28d46642fab3/WhatsApp-Image-2026-09-04-at-10.59.18.jpeg",
       "localImage": "assets/news/4572015.jpg"
-    },
-    {
-      "id": "4571115",
-      "title": "Last visit to Mestalla",
-      "description": "Venue for many great Barça moments, the game between the blaugranes and Valencia on Sunday will their final encounter in the famous ground",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/f9174771-2b14-4d46-ac4e-48649a44b5ac/AthleticClub-FCBarcelona4-1CopadelRei20082009v4_pic__m3_9614.jpg",
-      "localImage": "assets/news/4571115.jpg"
     }
   ]
 };
