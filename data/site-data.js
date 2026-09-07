@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T09:50:19.845Z",
+  "generatedAt": "2026-09-07T10:23:33.471Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573218.jpg"
     },
     {
+      "id": "4573211",
+      "title": "“Parla blaugrana, parla català\": Barça and Its Historic Commitment to the Catalan Language",
+      "description": "Players from FC Barcelona’s men’s and women’s first teams share, through a series of videos, their personal experiences with the Catalan language and its importance as a tool for integration and social cohesion in Catalonia",
+      "category": "",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/57ea1936-5b33-4227-afd0-b21c731c05e0/_RELATS_web_02-1-1-.jpg",
+      "localImage": "assets/news/4573211.jpg"
+    },
+    {
       "id": "4572927",
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/39a58539-2ce5-426f-9f36-868c8d5a40e8/image00015.jpeg",
       "localImage": "assets/news/4572031.jpg"
-    },
-    {
-      "id": "4572073",
-      "title": "Barça Academy Barcelona back in action",
-      "description": "Palau Blaugrana chosen as the venue for the new season's presentation",
-      "category": "",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/b4c94dae-7b3b-4bb4-aa7b-3977bedc25e3/2026-09-03_PRESENTACIOFCBESCOLA_132.jpg",
-      "localImage": "assets/news/4572073.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T09:50:19.845Z",
+  "newsUpdatedAt": "2026-09-07T10:23:33.471Z",
   "archive": {}
 };
