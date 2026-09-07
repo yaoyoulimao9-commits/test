@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-07T18:50:44.226Z",
+  "updatedAt": "2026-09-07T19:20:35.396Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4573406",
+      "title": "When and where to watch Barça v Feyenoord",
+      "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/1e682f3b-86e2-4bec-a6a8-866060924676/3200x2000_Horarios-1-.png",
+      "localImage": "assets/news/4573406.png"
+    },
     {
       "id": "4573254",
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 06 Sep 26",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 06 Sep 26",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/458769a8-8022-45b8-a19d-4f1b8780e93d/PUYAL-AL-CAMP-NOU.jpg",
       "localImage": "assets/news/4572023.jpg"
-    },
-    {
-      "id": "4572111",
-      "title": "Valencia v Barça: Did you know?",
-      "description": "Four key things that every fan needs to know in the build-up to the fourth game of the league season",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/902940c4-1672-4f32-b527-5828fe55df6b/_MGA8314.jpg",
-      "localImage": "assets/news/4572111.jpg"
     }
   ]
 };
