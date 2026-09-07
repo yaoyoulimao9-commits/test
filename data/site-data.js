@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T13:50:14.379Z",
+  "generatedAt": "2026-09-07T14:23:22.718Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572111.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T13:50:14.379Z",
+  "newsUpdatedAt": "2026-09-07T14:23:22.718Z",
   "archive": {}
 };
