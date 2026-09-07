@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T11:22:40.641Z",
+  "generatedAt": "2026-09-07T11:49:01.551Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,12 +6351,36 @@ window.BARCA_DATA = {
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 21 Mins ago",
+      "relativeTime": "Published date 53 Mins ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/4526808a-d83c-4fae-8050-10484e871fde/image00016.jpeg",
       "localImage": "assets/news/4573254.jpg"
+    },
+    {
+      "id": "4573271",
+      "title": "Raphinha does it again!",
+      "description": "Brazilian has scored in all four league games played so far",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/raphinha-on-course-for-record-goalscoring-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/ee084939-b3d8-4a04-ad2f-01eb22ab2df9/_MGA5369.jpg",
+      "localImage": "assets/news/4573271.jpg"
+    },
+    {
+      "id": "4573267",
+      "title": "Barça firepower",
+      "description": "The blaugranes have scored 17 goals in four games in La Liga, their third best total ever at this stage of the competition",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573267/barca-firepower",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/04e3c7b4-9156-4b48-8921-35f2e7eabf23/_MGA5357.jpg",
+      "localImage": "assets/news/4573267.jpg"
     },
     {
       "id": "4573218",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "“Parla blaugrana, parla català\": Barça and Its Historic Commitment to the Catalan Language",
       "description": "Players from FC Barcelona’s men’s and women’s first teams share, through a series of videos, their personal experiences with the Catalan language and its importance as a tool for integration and social cohesion in Catalonia",
       "category": "",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572111/valencia-v-barca-did-you-knowx",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/902940c4-1672-4f32-b527-5828fe55df6b/_MGA8314.jpg",
       "localImage": "assets/news/4572111.jpg"
-    },
-    {
-      "id": "4572227",
-      "title": "Barça 39-37 Porto: Iberian Super Cup finalists",
-      "description": "Catalans overcome the Portuguese side to book their place in the final as they chase their second title of the 2026/27 season | Photos: J.L. Recio / RFBEM",
-      "category": "Handball",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572227/barca-39-37-porto-iberian-super-cup-finalists",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/aee2f553-c5f2-457d-ad36-6af6d5245f06/_JLR7490.JPG",
-      "localImage": "assets/news/4572227.jpg"
-    },
-    {
-      "id": "4572025",
-      "title": "‘Security and Rival Fan Control Protocol’ for the high-risk match against Feyenoord",
-      "description": "The Club also calls on the spectators attending the match to arrive with sufficient time and with all documentation ready to show it upon request by any Club or security staff at the gates",
-      "category": "Club",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/c80280af-fbf2-4176-9fee-a927fbe03cba/_MGA3371.jpg",
-      "localImage": "assets/news/4572025.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T11:22:40.641Z",
+  "newsUpdatedAt": "2026-09-07T11:49:01.551Z",
   "archive": {}
 };
