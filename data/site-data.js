@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T00:54:33.694Z",
+  "generatedAt": "2026-09-07T01:20:37.893Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Valencia v Barça",
       "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572049.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T00:54:33.694Z",
+  "newsUpdatedAt": "2026-09-07T01:20:37.893Z",
   "archive": {}
 };
