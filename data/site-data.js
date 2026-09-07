@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T21:47:17.536Z",
+  "generatedAt": "2026-09-07T22:21:23.041Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572023.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T21:47:17.536Z",
+  "newsUpdatedAt": "2026-09-07T22:21:23.041Z",
   "archive": {}
 };
