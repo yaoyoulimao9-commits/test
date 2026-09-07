@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T10:48:42.501Z",
+  "generatedAt": "2026-09-07T11:22:40.641Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573254",
+      "title": "Champions League preparations begin",
+      "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
+      "category": "First Team",
+      "relativeTime": "Published date 21 Mins ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/4526808a-d83c-4fae-8050-10484e871fde/image00016.jpeg",
+      "localImage": "assets/news/4573254.jpg"
+    },
+    {
       "id": "4573218",
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4572025/fc-barcelona-implements-the-security-and-rival-fan-control-protocol-for-the-high-risk-match-against-feyenoord",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/c80280af-fbf2-4176-9fee-a927fbe03cba/_MGA3371.jpg",
       "localImage": "assets/news/4572025.jpg"
-    },
-    {
-      "id": "4572031",
-      "title": "Second to last session before trip to Mestalla",
-      "description": "Hansi Flick's team work out on Friday with Gavi and Gabriel Jesus completing the session with the group",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/39a58539-2ce5-426f-9f36-868c8d5a40e8/image00015.jpeg",
-      "localImage": "assets/news/4572031.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T10:48:42.501Z",
+  "newsUpdatedAt": "2026-09-07T11:22:40.641Z",
   "archive": {}
 };
