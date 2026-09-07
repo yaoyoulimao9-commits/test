@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-07T20:47:29.248Z",
+  "updatedAt": "2026-09-07T21:21:36.219Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Qingdao is a reality",
       "description": "After the success of the summer camp, club opts for a permanent presence in China",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
