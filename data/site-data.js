@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T08:50:28.514Z",
+  "generatedAt": "2026-09-07T09:24:46.863Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573218",
+      "title": "Barça Academy Qingdao is a reality",
+      "description": "After the success of the summer camp, club opts for a permanent presence in China",
+      "category": "",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-07",
+      "dateLabel": "September 07",
+      "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/1729f605-a12e-47e5-9ad0-2b181a9b2ad6/Image_20260831123221.jpg",
+      "localImage": "assets/news/4573218.jpg"
+    },
+    {
       "id": "4572927",
       "title": "Barça Atlètic 5-0 Náxara: Strong start",
       "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4572073/barca-academy-barcelona-back-in-action",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/b4c94dae-7b3b-4bb4-aa7b-3977bedc25e3/2026-09-03_PRESENTACIOFCBESCOLA_132.jpg",
       "localImage": "assets/news/4572073.jpg"
-    },
-    {
-      "id": "4572049",
-      "title": "Barça's schedule in the UWCL",
-      "description": "Bayern Munich, Arsenal, Paris FC, Roma, Servette FCCF and HB Køge to face blaugranes in league stage",
-      "category": "Women",
-      "relativeTime": "Published date 04 Sep 26",
-      "publishedDate": "2026-09-04",
-      "dateLabel": "September 04",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572049/barcas-schedule-in-the-uwcl",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/04/dc8f6f83-57a5-4b97-a35f-b1cce8ab0eb6/Juan_Ortensi.png",
-      "localImage": "assets/news/4572049.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T08:50:28.514Z",
+  "newsUpdatedAt": "2026-09-07T09:24:46.863Z",
   "archive": {}
 };
