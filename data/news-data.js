@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-07T19:20:35.396Z",
+  "updatedAt": "2026-09-07T19:46:10.594Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha does it again!",
       "description": "Brazilian has scored in all four league games played so far",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/raphinha-on-course-for-record-goalscoring-start",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça firepower",
       "description": "The blaugranes have scored 17 goals in four games in La Liga, their third best total ever at this stage of the competition",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573267/barca-firepower",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "“Parla blaugrana, parla català\": Barça and Its Historic Commitment to the Catalan Language",
       "description": "Players from FC Barcelona’s men’s and women’s first teams share, through a series of videos, their personal experiences with the Catalan language and its importance as a tool for integration and social cohesion in Catalonia",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
