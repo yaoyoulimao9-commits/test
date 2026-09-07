@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-07T00:33:45.249Z",
+  "updatedAt": "2026-09-07T00:54:33.690Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",

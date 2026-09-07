@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T00:33:45.253Z",
+  "generatedAt": "2026-09-07T00:54:33.694Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
       "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
       "category": "Futsal",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572049.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T00:33:45.253Z",
+  "newsUpdatedAt": "2026-09-07T00:54:33.694Z",
   "archive": {}
 };
