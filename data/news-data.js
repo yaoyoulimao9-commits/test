@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-07T10:23:33.466Z",
+  "updatedAt": "2026-09-07T10:48:42.495Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "“Parla blaugrana, parla català\": Barça and Its Historic Commitment to the Catalan Language",
       "description": "Players from FC Barcelona’s men’s and women’s first teams share, through a series of videos, their personal experiences with the Catalan language and its importance as a tool for integration and social cohesion in Catalonia",
       "category": "",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
