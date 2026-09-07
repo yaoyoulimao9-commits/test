@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-07T01:20:37.893Z",
+  "generatedAt": "2026-09-07T01:48:33.595Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Gabriel Jesus makes his debut",
       "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Valencia 0-5 Barça: High five!",
       "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-06",
       "dateLabel": "September 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572049.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-07T01:20:37.893Z",
+  "newsUpdatedAt": "2026-09-07T01:48:33.595Z",
   "archive": {}
 };
