@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-08T12:53:19.775Z",
+  "generatedAt": "2026-09-08T13:24:50.562Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 19 Mins ago",
+      "relativeTime": "Published date 50 Mins ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573727.jpg"
     },
     {
+      "id": "4573719",
+      "title": "'There's no greater motivation'",
+      "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/c6087526-203e-4a3e-98e4-82f138826900/_MGA5365.jpg",
+      "localImage": "assets/news/4573719.jpg"
+    },
+    {
       "id": "4573711",
       "title": "Hansi Flick: 'Everyone is ready'",
       "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 54 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/8aa0bbc0-b863-4277-af64-036898883d15/_MGA2532.jpg",
       "localImage": "assets/news/4572395.jpg"
-    },
-    {
-      "id": "4572392",
-      "title": "Last session before Valencia",
-      "description": "Hansi Flick's side trained on Saturday morning before setting off for Valencia",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/064266ff-1354-4dd5-bdfb-a05b839886d8/WhatsApp-Image-2026-09-05-at-12.51.57.jpeg",
-      "localImage": "assets/news/4572392.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-08T12:53:19.775Z",
+  "newsUpdatedAt": "2026-09-08T13:24:50.562Z",
   "archive": {}
 };
