@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-08T12:28:44.710Z",
+  "generatedAt": "2026-09-08T12:53:19.775Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573727",
+      "title": "Training session ahead of European debut",
+      "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
+      "category": "First Team",
+      "relativeTime": "Published date 19 Mins ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/275dc1a1-4dc2-4d3f-b9d2-12dec2c21eb4/WhatsApp-Image-2026-09-08-at-14.22.16-1-.jpeg",
+      "localImage": "assets/news/4573727.jpg"
+    },
+    {
       "id": "4573711",
       "title": "Hansi Flick: 'Everyone is ready'",
       "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 28 Mins ago",
+      "relativeTime": "Published date 54 Mins ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572392/last-session-before-valencia",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/064266ff-1354-4dd5-bdfb-a05b839886d8/WhatsApp-Image-2026-09-05-at-12.51.57.jpeg",
       "localImage": "assets/news/4572392.jpg"
-    },
-    {
-      "id": "4572396",
-      "title": "'A top quality squad'",
-      "description": "German coach discusses the state of the squad ahead of the trip to Mestalla and leaves the door open for both Lamine Yamal and Gabriel Jesus to feature",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/c2ee6f2d-b02f-402e-96d4-81ad458d3879/_MGA3779.jpg",
-      "localImage": "assets/news/4572396.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-08T12:28:44.710Z",
+  "newsUpdatedAt": "2026-09-08T12:53:19.775Z",
   "archive": {}
 };
