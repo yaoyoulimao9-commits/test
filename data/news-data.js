@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T16:24:46.851Z",
+  "updatedAt": "2026-09-08T16:49:43.249Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Three nominated for the Ballon d'Or",
       "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Six Ballon d'Or nominees",
       "description": "Esmee Brugts, Cata Coll, Caroline Graham, Patri Guijarro, Ewa Pajor and Claudia Pina are all included in the list",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "'There's no greater motivation'",
       "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
