@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-08T14:25:20.774Z",
+  "generatedAt": "2026-09-08T14:51:29.618Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573777",
+      "title": "Three Ballon d'Or nominees",
+      "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
+      "category": "First Team",
+      "relativeTime": "Published date 7 Mins ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-ballon-dor-nominees",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/d92e6ea1-8b58-475f-91dd-7754ce590ed7/3200X2000-BALLON_D_OR-MASC-.png",
+      "localImage": "assets/news/4573777.jpg"
+    },
+    {
       "id": "4573763",
       "title": "Six Ballon d'Or nominees",
       "description": "Esmee Brugts, Cata Coll, Caroline Graham, Patri Guijarro, Ewa Pajor and Claudia Pina are all included in the list",
       "category": "Women",
-      "relativeTime": "Published date 39 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/edf9dcb1-655b-4864-9b91-cd839db6f5fe/WhatsApp-Image-2026-09-05-at-22.15.19.jpeg",
       "localImage": "assets/news/4572504.jpg"
-    },
-    {
-      "id": "4572442",
-      "title": "Barça 4-4 Jaén: Finalists on penalties",
-      "description": "In a crazy semi-final, Barça survive, force a penalty shootout and ultimately book their place in the final after a shootout to remember",
-      "category": "Futsal",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/3ec33e1f-f972-4ca5-bc0a-605f4e8422bb/2026-09-05_FCBFUTSALvsJAEN_SEMIFINALSUPERCOPAESPANYA_102.jpg",
-      "localImage": "assets/news/4572442.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-08T14:25:20.774Z",
+  "newsUpdatedAt": "2026-09-08T14:51:29.618Z",
   "archive": {}
 };
