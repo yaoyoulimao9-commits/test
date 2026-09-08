@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T13:51:12.214Z",
+  "updatedAt": "2026-09-08T14:25:20.769Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4573763",
+      "title": "Six Ballon d'Or nominees",
+      "description": "Esmee Brugts, Cata Coll, Caroline Graham, Patri Guijarro, Ewa Pajor and Claudia Pina are all included in the list",
+      "category": "Women",
+      "relativeTime": "Published date 39 Mins ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/68776a0e-a551-48a4-8b8f-18df80bfef61/3200X2000-BALLON_D_OR-fem-.png",
+      "localImage": "assets/news/4573763.jpg"
+    },
     {
       "id": "4573727",
       "title": "Training session ahead of European debut",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'There's no greater motivation'",
       "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Hansi Flick: 'Everyone is ready'",
       "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572442/barca-4-4-jaen-finalists-on-penalties",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/3ec33e1f-f972-4ca5-bc0a-605f4e8422bb/2026-09-05_FCBFUTSALvsJAEN_SEMIFINALSUPERCOPAESPANYA_102.jpg",
       "localImage": "assets/news/4572442.jpg"
-    },
-    {
-      "id": "4572395",
-      "title": "The squad for Valencia",
-      "description": "Hansi Flick names the players who will be looking to extend the winning start to the season",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572395/the-squad-for-valencia",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/8aa0bbc0-b863-4277-af64-036898883d15/_MGA2532.jpg",
-      "localImage": "assets/news/4572395.jpg"
     }
   ]
 };
