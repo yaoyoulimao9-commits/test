@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-08T08:25:04.003Z",
+  "generatedAt": "2026-09-08T08:50:37.909Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Raphinha does it again!",
       "description": "Brazilian has scored in all four league games played so far",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/raphinha-on-course-for-record-goalscoring-start",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça firepower",
       "description": "The blaugranes have scored 17 goals in four games in La Liga, their third best total ever at this stage of the competition",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573267/barca-firepower",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572023.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-08T08:25:04.003Z",
+  "newsUpdatedAt": "2026-09-08T08:50:37.909Z",
   "archive": {}
 };
