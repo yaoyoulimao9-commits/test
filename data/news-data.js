@@ -1,16 +1,16 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T14:51:29.613Z",
+  "updatedAt": "2026-09-08T15:24:43.129Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
       "id": "4573777",
-      "title": "Three Ballon d'Or nominees",
+      "title": "Three nominated for the Ballon d'Or",
       "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
       "category": "First Team",
-      "relativeTime": "Published date 7 Mins ago",
+      "relativeTime": "Published date 32 Mins ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-ballon-dor-nominees",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/d92e6ea1-8b58-475f-91dd-7754ce590ed7/3200X2000-BALLON_D_OR-MASC-.png",
       "localImage": "assets/news/4573777.jpg"
     },
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Hansi Flick: 'Everyone is ready'",
       "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 07 Sep 26",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
