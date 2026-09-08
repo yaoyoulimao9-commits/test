@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T19:20:57.772Z",
+  "updatedAt": "2026-09-08T19:46:25.502Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4573819",
+      "title": "Gio: 'Barça play football that everyone wants to watch'",
+      "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573819/gio-van-bronckhorst-barca-play-football-that-everyone-wants-to-watch",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/7c038fbf-dde0-4e97-9e6c-764297e8011a/HRtfzoBbsAAaGSc.jpeg",
+      "localImage": "assets/news/4573819.jpg"
+    },
     {
       "id": "4573777",
       "title": "Three nominated for the Ballon d'Or",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "'There's no greater motivation'",
       "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/f692ed27-4895-474d-ab07-f3bf79239919/_JLR3180.JPG",
       "localImage": "assets/news/4572506.jpg"
-    },
-    {
-      "id": "4572504",
-      "title": "Sevilla 0-4 Barça: Victorious again",
-      "description": "Barça Femeni cruise past the Andalusian side to claim all three points in their second Liga F game of the season",
-      "category": "Women",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4572504/sevilla-0-4-barca-victorious-again",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/edf9dcb1-655b-4864-9b91-cd839db6f5fe/WhatsApp-Image-2026-09-05-at-22.15.19.jpeg",
-      "localImage": "assets/news/4572504.jpg"
     }
   ]
 };
