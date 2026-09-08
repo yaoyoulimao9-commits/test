@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-08T18:52:06.493Z",
+  "generatedAt": "2026-09-08T19:20:57.776Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'Everyone is ready'",
       "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572504.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-08T18:52:06.493Z",
+  "newsUpdatedAt": "2026-09-08T19:20:57.776Z",
   "archive": {}
 };
