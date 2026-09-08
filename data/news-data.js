@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T11:48:34.807Z",
+  "updatedAt": "2026-09-08T12:28:44.704Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4573711",
+      "title": "Hansi Flick: 'Everyone is ready'",
+      "description": "The Barça coach looks ahead to the blaugranes' season opener in the Champions League at home to Feyenoord",
+      "category": "First Team",
+      "relativeTime": "Published date 28 Mins ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/7762876d-6e28-45b3-92df-90a1393b95b5/_MGA5298.jpg",
+      "localImage": "assets/news/4573711.jpg"
+    },
     {
       "id": "4573406",
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572396/hansi-flick-we-have-a-very-high-quality-squad",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/c2ee6f2d-b02f-402e-96d4-81ad458d3879/_MGA3779.jpg",
       "localImage": "assets/news/4572396.jpg"
-    },
-    {
-      "id": "4572023",
-      "title": "50 years of making ourselves heard",
-      "description": "5 September marks half a century since the first radio commentary of a Barça match in Catalan since the Spanish Civil War, a landmark broadcast featuring Joaquim Maria Puyal, Isabel Bosch and Eduard Boet that paved the way for generations of journalists",
-      "category": "Club",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/club/news/4572023/50-years-of-making-ourselves-heard",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/458769a8-8022-45b8-a19d-4f1b8780e93d/PUYAL-AL-CAMP-NOU.jpg",
-      "localImage": "assets/news/4572023.jpg"
     }
   ]
 };
