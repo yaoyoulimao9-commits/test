@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-08T07:50:16.449Z",
+  "updatedAt": "2026-09-08T08:25:03.999Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Feyenoord",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Champions League preparations begin",
       "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-07",
       "dateLabel": "September 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
