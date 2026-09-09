@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T18:50:03.365Z",
+  "generatedAt": "2026-09-09T19:20:37.832Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 7 Mins ago",
+      "relativeTime": "Published date 31 Mins ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4574250.jpg"
     },
     {
+      "id": "4574356",
+      "title": "First goal for Gabriel Jesus",
+      "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
+      "category": "First Team",
+      "relativeTime": "Published date 35 Mins ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/49e1a248-588b-4305-9983-f274edc1af8a/_MGA7044.jpg",
+      "localImage": "assets/news/4574356.jpg"
+    },
+    {
       "id": "4574000",
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 54 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "UEFA Youth League match against Feyenoord postponed",
       "description": "Match scheduled for Wednesday at 12 noon called off due to the severe weather and heavy rain warning and now to be played on Thursday at 9.30am CEST",
       "category": "Barça Youth",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 08 Sep 26",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4573838/uefa-youth-league-match-against-feyenoord-postponed",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/1729f605-a12e-47e5-9ad0-2b181a9b2ad6/Image_20260831123221.jpg",
       "localImage": "assets/news/4573218.jpg"
-    },
-    {
-      "id": "4573211",
-      "title": "“Parla blaugrana, parla català\": Barça and Its Historic Commitment to the Catalan Language",
-      "description": "Players from FC Barcelona’s men’s and women’s first teams share, through a series of videos, their personal experiences with the Catalan language and its importance as a tool for integration and social cohesion in Catalonia",
-      "category": "",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/57ea1936-5b33-4227-afd0-b21c731c05e0/_RELATS_web_02-1-1-.jpg",
-      "localImage": "assets/news/4573211.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T18:50:03.365Z",
+  "newsUpdatedAt": "2026-09-09T19:20:37.832Z",
   "archive": {}
 };
