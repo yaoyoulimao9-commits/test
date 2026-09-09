@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-09T10:23:53.433Z",
+  "updatedAt": "2026-09-09T10:49:31.378Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4573860",
+      "title": "Champions League squad",
+      "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 37 Mins ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/5db40c71-7f51-4080-9f19-21914d8b0af0/WhatsApp-Image-2026-09-08-at-14.22.16-2-.jpeg",
+      "localImage": "assets/news/4573860.jpg"
+    },
     {
       "id": "4573709",
       "title": "UCL PREVIEW | Barça v Feyenoord",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Gio: 'Barça play football that everyone wants to watch'",
       "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573819/gio-van-bronckhorst-barca-play-football-that-everyone-wants-to-watch",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Three nominated for the Ballon d'Or",
       "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Six Ballon d'Or nominees",
       "description": "Esmee Brugts, Cata Coll, Caroline Graham, Patri Guijarro, Ewa Pajor and Claudia Pina are all included in the list",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "'There's no greater motivation'",
       "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/7d68b2c2-5e5f-4cbd-8530-969c03ed1982/_MGA4710.jpg",
       "localImage": "assets/news/4572904.jpg"
-    },
-    {
-      "id": "4572837",
-      "title": "Valencia 0-5 Barça: High five!",
-      "description": "A dazzling attacking display earns a fourth win from four in La Liga with goals from Lamine Yamal (2), Fermín López, Raphinha and Pedri",
-      "category": "First Team",
-      "relativeTime": "Published date 06 Sep 26",
-      "publishedDate": "2026-09-06",
-      "dateLabel": "September 06",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/bced39c1-3b8d-4fc8-950a-c5fe38fa1aa1/_MGA5352.jpg",
-      "localImage": "assets/news/4572837.jpg"
     }
   ]
 };
