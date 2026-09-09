@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T14:22:51.649Z",
+  "generatedAt": "2026-09-09T14:50:47.537Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572904.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T14:22:51.649Z",
+  "newsUpdatedAt": "2026-09-09T14:50:47.537Z",
   "archive": {}
 };
