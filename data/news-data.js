@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-09T22:47:08.467Z",
+  "updatedAt": "2026-09-09T23:20:15.388Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
