@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T21:46:59.464Z",
+  "generatedAt": "2026-09-09T22:20:47.520Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Round figures for Pedri and Joan Garcia",
       "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573218.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T21:46:59.464Z",
+  "newsUpdatedAt": "2026-09-09T22:20:47.520Z",
   "archive": {}
 };
