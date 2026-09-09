@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T22:20:47.520Z",
+  "generatedAt": "2026-09-09T22:47:08.472Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4574366",
+      "title": "Barça 39-28 SAH Aarhus: First win in the bag",
+      "description": "The European champions begin the defence of their title with a sold win in the Palau",
+      "category": "Handball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/28c63bc4-d424-4792-b46e-2572aec70bde/2026-09-09_FCBHANDBOLvsAARHUS_121.jpg",
+      "localImage": "assets/news/4574366.jpg"
+    },
+    {
       "id": "4574250",
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "First goal for Gabriel Jesus",
       "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573267/barca-firepower",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/04e3c7b4-9156-4b48-8921-35f2e7eabf23/_MGA5357.jpg",
       "localImage": "assets/news/4573267.jpg"
-    },
-    {
-      "id": "4573218",
-      "title": "Barça Academy Qingdao is a reality",
-      "description": "After the success of the summer camp, club opts for a permanent presence in China",
-      "category": "",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/news/4573218/barca-academy-qingdao-is-a-reality",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/1729f605-a12e-47e5-9ad0-2b181a9b2ad6/Image_20260831123221.jpg",
-      "localImage": "assets/news/4573218.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T22:20:47.520Z",
+  "newsUpdatedAt": "2026-09-09T22:47:08.472Z",
   "archive": {}
 };
