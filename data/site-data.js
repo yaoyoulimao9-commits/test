@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T07:23:41.659Z",
+  "generatedAt": "2026-09-09T07:49:40.869Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573838",
+      "title": "UEFA Youth League match against Feyenoord postponed",
+      "description": "Match scheduled for Wednesday at 12 noon called off due to the severe weather and heavy rain warning and now to be played on Thursday at 9.30am CEST",
+      "category": "Barça Youth",
+      "relativeTime": "Published date 12 hrs ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4573838/uefa-youth-league-match-against-feyenoord-postponed",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/01/22/667e2e60-1d12-4527-b089-5a8f60889421/COMUNICAT-FCB.jpeg",
+      "localImage": "assets/news/4573838.jpg"
+    },
+    {
       "id": "4573819",
       "title": "Gio: 'Barça play football that everyone wants to watch'",
       "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Three nominated for the Ballon d'Or",
       "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
@@ -6417,6 +6429,18 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/7762876d-6e28-45b3-92df-90a1393b95b5/_MGA5298.jpg",
       "localImage": "assets/news/4573711.jpg"
+    },
+    {
+      "id": "4573709",
+      "title": "UCL PREVIEW | Barça v Feyenoord",
+      "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
+      "category": "First Team",
+      "relativeTime": "Published date 19 hrs ago",
+      "publishedDate": "2026-09-08",
+      "dateLabel": "September 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/25006186-5b57-4b0e-a5f0-8a56dd2d8b78/IMG_5433.PNG",
+      "localImage": "assets/news/4573709.png"
     },
     {
       "id": "4573406",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572837/valencia-cf-0-5-fc-barcelona-high-five",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/bced39c1-3b8d-4fc8-950a-c5fe38fa1aa1/_MGA5352.jpg",
       "localImage": "assets/news/4572837.jpg"
-    },
-    {
-      "id": "4572267",
-      "title": "PREVIEW | Valencia v Barça",
-      "description": "Sunday at 4.15pm CEST brings the chance to become outright leaders in La Liga in the team's last ever game at Mestalla",
-      "category": "First Team",
-      "relativeTime": "Published date 06 Sep 26",
-      "publishedDate": "2026-09-06",
-      "dateLabel": "September 06",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572267/preview-valencia-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/731c549b-198b-49ec-af81-f5585aa7d904/WEB-Valencia-MD.png",
-      "localImage": "assets/news/4572267.jpg"
-    },
-    {
-      "id": "4572506",
-      "title": "Barça 39-34 Sporting CP: Iberian champions",
-      "description": "Carlos Ortega's side have lifted the trophy for the fifth time after a hard-fought final against the Portuguese side. Photo: J.L. Recio",
-      "category": "Handball",
-      "relativeTime": "Published date 05 Sep 26",
-      "publishedDate": "2026-09-05",
-      "dateLabel": "September 05",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4572506/barca-39-34-sporting-cp-iberian-super-cup-champions",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/05/f692ed27-4895-474d-ab07-f3bf79239919/_JLR3180.JPG",
-      "localImage": "assets/news/4572506.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T07:23:41.659Z",
+  "newsUpdatedAt": "2026-09-09T07:49:40.869Z",
   "archive": {}
 };
