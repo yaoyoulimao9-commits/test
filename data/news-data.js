@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-09T17:47:02.783Z",
+  "updatedAt": "2026-09-09T18:26:00.988Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4574000",
+      "title": "Kounde matches Abidal",
+      "description": "Both players have now featured in 193 games for the club",
+      "category": "First Team",
+      "relativeTime": "Published date 31 Mins ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/bb9dd885-f15f-4402-95e4-3af77d4e79d5/kounde.jpg",
+      "localImage": "assets/news/4574000.jpg"
+    },
     {
       "id": "4573860",
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "UEFA Youth League match against Feyenoord postponed",
       "description": "Match scheduled for Wednesday at 12 noon called off due to the severe weather and heavy rain warning and now to be played on Thursday at 9.30am CEST",
       "category": "Barça Youth",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4573838/uefa-youth-league-match-against-feyenoord-postponed",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Gio: 'Barça play football that everyone wants to watch'",
       "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 08 Sep 26",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573819/gio-van-bronckhorst-barca-play-football-that-everyone-wants-to-watch",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/22208d3b-d75d-4fc9-bcd3-7dab39209197/2026-09-06_FCBFUTSALvsElPozo_FINALSUPERCOPAESPANYA_102.jpg",
       "localImage": "assets/news/4572924.jpg"
-    },
-    {
-      "id": "4572904",
-      "title": "Gabriel Jesus makes his debut",
-      "description": "Brazilian comes on for the final minutes of the 5-0 win at Mestalla and almost gets his name on the scoresheet",
-      "category": "First Team",
-      "relativeTime": "Published date 06 Sep 26",
-      "publishedDate": "2026-09-06",
-      "dateLabel": "September 06",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4572904/gabriel-jesus-makes-fc-barcelona-debut",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/7d68b2c2-5e5f-4cbd-8530-969c03ed1982/_MGA4710.jpg",
-      "localImage": "assets/news/4572904.jpg"
     }
   ]
 };
