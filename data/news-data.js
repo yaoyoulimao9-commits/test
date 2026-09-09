@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-09T08:24:03.852Z",
+  "updatedAt": "2026-09-09T08:49:43.825Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 23 Mins ago",
+      "relativeTime": "Published date 44 Mins ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Three nominated for the Ballon d'Or",
       "description": "Rodri, Lamine Yamal and Cubarsí could be named the world's best player at the gala organised by the magazine France Football and UEFA",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Training session ahead of European debut",
       "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
