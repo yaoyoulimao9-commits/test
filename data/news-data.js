@@ -1,18 +1,42 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-09T18:26:00.988Z",
+  "updatedAt": "2026-09-09T18:50:03.360Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4574250",
+      "title": "Barça 5-1 Feyenoord: Dancing in the rain",
+      "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
+      "category": "First Team",
+      "relativeTime": "Published date 7 Mins ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/7cdd59f8-e876-418f-8be3-3077a83d5207/_MGA6940.jpg",
+      "localImage": "assets/news/4574250.jpg"
+    },
     {
       "id": "4574000",
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 31 Mins ago",
+      "relativeTime": "Published date 54 Mins ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/bb9dd885-f15f-4402-95e4-3af77d4e79d5/kounde.jpg",
       "localImage": "assets/news/4574000.jpg"
+    },
+    {
+      "id": "4574300",
+      "title": "Round figures for Pedri and Joan Garcia",
+      "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-09",
+      "dateLabel": "September 09",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/3e64478b-9e50-4fd4-85c2-ed53c3be6e1f/_MGA5786.jpg",
+      "localImage": "assets/news/4574300.jpg"
     },
     {
       "id": "4573860",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/news/4573211/parla-blaugrana-parla-catala-barca-and-its-historic-commitment-to-the-catalan-language",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/57ea1936-5b33-4227-afd0-b21c731c05e0/_RELATS_web_02-1-1-.jpg",
       "localImage": "assets/news/4573211.jpg"
-    },
-    {
-      "id": "4572927",
-      "title": "Barça Atlètic 5-0 Náxara: Strong start",
-      "description": "Juliano Belletti's side begin their 2RFEF campaign with a convincing win on a spectacular night for Ignasi Quer",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 06 Sep 26",
-      "publishedDate": "2026-09-06",
-      "dateLabel": "September 06",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4572927/barca-atletic-5-0-cd-naxara-strong-start",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/ee6352ec-fd67-423b-a499-0fc3e8e90160/BARC-A-B_NAXARA-100.jpg",
-      "localImage": "assets/news/4572927.jpg"
-    },
-    {
-      "id": "4572924",
-      "title": "ElPozo Murcia 5-4 FC Barcelona: Cruel defeat",
-      "description": "After clawing back a two goal deficit, the blaugranes lose out in the final 10 minutes of the Super Cup final",
-      "category": "Futsal",
-      "relativeTime": "Published date 06 Sep 26",
-      "publishedDate": "2026-09-06",
-      "dateLabel": "September 06",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4572924/elpozo-murcia-5-4-fc-barcelona-cruel-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/22208d3b-d75d-4fc9-bcd3-7dab39209197/2026-09-06_FCBFUTSALvsElPozo_FINALSUPERCOPAESPANYA_102.jpg",
-      "localImage": "assets/news/4572924.jpg"
     }
   ]
 };
