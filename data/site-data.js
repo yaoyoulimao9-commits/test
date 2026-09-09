@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-09T12:53:03.965Z",
+  "generatedAt": "2026-09-09T13:24:18.999Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "UEFA Youth League match against Feyenoord postponed",
       "description": "Match scheduled for Wednesday at 12 noon called off due to the severe weather and heavy rain warning and now to be played on Thursday at 9.30am CEST",
       "category": "Barça Youth",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4573838/uefa-youth-league-match-against-feyenoord-postponed",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Gio: 'Barça play football that everyone wants to watch'",
       "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-08",
       "dateLabel": "September 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573819/gio-van-bronckhorst-barca-play-football-that-everyone-wants-to-watch",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4572904.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-09T12:53:03.965Z",
+  "newsUpdatedAt": "2026-09-09T13:24:18.999Z",
   "archive": {}
 };
