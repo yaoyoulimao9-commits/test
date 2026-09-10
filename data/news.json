@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-09-10T10:49:17.626Z",
+  "updatedAt": "2026-09-10T11:22:08.669Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4574625",
+      "title": "Five again",
+      "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
+      "category": "First Team",
+      "relativeTime": "Published date 59 Mins ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/d0ff9ed4-f998-4307-978d-ea22f2c251a8/_MGA7040.jpg",
+      "localImage": "assets/news/4574625.jpg"
+    },
+    {
+      "id": "4574554",
+      "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
+      "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
+      "category": "Barça Youth",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/37f8e606-8be0-41ec-aab6-a744e2043873/2026-09-10_FCBJUVENILAvsFEYENOORD_073.jpg",
+      "localImage": "assets/news/4574554.jpg"
+    },
+    {
       "id": "4574562",
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -21,7 +45,7 @@
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -69,7 +93,7 @@
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -81,7 +105,7 @@
       "title": "Round figures for Pedri and Joan Garcia",
       "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573711/hansi-flick-everyone-is-ready",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/7762876d-6e28-45b3-92df-90a1393b95b5/_MGA5298.jpg",
       "localImage": "assets/news/4573711.jpg"
-    },
-    {
-      "id": "4573406",
-      "title": "When and where to watch Barça v Feyenoord",
-      "description": "We take a look at kick times and TV coverage around the world for the Champions League clash",
-      "category": "First Team",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573406/when-and-where-to-watch-fc-barcelona-v-feyenoord",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/1e682f3b-86e2-4bec-a6a8-866060924676/3200x2000_Horarios-1-.png",
-      "localImage": "assets/news/4573406.png"
-    },
-    {
-      "id": "4573254",
-      "title": "Champions League preparations begin",
-      "description": "Hansi Flick's squad complete a post-game session with thoughts now focused on their European debut",
-      "category": "First Team",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/4526808a-d83c-4fae-8050-10484e871fde/image00016.jpeg",
-      "localImage": "assets/news/4573254.jpg"
     }
   ]
 }
