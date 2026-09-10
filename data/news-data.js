@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-10T20:47:19.743Z",
+  "updatedAt": "2026-09-10T21:19:41.233Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
