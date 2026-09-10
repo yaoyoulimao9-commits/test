@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T08:24:59.000Z",
+  "generatedAt": "2026-09-10T08:50:22.148Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4574558",
+      "title": "Raphinha continues to make history",
+      "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
+      "category": "First Team",
+      "relativeTime": "Published date 54 Mins ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/ebd9f393-492a-432d-bbb7-fdbc3b41d42f/_MGA6057.jpg",
+      "localImage": "assets/news/4574558.jpg"
+    },
+    {
       "id": "4574366",
       "title": "Barça 39-28 SAH Aarhus: First win in the bag",
       "description": "The European champions begin the defence of their title with a sold win in the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "First goal for Gabriel Jesus",
       "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/raphinha-on-course-for-record-goalscoring-start",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/ee084939-b3d8-4a04-ad2f-01eb22ab2df9/_MGA5369.jpg",
       "localImage": "assets/news/4573271.jpg"
-    },
-    {
-      "id": "4573267",
-      "title": "Barça firepower",
-      "description": "The blaugranes have scored 17 goals in four games in La Liga, their third best total ever at this stage of the competition",
-      "category": "First Team",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573267/barca-firepower",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/06/04e3c7b4-9156-4b48-8921-35f2e7eabf23/_MGA5357.jpg",
-      "localImage": "assets/news/4573267.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T08:24:59.000Z",
+  "newsUpdatedAt": "2026-09-10T08:50:22.148Z",
   "archive": {}
 };
