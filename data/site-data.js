@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T03:49:24.780Z",
+  "generatedAt": "2026-09-10T04:23:16.669Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "UCL PREVIEW | Barça v Feyenoord",
       "description": "This season's Champions League campaign begins at 6.45pm CEST with a game at home to the runners-up in the 2025/26 Eredivisie",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573709/ucl-preview-fc-barcelona-v-feyenoord",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573267.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T03:49:24.780Z",
+  "newsUpdatedAt": "2026-09-10T04:23:16.668Z",
   "archive": {}
 };
