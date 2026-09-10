@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-10T15:23:31.050Z",
+  "updatedAt": "2026-09-10T15:48:32.872Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-28 SAH Aarhus: First win in the bag",
       "description": "The European champions begin the defence of their title with a sold win in the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
@@ -91,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "First goal for Gabriel Jesus",
       "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
