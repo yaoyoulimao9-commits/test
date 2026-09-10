@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T08:50:22.148Z",
+  "generatedAt": "2026-09-10T09:23:13.660Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 54 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Round figures for Pedri and Joan Garcia",
       "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573271.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T08:50:22.148Z",
+  "newsUpdatedAt": "2026-09-10T09:23:13.660Z",
   "archive": {}
 };
