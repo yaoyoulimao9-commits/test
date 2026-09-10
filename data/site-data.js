@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T17:46:47.641Z",
+  "generatedAt": "2026-09-10T18:23:45.794Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 09 Sep 26",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573719.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T17:46:47.641Z",
+  "newsUpdatedAt": "2026-09-10T18:23:45.794Z",
   "archive": {}
 };
