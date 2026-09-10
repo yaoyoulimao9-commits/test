@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T11:48:05.256Z",
+  "generatedAt": "2026-09-10T12:28:29.483Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -6387,11 +6387,11 @@ window.BARCA_DATA = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/0a9dbb62-4afe-474a-acf9-2a1a1c554946/_MGA6057.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/542e1c61-f7a8-418d-afe6-45c4031813f2/_MGA6057.jpg",
       "localImage": "assets/news/4574558.jpg"
     },
     {
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Round figures for Pedri and Joan Garcia",
       "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573711.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T11:48:05.256Z",
+  "newsUpdatedAt": "2026-09-10T12:28:29.483Z",
   "archive": {}
 };
