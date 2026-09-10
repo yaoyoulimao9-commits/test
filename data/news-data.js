@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-10T09:49:30.516Z",
+  "updatedAt": "2026-09-10T10:23:11.976Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4574562",
+      "title": "Barça reaffirms Catalan as a language of identity and global presence",
+      "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/34b6a27b-1f68-424e-b004-5f63b812af82/20260909_DOMINI.CAT_20anys_Esdeveniment_118.jpg",
+      "localImage": "assets/news/4574562.jpg"
+    },
     {
       "id": "4574558",
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Kounde matches Abidal",
       "description": "Both players have now featured in 193 games for the club",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Round figures for Pedri and Joan Garcia",
       "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Champions League squad",
       "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 09 Sep 26",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/4526808a-d83c-4fae-8050-10484e871fde/image00016.jpeg",
       "localImage": "assets/news/4573254.jpg"
-    },
-    {
-      "id": "4573271",
-      "title": "Raphinha does it again!",
-      "description": "Brazilian has scored in all four league games played so far",
-      "category": "First Team",
-      "relativeTime": "Published date 07 Sep 26",
-      "publishedDate": "2026-09-07",
-      "dateLabel": "September 07",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/raphinha-on-course-for-record-goalscoring-start",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/ee084939-b3d8-4a04-ad2f-01eb22ab2df9/_MGA5369.jpg",
-      "localImage": "assets/news/4573271.jpg"
     }
   ]
 };
