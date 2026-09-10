@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T19:18:50.392Z",
+  "generatedAt": "2026-09-10T19:45:43.237Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-28 SAH Aarhus: First win in the bag",
       "description": "The European champions begin the defence of their title with a sold win in the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573719.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T19:18:50.392Z",
+  "newsUpdatedAt": "2026-09-10T19:45:43.237Z",
   "archive": {}
 };
