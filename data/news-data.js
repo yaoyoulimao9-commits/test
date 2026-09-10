@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-10T10:23:11.976Z",
+  "updatedAt": "2026-09-10T10:49:17.626Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-28 SAH Aarhus: First win in the bag",
       "description": "The European champions begin the defence of their title with a sold win in the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "First goal for Gabriel Jesus",
       "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
