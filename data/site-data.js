@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T16:21:53.345Z",
+  "generatedAt": "2026-09-10T16:48:11.430Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-28 SAH Aarhus: First win in the bag",
       "description": "The European champions begin the defence of their title with a sold win in the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4574366/barca-39-28-sah-aarhus-first-win-in-the-bag",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-1 Feyenoord: Dancing in the rain",
       "description": "Brilliant attacking display produces perfect start to the Champions League campaign, with Raphinha scoring twice and Adeyemi, Lamine Yamal and Gabriel Jesus also on target",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574250/fc-barcelona-5-1-feyenoord-dancing-in-the-rain",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "First goal for Gabriel Jesus",
       "description": "The Brazilian striker opens his blaugrana account in the Champions League against Feyenoord",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-09",
       "dateLabel": "September 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574356/first-goal-for-gabriel-jesus-with-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573719.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T16:21:53.345Z",
+  "newsUpdatedAt": "2026-09-10T16:48:11.430Z",
   "archive": {}
 };
