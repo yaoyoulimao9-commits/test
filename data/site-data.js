@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-10T21:46:37.379Z",
+  "generatedAt": "2026-09-10T22:20:12.840Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,6 +6347,18 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4574861",
+      "title": "Win to get into the groove (88-84)",
+      "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
+      "category": "Basketball",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/1e14d4de-7f48-44ae-ae17-7b9d0b99398f/JC015817.jpg",
+      "localImage": "assets/news/4574861.jpg"
+    },
+    {
       "id": "4574625",
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/275dc1a1-4dc2-4d3f-b9d2-12dec2c21eb4/WhatsApp-Image-2026-09-08-at-14.22.16-1-.jpeg",
       "localImage": "assets/news/4573727.jpg"
-    },
-    {
-      "id": "4573719",
-      "title": "'There's no greater motivation'",
-      "description": "The Barça '10' faces the media ahead of the blaugranes debut in the Champions League at home to Feyenoord",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Sep 26",
-      "publishedDate": "2026-09-08",
-      "dateLabel": "September 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573719/lamine-yamal-theres-no-greater-motivation",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/c6087526-203e-4a3e-98e4-82f138826900/_MGA5365.jpg",
-      "localImage": "assets/news/4573719.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-10T21:46:37.379Z",
+  "newsUpdatedAt": "2026-09-10T22:20:12.840Z",
   "archive": {}
 };
