@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-11T00:49:34.031Z",
+  "updatedAt": "2026-09-11T01:21:01.597Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Win to get into the groove (88-84)",
       "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
