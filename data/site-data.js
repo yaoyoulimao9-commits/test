@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-11T09:22:44.615Z",
+  "generatedAt": "2026-09-11T09:48:59.692Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4575087",
+      "title": "FC Barcelona remains true to its commitment to Catalonia on the National Day of Catalonia",
+      "description": "Joan Laporta leads the Barça delegation in the traditional floral tribute at the monument to Rafael Casanova, on a day marked by the defence of Catalonia’s language, culture and freedoms",
+      "category": "Club",
+      "relativeTime": "Published date 47 Mins ago",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/club/news/4575087/fc-barcelona-remains-true-to-its-commitment-to-catalonia-on-the-national-day-of-catalonia",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/11/af28fc5a-1b15-4f5d-8bcd-42de71b604f1/WhatsApp-Image-2026-09-11-at-10.50.50.jpeg",
+      "localImage": "assets/news/4575087.jpg"
+    },
+    {
       "id": "4574231",
       "title": "Barça Academy Dominican Republic player shines for national team",
       "description": "Daniel González represented Barça Academy Dominican Republic at the 2026 CFU U14 Challenge Series",
       "category": "",
-      "relativeTime": "Published date 52 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/news/4574231/barca-academy-player-shines-for-the-dominican-republic-national-team",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça and the Catalan language: the story of a firm commitment to our language",
       "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4575066/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça and the Catalan language: the story of a firm commitment to our language",
       "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4574665/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 10 Sep 26",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4573838/uefa-youth-league-match-against-feyenoord-postponed",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/01/22/667e2e60-1d12-4527-b089-5a8f60889421/COMUNICAT-FCB.jpeg",
       "localImage": "assets/news/4573838.jpg"
-    },
-    {
-      "id": "4573819",
-      "title": "Gio: 'Barça play football that everyone wants to watch'",
-      "description": "Former blaugrana player and current Feyenoord coach gives his thoughts about playing at the Spotify Camp Nou // Photo: Feyenoord",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Sep 26",
-      "publishedDate": "2026-09-08",
-      "dateLabel": "September 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573819/gio-van-bronckhorst-barca-play-football-that-everyone-wants-to-watch",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/7c038fbf-dde0-4e97-9e6c-764297e8011a/HRtfzoBbsAAaGSc.jpeg",
-      "localImage": "assets/news/4573819.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-11T09:22:44.615Z",
+  "newsUpdatedAt": "2026-09-11T09:48:59.692Z",
   "archive": {}
 };
