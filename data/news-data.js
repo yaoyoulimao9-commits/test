@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-11T08:24:02.401Z",
+  "updatedAt": "2026-09-11T08:50:46.805Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Dominican Republic player shines for national team",
       "description": "Daniel González represented Barça Academy Dominican Republic at the 2026 CFU U14 Challenge Series",
       "category": "",
-      "relativeTime": "Published date 1 min ago",
+      "relativeTime": "Published date 28 Mins ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/news/4574231/barca-academy-player-shines-for-the-dominican-republic-national-team",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça and the Catalan language: the story of a firm commitment to our language",
       "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
       "category": "Club",
-      "relativeTime": "Published date 53 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4575066/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
