@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-11T08:50:46.805Z",
+  "updatedAt": "2026-09-11T09:22:44.610Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça Academy Dominican Republic player shines for national team",
       "description": "Daniel González represented Barça Academy Dominican Republic at the 2026 CFU U14 Challenge Series",
       "category": "",
-      "relativeTime": "Published date 28 Mins ago",
+      "relativeTime": "Published date 52 Mins ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/news/4574231/barca-academy-player-shines-for-the-dominican-republic-national-team",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Win to get into the groove (88-84)",
       "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
       "category": "Basketball",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
@@ -67,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
