@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-11T14:36:15.444Z",
+  "generatedAt": "2026-09-11T17:55:18.730Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4573423",
+      "title": "Raphinha, LaLiga MVP for August",
+      "description": "Brazilian receives the award after scoring five goals in the opening month of the domestic competition",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573423/raphinha-la-liga-player-of-the-month-for-august-202627",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/0e19a131-d633-4479-8d3e-32783319229c/_MGA5152.jpg",
+      "localImage": "assets/news/4573423.jpg"
+    },
+    {
+      "id": "4575083",
+      "title": "When and where to watch Levante UD v Barça",
+      "description": "International kick-off and viewing guide for this week's domestic league fixture",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575083/when-and-where-to-watch-levante-ud-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/11/5f2f1d70-b0ba-4b98-9c65-908a40ea9c38/3200x2000_Horarios-2-.png",
+      "localImage": "assets/news/4575083.png"
+    },
+    {
       "id": "4575126",
       "title": "Barça preparing for Levante match",
       "description": "First team squad back in training after a rest day, with the weekend LaLiga fixture on the horizon",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575126/barca-preparing-for-levante-match",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Agreement for new contract for Hamza Abdelkarim",
       "description": "Egyptian forward set to remain at FC Barcelona until 30 June 2030",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575138/agreement-for-new-contract-for-hamza-abdelkarim",
@@ -6372,10 +6396,10 @@ window.BARCA_DATA = {
     },
     {
       "id": "4575087",
-      "title": "FC Barcelona remains true to its commitment to Catalonia on the National Day of Catalonia",
+      "title": "Barça celebrate National day of Catalonia",
       "description": "Joan Laporta leads the Barça delegation in the traditional floral tribute at the monument to Rafael Casanova, on a day marked by the defence of Catalonia’s language, culture and freedoms",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4575087/fc-barcelona-remains-true-to-its-commitment-to-catalonia-on-the-national-day-of-catalonia",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Academy Dominican Republic player shines for national team",
       "description": "Daniel González represented Barça Academy Dominican Republic at the 2026 CFU U14 Challenge Series",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/news/4574231/barca-academy-player-shines-for-the-dominican-republic-national-team",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça and the Catalan language: the story of a firm commitment to our language",
       "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4575066/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Barça and the Catalan language: the story of a firm commitment to our language",
       "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4574665/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Win to get into the groove (88-84)",
       "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
       "category": "Basketball",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574000/kounde-matches-abidal-as-the-frenchman-with-most-appearances-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/bb9dd885-f15f-4402-95e4-3af77d4e79d5/kounde.jpg",
       "localImage": "assets/news/4574000.jpg"
-    },
-    {
-      "id": "4574300",
-      "title": "Round figures for Pedri and Joan Garcia",
-      "description": "Barça’s first-choice goalkeeper has reached 50 appearances for FC Barcelona, while the Canary Islander has now played 250 times in the blaugrana jersey",
-      "category": "First Team",
-      "relativeTime": "Published date 09 Sep 26",
-      "publishedDate": "2026-09-09",
-      "dateLabel": "September 09",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574300/round-figures-for-pedri-and-joan-garcia",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/3e64478b-9e50-4fd4-85c2-ed53c3be6e1f/_MGA5786.jpg",
-      "localImage": "assets/news/4574300.jpg"
-    },
-    {
-      "id": "4573860",
-      "title": "Champions League squad",
-      "description": "Hansi Flick names 23 players for the game with Feyenoord at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 09 Sep 26",
-      "publishedDate": "2026-09-09",
-      "dateLabel": "September 09",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573860/first-champions-league-squad-announced",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/5db40c71-7f51-4080-9f19-21914d8b0af0/WhatsApp-Image-2026-09-08-at-14.22.16-2-.jpeg",
-      "localImage": "assets/news/4573860.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-11T14:36:15.444Z",
+  "newsUpdatedAt": "2026-09-11T17:55:18.729Z",
   "archive": {}
 };
