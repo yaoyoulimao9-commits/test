@@ -1,7 +1,31 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-11T07:22:23.174Z",
+  "updatedAt": "2026-09-11T07:48:46.666Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4575066",
+      "title": "Barça and the catalan language: she story of a firm commitment to our language",
+      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
+      "category": "Club",
+      "relativeTime": "Published date 18 Mins ago",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/club/news/4575066/barca-and-the-catalan-language-she-story-of-a-firm-commitment-to-our-language",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
+      "localImage": "assets/news/4575066.jpg"
+    },
+    {
+      "id": "4574665",
+      "title": "Barça and the catalan language: she story of a firm commitment to our language",
+      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
+      "category": "Club",
+      "relativeTime": "Published date 28 Mins ago",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/club/news/4574665/barca-and-the-catalan-language-she-story-of-a-firm-commitment-to-our-language",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
+      "localImage": "assets/news/4574665.jpg"
+    },
     {
       "id": "4574861",
       "title": "Win to get into the groove (88-84)",
@@ -13,18 +37,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/1e14d4de-7f48-44ae-ae17-7b9d0b99398f/JC015817.jpg",
       "localImage": "assets/news/4574861.jpg"
-    },
-    {
-      "id": "4574665",
-      "title": "Barça and the catalan language: she story of a firm commitment to our language",
-      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
-      "category": "",
-      "relativeTime": "Published date 20 hrs ago",
-      "publishedDate": "2026-09-10",
-      "dateLabel": "September 10",
-      "source": "https://www.fcbarcelona.com/en/news/4574665/barca-and-the-catalan-language-she-story-of-a-firm-commitment-to-our-language",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
-      "localImage": "assets/news/4574665.jpg"
     },
     {
       "id": "4574625",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573777/three-nominated-for-the-ballon-dor",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/d92e6ea1-8b58-475f-91dd-7754ce590ed7/3200X2000-BALLON_D_OR-MASC-.png",
       "localImage": "assets/news/4573777.jpg"
-    },
-    {
-      "id": "4573763",
-      "title": "Six Ballon d'Or nominees",
-      "description": "Esmee Brugts, Cata Coll, Caroline Graham, Patri Guijarro, Ewa Pajor and Claudia Pina are all included in the list",
-      "category": "Women",
-      "relativeTime": "Published date 08 Sep 26",
-      "publishedDate": "2026-09-08",
-      "dateLabel": "September 08",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/68776a0e-a551-48a4-8b8f-18df80bfef61/3200X2000-BALLON_D_OR-fem-.png",
-      "localImage": "assets/news/4573763.jpg"
     }
   ]
 };
