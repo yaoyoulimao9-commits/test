@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-11T09:48:59.685Z",
+  "updatedAt": "2026-09-11T10:22:59.061Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona remains true to its commitment to Catalonia on the National Day of Catalonia",
       "description": "Joan Laporta leads the Barça delegation in the traditional floral tribute at the monument to Rafael Casanova, on a day marked by the defence of Catalonia’s language, culture and freedoms",
       "category": "Club",
-      "relativeTime": "Published date 47 Mins ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/club/news/4575087/fc-barcelona-remains-true-to-its-commitment-to-catalonia-on-the-national-day-of-catalonia",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Win to get into the groove (88-84)",
       "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
@@ -79,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 10 Sep 26",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
