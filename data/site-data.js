@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-11T06:52:20.436Z",
+  "generatedAt": "2026-09-11T07:22:23.178Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Win to get into the groove (88-84)",
       "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
       "category": "Basketball",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4574861.jpg"
     },
     {
+      "id": "4574665",
+      "title": "Barça and the catalan language: she story of a firm commitment to our language",
+      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
+      "category": "",
+      "relativeTime": "Published date 20 hrs ago",
+      "publishedDate": "2026-09-10",
+      "dateLabel": "September 10",
+      "source": "https://www.fcbarcelona.com/en/news/4574665/barca-and-the-catalan-language-she-story-of-a-firm-commitment-to-our-language",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
+      "localImage": "assets/news/4574665.jpg"
+    },
+    {
       "id": "4574625",
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Champions League Away Matches Begin in Turkey",
       "description": "The first UEFA Champions League away match of the season will see Barça take on Galatasaray. Penya members wishing to attend can now apply for tickets.",
       "category": "",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/news/4574604/champions-league-away-matches-begin-in-turkey",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça reaffirms Catalan as a language of identity and global presence",
       "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Raphinha continues to make history",
       "description": "Brazilian scores for the fifth consecutive game and is now Barça’s fifth-highest scorer of all time in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574558/raphinha-continues-to-make-history",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4573763/six-ballon-dor-nominees",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/68776a0e-a551-48a4-8b8f-18df80bfef61/3200X2000-BALLON_D_OR-fem-.png",
       "localImage": "assets/news/4573763.jpg"
-    },
-    {
-      "id": "4573727",
-      "title": "Training session ahead of European debut",
-      "description": "Hansi Flick's team work out at the Ciutat Esportiva Joan Gamper for the final time before their competition Champions League opener against Feyenoord",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Sep 26",
-      "publishedDate": "2026-09-08",
-      "dateLabel": "September 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573727/training-session-ahead-of-european-debut",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/08/275dc1a1-4dc2-4d3f-b9d2-12dec2c21eb4/WhatsApp-Image-2026-09-08-at-14.22.16-1-.jpeg",
-      "localImage": "assets/news/4573727.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-11T06:52:20.436Z",
+  "newsUpdatedAt": "2026-09-11T07:22:23.178Z",
   "archive": {}
 };
