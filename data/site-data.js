@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-11T02:22:26.394Z",
+  "generatedAt": "2026-09-11T02:48:35.361Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Five again",
       "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "U19 | Barça 1-2 Feyenoord: Debut defeat",
       "description": "UEFA Youth League starts the wrong way with a loss at home to the Dutch",
       "category": "Barça Youth",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-10",
       "dateLabel": "September 10",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573727.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-11T02:22:26.394Z",
+  "newsUpdatedAt": "2026-09-11T02:48:35.361Z",
   "archive": {}
 };
