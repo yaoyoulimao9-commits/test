@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-12T14:21:23.865Z",
+  "generatedAt": "2026-09-12T17:25:33.932Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Ready for Levante v Barça",
       "description": "With Saturday's training session, league leaders have now completed all their preparations ahead of their visit to the Ciutat de València",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575546/ready-for-levante-v-barca",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "6th Barça Academy Hungary Cup a success",
       "description": "Over 600 boys and girls and 55 teams take part in the tournament, drawn from England, Slovakia, Romania, Serbia and Hungary",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/news/4574723/6th-barca-academy-hungary-cup-a-success",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Board scores solid 7.3 in Blaugrana Observatory",
       "description": "91% approve of the Board, with almost 75% rating its performance as good or excellent. The decisions taken also receive high marks, with the renewal of Hansi Flick's contract earning the highest score (9.5)",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/club/news/4574713/board-of-directors-scores-a-solid-73-from-members-in-the-blaugrana-observatory",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Kids&Us Manresa 77-90 Barça: Finalists in the Catalan league",
       "description": "Barça keep winning to set up a final against iLERNA Lleida on Sunday in the competition",
       "category": "Basketball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575413/kidsus-manresa-77-90-barca-finalists-in-the-catalan-league",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Dicorpebal Logroño 32–48 Barça: Great start to title defence",
       "description": "The reigning league champions begin the defence of the title with an important win away from home",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4575352/dicorpebal-logrono-3248-barca-great-start-to-title-defence",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Raphinha, LaLiga MVP for August",
       "description": "Brazilian receives the award after scoring five goals in the opening month of the domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 11 Sep 26",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4573423/raphinha-la-liga-player-of-the-month-for-august-202627",
@@ -6419,11 +6419,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4573423.jpg"
     },
     {
+      "id": "4575331",
+      "title": "The squad for Levante v Barça",
+      "description": "Hansi Flick names his players for the week 5 fixture in La Liga at the Ciutat de València stadium",
+      "category": "First Team",
+      "relativeTime": "Published date 11 Sep 26",
+      "publishedDate": "2026-09-11",
+      "dateLabel": "September 11",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575331/the-squad-for-levante-v-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/11/edff0ab1-5008-468d-8fd7-a6bd2c284a6c/_MGA6312.jpg",
+      "localImage": "assets/news/4575331.jpg"
+    },
+    {
       "id": "4575083",
       "title": "When and where to watch Levante UD v Barça",
       "description": "International kick-off and viewing guide for this week's domestic league fixture",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 11 Sep 26",
       "publishedDate": "2026-09-11",
       "dateLabel": "September 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575083/when-and-where-to-watch-levante-ud-v-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4574554/u19-fc-barcelona-1-2-feyenoord-debut-defeat",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/37f8e606-8be0-41ec-aab6-a744e2043873/2026-09-10_FCBJUVENILAvsFEYENOORD_073.jpg",
       "localImage": "assets/news/4574554.jpg"
-    },
-    {
-      "id": "4574562",
-      "title": "Barça reaffirms Catalan as a language of identity and global presence",
-      "description": "Elena Fort takes part in the celebration of the 20th anniversary of the .cat domain and highlights FC Barcelona’s responsibility to promote Catalan language and culture across its global community",
-      "category": "Club",
-      "relativeTime": "Published date 10 Sep 26",
-      "publishedDate": "2026-09-10",
-      "dateLabel": "September 10",
-      "source": "https://www.fcbarcelona.com/en/club/news/4574562/barca-reaffirms-catalan-as-a-language-of-identity-and-global-presence",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/34b6a27b-1f68-424e-b004-5f63b812af82/20260909_DOMINI.CAT_20anys_Esdeveniment_118.jpg",
-      "localImage": "assets/news/4574562.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-12T14:21:23.865Z",
+  "newsUpdatedAt": "2026-09-12T17:25:33.932Z",
   "archive": {}
 };
