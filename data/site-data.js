@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-13T05:20:26.254Z",
+  "generatedAt": "2026-09-13T10:36:13.967Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4575290",
+      "title": "PREVIEW | Levante v Barça",
+      "description": "The league leaders are looking to maintain their their perfect start in the competition",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-13",
+      "dateLabel": "September 13",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575290/preview-levante-ud-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/9378d102-ed3c-4348-bacd-4277f28eb124/IMG_5558.PNG",
+      "localImage": "assets/news/4575290.png"
+    },
+    {
       "id": "4575653",
       "title": "Barça Femení 4-2 Atlético Madrid: Comeback win",
       "description": "The blaugranes overcome a deficit in a hard fought contest to take their third win in three matches in the league",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575653/barca-femeni-4-2-atletico-madrid-comeback-win",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Valdepeñas 2-5 Barça: Win on league debut",
       "description": "Javi Rodríguez's team start the defence of their title with an comprehensive win away from home",
       "category": "Futsal",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4575648/valdepenas-2-5-barca-win-on-league-debut",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Ready for Levante v Barça",
       "description": "With Saturday's training session, league leaders have now completed all their preparations ahead of their visit to the Ciutat de València",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575546/ready-for-levante-v-barca",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "6th Barça Academy Hungary Cup a success",
       "description": "Over 600 boys and girls and 55 teams take part in the tournament, drawn from England, Slovakia, Romania, Serbia and Hungary",
       "category": "",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 12 Sep 26",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/news/4574723/6th-barca-academy-hungary-cup-a-success",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Board scores solid 7.3 in Blaugrana Observatory",
       "description": "91% approve of the Board, with almost 75% rating its performance as good or excellent. The decisions taken also receive high marks, with the renewal of Hansi Flick's contract earning the highest score (9.5)",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 12 Sep 26",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/club/news/4574713/board-of-directors-scores-a-solid-73-from-members-in-the-blaugrana-observatory",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/1e14d4de-7f48-44ae-ae17-7b9d0b99398f/JC015817.jpg",
       "localImage": "assets/news/4574861.jpg"
-    },
-    {
-      "id": "4574625",
-      "title": "Five again",
-      "description": "FC Barcelona have made a habit of scoring five goals a game at the start of this season, something that hasn't happened since the 1921/22 campaign",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Sep 26",
-      "publishedDate": "2026-09-10",
-      "dateLabel": "September 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4574625/five-goals-in-four-out-of-five-games",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/d0ff9ed4-f998-4307-978d-ea22f2c251a8/_MGA7040.jpg",
-      "localImage": "assets/news/4574625.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-13T05:20:26.254Z",
+  "newsUpdatedAt": "2026-09-13T10:36:13.967Z",
   "archive": {}
 };
