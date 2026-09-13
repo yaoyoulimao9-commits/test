@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-12T22:13:35.579Z",
+  "generatedAt": "2026-09-13T00:17:00.849Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení 4-2 Atlético Madrid: Comeback win",
       "description": "The blaugranes overcome a deficit in a hard fought contest to take their third win in three matches in the league",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575653/barca-femeni-4-2-atletico-madrid-comeback-win",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Valdepeñas 2-5 Barça: Win on league debut",
       "description": "Javi Rodríguez's team start the defence of their title with an comprehensive win away from home",
       "category": "Futsal",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4575648/valdepenas-2-5-barca-win-on-league-debut",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Ready for Levante v Barça",
       "description": "With Saturday's training session, league leaders have now completed all their preparations ahead of their visit to the Ciutat de València",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575546/ready-for-levante-v-barca",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "6th Barça Academy Hungary Cup a success",
       "description": "Over 600 boys and girls and 55 teams take part in the tournament, drawn from England, Slovakia, Romania, Serbia and Hungary",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/news/4574723/6th-barca-academy-hungary-cup-a-success",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Board scores solid 7.3 in Blaugrana Observatory",
       "description": "91% approve of the Board, with almost 75% rating its performance as good or excellent. The decisions taken also receive high marks, with the renewal of Hansi Flick's contract earning the highest score (9.5)",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/club/news/4574713/board-of-directors-scores-a-solid-73-from-members-in-the-blaugrana-observatory",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4574625.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-12T22:13:35.579Z",
+  "newsUpdatedAt": "2026-09-13T00:17:00.849Z",
   "archive": {}
 };
