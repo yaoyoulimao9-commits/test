@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-13T10:36:13.967Z",
+  "generatedAt": "2026-09-13T14:41:17.264Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4575795",
+      "title": "Catalan League champions (96-87)",
+      "description": "Blaugranes come through a hotly contested final against the side from Lleida to earn their first trophy of the season",
+      "category": "Basketball",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-13",
+      "dateLabel": "September 13",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575795/barca-96-87-ilerna-lleida-catalan-league-champions",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/d40e564c-90ed-4f21-8608-c94814e08412/JC018610.jpg",
+      "localImage": "assets/news/4575795.jpg"
+    },
+    {
+      "id": "4575792",
+      "title": "Another point (0-0)",
+      "description": "Belletti's side dominate, but can't find a goal away in Logroño",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-13",
+      "dateLabel": "September 13",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4575792/ud-logrones-b-0-0-barca-atletic-another-point",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/db88d28b-1cca-465e-afed-d6d971ad085d/WhatsApp-Image-2026-09-13-at-12.35.55.jpeg",
+      "localImage": "assets/news/4575792.jpg"
+    },
+    {
+      "id": "4575798",
+      "title": "First trophy for new-look Barça basketball team",
+      "description": "Catalan League trophy a first for Aleksander Sekulic's Barça after the win against iLERNA Lleida in the final",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-13",
+      "dateLabel": "September 13",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575798/first-trophy-for-new-look-barca-basketball-team",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/27d71c23-dfa3-4fdb-aca8-4355bfd9b081/JC018818.jpg",
+      "localImage": "assets/news/4575798.jpg"
+    },
+    {
       "id": "4575290",
       "title": "PREVIEW | Levante v Barça",
       "description": "The league leaders are looking to maintain their their perfect start in the competition",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575290/preview-levante-ud-v-fc-barcelona",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Femení 4-2 Atlético Madrid: Comeback win",
       "description": "The blaugranes overcome a deficit in a hard fought contest to take their third win in three matches in the league",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575653/barca-femeni-4-2-atletico-madrid-comeback-win",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Valdepeñas 2-5 Barça: Win on league debut",
       "description": "Javi Rodríguez's team start the defence of their title with an comprehensive win away from home",
       "category": "Futsal",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4575648/valdepenas-2-5-barca-win-on-league-debut",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Ready for Levante v Barça",
       "description": "With Saturday's training session, league leaders have now completed all their preparations ahead of their visit to the Ciutat de València",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 12 Sep 26",
       "publishedDate": "2026-09-12",
       "dateLabel": "September 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575546/ready-for-levante-v-barca",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4574231/barca-academy-player-shines-for-the-dominican-republic-national-team",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/b6a5c8a5-f913-4044-85cc-c9a9b1e72f96/IMG_9261.JPEG",
       "localImage": "assets/news/4574231.jpg"
-    },
-    {
-      "id": "4575066",
-      "title": "Barça and the Catalan language: the story of a firm commitment to our language",
-      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
-      "category": "Club",
-      "relativeTime": "Published date 11 Sep 26",
-      "publishedDate": "2026-09-11",
-      "dateLabel": "September 11",
-      "source": "https://www.fcbarcelona.com/en/club/news/4575066/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
-      "localImage": "assets/news/4575066.jpg"
-    },
-    {
-      "id": "4574665",
-      "title": "Barça and the Catalan language: the story of a firm commitment to our language",
-      "description": "A video chronologically retraces the key moments in Barça’s history linked to the defense and promotion of the Catalan language",
-      "category": "Club",
-      "relativeTime": "Published date 11 Sep 26",
-      "publishedDate": "2026-09-11",
-      "dateLabel": "September 11",
-      "source": "https://www.fcbarcelona.com/en/club/news/4574665/barca-and-the-catalan-language-the-story-of-a-firm-commitment-to-our-language",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/98e388f0-c8da-4dad-9898-41d79e96a6ee/2025-11-29_FCBvsALABES_059.jpg",
-      "localImage": "assets/news/4574665.jpg"
-    },
-    {
-      "id": "4574861",
-      "title": "Win to get into the groove (88-84)",
-      "description": "Bright showing from the blaugranes who managed the scoreline well to come through and win",
-      "category": "Basketball",
-      "relativeTime": "Published date 10 Sep 26",
-      "publishedDate": "2026-09-10",
-      "dateLabel": "September 10",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4574861/barca-88-84-morabanc-andorra-win-to-get-into-the-groove",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/1e14d4de-7f48-44ae-ae17-7b9d0b99398f/JC015817.jpg",
-      "localImage": "assets/news/4574861.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-13T10:36:13.967Z",
+  "newsUpdatedAt": "2026-09-13T14:41:17.264Z",
   "archive": {}
 };
