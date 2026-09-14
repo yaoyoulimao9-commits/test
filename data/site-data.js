@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-14T01:37:09.102Z",
+  "generatedAt": "2026-09-14T07:07:02.607Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Levante 2-4 Barça: The wins keep coming",
       "description": "Xavi Espart, Lamine Yamal (2) and Adeyemi on target as the perfect start to the season continues at the Ciutat de Valencia",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575841/levante-2-4-fc-barcelona-the-wins-keep-coming",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Equal best ever start",
       "description": "With six wins from six competitive matches, Barça match the only three teams in club history to have previously achieved the feat",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575846/equal-best-ever-start-to-a-season",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart opens goalscoring account",
       "description": "Full back opens scoring at Ciutat de València to claim first competitive goal in 11th competitive appearance",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575849/xavi-espart-scores-first-fc-barcelona-goal",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Catalan League champions (96-87)",
       "description": "Blaugranes come through a hotly contested final against the side from Lleida to earn their first trophy of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575795/barca-96-87-ilerna-lleida-catalan-league-champions",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Another point (0-0)",
       "description": "Belletti's side dominate, but can't find a goal away in Logroño",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4575792/ud-logrones-b-0-0-barca-atletic-another-point",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "First trophy for new-look Barça basketball team",
       "description": "Catalan League trophy a first for Aleksander Sekulic's Barça after the win against iLERNA Lleida in the final",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575798/first-trophy-for-new-look-barca-basketball-team",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Levante v Barça",
       "description": "The league leaders are looking to maintain their their perfect start in the competition",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-13",
       "dateLabel": "September 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575290/preview-levante-ud-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4575083.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-14T01:37:09.102Z",
+  "newsUpdatedAt": "2026-09-14T07:07:02.607Z",
   "archive": {}
 };
