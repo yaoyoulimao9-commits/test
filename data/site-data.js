@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-14T19:18:39.882Z",
+  "generatedAt": "2026-09-14T22:43:28.588Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Recovery Monday",
       "description": "After the win against Levante, Hansi Flick's side return to work at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576163/recovery-monday",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Quick off the mark",
       "description": "The team have scored in the first 20 minutes in five of the six games played so far this season",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576135/barca-quick-off-the-mark",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "New album of digital cards for 2026/27 season",
       "description": "Culers from around the world can now collect and enjoy the new official Barça digital cards for this season via Collectibol",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4576129/fc-barcelona-and-collectibol-launch-new-album-of-digital-cards-for-202627-season",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, two by two",
       "description": "19-year-old has achieved something that only Leo Messi had done in the league this century",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576115/lamine-yamal-two-by-two",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Women's Clásico given date and kick off time",
       "description": "The game between Barça Femení and Real Madrid will be played on Sunday 4 October at 5pm CEST at Spotify Camp Nou",
       "category": "Women",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4574674/womens-clasico-given-date-and-kick-off-time",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4574713.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-14T19:18:39.882Z",
+  "newsUpdatedAt": "2026-09-14T22:43:28.588Z",
   "archive": {}
 };
