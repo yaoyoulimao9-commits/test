@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-15T17:39:05.880Z",
+  "updatedAt": "2026-09-15T21:16:14.185Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4576802",
+      "title": "Abdelkarim: 'I want to write history with Barça'",
+      "description": "Egyptian forward declares his ambition on the day he signs his contract renewal with the blaugranes until 2030",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/a6bb2c7c-e09e-4d6a-9745-ad8095216816/_5DS8051.jpg",
+      "localImage": "assets/news/4576802.jpg"
+    },
     {
       "id": "4576752",
       "title": "Mobility and accessibility for FC Barcelona v Racing Santander",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576752/mobility-and-accessibility-for-fc-barcelona-v-racing-santander",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'I don't want to break records, I want to win matches'",
       "description": "The German coach is not thinking about setting any new milestones ahead of taking on Racing Santander in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576708/hansi-flick-i-dont-want-to-break-records-i-want-to-win-matches",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Racing",
       "description": "Training at the Ciutat Esportiva with sights set on the LaLiga clash against the Cantabrians",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576693/last-session-before-racing",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Spotify Camp Nou to host 2029 Champions League final",
       "description": "The decision recognises Spotify Camp Nou's position as one of the leading stadiums in world football and highlights its ability to welcome top class international sporting events",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576674/spotify-camp-nou-to-host-2029-mens-champions-league-final",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Racing",
       "description": "International viewing guide to the midweek Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576366/when-and-where-to-watch-fc-barcelona-v-racing-santander",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575290/preview-levante-ud-v-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/9378d102-ed3c-4348-bacd-4277f28eb124/IMG_5558.PNG",
       "localImage": "assets/news/4575290.png"
-    },
-    {
-      "id": "4575653",
-      "title": "Barça Femení 4-2 Atlético Madrid: Comeback win",
-      "description": "The blaugranes overcome a deficit in a hard fought contest to take their third win in three matches in the league",
-      "category": "Women",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575653/barca-femeni-4-2-atletico-madrid-comeback-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/12/f0257165-dead-4a03-8a4a-c8f90e4a7f57/_5DS5496-2.jpg",
-      "localImage": "assets/news/4575653.jpg"
     }
   ]
 };
