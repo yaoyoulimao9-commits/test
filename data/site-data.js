@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-15T06:39:47.515Z",
+  "generatedAt": "2026-09-15T12:38:15.166Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,59 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4576708",
+      "title": "'I don't want to break records, I want to win matches'",
+      "description": "The German coach is not thinking about setting any new milestones ahead of taking on Racing Santander in La Liga",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576708/hansi-flick-i-dont-want-to-break-records-i-want-to-win-matches",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/fd76f279-5d55-439e-9204-17e4ba5b1ba4/_MGA8231.jpg",
+      "localImage": "assets/news/4576708.jpg"
+    },
+    {
+      "id": "4576693",
+      "title": "Last session before Racing",
+      "description": "Training at the Ciutat Esportiva with sights set on the LaLiga clash against the Cantabrians",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576693/last-session-before-racing",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/91ce7f02-8d2d-47d9-b124-24d8a0ede11a/WhatsApp-Image-2026-09-15-at-12.44.49.jpeg",
+      "localImage": "assets/news/4576693.jpg"
+    },
+    {
+      "id": "4576674",
+      "title": "Spotify Camp Nou to host 2029 Champions League final",
+      "description": "The decision recognises Spotify Camp Nou's position as one of the leading stadiums in world football and highlights its ability to welcome top class international sporting events",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/club/news/4576674/spotify-camp-nou-to-host-2029-mens-champions-league-final",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/fed589ff-f4fd-4680-b2d2-c1dd455982dc/VO260511A70809_-_IMG_0213.jpg",
+      "localImage": "assets/news/4576674.jpg"
+    },
+    {
+      "id": "4576366",
+      "title": "When and where to watch Barça v Racing",
+      "description": "International viewing guide to the midweek Liga fixture at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576366/when-and-where-to-watch-fc-barcelona-v-racing-santander",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/8e4571e2-0ceb-4352-9d00-74def5fdbf03/3200x2000_Horarios-.png",
+      "localImage": "assets/news/4576366.png"
+    },
+    {
       "id": "4576163",
       "title": "Recovery Monday",
       "description": "After the win against Levante, Hansi Flick's side return to work at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 14 Sep 26",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576163/recovery-monday",
@@ -6363,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Quick off the mark",
       "description": "The team have scored in the first 20 minutes in five of the six games played so far this season",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 14 Sep 26",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576135/barca-quick-off-the-mark",
@@ -6375,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "New album of digital cards for 2026/27 season",
       "description": "Culers from around the world can now collect and enjoy the new official Barça digital cards for this season via Collectibol",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 14 Sep 26",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/club/news/4576129/fc-barcelona-and-collectibol-launch-new-album-of-digital-cards-for-202627-season",
@@ -6387,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, two by two",
       "description": "19-year-old has achieved something that only Leo Messi had done in the league this century",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 14 Sep 26",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576115/lamine-yamal-two-by-two",
@@ -6399,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Women's Clásico given date and kick off time",
       "description": "The game between Barça Femení and Real Madrid will be played on Sunday 4 October at 5pm CEST at Spotify Camp Nou",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 14 Sep 26",
       "publishedDate": "2026-09-14",
       "dateLabel": "September 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4574674/womens-clasico-given-date-and-kick-off-time",
@@ -6513,56 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4575648/valdepenas-2-5-barca-win-on-league-debut",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/12/82068243-8012-4edb-a584-91abac7eded5/WhatsApp-Image-2026-09-12-at-19.51.37.jpeg",
       "localImage": "assets/news/4575648.jpg"
-    },
-    {
-      "id": "4575546",
-      "title": "Ready for Levante v Barça",
-      "description": "With Saturday's training session, league leaders have now completed all their preparations ahead of their visit to the Ciutat de València",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575546/ready-for-levante-v-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/12/709a43e5-d45a-4629-90a1-aeee6dde4d35/WhatsApp-Image-2026-09-12-at-12.37.57.jpeg",
-      "localImage": "assets/news/4575546.jpg"
-    },
-    {
-      "id": "4575246",
-      "title": "Barça-At. Madrid: partidàs al Johan",
-      "description": "Blaugranes i madrilenyes es veuran les cares aquest dissabte (19.00 hores / DAZN) a l’estadi Johan Cruyff a la jornada 3 de la Lliga F",
-      "category": "Women",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575246/barca-at-madrid-partidas-al-johan",
-      "sourceImage": "",
-      "localImage": ""
-    },
-    {
-      "id": "4574723",
-      "title": "6th Barça Academy Hungary Cup a success",
-      "description": "Over 600 boys and girls and 55 teams take part in the tournament, drawn from England, Slovakia, Romania, Serbia and Hungary",
-      "category": "",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/news/4574723/6th-barca-academy-hungary-cup-a-success",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/10daf596-4a78-49ec-ad19-ae1ad440d5fd/IMG_6484.JPG",
-      "localImage": "assets/news/4574723.jpg"
-    },
-    {
-      "id": "4574713",
-      "title": "Board scores solid 7.3 in Blaugrana Observatory",
-      "description": "91% approve of the Board, with almost 75% rating its performance as good or excellent. The decisions taken also receive high marks, with the renewal of Hansi Flick's contract earning the highest score (9.5)",
-      "category": "Club",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/club/news/4574713/board-of-directors-scores-a-solid-73-from-members-in-the-blaugrana-observatory",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/10/e298738a-38eb-40a8-97a8-b9a9168702b2/NOTI-OBSERVATORI.jpg",
-      "localImage": "assets/news/4574713.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-15T06:39:47.515Z",
+  "newsUpdatedAt": "2026-09-15T12:38:15.166Z",
   "archive": {}
 };
