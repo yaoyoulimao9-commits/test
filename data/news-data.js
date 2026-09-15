@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-15T12:38:15.162Z",
+  "updatedAt": "2026-09-15T17:39:05.880Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4576752",
+      "title": "Mobility and accessibility for FC Barcelona v Racing Santander",
+      "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
+      "category": "Club",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/club/news/4576752/mobility-and-accessibility-for-fc-barcelona-v-racing-santander",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/7bed8715-4143-428b-a8b9-062177c0b122/_SLS2832.jpg",
+      "localImage": "assets/news/4576752.jpg"
+    },
     {
       "id": "4576708",
       "title": "'I don't want to break records, I want to win matches'",
       "description": "The German coach is not thinking about setting any new milestones ahead of taking on Racing Santander in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576708/hansi-flick-i-dont-want-to-break-records-i-want-to-win-matches",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Racing",
       "description": "Training at the Ciutat Esportiva with sights set on the LaLiga clash against the Cantabrians",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576693/last-session-before-racing",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Spotify Camp Nou to host 2029 Champions League final",
       "description": "The decision recognises Spotify Camp Nou's position as one of the leading stadiums in world football and highlights its ability to welcome top class international sporting events",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576674/spotify-camp-nou-to-host-2029-mens-champions-league-final",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Racing",
       "description": "International viewing guide to the midweek Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576366/when-and-where-to-watch-fc-barcelona-v-racing-santander",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4575653/barca-femeni-4-2-atletico-madrid-comeback-win",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/12/f0257165-dead-4a03-8a4a-c8f90e4a7f57/_5DS5496-2.jpg",
       "localImage": "assets/news/4575653.jpg"
-    },
-    {
-      "id": "4575648",
-      "title": "Valdepeñas 2-5 Barça: Win on league debut",
-      "description": "Javi Rodríguez's team start the defence of their title with an comprehensive win away from home",
-      "category": "Futsal",
-      "relativeTime": "Published date 12 Sep 26",
-      "publishedDate": "2026-09-12",
-      "dateLabel": "September 12",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4575648/valdepenas-2-5-barca-win-on-league-debut",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/12/82068243-8012-4edb-a584-91abac7eded5/WhatsApp-Image-2026-09-12-at-19.51.37.jpeg",
-      "localImage": "assets/news/4575648.jpg"
     }
   ]
 };
