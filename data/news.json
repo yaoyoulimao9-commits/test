@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-09-16T18:51:38.148Z",
+  "updatedAt": "2026-09-16T22:06:18.540Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4577474",
+      "title": "A first time for 7 from 7",
+      "description": "Barça record their best ever start to a season following the win over Racing Santander at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 33 Mins ago",
+      "publishedDate": "2026-09-16",
+      "dateLabel": "September 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577474/a-first-time-for-7-from-7",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/9e6d8a55-86b3-481b-970b-1d06fcb31d89/_MGA7343.jpg",
+      "localImage": "assets/news/4577474.jpg"
+    },
+    {
+      "id": "4577460",
+      "title": "Barça 7-2 Racing: The perfect storm",
+      "description": "On a thundery evening at Spotify Camp Nou, lightning strikes seven times thanks to goals from João Cancelo (2), Raphinha (3), Gabriel Jesus and Lamine Yamal",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-16",
+      "dateLabel": "September 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577460/fc-barcelona-7-2-racing-santander-the-perfect-storm",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/1492511c-0c68-4369-a864-12b72748921f/DAG-023-_M1A1374.jpg",
+      "localImage": "assets/news/4577460.jpg"
+    },
+    {
       "id": "4577323",
       "title": "The squad for Barça v Racing",
       "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
@@ -21,12 +45,24 @@
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/d5b4d6c7-7a86-4590-8377-faa80fb8bb6f/WEB-RACING-MD.png",
       "localImage": "assets/news/4576712.png"
+    },
+    {
+      "id": "4576807",
+      "title": "Tribute to Carles Naval for 40 years as delegate",
+      "description": "Joan Laporta, Deco and Hansi Flick presented him with a commemorative plaque before Barça v Racing",
+      "category": "First Team",
+      "relativeTime": "Published date 15 Sep 26",
+      "publishedDate": "2026-09-15",
+      "dateLabel": "September 15",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576807/tribute-to-carles-naval-for-40-years-as-delegate",
+      "sourceImage": "",
+      "localImage": ""
     },
     {
       "id": "4576802",
@@ -183,42 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575846/equal-best-ever-start-to-a-season",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/ef348ca7-61fc-4573-b28c-57c72a91982f/_MGA7189.jpg",
       "localImage": "assets/news/4575846.jpg"
-    },
-    {
-      "id": "4575849",
-      "title": "Xavi Espart opens goalscoring account",
-      "description": "Full back opens scoring at Ciutat de València to claim first competitive goal in 11th competitive appearance",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575849/xavi-espart-scores-first-fc-barcelona-goal",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/646ba56e-2ea3-4396-a951-e0f4384ecba0/_MGA7160.jpg",
-      "localImage": "assets/news/4575849.jpg"
-    },
-    {
-      "id": "4575795",
-      "title": "Catalan League champions (96-87)",
-      "description": "Blaugranes come through a hotly contested final against the side from Lleida to earn their first trophy of the season",
-      "category": "Basketball",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575795/barca-96-87-ilerna-lleida-catalan-league-champions",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/d40e564c-90ed-4f21-8608-c94814e08412/JC018610.jpg",
-      "localImage": "assets/news/4575795.jpg"
-    },
-    {
-      "id": "4575792",
-      "title": "Another point (0-0)",
-      "description": "Belletti's side dominate, but can't find a goal away in Logroño",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4575792/ud-logrones-b-0-0-barca-atletic-another-point",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/db88d28b-1cca-465e-afed-d6d971ad085d/WhatsApp-Image-2026-09-13-at-12.35.55.jpeg",
-      "localImage": "assets/news/4575792.jpg"
     }
   ]
 }
