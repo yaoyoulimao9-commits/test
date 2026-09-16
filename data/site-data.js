@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-16T09:52:46.759Z",
+  "generatedAt": "2026-09-16T14:54:59.700Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4577323",
+      "title": "The squad for Barça v Racing",
+      "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-16",
+      "dateLabel": "September 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/75e74f2b-2437-487a-8146-8f2274ada03f/_MGA7255.jpg",
+      "localImage": "assets/news/4577323.jpg"
+    },
+    {
       "id": "4576712",
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim: 'I want to write history with Barça'",
       "description": "Egyptian forward declares his ambition on the day he signs his contract renewal with the blaugranes until 2030",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for FC Barcelona v Racing Santander",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 15 Sep 26",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576752/mobility-and-accessibility-for-fc-barcelona-v-racing-santander",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "'I don't want to break records, I want to win matches'",
       "description": "The German coach is not thinking about setting any new milestones ahead of taking on Racing Santander in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 15 Sep 26",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576708/hansi-flick-i-dont-want-to-break-records-i-want-to-win-matches",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last session before Racing",
       "description": "Training at the Ciutat Esportiva with sights set on the LaLiga clash against the Cantabrians",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 15 Sep 26",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576693/last-session-before-racing",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4575792/ud-logrones-b-0-0-barca-atletic-another-point",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/db88d28b-1cca-465e-afed-d6d971ad085d/WhatsApp-Image-2026-09-13-at-12.35.55.jpeg",
       "localImage": "assets/news/4575792.jpg"
-    },
-    {
-      "id": "4575798",
-      "title": "First trophy for new-look Barça basketball team",
-      "description": "Catalan League trophy a first for Aleksander Sekulic's Barça after the win against iLERNA Lleida in the final",
-      "category": "Basketball",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4575798/first-trophy-for-new-look-barca-basketball-team",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/27d71c23-dfa3-4fdb-aca8-4355bfd9b081/JC018818.jpg",
-      "localImage": "assets/news/4575798.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-16T09:52:46.759Z",
+  "newsUpdatedAt": "2026-09-16T14:54:59.700Z",
   "archive": {}
 };
