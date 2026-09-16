@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-16T14:54:59.633Z",
+  "updatedAt": "2026-09-16T18:51:38.148Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Barça v Racing",
       "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Abdelkarim: 'I want to write history with Barça'",
       "description": "Egyptian forward declares his ambition on the day he signs his contract renewal with the blaugranes until 2030",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 15 Sep 26",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca",
