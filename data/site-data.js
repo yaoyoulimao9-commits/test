@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-15T23:40:24.211Z",
+  "generatedAt": "2026-09-16T04:43:43.847Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Abdelkarim: 'I want to write history with Barça'",
       "description": "Egyptian forward declares his ambition on the day he signs his contract renewal with the blaugranes until 2030",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for FC Barcelona v Racing Santander",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576752/mobility-and-accessibility-for-fc-barcelona-v-racing-santander",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'I don't want to break records, I want to win matches'",
       "description": "The German coach is not thinking about setting any new milestones ahead of taking on Racing Santander in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576708/hansi-flick-i-dont-want-to-break-records-i-want-to-win-matches",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Last session before Racing",
       "description": "Training at the Ciutat Esportiva with sights set on the LaLiga clash against the Cantabrians",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576693/last-session-before-racing",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Spotify Camp Nou to host 2029 Champions League final",
       "description": "The decision recognises Spotify Camp Nou's position as one of the leading stadiums in world football and highlights its ability to welcome top class international sporting events",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4576674/spotify-camp-nou-to-host-2029-mens-champions-league-final",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Racing",
       "description": "International viewing guide to the midweek Liga fixture at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576366/when-and-where-to-watch-fc-barcelona-v-racing-santander",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4575290.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-15T23:40:24.211Z",
+  "newsUpdatedAt": "2026-09-16T04:43:43.847Z",
   "archive": {}
 };
