@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-17T19:14:26.679Z",
+  "generatedAt": "2026-09-17T22:24:49.901Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4577948",
+      "title": "Montpellier 27-28 Barça: Giant leap forward",
+      "description": "In a defensive battle, the Catalans earned what could prove to be a crucial win in the first phase of the Champions League",
+      "category": "Handball",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-17",
+      "dateLabel": "September 17",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4577948/montpellier-27-28-barca-giant-leap-forward",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/17/21e0d01b-e5c6-4669-8d17-c70bf6f51bfd/WhatsApp-Image-2026-09-17-at-22.05.10.jpeg",
+      "localImage": "assets/news/4577948.jpg"
+    },
+    {
       "id": "4577816",
       "title": "Spanish Super Cup venues, dates and kick-off times confirmed",
       "description": "Barça set to play the first semifinal against Atlético Madrid on 2 February (kick-off 8.00pm CET)",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577816/spanish-super-cup-venues-dates-and-kick-off-times-confirmed",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Joan Garcia medical update",
       "description": "Goalkeeper experiencing mild discomfort in his right knee",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577802/joan-garcia-medical-update",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Recovery session with Sevilla match in mind",
       "description": "First team in for training after the victory against Racing",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577770/recovery-session-as-thoughts-turn-to-sevilla-match",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Seven records set by the 7-2",
       "description": "The big win against Racing, featuring a Raphinha hat-trick, sees many historic records after six LaLiga matchdays tumble",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577721/seven-records-set-by-the-7-2",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "João Cancelo and his rocket shots",
       "description": "Fullback scores the best goal of his career with an incredible shot, with another thunderbolt diverting in as an own goal",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577513/joao-cancelo-and-his-rocket-shots",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Always good to start well'",
       "description": "Barça coach shares his thoughts on the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Sep 26",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "A first time for 7 from 7",
       "description": "Barça record their best ever start to a season following the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Sep 26",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577474/a-first-time-for-7-from-7",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Tribute to Carles Naval for 40 years as delegate",
       "description": "Joan Laporta, Deco and Hansi Flick presented him with a commemorative plaque before Barça v Racing",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 16 Sep 26",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576807/tribute-to-carles-naval-for-40-years-as-delegate",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576366/when-and-where-to-watch-fc-barcelona-v-racing-santander",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/8e4571e2-0ceb-4352-9d00-74def5fdbf03/3200x2000_Horarios-.png",
       "localImage": "assets/news/4576366.png"
-    },
-    {
-      "id": "4576163",
-      "title": "Recovery Monday",
-      "description": "After the win against Levante, Hansi Flick's side return to work at the Ciutat Esportiva",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Sep 26",
-      "publishedDate": "2026-09-14",
-      "dateLabel": "September 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576163/recovery-monday",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/14/d8a43ac2-7fa4-4ed3-a8ce-2c90345ca152/WhatsApp-Image-2026-09-14-at-13.30.49.jpeg",
-      "localImage": "assets/news/4576163.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-17T19:14:26.679Z",
+  "newsUpdatedAt": "2026-09-17T22:24:49.901Z",
   "archive": {}
 };
