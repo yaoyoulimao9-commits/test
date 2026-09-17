@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-09-17T05:19:43.865Z",
+  "updatedAt": "2026-09-17T10:24:52.177Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4577721",
+      "title": "Seven records set by the 7-2",
+      "description": "The big win against Racing, featuring a Raphinha hat-trick, sees many historic records after six LaLiga matchdays tumble",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-17",
+      "dateLabel": "September 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577721/seven-records-set-by-the-7-2",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/a596c4b8-d245-491b-8a4e-055b86882e10/_MGA8940.jpg",
+      "localImage": "assets/news/4577721.jpg"
+    },
+    {
+      "id": "4577513",
+      "title": "João Cancelo and his rocket shots",
+      "description": "Fullback scores the best goal of his career with an incredible shot, with another thunderbolt diverting in as an own goal",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-17",
+      "dateLabel": "September 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577513/joao-cancelo-and-his-rocket-shots",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/4e6bd827-4cf3-4a10-b121-8a77e5bf1f85/2026-09-16_FCBvsRACING_032.jpg",
+      "localImage": "assets/news/4577513.jpg"
+    },
+    {
       "id": "4577547",
       "title": "Flick: 'Always good to start well'",
       "description": "Barça coach shares his thoughts on the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
@@ -21,7 +45,7 @@
       "title": "A first time for 7 from 7",
       "description": "Barça record their best ever start to a season following the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577474/a-first-time-for-7-from-7",
@@ -29,11 +53,23 @@
       "localImage": "assets/news/4577474.jpg"
     },
     {
+      "id": "4576807",
+      "title": "Tribute to Carles Naval for 40 years as delegate",
+      "description": "Joan Laporta, Deco and Hansi Flick presented him with a commemorative plaque before Barça v Racing",
+      "category": "First Team",
+      "relativeTime": "Published date 14 hrs ago",
+      "publishedDate": "2026-09-16",
+      "dateLabel": "September 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576807/tribute-to-carles-naval-for-40-years-as-delegate",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/9cfa6075-cddd-42f3-83c7-c972f12203f8/_5DS0944-2.jpg",
+      "localImage": "assets/news/4576807.jpg"
+    },
+    {
       "id": "4577460",
       "title": "Barça 7-2 Racing: The perfect storm",
       "description": "On a thundery evening at Spotify Camp Nou, lightning strikes seven times thanks to goals from João Cancelo, Raphinha (3), Gabriel Jesus and Lamine Yamal and an own goal from Villalibre",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577460/fc-barcelona-7-2-racing-santander-the-perfect-storm",
@@ -45,7 +81,7 @@
       "title": "The squad for Barça v Racing",
       "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
@@ -57,24 +93,12 @@
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Sep 26",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/d5b4d6c7-7a86-4590-8377-faa80fb8bb6f/WEB-RACING-MD.png",
       "localImage": "assets/news/4576712.png"
-    },
-    {
-      "id": "4576807",
-      "title": "Tribute to Carles Naval for 40 years as delegate",
-      "description": "Joan Laporta, Deco and Hansi Flick presented him with a commemorative plaque before Barça v Racing",
-      "category": "First Team",
-      "relativeTime": "Published date 15 Sep 26",
-      "publishedDate": "2026-09-15",
-      "dateLabel": "September 15",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576807/tribute-to-carles-naval-for-40-years-as-delegate",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/9cfa6075-cddd-42f3-83c7-c972f12203f8/_5DS0944-2.jpg",
-      "localImage": "assets/news/4576807.jpg"
     },
     {
       "id": "4576802",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576115/lamine-yamal-two-by-two",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/14/6a2f8690-a285-4b29-9d82-f46d795cbd6b/_MGA7596.jpg",
       "localImage": "assets/news/4576115.jpg"
-    },
-    {
-      "id": "4574674",
-      "title": "Women's Clásico given date and kick off time",
-      "description": "The game between Barça Femení and Real Madrid will be played on Sunday 4 October at 5pm CEST at Spotify Camp Nou",
-      "category": "Women",
-      "relativeTime": "Published date 14 Sep 26",
-      "publishedDate": "2026-09-14",
-      "dateLabel": "September 14",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4574674/womens-clasico-given-date-and-kick-off-time",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/14/cab4c038-8d45-4762-b688-9f9f8f7c2554/03_LF06_Real_Madrid_CF_Web_Hero_3200x2000_02_CAT.jpg",
-      "localImage": "assets/news/4574674.jpg"
-    },
-    {
-      "id": "4575841",
-      "title": "Levante 2-4 Barça: The wins keep coming",
-      "description": "Xavi Espart, Lamine Yamal (2) and Adeyemi on target as the perfect start to the season continues at the Ciutat de Valencia",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575841/levante-2-4-fc-barcelona-the-wins-keep-coming",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/6a15e067-fc86-4e3a-9cf8-2c969f09eaa4/_MGA7570.jpg",
-      "localImage": "assets/news/4575841.jpg"
     }
   ]
 }
