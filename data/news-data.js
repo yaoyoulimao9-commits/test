@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-16T22:06:18.540Z",
+  "updatedAt": "2026-09-17T00:31:21.967Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4577547",
+      "title": "Flick: 'Always good to start well'",
+      "description": "Barça coach shares his thoughts on the win over Racing Santander at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-16",
+      "dateLabel": "September 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/87287840-0819-489a-ab62-28089b8d050a/2026-09-16_FCBvsRACING_001.jpg",
+      "localImage": "assets/news/4577547.jpg"
+    },
     {
       "id": "4577474",
       "title": "A first time for 7 from 7",
       "description": "Barça record their best ever start to a season following the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 33 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577474/a-first-time-for-7-from-7",
@@ -17,13 +29,13 @@ window.BARCA_NEWS = {
     {
       "id": "4577460",
       "title": "Barça 7-2 Racing: The perfect storm",
-      "description": "On a thundery evening at Spotify Camp Nou, lightning strikes seven times thanks to goals from João Cancelo (2), Raphinha (3), Gabriel Jesus and Lamine Yamal",
+      "description": "On a thundery evening at Spotify Camp Nou, lightning strikes seven times thanks to goals from João Cancelo, Raphinha (3), Gabriel Jesus and Lamine Yamal and an own goal from Villalibre",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577460/fc-barcelona-7-2-racing-santander-the-perfect-storm",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/1492511c-0c68-4369-a864-12b72748921f/DAG-023-_M1A1374.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/954546d7-f628-46b1-a47b-7033ceafa268/DAG-024-_M1A1384.jpg",
       "localImage": "assets/news/4577460.jpg"
     },
     {
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "The squad for Barça v Racing",
       "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
@@ -59,8 +71,8 @@ window.BARCA_NEWS = {
       "publishedDate": "2026-09-15",
       "dateLabel": "September 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576807/tribute-to-carles-naval-for-40-years-as-delegate",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/9cfa6075-cddd-42f3-83c7-c972f12203f8/_5DS0944-2.jpg",
+      "localImage": "assets/news/4576807.jpg"
     },
     {
       "id": "4576802",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575841/levante-2-4-fc-barcelona-the-wins-keep-coming",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/6a15e067-fc86-4e3a-9cf8-2c969f09eaa4/_MGA7570.jpg",
       "localImage": "assets/news/4575841.jpg"
-    },
-    {
-      "id": "4575846",
-      "title": "Equal best ever start",
-      "description": "With six wins from six competitive matches, Barça match the only three teams in club history to have previously achieved the feat",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Sep 26",
-      "publishedDate": "2026-09-13",
-      "dateLabel": "September 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4575846/equal-best-ever-start-to-a-season",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/13/ef348ca7-61fc-4573-b28c-57c72a91982f/_MGA7189.jpg",
-      "localImage": "assets/news/4575846.jpg"
     }
   ]
 };
