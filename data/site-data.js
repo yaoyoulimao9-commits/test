@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-17T00:31:21.972Z",
+  "generatedAt": "2026-09-17T05:19:43.869Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Always good to start well'",
       "description": "Barça coach shares his thoughts on the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "A first time for 7 from 7",
       "description": "Barça record their best ever start to a season following the win over Racing Santander at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577474/a-first-time-for-7-from-7",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 7-2 Racing: The perfect storm",
       "description": "On a thundery evening at Spotify Camp Nou, lightning strikes seven times thanks to goals from João Cancelo, Raphinha (3), Gabriel Jesus and Lamine Yamal and an own goal from Villalibre",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577460/fc-barcelona-7-2-racing-santander-the-perfect-storm",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "The squad for Barça v Racing",
       "description": "The squad for the LaLiga matchday six fixture at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577323/the-squad-for-barca-v-racing",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Barça v Racing",
       "description": "Wednesday at 9.30pm CEST brings a midweek fixture for the league champions and leaders",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-16",
       "dateLabel": "September 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4575841.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-17T00:31:21.972Z",
+  "newsUpdatedAt": "2026-09-17T05:19:43.869Z",
   "archive": {}
 };
