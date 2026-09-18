@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-18T11:07:33.294Z",
+  "generatedAt": "2026-09-18T15:07:22.209Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4577749",
+      "title": "When and where to watch Sevilla v Barça",
+      "description": "Guide to the international kick-off times and channels showing the final match ahead of the international break",
+      "category": "First Team",
+      "relativeTime": "Published date 19 Mins ago",
+      "publishedDate": "2026-09-18",
+      "dateLabel": "September 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577749/when-and-where-to-watch-sevilla-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/17/61ef2541-0a39-49b0-9037-95d7a681a90f/3200x2000_Horarios-3-.png",
+      "localImage": "assets/news/4577749.png"
+    },
+    {
+      "id": "4578296",
+      "title": "Flick: 'We're focused on our own job'",
+      "description": "Coach refuses to discuss the Madrid derby and focuses on the game in Seville, where the team lost 4–1 last season.",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-18",
+      "dateLabel": "September 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578296/hansi-flick-were-focused-on-our-own-job",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/09173c69-fc62-4c98-b675-909d64207895/_MGA9571.jpg",
+      "localImage": "assets/news/4578296.jpg"
+    },
+    {
       "id": "4578225",
       "title": "Last session before Sevilla",
       "description": "All set for the last game before a three-week break for internationals",
       "category": "First Team",
-      "relativeTime": "Published date 23 Mins ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578225/last-session-before-sevilla",
@@ -6363,19 +6387,19 @@ window.BARCA_DATA = {
       "title": "All set for the 2026 Ordinary General Assembly",
       "description": "A total of 4,597 delegate members called to attend; event will be available to watch live and free of charge in three languages via the club’s digital channels",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4578239/all-set-for-the-2026-ordinary-general-assembly",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/bc4ff769-83a3-4131-8955-e543ba0a5cb4/PR-VIA-ASSEMBLEA.jpeg",
+      "localImage": "assets/news/4578239.jpg"
     },
     {
       "id": "4577750",
       "title": "New LaLiga record for Lamine Yamal",
       "description": "Blaugrana number 10 surpasses his best scoring record in the domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577750/new-laliga-goalscoring-record-for-lamine-yamal",
@@ -6387,19 +6411,19 @@ window.BARCA_DATA = {
       "title": "Telefónica, new Official Partner of Espai Barça",
       "description": "Five-year agreement will see the communications company provide a range of connectivity services at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4578205/telefonica-new-official-partner-of-espai-barca",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/2994c668-e844-4b54-92eb-52fc1bff0d90/_5DS9879.jpg",
+      "localImage": "assets/news/4578205.jpg"
     },
     {
       "id": "4577948",
       "title": "Montpellier 27-28 Barça: Giant leap forward",
       "description": "In a defensive battle, the Catalans earned what could prove to be a crucial win in the first phase of the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4577948/montpellier-27-28-barca-giant-leap-forward",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Spanish Super Cup venues, dates and kick-off times confirmed",
       "description": "Barça set to play the first semifinal against Atlético Madrid on 2 February (kick-off 8.00pm CET)",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 17 Sep 26",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577816/spanish-super-cup-venues-dates-and-kick-off-times-confirmed",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Joan Garcia medical update",
       "description": "Goalkeeper experiencing mild discomfort in his right knee",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 17 Sep 26",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577802/joan-garcia-medical-update",
@@ -6435,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Recovery session with Sevilla match in mind",
       "description": "First team in for training after the victory against Racing",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 17 Sep 26",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577770/recovery-session-as-thoughts-turn-to-sevilla-match",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576712/preview-fc-barcelona-v-racing-santander",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/16/d5b4d6c7-7a86-4590-8377-faa80fb8bb6f/WEB-RACING-MD.png",
       "localImage": "assets/news/4576712.png"
-    },
-    {
-      "id": "4576802",
-      "title": "Abdelkarim: 'I want to write history with Barça'",
-      "description": "Egyptian forward declares his ambition on the day he signs his contract renewal with the blaugranes until 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 15 Sep 26",
-      "publishedDate": "2026-09-15",
-      "dateLabel": "September 15",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/a6bb2c7c-e09e-4d6a-9745-ad8095216816/_5DS8051.jpg",
-      "localImage": "assets/news/4576802.jpg"
-    },
-    {
-      "id": "4576752",
-      "title": "Mobility and accessibility for FC Barcelona v Racing Santander",
-      "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
-      "category": "Club",
-      "relativeTime": "Published date 15 Sep 26",
-      "publishedDate": "2026-09-15",
-      "dateLabel": "September 15",
-      "source": "https://www.fcbarcelona.com/en/club/news/4576752/mobility-and-accessibility-for-fc-barcelona-v-racing-santander",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/08/31/7bed8715-4143-428b-a8b9-062177c0b122/_SLS2832.jpg",
-      "localImage": "assets/news/4576752.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-18T11:07:33.294Z",
+  "newsUpdatedAt": "2026-09-18T15:07:22.209Z",
   "archive": {}
 };
