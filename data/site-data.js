@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-18T18:37:31.872Z",
+  "generatedAt": "2026-09-18T21:37:44.393Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça players called up for international duty",
       "description": "The blaugranes will have the majority of the squad away during the upcoming international break",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578251/fc-barcelona-players-called-up-for-international-duty",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Sevilla v Barça",
       "description": "Guide to the international kick-off times and channels showing the final match ahead of the international break",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577749/when-and-where-to-watch-sevilla-v-fc-barcelona",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'We're focused on our own job'",
       "description": "Coach refuses to discuss the Madrid derby and focuses on the game in Seville, where the team lost 4–1 last season.",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578296/hansi-flick-were-focused-on-our-own-job",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Last session before Sevilla",
       "description": "All set for the last game before a three-week break for internationals",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578225/last-session-before-sevilla",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "All set for the 2026 Ordinary General Assembly",
       "description": "A total of 4,597 delegate members called to attend; event will be available to watch live and free of charge in three languages via the club’s digital channels",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4578239/all-set-for-the-2026-ordinary-general-assembly",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "New LaLiga record for Lamine Yamal",
       "description": "Blaugrana number 10 surpasses his best scoring record in the domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577750/new-laliga-goalscoring-record-for-lamine-yamal",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Telefónica, new Official Partner of Espai Barça",
       "description": "Five-year agreement will see the communications company provide a range of connectivity services at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-18",
       "dateLabel": "September 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4578205/telefonica-new-official-partner-of-espai-barca",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Montpellier 27-28 Barça: Giant leap forward",
       "description": "In a defensive battle, the Catalans earned what could prove to be a crucial win in the first phase of the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 17 Sep 26",
       "publishedDate": "2026-09-17",
       "dateLabel": "September 17",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4577948/montpellier-27-28-barca-giant-leap-forward",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4577323.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-18T18:37:31.872Z",
+  "newsUpdatedAt": "2026-09-18T21:37:44.393Z",
   "archive": {}
 };
