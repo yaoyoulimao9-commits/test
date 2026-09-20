@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-20T14:13:06.821Z",
+  "generatedAt": "2026-09-20T17:39:22.747Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Medical update on Christensen",
       "description": "Tests confirm that first team player Andreas Christensen has a left thigh strain",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579017/medical-update-on-christensen",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Raphinha on golden streak",
       "description": "Brazilian forward scores a second hat-trick in a row and now has 14 goals in eight appearances in all competitions this season",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579008/raphinha-on-golden-streak",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Winning debut for Livaković",
       "description": "Croatian goalkeeper could do nothing about Sevilla’s goal but produces a very assured display on his Barça debut",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578870/winning-debut-for-dominik-livakovi",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Sevilla 1-3 Barça: Raphinha does it again!",
       "description": "Brazilian scores second consecutive hat-trick as the league leaders extend their record-breaking start to the season",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578857/sevilla-1-3-fc-barcelona-raphinha-does-it-again",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Valencia Basket 86-87 Barça: Impressive win to reach Super Cup final",
       "description": "Barça have the chance to claim silverware on Sunday after victory in the semi-final of the ACB Super Cup",
       "category": "Basketball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4578842/valencia-basket-86-87-barca-impressive-win-to-reach-super-cup-final",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Board members confirmed until 30 June",
       "description": "The members ratified Rafael Yuste, Josep Cubells, Alfons Castro, Josep-Ignasi Macià, Àngel Riudalbàs, Joan Solé and Sisco Pujol, as well as the members of the Economic Commission",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 19 Sep 26",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/club/news/4578809/board-members-who-did-not-resign-during-the-election-process-ratified-to-run-the-club-until-30-june",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Assembly ratifies two different FC Barcelona agreements, one with Ohana Development and another with Babylon Park",
       "description": "Both agreements will enable the Club to generate revenue from real estate and entertainment centres",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 19 Sep 26",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/club/news/4578780/assembly-ratifies-two-different-fc-barcelona-agreements-one-with-ohana-development-and-another-with-babylon-park",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4577749.png"
     }
   ],
-  "newsUpdatedAt": "2026-09-20T14:13:06.821Z",
+  "newsUpdatedAt": "2026-09-20T17:39:22.747Z",
   "archive": {}
 };
