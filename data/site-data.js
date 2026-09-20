@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-20T20:45:09.807Z",
+  "generatedAt": "2026-09-20T23:12:21.061Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4579061",
+      "title": "Joventut de Badalona 101-87 Barça: Super Cup slips away",
+      "description": "The blaugranes have no answer to Laprovittola and are unable to take their second trophy of the season",
+      "category": "Basketball",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-20",
+      "dateLabel": "September 20",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4579061/joventut-de-badalona-101-87-barca-super-cup-slips-away",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/e6188514-1c74-4f17-9ec2-4c10ae9c8425/JC010952.jpg",
+      "localImage": "assets/news/4579061.jpg"
+    },
+    {
       "id": "4579045",
       "title": "UD Barbastro 0-1 Barça Atlètic: First win away of the season",
       "description": "The blaugranes pick up a hard fought victory on the road to remain unbeaten this season.",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Puente Genil 27-39 Barça: Never in doubt",
       "description": "The blaugranes win away from home thanks to a team effort on offense",
       "category": "Handball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Medical update on Christensen",
       "description": "Tests confirm that first team player Andreas Christensen has a left thigh strain",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579017/medical-update-on-christensen",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Raphinha on golden streak",
       "description": "Brazilian forward scores a second hat-trick in a row and now has 14 goals in eight appearances in all competitions this season",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579008/raphinha-on-golden-streak",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Winning debut for Livaković",
       "description": "Croatian goalkeeper could do nothing about Sevilla’s goal but produces a very assured display on his Barça debut",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 19 Sep 26",
       "publishedDate": "2026-09-19",
       "dateLabel": "September 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578870/winning-debut-for-dominik-livakovi",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4578420/barca-6-1-peniscola-big-win-to-kick-off-at-the-palau",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/969e9ea0-b585-45af-bd46-0c3eb23134df/BARC-A_PEN-ISCOLA-150.jpg",
       "localImage": "assets/news/4578420.jpg"
-    },
-    {
-      "id": "4578408",
-      "title": "Alavés 0-6 Barça Femení: Big win in Vitoria",
-      "description": "Claudia Pina scores a second half hat-trick to guide the blaugranes to victory in the league",
-      "category": "Women",
-      "relativeTime": "Published date 18 Sep 26",
-      "publishedDate": "2026-09-18",
-      "dateLabel": "September 18",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4578408/alaves-0-6-barca-femeni-big-win-in-vitoria",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/5a52c2c3-30a3-4526-9809-a3367f045007/IA_L8798.jpg",
-      "localImage": "assets/news/4578408.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-20T20:45:09.807Z",
+  "newsUpdatedAt": "2026-09-20T23:12:21.061Z",
   "archive": {}
 };
