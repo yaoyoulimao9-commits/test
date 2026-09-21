@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-21T07:55:00.455Z",
+  "generatedAt": "2026-09-21T15:04:09.415Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,59 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4578235",
+      "title": "Pulse, the new Barça collection",
+      "description": "Turn Barça passion into a beat and use the anthem as your starting point",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-21",
+      "dateLabel": "September 21",
+      "source": "https://www.fcbarcelona.com/en/club/news/4578235/pulse-the-new-barca-collection",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/28a8f5fb-18b7-4065-89a6-aeab586ef75f/Pulse_FCB_Players_53.png",
+      "localImage": "assets/news/4578235.jpg"
+    },
+    {
+      "id": "4579409",
+      "title": "Flick's Barça is a goal machine",
+      "description": "The trio of strikes against Sevilla means that the blaugranes have scored 354 goals under the German coach, an average of almost three a game",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-09-21",
+      "dateLabel": "September 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/658513bf-0f4e-4249-9ee8-36ff4cf82d64/_MGA7518.jpg",
+      "localImage": "assets/news/4579409.jpg"
+    },
+    {
+      "id": "4579316",
+      "title": "60 years since winning 1966 Fairs Cup",
+      "description": "On 21 September 1966, Barça won their third Fairs Cup, beating Real Zaragoza 4–2 at La Romareda thanks to a memorable Lluís Pujol hat-trick",
+      "category": "Club",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-09-21",
+      "dateLabel": "September 21",
+      "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/8323fc9e-a1b8-484b-b864-f11692f22ca0/1019_3_34.jpg",
+      "localImage": "assets/news/4579316.jpg"
+    },
+    {
+      "id": "4579305",
+      "title": "Tickets for PSG v FC Barcelona available to penyes",
+      "description": "Tickets for the trip to Paris cost €50 and can be requested until 11.59pm CEST on 24 September",
+      "category": "",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-09-21",
+      "dateLabel": "September 21",
+      "source": "https://www.fcbarcelona.com/en/news/4579305/uefa-champions-league-tickets-for-psg-v-fc-barcelona-available-to-penyes",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/3dfc7a37-2624-42cf-a7b1-7e80cef6a57a/PSG-WEB.jpg",
+      "localImage": "assets/news/4579305.jpg"
+    },
+    {
       "id": "4579061",
       "title": "Joventut de Badalona 101-87 Barça: Super Cup slips away",
       "description": "The blaugranes have no answer to Laprovittola and are unable to take their second trophy of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4579061/joventut-de-badalona-101-87-barca-super-cup-slips-away",
@@ -6363,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "UD Barbastro 0-1 Barça Atlètic: First win away of the season",
       "description": "The blaugranes pick up a hard fought victory on the road to remain unbeaten this season.",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
@@ -6375,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Puente Genil 27-39 Barça: Never in doubt",
       "description": "The blaugranes win away from home thanks to a team effort on offense",
       "category": "Handball",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
@@ -6387,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Medical update on Christensen",
       "description": "Tests confirm that first team player Andreas Christensen has a left thigh strain",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 Sep 26",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579017/medical-update-on-christensen",
@@ -6399,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Raphinha on golden streak",
       "description": "Brazilian forward scores a second hat-trick in a row and now has 14 goals in eight appearances in all competitions this season",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 20 Sep 26",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579008/raphinha-on-golden-streak",
@@ -6513,56 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578389/fc-barcelona-squad-for-the-trip-to-sevilla",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/871cdb54-da2d-4ee4-b0c8-9b3abf764a32/WhatsApp-Image-2026-09-18-at-12.43.36.jpeg",
       "localImage": "assets/news/4578389.jpg"
-    },
-    {
-      "id": "4578568",
-      "title": "LIVE | Ordinary General Assembly",
-      "description": "",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578568/live-ordinary-general-assembly",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/7d9824c4-c9de-4e46-b31e-e81b3d3f9dcf/_GP15267.jpg",
-      "localImage": "assets/news/4578568.jpg"
-    },
-    {
-      "id": "4577776",
-      "title": "PREVIEW | Sevilla FC v Barça",
-      "description": "The blaugranes eye a seventh win in seven matches in La Liga against the in form Andalusians",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4577776/preview-sevilla-fc-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/229a7bb2-443e-4f36-bc44-c77da2f6ac0f/IMG_5535.PNG",
-      "localImage": "assets/news/4577776.png"
-    },
-    {
-      "id": "4578252",
-      "title": "Ordinary General Assembly as it happened",
-      "description": "Follow all the events at the Assembly at the Auditori 1899 (All times CEST)",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578252/minute-by-minute-of-the-ordinary-general-assembly",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/00d22dab-cf5d-482f-861b-2af6eef069fa/_5DS5403-1-.jpg",
-      "localImage": "assets/news/4578252.jpg"
-    },
-    {
-      "id": "4578420",
-      "title": "Barça 6-1 Peñíscola: Big win to kick off at the Palau",
-      "description": "Javi Rodríguez's team take handsome win at home thanks to a great second half performance",
-      "category": "Futsal",
-      "relativeTime": "Published date 18 Sep 26",
-      "publishedDate": "2026-09-18",
-      "dateLabel": "September 18",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4578420/barca-6-1-peniscola-big-win-to-kick-off-at-the-palau",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/969e9ea0-b585-45af-bd46-0c3eb23134df/BARC-A_PEN-ISCOLA-150.jpg",
-      "localImage": "assets/news/4578420.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-21T07:55:00.455Z",
+  "newsUpdatedAt": "2026-09-21T15:04:09.415Z",
   "archive": {}
 };
