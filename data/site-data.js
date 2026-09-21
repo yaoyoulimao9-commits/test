@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-21T15:04:09.415Z",
+  "generatedAt": "2026-09-21T19:58:41.569Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Pulse, the new Barça collection",
       "description": "Turn Barça passion into a beat and use the anthem as your starting point",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/club/news/4578235/pulse-the-new-barca-collection",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Flick's Barça is a goal machine",
       "description": "The trio of strikes against Sevilla means that the blaugranes have scored 354 goals under the German coach, an average of almost three a game",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "60 years since winning 1966 Fairs Cup",
       "description": "On 21 September 1966, Barça won their third Fairs Cup, beating Real Zaragoza 4–2 at La Romareda thanks to a memorable Lluís Pujol hat-trick",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Tickets for PSG v FC Barcelona available to penyes",
       "description": "Tickets for the trip to Paris cost €50 and can be requested until 11.59pm CEST on 24 September",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/news/4579305/uefa-champions-league-tickets-for-psg-v-fc-barcelona-available-to-penyes",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Joventut de Badalona 101-87 Barça: Super Cup slips away",
       "description": "The blaugranes have no answer to Laprovittola and are unable to take their second trophy of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 Sep 26",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4579061/joventut-de-badalona-101-87-barca-super-cup-slips-away",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "UD Barbastro 0-1 Barça Atlètic: First win away of the season",
       "description": "The blaugranes pick up a hard fought victory on the road to remain unbeaten this season.",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 20 Sep 26",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Puente Genil 27-39 Barça: Never in doubt",
       "description": "The blaugranes win away from home thanks to a team effort on offense",
       "category": "Handball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 20 Sep 26",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4578389.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-21T15:04:09.415Z",
+  "newsUpdatedAt": "2026-09-21T19:58:41.569Z",
   "archive": {}
 };
