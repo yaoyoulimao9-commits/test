@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-20T23:12:21.061Z",
+  "generatedAt": "2026-09-21T01:38:00.673Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Joventut de Badalona 101-87 Barça: Super Cup slips away",
       "description": "The blaugranes have no answer to Laprovittola and are unable to take their second trophy of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4579061/joventut-de-badalona-101-87-barca-super-cup-slips-away",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "UD Barbastro 0-1 Barça Atlètic: First win away of the season",
       "description": "The blaugranes pick up a hard fought victory on the road to remain unbeaten this season.",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Puente Genil 27-39 Barça: Never in doubt",
       "description": "The blaugranes win away from home thanks to a team effort on offense",
       "category": "Handball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Medical update on Christensen",
       "description": "Tests confirm that first team player Andreas Christensen has a left thigh strain",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579017/medical-update-on-christensen",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Raphinha on golden streak",
       "description": "Brazilian forward scores a second hat-trick in a row and now has 14 goals in eight appearances in all competitions this season",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-20",
       "dateLabel": "September 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579008/raphinha-on-golden-streak",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4578420.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-20T23:12:21.061Z",
+  "newsUpdatedAt": "2026-09-21T01:38:00.673Z",
   "archive": {}
 };
