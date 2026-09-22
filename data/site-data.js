@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-22T07:40:06.170Z",
+  "generatedAt": "2026-09-22T13:22:27.146Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4579922",
+      "title": "The squad back to training",
+      "description": "The blaugranes back at the Ciutat Esportiva Joan Gamper after a two day break",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-22",
+      "dateLabel": "September 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579922/the-squad-back-to-training",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/1ea7f490-8c5c-4335-bc90-4d6ecc0f286a/WhatsApp-Image-2026-09-22-at-13.09.42-2-.jpeg",
+      "localImage": "assets/news/4579922.jpg"
+    },
+    {
+      "id": "4579612",
+      "title": "Europe's most productive duo",
+      "description": "The blaugrana pair are way ahead of their rivals in the continent's top league when it comes to creating and scoring goals",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-09-22",
+      "dateLabel": "September 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579612/raphinha-and-lamine-yamal-europes-most-productive-duo",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/c0918d11-2c33-46ea-8349-f12a3c02bc33/_MGA5125.jpg",
+      "localImage": "assets/news/4579612.jpg"
+    },
+    {
+      "id": "4579782",
+      "title": "Nespresso, Official Coffee of Espai Barça",
+      "description": "FC Barcelona has signed a five-season partnership agreement with the brand to help enhance the experience for fans and guests at Spotify Camp Nou",
+      "category": "Club",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-09-22",
+      "dateLabel": "September 22",
+      "source": "https://www.fcbarcelona.com/en/club/news/4579782/nespresso-official-coffee-of-espai-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/03697043-c72b-4303-ad88-b7d423e199d8/_5DS7875-2.jpg",
+      "localImage": "assets/news/4579782.jpg"
+    },
+    {
       "id": "4578235",
       "title": "Pulse, the new Barça collection",
       "description": "Turn Barça passion into a beat and use the anthem as your starting point",
       "category": "Club",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 21 Sep 26",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/club/news/4578235/pulse-the-new-barca-collection",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Flick's Barça is a goal machine",
       "description": "The trio of strikes against Sevilla means that the blaugranes have scored 354 goals under the German coach, an average of almost three a game",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 21 Sep 26",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "60 years since winning 1966 Fairs Cup",
       "description": "On 21 September 1966, Barça won their third Fairs Cup, beating Real Zaragoza 4–2 at La Romareda thanks to a memorable Lluís Pujol hat-trick",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 21 Sep 26",
       "publishedDate": "2026-09-21",
       "dateLabel": "September 21",
       "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4578665/barca-approves-510-million-euros-in-new-financing-to-complete-spotify-camp-nou",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/e8f4b921-ec8e-49a9-a947-30027ab48b15/_GP15617.jpg",
       "localImage": "assets/news/4578665.jpg"
-    },
-    {
-      "id": "4578647",
-      "title": "Assembly approves record-breaking accounts",
-      "description": "Members endorse the 2025/26 results and the Board of Directors’ budget for the 2026/27 season",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578647/assembly-approves-record-breaking-accounts-that-confirm-clubs-financial-recovery",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/80baf913-48dd-46ae-a9c4-f5e57cee49f1/FERRAN-OLIV-ASSEMBLEA-2026.jpeg",
-      "localImage": "assets/news/4578647.jpg"
-    },
-    {
-      "id": "4578591",
-      "title": "Laporta promises a stronger Barça",
-      "description": "For the president, completing the stadium is the key to unlocking the greatest period of growth in the club’s history",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578591/laporta-promises-a-stronger-barca-with-the-new-spotify-camp-nou-driving-its-future",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/80ea26aa-a00c-458e-bf2f-6e5d3c5dab20/LAPORTA-ASSEMBLEA-2026.jpeg",
-      "localImage": "assets/news/4578591.jpg"
-    },
-    {
-      "id": "4578389",
-      "title": "FC Barcelona squad for the trip to Sevilla",
-      "description": "The German coach names his players for the game in the Sánchez-Pizjuán, the last before the international break",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578389/fc-barcelona-squad-for-the-trip-to-sevilla",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/871cdb54-da2d-4ee4-b0c8-9b3abf764a32/WhatsApp-Image-2026-09-18-at-12.43.36.jpeg",
-      "localImage": "assets/news/4578389.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-22T07:40:06.170Z",
+  "newsUpdatedAt": "2026-09-22T13:22:27.146Z",
   "archive": {}
 };
