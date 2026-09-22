@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:22:27.142Z",
+  "updatedAt": "2026-09-22T17:45:02.286Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
@@ -9,7 +9,7 @@
       "title": "The squad back to training",
       "description": "The blaugranes back at the Ciutat Esportiva Joan Gamper after a two day break",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579922/the-squad-back-to-training",
@@ -21,7 +21,7 @@
       "title": "Europe's most productive duo",
       "description": "The blaugrana pair are way ahead of their rivals in the continent's top league when it comes to creating and scoring goals",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579612/raphinha-and-lamine-yamal-europes-most-productive-duo",
@@ -29,11 +29,23 @@
       "localImage": "assets/news/4579612.jpg"
     },
     {
+      "id": "4579417",
+      "title": "FC Barcelona international diary",
+      "description": "All the news on the different players who are away representing their countries in this long international break",
+      "category": "First Team",
+      "relativeTime": "Published date 9 hrs ago",
+      "publishedDate": "2026-09-22",
+      "dateLabel": "September 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579417/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/ffcd0d23-a8f1-4243-acc0-1347b9da0f9e/FCBarcelonavsRayoVallecanoJ03Lliga1aDivisi20262027__mga5167.jpg",
+      "localImage": "assets/news/4579417.jpg"
+    },
+    {
       "id": "4579782",
       "title": "Nespresso, Official Coffee of Espai Barça",
       "description": "FC Barcelona has signed a five-season partnership agreement with the brand to help enhance the experience for fans and guests at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4579782/nespresso-official-coffee-of-espai-barca",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/club/news/4578780/assembly-ratifies-two-different-fc-barcelona-agreements-one-with-ohana-development-and-another-with-babylon-park",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/9569a283-175f-49b5-b172-2e9a85767ab0/_5DS5802.jpg",
       "localImage": "assets/news/4578780.jpg"
-    },
-    {
-      "id": "4578665",
-      "title": "Barça approves 510 million euros in new financing to complete Spotify Camp Nou",
-      "description": "The 2026 Ordinary General Assembly of delegate members has approved the operation after a presentation by the Club's economic vice president, Ferran Olivé",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578665/barca-approves-510-million-euros-in-new-financing-to-complete-spotify-camp-nou",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/e8f4b921-ec8e-49a9-a947-30027ab48b15/_GP15617.jpg",
-      "localImage": "assets/news/4578665.jpg"
     }
   ]
 }
