@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-23T14:58:05.669Z",
+  "generatedAt": "2026-09-23T19:01:24.443Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4580732",
+      "title": "Four nominated for LaLiga's September awards",
+      "description": "Raphinha, Hansi Flick, Pau Cubarsí and João Cancelo are all in the running for different LaLiga awards",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-23",
+      "dateLabel": "September 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/8a1e590b-27c1-4e9d-9c5d-eede41aac58a/DAG-144-_M1A5418.jpg",
+      "localImage": "assets/news/4580732.jpg"
+    },
+    {
       "id": "4580549",
       "title": "Training session with Barça Atlètic",
       "description": "The Barça squad work out with Juliano Belletti's team during the international break",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580549/training-session-with-barca-atletic",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "UWCL PREVIEW | Barça v Paris",
       "description": "Pere Romeu’s side host Paris FC at the Estadi Johan Cruyff this Wednesday (9pm CEST) as they make their debut in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578857/sevilla-1-3-fc-barcelona-raphinha-does-it-again",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/9ed90675-65b1-400c-b0d1-f972309feab9/_MGA0228.jpg",
       "localImage": "assets/news/4578857.jpg"
-    },
-    {
-      "id": "4578842",
-      "title": "Valencia Basket 86-87 Barça: Impressive win to reach Super Cup final",
-      "description": "Barça have the chance to claim silverware on Sunday after victory in the semi-final of the ACB Super Cup",
-      "category": "Basketball",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4578842/valencia-basket-86-87-barca-impressive-win-to-reach-super-cup-final",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/2fabffd9-bf59-4d02-9952-73414e6d5d7b/WhatsApp-Image-2026-09-19-at-23.46.54.jpeg",
-      "localImage": "assets/news/4578842.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-23T14:58:05.669Z",
+  "newsUpdatedAt": "2026-09-23T19:01:24.443Z",
   "archive": {}
 };
