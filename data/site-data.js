@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-23T04:39:23.985Z",
+  "generatedAt": "2026-09-23T09:55:26.020Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "The squad back to training",
       "description": "The blaugranes back at the Ciutat Esportiva Joan Gamper after a two day break",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579922/the-squad-back-to-training",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Europe's most productive duo",
       "description": "The blaugrana pair are way ahead of their rivals in the continent's top league when it comes to creating and scoring goals",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 Sep 26",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579612/raphinha-and-lamine-yamal-europes-most-productive-duo",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona international diary",
       "description": "All the news on the different players who are away representing their countries in this long international break",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 Sep 26",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579417/fc-barcelona-international-diary",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Nespresso, Official Coffee of Espai Barça",
       "description": "FC Barcelona has signed a five-season partnership agreement with the brand to help enhance the experience for fans and guests at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 Sep 26",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4579782/nespresso-official-coffee-of-espai-barca",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4578780.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-23T04:39:23.985Z",
+  "newsUpdatedAt": "2026-09-23T09:55:26.020Z",
   "archive": {}
 };
