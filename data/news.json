@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-09-23T19:01:24.438Z",
+  "updatedAt": "2026-09-23T22:15:04.971Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4580756",
+      "title": "Barça 5-2 Paris FC: Stupendous start",
+      "description": "Defending champions win at the Estadi Johan Cruyff to begin their new journey in Europe’s premier club competition",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-23",
+      "dateLabel": "September 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580756/barca-5-2-paris-fc-stupendous-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/7027557b-636c-4e13-bea3-eadd31f6d000/_GP18105-2.jpg",
+      "localImage": "assets/news/4580756.jpg"
+    },
+    {
       "id": "4580732",
       "title": "Four nominated for LaLiga's September awards",
       "description": "Raphinha, Hansi Flick, Pau Cubarsí and João Cancelo are all in the running for different LaLiga awards",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
@@ -21,7 +33,7 @@
       "title": "Training session with Barça Atlètic",
       "description": "The Barça squad work out with Juliano Belletti's team during the international break",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580549/training-session-with-barca-atletic",
@@ -33,7 +45,7 @@
       "title": "UWCL PREVIEW | Barça v Paris",
       "description": "Pere Romeu’s side host Paris FC at the Estadi Johan Cruyff this Wednesday (9pm CEST) as they make their debut in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578870/winning-debut-for-dominik-livakovi",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/0a55b6cb-44c2-435f-af19-ae1d9f4214dd/_MGA0067.jpg",
       "localImage": "assets/news/4578870.jpg"
-    },
-    {
-      "id": "4578857",
-      "title": "Sevilla 1-3 Barça: Raphinha does it again!",
-      "description": "Brazilian scores second consecutive hat-trick as the league leaders extend their record-breaking start to the season",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578857/sevilla-1-3-fc-barcelona-raphinha-does-it-again",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/9ed90675-65b1-400c-b0d1-f972309feab9/_MGA0228.jpg",
-      "localImage": "assets/news/4578857.jpg"
     }
   ]
 }
