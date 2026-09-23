@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-09-23T09:55:26.013Z",
+  "updatedAt": "2026-09-23T14:58:05.665Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4580549",
+      "title": "Training session with Barça Atlètic",
+      "description": "The Barça squad work out with Juliano Belletti's team during the international break",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-23",
+      "dateLabel": "September 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580549/training-session-with-barca-atletic",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/68eca17f-c3df-4cfc-8f47-95c8c041072b/WhatsApp-Image-2026-09-23-at-13.20.15-4-.jpeg",
+      "localImage": "assets/news/4580549.jpg"
+    },
+    {
+      "id": "4579905",
+      "title": "UWCL PREVIEW | Barça v Paris",
+      "description": "Pere Romeu’s side host Paris FC at the Estadi Johan Cruyff this Wednesday (9pm CEST) as they make their debut in Europe’s premier club competition",
+      "category": "Women",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-23",
+      "dateLabel": "September 23",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/86db18e5-c030-4743-a040-cfca1f36540a/DAG-056-_M1A3672-1-.jpg",
+      "localImage": "assets/news/4579905.jpg"
+    },
+    {
       "id": "4579922",
       "title": "The squad back to training",
       "description": "The blaugranes back at the Ciutat Esportiva Joan Gamper after a two day break",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 22 Sep 26",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579922/the-squad-back-to-training",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4578842/valencia-basket-86-87-barca-impressive-win-to-reach-super-cup-final",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/2fabffd9-bf59-4d02-9952-73414e6d5d7b/WhatsApp-Image-2026-09-19-at-23.46.54.jpeg",
       "localImage": "assets/news/4578842.jpg"
-    },
-    {
-      "id": "4578809",
-      "title": "Board members confirmed until 30 June",
-      "description": "The members ratified Rafael Yuste, Josep Cubells, Alfons Castro, Josep-Ignasi Macià, Àngel Riudalbàs, Joan Solé and Sisco Pujol, as well as the members of the Economic Commission",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578809/board-members-who-did-not-resign-during-the-election-process-ratified-to-run-the-club-until-30-june",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/b05b6e00-c06e-4e63-b352-5c88e7d95aba/RATIFICACI-DIRECTIUS-2026.jpg",
-      "localImage": "assets/news/4578809.jpg"
-    },
-    {
-      "id": "4578780",
-      "title": "Assembly ratifies two different FC Barcelona agreements, one with Ohana Development and another with Babylon Park",
-      "description": "Both agreements will enable the Club to generate revenue from real estate and entertainment centres",
-      "category": "Club",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578780/assembly-ratifies-two-different-fc-barcelona-agreements-one-with-ohana-development-and-another-with-babylon-park",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/9569a283-175f-49b5-b172-2e9a85767ab0/_5DS5802.jpg",
-      "localImage": "assets/news/4578780.jpg"
     }
   ]
 }
