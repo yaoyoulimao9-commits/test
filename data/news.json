@@ -1,27 +1,15 @@
 {
-  "updatedAt": "2026-09-24T20:45:47.077Z",
+  "updatedAt": "2026-09-24T23:51:49.981Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
-      "id": "4581019",
-      "title": "More work at the Ciutat Esportiva",
-      "description": "Available first team squad players train on the Tito Vilanova pitch",
-      "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
-      "publishedDate": "2026-09-24",
-      "dateLabel": "September 24",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/af288f44-eed8-4ba8-9b55-3788aa4cec70/WhatsApp-Image-2026-09-24-at-12.32.56-1-.jpeg",
-      "localImage": "assets/news/4581019.jpg"
-    },
-    {
       "id": "4580541",
-      "title": "Cancelo, Adeyemi and Bisiwu in opening fixtures",
+      "title": "Wins for Cancelo and Bisiwu; draw for Adeyemi",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -29,11 +17,35 @@
       "localImage": "assets/news/4580541.jpg"
     },
     {
+      "id": "4581475",
+      "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
+      "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-24",
+      "dateLabel": "September 24",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/98fc163c-393c-44f9-af40-b1c24c3ebc05/JC012948-2.jpg",
+      "localImage": "assets/news/4581475.jpg"
+    },
+    {
+      "id": "4581019",
+      "title": "More work at the Ciutat Esportiva",
+      "description": "Available first team squad players train on the Tito Vilanova pitch",
+      "category": "First Team",
+      "relativeTime": "Published date 13 hrs ago",
+      "publishedDate": "2026-09-24",
+      "dateLabel": "September 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/af288f44-eed8-4ba8-9b55-3788aa4cec70/WhatsApp-Image-2026-09-24-at-12.32.56-1-.jpeg",
+      "localImage": "assets/news/4581019.jpg"
+    },
+    {
       "id": "4580761",
       "title": "A run for the record books",
       "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
@@ -45,7 +57,7 @@
       "title": "Barça 5-2 Paris FC: Stupendous start",
       "description": "Defending champions win at the Estadi Johan Cruyff to begin their new journey in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 23 Sep 26",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4580756/barca-5-2-paris-fc-stupendous-start",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/5cc6d940-5e63-45eb-9053-dd9bb10d8a5a/WhatsApp-Image-2026-09-20-at-17.56.06.jpeg",
       "localImage": "assets/news/4579045.jpg"
-    },
-    {
-      "id": "4579046",
-      "title": "Puente Genil 27-39 Barça: Never in doubt",
-      "description": "The blaugranes win away from home thanks to a team effort on offense",
-      "category": "Handball",
-      "relativeTime": "Published date 20 Sep 26",
-      "publishedDate": "2026-09-20",
-      "dateLabel": "September 20",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/7bb9e5e6-d1c6-4ebf-ba1f-e12cdb928880/WhatsApp-Image-2026-09-20-at-18.41.26.jpeg",
-      "localImage": "assets/news/4579046.jpg"
     }
   ]
 }
