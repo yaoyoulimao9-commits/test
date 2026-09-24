@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-24T17:31:48.220Z",
+  "updatedAt": "2026-09-24T20:45:47.077Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "More work at the Ciutat Esportiva",
       "description": "Available first team squad players train on the Tito Vilanova pitch",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
@@ -16,10 +16,10 @@ window.BARCA_NEWS = {
     },
     {
       "id": "4580541",
-      "title": "Cancelo and Bisiwu in opening fixtures",
+      "title": "Cancelo, Adeyemi and Bisiwu in opening fixtures",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "A run for the record books",
       "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-2 Paris FC: Stupendous start",
       "description": "Defending champions win at the Estadi Johan Cruyff to begin their new journey in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4580756/barca-5-2-paris-fc-stupendous-start",
