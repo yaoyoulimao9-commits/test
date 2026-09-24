@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-24T12:10:18.438Z",
+  "generatedAt": "2026-09-24T17:31:48.225Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,19 +6351,19 @@ window.BARCA_DATA = {
       "title": "More work at the Ciutat Esportiva",
       "description": "Available first team squad players train on the Tito Vilanova pitch",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/af288f44-eed8-4ba8-9b55-3788aa4cec70/WhatsApp-Image-2026-09-24-at-12.32.56-1-.jpeg",
+      "localImage": "assets/news/4581019.jpg"
     },
     {
       "id": "4580541",
       "title": "Cancelo and Bisiwu in opening fixtures",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "A run for the record books",
       "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-2 Paris FC: Stupendous start",
       "description": "Defending champions win at the Estadi Johan Cruyff to begin their new journey in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4580756/barca-5-2-paris-fc-stupendous-start",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Four nominated for LaLiga's September awards",
       "description": "Raphinha, Hansi Flick, Pau Cubarsí and João Cancelo are all in the running for different LaLiga awards",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 23 Sep 26",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4579046.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-24T12:10:18.438Z",
+  "newsUpdatedAt": "2026-09-24T17:31:48.225Z",
   "archive": {}
 };
