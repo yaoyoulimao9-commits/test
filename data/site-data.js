@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-24T06:07:55.397Z",
+  "generatedAt": "2026-09-24T12:10:18.438Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4581019",
+      "title": "More work at the Ciutat Esportiva",
+      "description": "Available first team squad players train on the Tito Vilanova pitch",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-24",
+      "dateLabel": "September 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
+      "id": "4580541",
+      "title": "Cancelo and Bisiwu in opening fixtures",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-24",
+      "dateLabel": "September 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/d0e0391a-52f9-4319-8f52-4529341a729f/DAG-014-_M1A1117.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4580761",
+      "title": "A run for the record books",
+      "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-24",
+      "dateLabel": "September 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/af537f53-b1ff-44bb-af56-e1511e610e37/_MGA7382.jpg",
+      "localImage": "assets/news/4580761.jpg"
+    },
+    {
       "id": "4580756",
       "title": "Barça 5-2 Paris FC: Stupendous start",
       "description": "Defending champions win at the Estadi Johan Cruyff to begin their new journey in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4580756/barca-5-2-paris-fc-stupendous-start",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Four nominated for LaLiga's September awards",
       "description": "Raphinha, Hansi Flick, Pau Cubarsí and João Cancelo are all in the running for different LaLiga awards",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Training session with Barça Atlètic",
       "description": "The Barça squad work out with Juliano Belletti's team during the international break",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 Sep 26",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580549/training-session-with-barca-atletic",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "UWCL PREVIEW | Barça v Paris",
       "description": "Pere Romeu’s side host Paris FC at the Estadi Johan Cruyff this Wednesday (9pm CEST) as they make their debut in Europe’s premier club competition",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 Sep 26",
       "publishedDate": "2026-09-23",
       "dateLabel": "September 23",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
@@ -6420,13 +6456,13 @@ window.BARCA_DATA = {
     },
     {
       "id": "4579417",
-      "title": "FC Barcelona international diary",
+      "title": "International schedule for FC Barcelona players",
       "description": "All the news on the different players who are away representing their countries in this long international break",
       "category": "First Team",
       "relativeTime": "Published date 22 Sep 26",
       "publishedDate": "2026-09-22",
       "dateLabel": "September 22",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579417/fc-barcelona-international-diary",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579417/international-schedule-for-fc-barcelona-players",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/ffcd0d23-a8f1-4243-acc0-1347b9da0f9e/FCBarcelonavsRayoVallecanoJ03Lliga1aDivisi20262027__mga5167.jpg",
       "localImage": "assets/news/4579417.jpg"
     },
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4579046/puente-genil-27-39-barca-never-in-doubt",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/7bb9e5e6-d1c6-4ebf-ba1f-e12cdb928880/WhatsApp-Image-2026-09-20-at-18.41.26.jpeg",
       "localImage": "assets/news/4579046.jpg"
-    },
-    {
-      "id": "4579017",
-      "title": "Medical update on Christensen",
-      "description": "Tests confirm that first team player Andreas Christensen has a left thigh strain",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Sep 26",
-      "publishedDate": "2026-09-20",
-      "dateLabel": "September 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579017/medical-update-on-christensen",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/afe5af8a-9872-472e-904d-f0812e344a7c/_MGA0199-1-.jpg",
-      "localImage": "assets/news/4579017.jpg"
-    },
-    {
-      "id": "4579008",
-      "title": "Raphinha on golden streak",
-      "description": "Brazilian forward scores a second hat-trick in a row and now has 14 goals in eight appearances in all competitions this season",
-      "category": "First Team",
-      "relativeTime": "Published date 20 Sep 26",
-      "publishedDate": "2026-09-20",
-      "dateLabel": "September 20",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579008/raphinha-on-golden-streak",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/e53c0f61-5ace-471e-81e5-2a8f0bc01a58/_MGA0416.jpg",
-      "localImage": "assets/news/4579008.jpg"
-    },
-    {
-      "id": "4578870",
-      "title": "Winning debut for Livaković",
-      "description": "Croatian goalkeeper could do nothing about Sevilla’s goal but produces a very assured display on his Barça debut",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Sep 26",
-      "publishedDate": "2026-09-19",
-      "dateLabel": "September 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4578870/winning-debut-for-dominik-livakovi",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/19/0a55b6cb-44c2-435f-af19-ae1d9f4214dd/_MGA0067.jpg",
-      "localImage": "assets/news/4578870.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-24T06:07:55.397Z",
+  "newsUpdatedAt": "2026-09-24T12:10:18.438Z",
   "archive": {}
 };
