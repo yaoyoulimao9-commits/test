@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-25T04:50:20.575Z",
+  "generatedAt": "2026-09-25T10:09:15.163Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,23 +6347,59 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4581743",
+      "title": "Sixth BA Japan Club takes place",
+      "description": "300 children spend three days at the Nara Deer facilities",
+      "category": "",
+      "relativeTime": "Published date 51 Mins ago",
+      "publishedDate": "2026-09-25",
+      "dateLabel": "September 25",
+      "source": "https://www.fcbarcelona.com/en/news/4581743/sixth-ba-japan-club-takes-place",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/51c03122-f05b-4aae-af89-e24a5aa208e1/IMG_5981.JPG",
+      "localImage": "assets/news/4581743.jpg"
+    },
+    {
       "id": "4580541",
-      "title": "Wins for Cancelo and Bisiwu; draw for Adeyemi",
+      "title": "Five more blaugranes potentially in action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
-      "publishedDate": "2026-09-24",
-      "dateLabel": "September 24",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-25",
+      "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/d0e0391a-52f9-4319-8f52-4529341a729f/DAG-014-_M1A1117.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/d339c5e7-9f22-4736-a846-d3c7779a229c/_MGA2165_1.jpg",
       "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4581767",
+      "title": "FC Barcelona launches 'Barça Fan Lab'",
+      "description": "Developed in collaboration with Andamio using Cardano technology, the project will allow fans to learn more about the Club's history and values, participate in community activities and obtain verifiable digital credentials",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-25",
+      "dateLabel": "September 25",
+      "source": "https://www.fcbarcelona.com/en/club/news/4581767/fc-barcelona-launches-barca-fan-lab-a-new-digital-experience-that-connects-club-values-with-new-web3-ways-of-participation-and-innovation",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/7ce0403d-a5fb-4d50-afe8-98d1087e7b25/KV-1.png",
+      "localImage": "assets/news/4581767.png"
+    },
+    {
+      "id": "4581391",
+      "title": "New VIP seating licenses at Spotify Camp Nou with Legends Global",
+      "description": "The Club introduces a new long-term individual licensing model, a pioneering proposition in premium hospitality, following the successful commercialisation of suites and boxes",
+      "category": "Club",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-25",
+      "dateLabel": "September 25",
+      "source": "https://www.fcbarcelona.com/en/club/news/4581391/fc-barcelona-launches-new-vip-seating-licenses-at-spotify-camp-nou-with-legends-global",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/f024364d-46fa-4531-a064-9f4fb3a7418a/25103_vr-toward-crowd.jpg",
+      "localImage": "assets/news/4581391.jpg"
     },
     {
       "id": "4581475",
       "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
       "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
       "category": "Basketball",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "More work at the Ciutat Esportiva",
       "description": "Available first team squad players train on the Tito Vilanova pitch",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "A run for the record books",
       "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 24 Sep 26",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/8323fc9e-a1b8-484b-b864-f11692f22ca0/1019_3_34.jpg",
       "localImage": "assets/news/4579316.jpg"
-    },
-    {
-      "id": "4579305",
-      "title": "Tickets for PSG v FC Barcelona available to penyes",
-      "description": "Tickets for the trip to Paris cost €50 and can be requested until 11.59pm CEST on 24 September",
-      "category": "",
-      "relativeTime": "Published date 21 Sep 26",
-      "publishedDate": "2026-09-21",
-      "dateLabel": "September 21",
-      "source": "https://www.fcbarcelona.com/en/news/4579305/uefa-champions-league-tickets-for-psg-v-fc-barcelona-available-to-penyes",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/3dfc7a37-2624-42cf-a7b1-7e80cef6a57a/PSG-WEB.jpg",
-      "localImage": "assets/news/4579305.jpg"
-    },
-    {
-      "id": "4579061",
-      "title": "Joventut de Badalona 101-87 Barça: Super Cup slips away",
-      "description": "The blaugranes have no answer to Laprovittola and are unable to take their second trophy of the season",
-      "category": "Basketball",
-      "relativeTime": "Published date 20 Sep 26",
-      "publishedDate": "2026-09-20",
-      "dateLabel": "September 20",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4579061/joventut-de-badalona-101-87-barca-super-cup-slips-away",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/e6188514-1c74-4f17-9ec2-4c10ae9c8425/JC010952.jpg",
-      "localImage": "assets/news/4579061.jpg"
-    },
-    {
-      "id": "4579045",
-      "title": "UD Barbastro 0-1 Barça Atlètic: First win away of the season",
-      "description": "The blaugranes pick up a hard fought victory on the road to remain unbeaten this season.",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 Sep 26",
-      "publishedDate": "2026-09-20",
-      "dateLabel": "September 20",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4579045/ud-barbastro-0-1-barca-atletic-first-win-away-of-the-season",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/20/5cc6d940-5e63-45eb-9053-dd9bb10d8a5a/WhatsApp-Image-2026-09-20-at-17.56.06.jpeg",
-      "localImage": "assets/news/4579045.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-25T04:50:20.575Z",
+  "newsUpdatedAt": "2026-09-25T10:09:15.163Z",
   "archive": {}
 };
