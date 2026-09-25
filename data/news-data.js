@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-25T19:31:56.542Z",
+  "updatedAt": "2026-09-25T22:47:31.283Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Bernal and Espart feature for U21s",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 46 Mins ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -15,11 +15,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4580541.jpg"
     },
     {
+      "id": "4581971",
+      "title": "Barça 2-2 Jimbee Cartagena: Draw at home",
+      "description": "Javi Rodríguez 's team search for the winner in the second half to no avail",
+      "category": "Futsal",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-25",
+      "dateLabel": "September 25",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4581971/barca-2-2-jimbee-cartagena-draw-at-home",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/550ac122-d4d2-41fe-9246-6d4b4eabd203/2026-09-25_FCBFUTSALvsCARTAGENA_106.jpg",
+      "localImage": "assets/news/4581971.jpg"
+    },
+    {
       "id": "4581855",
       "title": "Win in Club World Championship opener (33-44)",
       "description": "Blaugranes defending their title, with a strong showing in first match / Photos: IHF / Kolektiff / Jozo Cabraja.",
       "category": "Handball",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4581855/pinheiros-33-44-fc-barcelona-win-in-club-world-championship-opener",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Sixth BA Japan Club takes place",
       "description": "300 children spend three days at the Nara Deer facilities",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/news/4581743/sixth-ba-japan-club-takes-place",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "New VIP seating licenses at Spotify Camp Nou with Legends Global",
       "description": "The Club introduces a new long-term individual licensing model, a pioneering proposition in premium hospitality, following the successful commercialisation of suites and boxes",
       "category": "Club",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/club/news/4581391/fc-barcelona-launches-new-vip-seating-licenses-at-spotify-camp-nou-with-legends-global",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
       "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Sep 26",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/658513bf-0f4e-4249-9ee8-36ff4cf82d64/_MGA7518.jpg",
       "localImage": "assets/news/4579409.jpg"
-    },
-    {
-      "id": "4579316",
-      "title": "60 years since winning 1966 Fairs Cup",
-      "description": "On 21 September 1966, Barça won their third Fairs Cup, beating Real Zaragoza 4–2 at La Romareda thanks to a memorable Lluís Pujol hat-trick",
-      "category": "Club",
-      "relativeTime": "Published date 21 Sep 26",
-      "publishedDate": "2026-09-21",
-      "dateLabel": "September 21",
-      "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/8323fc9e-a1b8-484b-b864-f11692f22ca0/1019_3_34.jpg",
-      "localImage": "assets/news/4579316.jpg"
     }
   ]
 };
