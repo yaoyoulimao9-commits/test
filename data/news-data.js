@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-24T23:51:49.981Z",
+  "updatedAt": "2026-09-25T04:50:20.572Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Wins for Cancelo and Bisiwu; draw for Adeyemi",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
       "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "More work at the Ciutat Esportiva",
       "description": "Available first team squad players train on the Tito Vilanova pitch",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581019/more-work-at-the-ciutat-esportiva",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "A run for the record books",
       "description": "Hansi Flick's side are up to 22 home victories in a row in LaLiga, the third longest run in FC Barcelona's history",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580761/a-run-for-the-record-books",
