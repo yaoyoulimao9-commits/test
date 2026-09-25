@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T15:32:08.641Z",
+  "updatedAt": "2026-09-25T19:31:56.542Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
       "id": "4580541",
-      "title": "Draw for Raphinha with Brazil",
+      "title": "Bernal and Espart feature for U21s",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/07/b2708971-a473-4f80-8dec-de941ea4f553/FCBarcelonavsRayoVallecanoJ03Lliga1aDivisi20262027_jc039855.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/d37e3e71-aa16-4ee2-805d-e144ccdeb498/JC018686.jpg",
       "localImage": "assets/news/4580541.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Win in Club World Championship opener (33-44)",
       "description": "Blaugranes defending their title, with a strong showing in first match / Photos: IHF / Kolektiff / Jozo Cabraja.",
       "category": "Handball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4581855/pinheiros-33-44-fc-barcelona-win-in-club-world-championship-opener",
@@ -33,7 +33,7 @@
       "title": "Sixth BA Japan Club takes place",
       "description": "300 children spend three days at the Nara Deer facilities",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/news/4581743/sixth-ba-japan-club-takes-place",
@@ -41,23 +41,11 @@
       "localImage": "assets/news/4581743.jpg"
     },
     {
-      "id": "4581767",
-      "title": "FC Barcelona launches 'Barça Fan Lab'",
-      "description": "Developed in collaboration with Andamio using Cardano technology, the project will allow fans to learn more about the Club's history and values, participate in community activities and obtain verifiable digital credentials",
-      "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
-      "source": "https://www.fcbarcelona.com/en/club/news/4581767/fc-barcelona-launches-barca-fan-lab-a-new-digital-experience-that-connects-club-values-with-new-web3-ways-of-participation-and-innovation",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/7ce0403d-a5fb-4d50-afe8-98d1087e7b25/KV-1.png",
-      "localImage": "assets/news/4581767.png"
-    },
-    {
       "id": "4581391",
       "title": "New VIP seating licenses at Spotify Camp Nou with Legends Global",
       "description": "The Club introduces a new long-term individual licensing model, a pioneering proposition in premium hospitality, following the successful commercialisation of suites and boxes",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/club/news/4581391/fc-barcelona-launches-new-vip-seating-licenses-at-spotify-camp-nou-with-legends-global",
@@ -69,7 +57,7 @@
       "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
       "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
       "category": "Basketball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-24",
       "dateLabel": "September 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
@@ -219,6 +207,18 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/658513bf-0f4e-4249-9ee8-36ff4cf82d64/_MGA7518.jpg",
       "localImage": "assets/news/4579409.jpg"
+    },
+    {
+      "id": "4579316",
+      "title": "60 years since winning 1966 Fairs Cup",
+      "description": "On 21 September 1966, Barça won their third Fairs Cup, beating Real Zaragoza 4–2 at La Romareda thanks to a memorable Lluís Pujol hat-trick",
+      "category": "Club",
+      "relativeTime": "Published date 21 Sep 26",
+      "publishedDate": "2026-09-21",
+      "dateLabel": "September 21",
+      "source": "https://www.fcbarcelona.com/en/club/news/4579316/60-years-since-winning-1966-fairs-cup",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/8323fc9e-a1b8-484b-b864-f11692f22ca0/1019_3_34.jpg",
+      "localImage": "assets/news/4579316.jpg"
     }
   ]
 }
