@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-26T16:18:24.844Z",
+  "updatedAt": "2026-09-26T19:21:31.554Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4582141",
+      "title": "Logroño United 0-2 FC Barcelona: Win and record goal",
+      "description": "The blaugranes pick up another three points on their visit to Las Gaunas thanks in part to a historic goal from Mayssa Baha",
+      "category": "Women",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-26",
+      "dateLabel": "September 26",
+      "source": "https://www.fcbarcelona.com/en/news/4582141/logrono-united-0-2-fc-barcelona-win-and-record-goal",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/26/5415b89e-28dd-496f-a3ee-3c429ceb8297/CSP_UZ_20260926_0027.jpg",
+      "localImage": "assets/news/4582141.jpg"
+    },
+    {
+      "id": "4582089",
+      "title": "PRÈVIA - El retorn de l’ACB",
+      "description": "(21.00 hores) La Lliga Endesa comença aquest dissabte al Palau Blaugrana davant el conjunt gallec entrenat per Carles Marco",
+      "category": "Basketball",
+      "relativeTime": "Published date 8 hrs ago",
+      "publishedDate": "2026-09-26",
+      "dateLabel": "September 26",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582089/barca-leyma-corunya-el-retorn-de-lacb",
+      "sourceImage": "",
+      "localImage": ""
+    },
     {
       "id": "4580541",
       "title": "Games for England, Spain and Croatia",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Blaugrana face-off at Wembley",
       "description": "Anthony Gordon potentially set to face seven teammates in the first Nations League fixture",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 2-2 Jimbee Cartagena: Draw at home",
       "description": "Javi Rodríguez 's team search for the winner in the second half to no avail",
       "category": "Futsal",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4581971/barca-2-2-jimbee-cartagena-draw-at-home",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579417/international-schedule-for-fc-barcelona-players",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/ffcd0d23-a8f1-4243-acc0-1347b9da0f9e/FCBarcelonavsRayoVallecanoJ03Lliga1aDivisi20262027__mga5167.jpg",
       "localImage": "assets/news/4579417.jpg"
-    },
-    {
-      "id": "4579782",
-      "title": "Nespresso, Official Coffee of Espai Barça",
-      "description": "FC Barcelona has signed a five-season partnership agreement with the brand to help enhance the experience for fans and guests at Spotify Camp Nou",
-      "category": "Club",
-      "relativeTime": "Published date 22 Sep 26",
-      "publishedDate": "2026-09-22",
-      "dateLabel": "September 22",
-      "source": "https://www.fcbarcelona.com/en/club/news/4579782/nespresso-official-coffee-of-espai-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/03697043-c72b-4303-ad88-b7d423e199d8/_5DS7875-2.jpg",
-      "localImage": "assets/news/4579782.jpg"
-    },
-    {
-      "id": "4578235",
-      "title": "Pulse, the new Barça collection",
-      "description": "Turn Barça passion into a beat and use the anthem as your starting point",
-      "category": "Club",
-      "relativeTime": "Published date 21 Sep 26",
-      "publishedDate": "2026-09-21",
-      "dateLabel": "September 21",
-      "source": "https://www.fcbarcelona.com/en/club/news/4578235/pulse-the-new-barca-collection",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/28a8f5fb-18b7-4065-89a6-aeab586ef75f/Pulse_FCB_Players_53.png",
-      "localImage": "assets/news/4578235.jpg"
     }
   ]
 };
