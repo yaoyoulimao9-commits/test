@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-26T11:47:07.953Z",
+  "generatedAt": "2026-09-26T16:18:24.850Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Games for England, Spain and Croatia",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana face-off at Wembley",
       "description": "Anthony Gordon potentially set to face seven teammates in the first Nations League fixture",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 2-2 Jimbee Cartagena: Draw at home",
       "description": "Javi Rodríguez 's team search for the winner in the second half to no avail",
       "category": "Futsal",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4581971/barca-2-2-jimbee-cartagena-draw-at-home",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Win in Club World Championship opener (33-44)",
       "description": "Blaugranes defending their title, with a strong showing in first match / Photos: IHF / Kolektiff / Jozo Cabraja.",
       "category": "Handball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 25 Sep 26",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4581855/pinheiros-33-44-fc-barcelona-win-in-club-world-championship-opener",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4578235.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-26T11:47:07.953Z",
+  "newsUpdatedAt": "2026-09-26T16:18:24.850Z",
   "archive": {}
 };
