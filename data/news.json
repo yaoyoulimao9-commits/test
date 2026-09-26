@@ -1,27 +1,39 @@
 {
-  "updatedAt": "2026-09-26T06:35:38.426Z",
+  "updatedAt": "2026-09-26T11:47:07.948Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
       "id": "4580541",
-      "title": "Bernal and Espart feature for U21s",
+      "title": "Games for England, Spain and Croatia",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-26",
+      "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/d37e3e71-aa16-4ee2-805d-e144ccdeb498/JC018686.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/26/459b065c-a098-4604-b80d-4a8df6b3094f/DAG-138-_M1A3397.jpg",
       "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4581826",
+      "title": "Blaugrana face-off at Wembley",
+      "description": "Anthony Gordon potentially set to face seven teammates in the first Nations League fixture",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-26",
+      "dateLabel": "September 26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/2b234519-9f5f-4b57-9d2b-5bc1ee9ce08a/_MGA7116.jpg",
+      "localImage": "assets/news/4581826.jpg"
     },
     {
       "id": "4581971",
       "title": "Barça 2-2 Jimbee Cartagena: Draw at home",
       "description": "Javi Rodríguez 's team search for the winner in the second half to no avail",
       "category": "Futsal",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4581971/barca-2-2-jimbee-cartagena-draw-at-home",
@@ -33,7 +45,7 @@
       "title": "Win in Club World Championship opener (33-44)",
       "description": "Blaugranes defending their title, with a strong showing in first match / Photos: IHF / Kolektiff / Jozo Cabraja.",
       "category": "Handball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4581855/pinheiros-33-44-fc-barcelona-win-in-club-world-championship-opener",
@@ -45,7 +57,7 @@
       "title": "Sixth BA Japan Club takes place",
       "description": "300 children spend three days at the Nara Deer facilities",
       "category": "",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 25 Sep 26",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/news/4581743/sixth-ba-japan-club-takes-place",
@@ -57,7 +69,7 @@
       "title": "New VIP seating licenses at Spotify Camp Nou with Legends Global",
       "description": "The Club introduces a new long-term individual licensing model, a pioneering proposition in premium hospitality, following the successful commercialisation of suites and boxes",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 25 Sep 26",
       "publishedDate": "2026-09-25",
       "dateLabel": "September 25",
       "source": "https://www.fcbarcelona.com/en/club/news/4581391/fc-barcelona-launches-new-vip-seating-licenses-at-spotify-camp-nou-with-legends-global",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/club/news/4578235/pulse-the-new-barca-collection",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/18/28a8f5fb-18b7-4065-89a6-aeab586ef75f/Pulse_FCB_Players_53.png",
       "localImage": "assets/news/4578235.jpg"
-    },
-    {
-      "id": "4579409",
-      "title": "Flick's Barça is a goal machine",
-      "description": "The trio of strikes against Sevilla means that the blaugranes have scored 354 goals under the German coach, an average of almost three a game",
-      "category": "First Team",
-      "relativeTime": "Published date 21 Sep 26",
-      "publishedDate": "2026-09-21",
-      "dateLabel": "September 21",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579409/flicks-barca-is-a-goal-machine",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/21/658513bf-0f4e-4249-9ee8-36ff4cf82d64/_MGA7518.jpg",
-      "localImage": "assets/news/4579409.jpg"
     }
   ]
 }
