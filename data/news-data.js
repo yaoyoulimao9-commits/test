@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-27T06:34:50.426Z",
+  "updatedAt": "2026-09-27T12:26:33.961Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4580541",
+      "title": "Adeyemi and Cancelo in line for action",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/18cc723a-246b-48d3-86ac-add94e8a96fc/DAG-445-_M1A4241.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4581966",
+      "title": "Upcoming targets for Raphinha",
+      "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/4d9533d0-642a-48ad-a0e9-d4d30268979d/_MGA7332.jpg",
+      "localImage": "assets/news/4581966.jpg"
+    },
     {
       "id": "4582205",
       "title": "Barça 119-101 Leyma Coruña: Attacking masterclass",
       "description": "Aleksander Sekulic's side dominate on offense to record victory in their first league game of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582205/barca-119-101-leyma-coruna-attacking-masterclass",
@@ -15,23 +39,11 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4582205.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Lamine and Gordon on target in thriller",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
-      "publishedDate": "2026-09-26",
-      "dateLabel": "September 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/26/f8cae813-358b-4bee-b8da-e4a135c51c8e/_MGA7207_1-1-.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4582173",
       "title": "Barça Atlètic 4-0 Peña Sport: On a roll and unbeaten",
       "description": "The blaugranes now have 10 points from a possible 12 in the league and are yet to concede",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4582173/barca-atletic-4-0-pena-sport-on-a-roll-and-unbeaten",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Logroño United 0-2 FC Barcelona: Win and record goal",
       "description": "The blaugranes pick up another three points on their visit to Las Gaunas thanks in part to a historic goal from Mayssa Baha",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/news/4582141/logrono-united-0-2-fc-barcelona-win-and-record-goal",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "PRÈVIA - El retorn de l’ACB",
       "description": "(21.00 hores) La Lliga Endesa comença aquest dissabte al Palau Blaugrana davant el conjunt gallec entrenat per Carles Marco",
       "category": "Basketball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 26 Sep 26",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582089/barca-leyma-corunya-el-retorn-de-lacb",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Blaugrana face-off at Wembley",
       "description": "Anthony Gordon potentially set to face seven teammates in the first Nations League fixture",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 26 Sep 26",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/86db18e5-c030-4743-a040-cfca1f36540a/DAG-056-_M1A3672-1-.jpg",
       "localImage": "assets/news/4579905.jpg"
-    },
-    {
-      "id": "4579922",
-      "title": "The squad back to training",
-      "description": "The blaugranes back at the Ciutat Esportiva Joan Gamper after a two day break",
-      "category": "First Team",
-      "relativeTime": "Published date 22 Sep 26",
-      "publishedDate": "2026-09-22",
-      "dateLabel": "September 22",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4579922/the-squad-back-to-training",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/1ea7f490-8c5c-4335-bc90-4d6ecc0f286a/WhatsApp-Image-2026-09-22-at-13.09.42-2-.jpeg",
-      "localImage": "assets/news/4579922.jpg"
     }
   ]
 };
