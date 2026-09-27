@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-27T20:21:52.086Z",
+  "generatedAt": "2026-09-27T23:23:00.807Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4580541",
+      "title": "Adeyemi and Cancelo in line for action",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/18cc723a-246b-48d3-86ac-add94e8a96fc/DAG-445-_M1A4241.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
       "id": "4582575",
       "title": "Barça 5-3 PAS Alcoi: Casas snatches the win",
       "description": "Despite a host of absentees, two goals from Martí Casas in the final minute earned Barça victory in their opening Group B game of the competition",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 39-29 Zamalek: World finalists!",
       "description": "After beating the Egyptian side, Barça have now mathematically secured their place in the grand final of this international tournament | Photos: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4582491/barca-39-29-zamalek-world-finalists",
@@ -6371,23 +6383,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4582491.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Adeyemi and Cancelo in line for action",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
-      "publishedDate": "2026-09-27",
-      "dateLabel": "September 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/18cc723a-246b-48d3-86ac-add94e8a96fc/DAG-445-_M1A4241.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4581966",
       "title": "Upcoming targets for Raphinha",
       "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 119-101 Leyma Coruña: Attacking masterclass",
       "description": "Aleksander Sekulic's side dominate on offense to record victory in their first league game of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 26 Sep 26",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582205/barca-119-101-leyma-coruna-attacking-masterclass",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4580732.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-27T20:21:52.086Z",
+  "newsUpdatedAt": "2026-09-27T23:23:00.807Z",
   "archive": {}
 };
