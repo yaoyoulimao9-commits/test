@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-27T12:26:33.966Z",
+  "generatedAt": "2026-09-27T17:15:52.175Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Adeyemi and Cancelo in line for action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Upcoming targets for Raphinha",
       "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 119-101 Leyma Coruña: Attacking masterclass",
       "description": "Aleksander Sekulic's side dominate on offense to record victory in their first league game of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582205/barca-119-101-leyma-coruna-attacking-masterclass",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 4-0 Peña Sport: On a roll and unbeaten",
       "description": "The blaugranes now have 10 points from a possible 12 in the league and are yet to concede",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4582173/barca-atletic-4-0-pena-sport-on-a-roll-and-unbeaten",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Logroño United 0-2 FC Barcelona: Win and record goal",
       "description": "The blaugranes pick up another three points on their visit to Las Gaunas thanks in part to a historic goal from Mayssa Baha",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 26 Sep 26",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/news/4582141/logrono-united-0-2-fc-barcelona-win-and-record-goal",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4579905.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-27T12:26:33.966Z",
+  "newsUpdatedAt": "2026-09-27T17:15:52.175Z",
   "archive": {}
 };
