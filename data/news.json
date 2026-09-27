@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-09-27T17:15:52.171Z",
+  "updatedAt": "2026-09-27T20:21:52.084Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4582575",
+      "title": "Barça 5-3 PAS Alcoi: Casas snatches the win",
+      "description": "Despite a host of absentees, two goals from Martí Casas in the final minute earned Barça victory in their opening Group B game of the competition",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/d7e54c3b-2d4d-4de8-acd9-bda9cb5d01b3/2026-09-27-FCB-HOQUEI-2052.jpg",
+      "localImage": "assets/news/4582575.jpg"
+    },
+    {
+      "id": "4582491",
+      "title": "Barça 39-29 Zamalek: World finalists!",
+      "description": "After beating the Egyptian side, Barça have now mathematically secured their place in the grand final of this international tournament | Photos: IHF / Kolektiff / Jozo Cabraja",
+      "category": "Handball",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4582491/barca-39-29-zamalek-world-finalists",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/d1cd3e00-e156-4f4d-92b5-cfe4d42c1744/WhatsApp-Image-2026-09-27-at-15.53.14.jpeg",
+      "localImage": "assets/news/4582491.jpg"
+    },
+    {
       "id": "4580541",
       "title": "Adeyemi and Cancelo in line for action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -21,7 +45,7 @@
       "title": "Upcoming targets for Raphinha",
       "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
@@ -33,7 +57,7 @@
       "title": "Barça 119-101 Leyma Coruña: Attacking masterclass",
       "description": "Aleksander Sekulic's side dominate on offense to record victory in their first league game of the season",
       "category": "Basketball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582205/barca-119-101-leyma-coruna-attacking-masterclass",
@@ -45,7 +69,7 @@
       "title": "Barça Atlètic 4-0 Peña Sport: On a roll and unbeaten",
       "description": "The blaugranes now have 10 points from a possible 12 in the league and are yet to concede",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 26 Sep 26",
       "publishedDate": "2026-09-26",
       "dateLabel": "September 26",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4582173/barca-atletic-4-0-pena-sport-on-a-roll-and-unbeaten",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/8a1e590b-27c1-4e9d-9c5d-eede41aac58a/DAG-144-_M1A5418.jpg",
       "localImage": "assets/news/4580732.jpg"
-    },
-    {
-      "id": "4580549",
-      "title": "Training session with Barça Atlètic",
-      "description": "The Barça squad work out with Juliano Belletti's team during the international break",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Sep 26",
-      "publishedDate": "2026-09-23",
-      "dateLabel": "September 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580549/training-session-with-barca-atletic",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/68eca17f-c3df-4cfc-8f47-95c8c041072b/WhatsApp-Image-2026-09-23-at-13.20.15-4-.jpeg",
-      "localImage": "assets/news/4580549.jpg"
-    },
-    {
-      "id": "4579905",
-      "title": "UWCL PREVIEW | Barça v Paris",
-      "description": "Pere Romeu’s side host Paris FC at the Estadi Johan Cruyff this Wednesday (9pm CEST) as they make their debut in Europe’s premier club competition",
-      "category": "Women",
-      "relativeTime": "Published date 23 Sep 26",
-      "publishedDate": "2026-09-23",
-      "dateLabel": "September 23",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4579905/uwcl-preview-fc-barcelona-v-paris-fc",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/22/86db18e5-c030-4743-a040-cfca1f36540a/DAG-056-_M1A3672-1-.jpg",
-      "localImage": "assets/news/4579905.jpg"
     }
   ]
 }
