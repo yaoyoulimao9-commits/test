@@ -1,27 +1,39 @@
 {
-  "updatedAt": "2026-09-28T01:57:50.581Z",
+  "updatedAt": "2026-09-28T08:39:07.580Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
       "id": "4580541",
-      "title": "Adeyemi and Cancelo in line for action",
+      "title": "Win for Cancelo and defeat for Adeyemi",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/18cc723a-246b-48d3-86ac-add94e8a96fc/DAG-445-_M1A4241.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/21229562-f117-409a-b93e-06523981aeca/2026-09-16_FCBvsRACING_074.jpg",
       "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4582725",
+      "title": "Five world U20 champions",
+      "description": "Barça players Carla Julià, Aïcha, Noa Jiménez, Rosalia and Julia Torres were crowned U20 world champions with Spain on Sunday",
+      "category": "Women",
+      "relativeTime": "Published date 13 hrs ago",
+      "publishedDate": "2026-09-27",
+      "dateLabel": "September 27",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4582725/five-world-u20-champions",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/16b6bd90-a5ee-4b04-bd61-9497bc49c92d/WhatsApp-Image-2026-09-27-at-21.25.56.jpeg",
+      "localImage": "assets/news/4582725.jpg"
     },
     {
       "id": "4582575",
       "title": "Barça 5-3 PAS Alcoi: Casas snatches the win",
       "description": "Despite a host of absentees, two goals from Martí Casas in the final minute earned Barça victory in their opening Group B game of the competition",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
@@ -33,7 +45,7 @@
       "title": "Barça 39-29 Zamalek: World finalists!",
       "description": "After beating the Egyptian side, Barça have now mathematically secured their place in the grand final of this international tournament | Photos: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4582491/barca-39-29-zamalek-world-finalists",
@@ -45,7 +57,7 @@
       "title": "Upcoming targets for Raphinha",
       "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 27 Sep 26",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4580756/barca-5-2-paris-fc-stupendous-start",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/7027557b-636c-4e13-bea3-eadd31f6d000/_GP18105-2.jpg",
       "localImage": "assets/news/4580756.jpg"
-    },
-    {
-      "id": "4580732",
-      "title": "Four nominated for LaLiga's September awards",
-      "description": "Raphinha, Hansi Flick, Pau Cubarsí and João Cancelo are all in the running for different LaLiga awards",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Sep 26",
-      "publishedDate": "2026-09-23",
-      "dateLabel": "September 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580732/four-barca-players-nominated-for-laligas-september-awards",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/23/8a1e590b-27c1-4e9d-9c5d-eede41aac58a/DAG-144-_M1A5418.jpg",
-      "localImage": "assets/news/4580732.jpg"
     }
   ]
 }
