@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-28T17:37:05.753Z",
+  "generatedAt": "2026-09-28T22:38:28.237Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6348,14 +6348,14 @@ window.BARCA_DATA = {
   "news": [
     {
       "id": "4580541",
-      "title": "Kounde against Belgium; Adeyemi gets some rest",
+      "title": "France win without Kounde",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 1 hr ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/abc76bea-4aa9-40c9-acca-37adac0d2c92/_MGA6969.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/90675e92-24bf-41bc-855c-4a7bf7af8421/DAG-561-_M1A6491.jpg",
       "localImage": "assets/news/4580541.jpg"
     },
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "One win away from best ever start to LaLiga",
       "description": "After the lengthy international break, FC Barcelona will host Getafe with the chance to equal the record set in the 2013/14 season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581481/one-win-away-from-best-ever-start-to-laliga",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça Foundation launches Charitable Legacy campaign",
       "description": "The initiative is based on a campaign film that speaks to the deepest emotions of Barça supporters and invites fans to transform their passion for Barça into a legacy of solidarity",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/news/4582926/barca-foundation-launches-a-campaign-to-promote-its-charitable-legacy-and-turn-barca-passion-into-a-legacy-that-transforms-lives",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Basketball team clocking up the air miles",
       "description": "Barça team face one of the toughest weeks of the season, with more than 11,000 kilometres of air travel to play in Dubai, Istanbul and Murcia",
       "category": "Basketball",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583003/basketball-team-clocking-up-the-air-miles",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Five world U20 champions",
       "description": "Barça players Carla Julià, Aïcha, Noa Jiménez, Rosalia and Julia Torres were crowned U20 world champions with Spain on Sunday",
       "category": "Women",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 27 Sep 26",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4582725/five-world-u20-champions",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4581475.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-28T17:37:05.753Z",
+  "newsUpdatedAt": "2026-09-28T22:38:28.237Z",
   "archive": {}
 };
