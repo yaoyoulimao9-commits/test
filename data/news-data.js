@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-27T23:23:00.802Z",
+  "updatedAt": "2026-09-28T01:57:50.581Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Adeyemi and Cancelo in line for action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-3 PAS Alcoi: Casas snatches the win",
       "description": "Despite a host of absentees, two goals from Martí Casas in the final minute earned Barça victory in their opening Group B game of the competition",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 39-29 Zamalek: World finalists!",
       "description": "After beating the Egyptian side, Barça have now mathematically secured their place in the grand final of this international tournament | Photos: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4582491/barca-39-29-zamalek-world-finalists",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Upcoming targets for Raphinha",
       "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-27",
       "dateLabel": "September 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
