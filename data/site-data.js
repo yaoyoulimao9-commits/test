@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-29T09:01:13.775Z",
+  "generatedAt": "2026-09-29T15:44:20.664Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4583568",
+      "title": "Barça 51-15 Montada Derb Sultan: Record win to move on to the final",
+      "description": "The blaugranes set a club record goals tally for the Club World Cup championship in preparation for the final against Veszprém | Photo: IHF / Kolektiff / Jozo Cabraja",
+      "category": "Handball",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4583568/barca-51-15-montada-derb-sultan-record-win-to-move-on-to-the-final",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/4873d7d5-430a-4bb9-9e0f-3dceaf832e6b/WhatsApp-Image-2026-09-29-at-15.10.49.jpeg",
+      "localImage": "assets/news/4583568.jpg"
+    },
+    {
+      "id": "4583548",
+      "title": "Flick, Liga coach of the month",
+      "description": "Perfect winning record, combined with some impressive numbers, has earned the German coach this award",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583548/hansi-flick-liga-coach-of-the-month-for-september",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg",
+      "localImage": "assets/news/4583548.jpg"
+    },
+    {
       "id": "4580541",
-      "title": "Busy Tuesday for the internationals",
+      "title": "Raphinha on the scoresheet in Brazil win",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 47 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6359,11 +6383,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4580541.jpg"
     },
     {
+      "id": "4583523",
+      "title": "Exclusive access to seven EuroLeague games",
+      "description": "Deal for matches against Zalgiris, Olympiacos, Red Star, Besiktas, Hapoel Tel Aviv, Panathinaikos and Partizan.",
+      "category": "",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/news/4583523/exclusive-access-for-members-to-seven-euroleague-games-at-the-palau-blaugrana",
+      "sourceImage": "",
+      "localImage": ""
+    },
+    {
       "id": "4583200",
       "title": "Blaugrana clash in Seville",
       "description": "The six Barça players called up by Spain face Dominik Livaković’s Croatia at the Ramón Sánchez-Pizjuán (8.45pm).",
       "category": "First Team",
-      "relativeTime": "Published date 57 Mins ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583200/blaugrana-clash-in-seville",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "7-2 win against Racing, best moment from September",
       "description": "Barça fans voted on the Club's official app to chose the La Liga victory as the best of the four candidates",
       "category": "First Team",
-      "relativeTime": "Published date 57 Mins ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583000/7-2-win-against-racing-best-moment-from-september",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/2b234519-9f5f-4b57-9d2b-5bc1ee9ce08a/_MGA7116.jpg",
       "localImage": "assets/news/4581826.jpg"
-    },
-    {
-      "id": "4581971",
-      "title": "Barça 2-2 Jimbee Cartagena: Draw at home",
-      "description": "Javi Rodríguez 's team search for the winner in the second half to no avail",
-      "category": "Futsal",
-      "relativeTime": "Published date 25 Sep 26",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4581971/barca-2-2-jimbee-cartagena-draw-at-home",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/550ac122-d4d2-41fe-9246-6d4b4eabd203/2026-09-25_FCBFUTSALvsCARTAGENA_106.jpg",
-      "localImage": "assets/news/4581971.jpg"
-    },
-    {
-      "id": "4581855",
-      "title": "Win in Club World Championship opener (33-44)",
-      "description": "Blaugranes defending their title, with a strong showing in first match / Photos: IHF / Kolektiff / Jozo Cabraja.",
-      "category": "Handball",
-      "relativeTime": "Published date 25 Sep 26",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4581855/pinheiros-33-44-fc-barcelona-win-in-club-world-championship-opener",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/e4624747-8810-4336-8796-5d0924f62503/WhatsApp-Image-2026-09-25-at-13.19.06.jpeg",
-      "localImage": "assets/news/4581855.jpg"
-    },
-    {
-      "id": "4581743",
-      "title": "Sixth BA Japan Club takes place",
-      "description": "300 children spend three days at the Nara Deer facilities",
-      "category": "Club",
-      "relativeTime": "Published date 25 Sep 26",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
-      "source": "https://www.fcbarcelona.com/en/club/news/4581743/sixth-ba-japan-club-takes-place",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/51c03122-f05b-4aae-af89-e24a5aa208e1/IMG_5981.JPG",
-      "localImage": "assets/news/4581743.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-29T09:01:13.775Z",
+  "newsUpdatedAt": "2026-09-29T15:44:20.663Z",
   "archive": {}
 };
