@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-29T15:44:20.664Z",
+  "generatedAt": "2026-09-29T20:43:03.675Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6349,9 +6349,9 @@ window.BARCA_DATA = {
     {
       "id": "4583568",
       "title": "Barça 51-15 Montada Derb Sultan: Record win to move on to the final",
-      "description": "The blaugranes set a club record goals tally for the Club World Cup championship in preparation for the final against Veszprém | Photo: IHF / Kolektiff / Jozo Cabraja",
+      "description": "The blaugranes set a club record goals tally for the Club World Championship in preparation for the final against Veszprém | Photo: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4583568/barca-51-15-montada-derb-sultan-record-win-to-move-on-to-the-final",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Flick, Liga coach of the month",
       "description": "Perfect winning record, combined with some impressive numbers, has earned the German coach this award",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583548/hansi-flick-liga-coach-of-the-month-for-september",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Raphinha on the scoresheet in Brazil win",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6387,19 +6387,19 @@ window.BARCA_DATA = {
       "title": "Exclusive access to seven EuroLeague games",
       "description": "Deal for matches against Zalgiris, Olympiacos, Red Star, Besiktas, Hapoel Tel Aviv, Panathinaikos and Partizan.",
       "category": "",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/news/4583523/exclusive-access-for-members-to-seven-euroleague-games-at-the-palau-blaugrana",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/0bdde725-548f-46ba-85e7-e430629bbde7/2609_SECC_BSK_Partits_Exclusius_SocisDigital_1920x1080_01_ENG.jpg",
+      "localImage": "assets/news/4583523.jpg"
     },
     {
       "id": "4583200",
       "title": "Blaugrana clash in Seville",
       "description": "The six Barça players called up by Spain face Dominik Livaković’s Croatia at the Ramón Sánchez-Pizjuán (8.45pm).",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583200/blaugrana-clash-in-seville",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "7-2 win against Racing, best moment from September",
       "description": "Barça fans voted on the Club's official app to chose the La Liga victory as the best of the four candidates",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583000/7-2-win-against-racing-best-moment-from-september",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4581826.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-29T15:44:20.663Z",
+  "newsUpdatedAt": "2026-09-29T20:43:03.675Z",
   "archive": {}
 };
