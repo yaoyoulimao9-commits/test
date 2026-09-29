@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-29T02:33:37.942Z",
+  "generatedAt": "2026-09-29T09:01:13.775Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6348,22 +6348,46 @@ window.BARCA_DATA = {
   "news": [
     {
       "id": "4580541",
-      "title": "France win without Kounde",
+      "title": "Busy Tuesday for the internationals",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
-      "publishedDate": "2026-09-28",
-      "dateLabel": "September 28",
+      "relativeTime": "Published date 47 Mins ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/90675e92-24bf-41bc-855c-4a7bf7af8421/DAG-561-_M1A6491.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/ed5e9485-736f-4b89-8536-f52296ecf35a/_MGA7343.jpg",
       "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4583200",
+      "title": "Blaugrana clash in Seville",
+      "description": "The six Barça players called up by Spain face Dominik Livaković’s Croatia at the Ramón Sánchez-Pizjuán (8.45pm).",
+      "category": "First Team",
+      "relativeTime": "Published date 57 Mins ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583200/blaugrana-clash-in-seville",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/65d60d4c-f655-41f7-8b26-b138b350fd23/_MGA0381.jpg",
+      "localImage": "assets/news/4583200.jpg"
+    },
+    {
+      "id": "4583000",
+      "title": "7-2 win against Racing, best moment from September",
+      "description": "Barça fans voted on the Club's official app to chose the La Liga victory as the best of the four candidates",
+      "category": "First Team",
+      "relativeTime": "Published date 57 Mins ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583000/7-2-win-against-racing-best-moment-from-september",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/fec78abc-8466-416a-b5b7-d7283f854741/_MGA7382.jpg",
+      "localImage": "assets/news/4583000.jpg"
     },
     {
       "id": "4581481",
       "title": "One win away from best ever start to LaLiga",
       "description": "After the lengthy international break, FC Barcelona will host Getafe with the chance to equal the record set in the 2013/14 season",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 28 Sep 26",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581481/one-win-away-from-best-ever-start-to-laliga",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Foundation launches Charitable Legacy campaign",
       "description": "The initiative is based on a campaign film that speaks to the deepest emotions of Barça supporters and invites fans to transform their passion for Barça into a legacy of solidarity",
       "category": "",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 28 Sep 26",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/news/4582926/barca-foundation-launches-a-campaign-to-promote-its-charitable-legacy-and-turn-barca-passion-into-a-legacy-that-transforms-lives",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Basketball team clocking up the air miles",
       "description": "Barça team face one of the toughest weeks of the season, with more than 11,000 kilometres of air travel to play in Dubai, Istanbul and Murcia",
       "category": "Basketball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 28 Sep 26",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583003/basketball-team-clocking-up-the-air-miles",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4581743/sixth-ba-japan-club-takes-place",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/51c03122-f05b-4aae-af89-e24a5aa208e1/IMG_5981.JPG",
       "localImage": "assets/news/4581743.jpg"
-    },
-    {
-      "id": "4581391",
-      "title": "New VIP seating licenses at Spotify Camp Nou with Legends Global",
-      "description": "The Club introduces a new long-term individual licensing model, a pioneering proposition in premium hospitality, following the successful commercialisation of suites and boxes",
-      "category": "Club",
-      "relativeTime": "Published date 25 Sep 26",
-      "publishedDate": "2026-09-25",
-      "dateLabel": "September 25",
-      "source": "https://www.fcbarcelona.com/en/club/news/4581391/fc-barcelona-launches-new-vip-seating-licenses-at-spotify-camp-nou-with-legends-global",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/f024364d-46fa-4531-a064-9f4fb3a7418a/25103_vr-toward-crowd.jpg",
-      "localImage": "assets/news/4581391.jpg"
-    },
-    {
-      "id": "4581475",
-      "title": "Barça 89-82 Anadolu Efes: First great night at the Palau",
-      "description": "Blaugranes overturn a 15-point deficit to claim a thrilling win in their first game of the Centenary year",
-      "category": "Basketball",
-      "relativeTime": "Published date 24 Sep 26",
-      "publishedDate": "2026-09-24",
-      "dateLabel": "September 24",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4581475/fc-barcelona-89-82-anadolu-efes-first-great-night-at-the-palau",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/98fc163c-393c-44f9-af40-b1c24c3ebc05/JC012948-2.jpg",
-      "localImage": "assets/news/4581475.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-29T02:33:37.942Z",
+  "newsUpdatedAt": "2026-09-29T09:01:13.775Z",
   "archive": {}
 };
