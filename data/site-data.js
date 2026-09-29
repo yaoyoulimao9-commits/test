@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-28T22:38:28.237Z",
+  "generatedAt": "2026-09-29T02:33:37.942Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "France win without Kounde",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "One win away from best ever start to LaLiga",
       "description": "After the lengthy international break, FC Barcelona will host Getafe with the chance to equal the record set in the 2013/14 season",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581481/one-win-away-from-best-ever-start-to-laliga",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça Foundation launches Charitable Legacy campaign",
       "description": "The initiative is based on a campaign film that speaks to the deepest emotions of Barça supporters and invites fans to transform their passion for Barça into a legacy of solidarity",
       "category": "",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/news/4582926/barca-foundation-launches-a-campaign-to-promote-its-charitable-legacy-and-turn-barca-passion-into-a-legacy-that-transforms-lives",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Basketball team clocking up the air miles",
       "description": "Barça team face one of the toughest weeks of the season, with more than 11,000 kilometres of air travel to play in Dubai, Istanbul and Murcia",
       "category": "Basketball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-28",
       "dateLabel": "September 28",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583003/basketball-team-clocking-up-the-air-miles",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4581475.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-28T22:38:28.237Z",
+  "newsUpdatedAt": "2026-09-29T02:33:37.942Z",
   "archive": {}
 };
