@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-30T12:28:00.622Z",
+  "generatedAt": "2026-09-30T18:06:59.885Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Five goals for blaugranes from Tuesday's games",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Spectacular September",
       "description": "Incredible month brings nine goals and seven assists following a stunning display against Croatia",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584279/spectacular-september-for-lamine-yamal",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "UWCL PREVIEW | Roma v Barça",
       "description": "First road trip of the campaign is to the Italian capital with Van Asten and the U20 world champions back in the squad",
       "category": "Women",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4583725/uwcl-preview-as-roma-v-fc-barcelona",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Dubai Basketball 94-87 FC Barcelona: Honourable defeat",
       "description": "Barça battle all the way but a poor second quarter brings a first defeat in European competition",
       "category": "Basketball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583732/dubai-basketball-94-87-fc-barcelona-honourable-defeat",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 51-15 Montada Derb Sultan: Record win to move on to the final",
       "description": "The blaugranes set a club record goals tally for the Club World Championship in preparation for the final against Veszprém | Photo: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 29 Sep 26",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4583568/barca-51-15-montada-derb-sultan-record-win-to-move-on-to-the-final",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Flick, Liga coach of the month",
       "description": "Perfect winning record, combined with some impressive numbers, has earned the German coach this award",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 29 Sep 26",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583548/hansi-flick-liga-coach-of-the-month-for-september",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4582173.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-30T12:28:00.622Z",
+  "newsUpdatedAt": "2026-09-30T18:06:59.885Z",
   "archive": {}
 };
