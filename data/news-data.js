@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-09-29T20:43:03.668Z",
+  "updatedAt": "2026-09-30T00:22:44.730Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4580541",
+      "title": "Five goals for blaugranes from Tuesday's games",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/acac7d62-4a14-4d14-ae39-e87d35a8fe5b/_MGA0262.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4583732",
+      "title": "Dubai Basketball 94-87 FC Barcelona: Honourable defeat",
+      "description": "Barça battle all the way but a poor second quarter brings a first defeat in European competition",
+      "category": "Basketball",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-09-29",
+      "dateLabel": "September 29",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583732/dubai-basketball-94-87-fc-barcelona-honourable-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/a2f204f1-71ce-49a4-bc0e-bdd55b4b6228/29.09.26_EUR_JF_3082_PevWYTtE_20260929082841.jpg",
+      "localImage": "assets/news/4583732.jpg"
+    },
     {
       "id": "4583568",
       "title": "Barça 51-15 Montada Derb Sultan: Record win to move on to the final",
       "description": "The blaugranes set a club record goals tally for the Club World Championship in preparation for the final against Veszprém | Photo: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4583568/barca-51-15-montada-derb-sultan-record-win-to-move-on-to-the-final",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Flick, Liga coach of the month",
       "description": "Perfect winning record, combined with some impressive numbers, has earned the German coach this award",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583548/hansi-flick-liga-coach-of-the-month-for-september",
@@ -27,23 +51,11 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4583548.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Raphinha on the scoresheet in Brazil win",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
-      "publishedDate": "2026-09-29",
-      "dateLabel": "September 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/ed5e9485-736f-4b89-8536-f52296ecf35a/_MGA7343.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4583523",
       "title": "Exclusive access to seven EuroLeague games",
       "description": "Deal for matches against Zalgiris, Olympiacos, Red Star, Besiktas, Hapoel Tel Aviv, Panathinaikos and Partizan.",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/news/4583523/exclusive-access-for-members-to-seven-euroleague-games-at-the-palau-blaugrana",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Blaugrana clash in Seville",
       "description": "The six Barça players called up by Spain face Dominik Livaković’s Croatia at the Ramón Sánchez-Pizjuán (8.45pm).",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583200/blaugrana-clash-in-seville",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "7-2 win against Racing, best moment from September",
       "description": "Barça fans voted on the Club's official app to chose the La Liga victory as the best of the four candidates",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583000/7-2-win-against-racing-best-moment-from-september",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582089/barca-leyma-corunya-el-retorn-de-lacb",
       "sourceImage": "",
       "localImage": ""
-    },
-    {
-      "id": "4581826",
-      "title": "Blaugrana face-off at Wembley",
-      "description": "Anthony Gordon potentially set to face seven teammates in the first Nations League fixture",
-      "category": "First Team",
-      "relativeTime": "Published date 26 Sep 26",
-      "publishedDate": "2026-09-26",
-      "dateLabel": "September 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581826/blaugrana-face-off-at-wembley",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/2b234519-9f5f-4b57-9d2b-5bc1ee9ce08a/_MGA7116.jpg",
-      "localImage": "assets/news/4581826.jpg"
     }
   ]
 };
