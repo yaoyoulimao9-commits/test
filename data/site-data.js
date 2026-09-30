@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-30T18:06:59.885Z",
+  "generatedAt": "2026-09-30T22:15:31.472Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4584533",
+      "title": "Total control (6-1)",
+      "description": "Blaugranes get three points from a game set on the right course from early on",
+      "category": "Futsal",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-09-30",
+      "dateLabel": "September 30",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4584533/fc-barcelona-6-1-o-parrulo-total-control",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/30/6e45f234-ae0d-4b3d-aff1-588dff733c6b/2026-09-30_FCBFUTSALvsOPARRULO_033.jpg",
+      "localImage": "assets/news/4584533.jpg"
+    },
+    {
+      "id": "4584478",
+      "title": "Big win ahead of the Clásico (0-6)",
+      "description": "European champions continue to win big, with players returning and more positive vibes ahead of Real Madrid visit",
+      "category": "Women",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-09-30",
+      "dateLabel": "September 30",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4584478/as-roma-0-6-fc-barcelona-big-win-ahead-of-the-clasico",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/30/a58da3b8-bc36-4c5e-9efa-9b00b466ed5b/_GP10624.jpg",
+      "localImage": "assets/news/4584478.jpg"
+    },
+    {
       "id": "4580541",
       "title": "Five goals for blaugranes from Tuesday's games",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Spectacular September",
       "description": "Incredible month brings nine goals and seven assists following a stunning display against Croatia",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584279/spectacular-september-for-lamine-yamal",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "UWCL PREVIEW | Roma v Barça",
       "description": "First road trip of the campaign is to the Italian capital with Van Asten and the U20 world champions back in the squad",
       "category": "Women",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 29 Sep 26",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4583725/uwcl-preview-as-roma-v-fc-barcelona",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Dubai Basketball 94-87 FC Barcelona: Honourable defeat",
       "description": "Barça battle all the way but a poor second quarter brings a first defeat in European competition",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 29 Sep 26",
       "publishedDate": "2026-09-29",
       "dateLabel": "September 29",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583732/dubai-basketball-94-87-fc-barcelona-honourable-defeat",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/4d9533d0-642a-48ad-a0e9-d4d30268979d/_MGA7332.jpg",
       "localImage": "assets/news/4581966.jpg"
-    },
-    {
-      "id": "4582205",
-      "title": "Barça 119-101 Leyma Coruña: Attacking masterclass",
-      "description": "Aleksander Sekulic's side dominate on offense to record victory in their first league game of the season",
-      "category": "Basketball",
-      "relativeTime": "Published date 26 Sep 26",
-      "publishedDate": "2026-09-26",
-      "dateLabel": "September 26",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4582205/barca-119-101-leyma-coruna-attacking-masterclass",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/26/488654c3-8461-4f3b-a383-3f7a014895d9/JC016582.jpg",
-      "localImage": "assets/news/4582205.jpg"
-    },
-    {
-      "id": "4582173",
-      "title": "Barça Atlètic 4-0 Peña Sport: On a roll and unbeaten",
-      "description": "The blaugranes now have 10 points from a possible 12 in the league and are yet to concede",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 26 Sep 26",
-      "publishedDate": "2026-09-26",
-      "dateLabel": "September 26",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4582173/barca-atletic-4-0-pena-sport-on-a-roll-and-unbeaten",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/26/8868bd6d-2547-41bc-a6a7-31219049f324/2026-09-26_FCBATLETICvsPENYASPORT_135.jpg",
-      "localImage": "assets/news/4582173.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-30T18:06:59.885Z",
+  "newsUpdatedAt": "2026-09-30T22:15:31.472Z",
   "archive": {}
 };
