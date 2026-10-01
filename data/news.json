@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-10-01T15:24:40.560Z",
+  "updatedAt": "2026-10-01T20:28:57.441Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4585252",
+      "title": "FC Barcelona statement",
+      "description": "",
+      "category": "Club",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-01",
+      "dateLabel": "October 01",
+      "source": "https://www.fcbarcelona.com/en/club/news/4585252/fc-barcelona-statement",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/01/22/7a0f74ba-278c-493e-b194-751b0cb35c57/COMUNICAT-FCB.jpeg",
+      "localImage": "assets/news/4585252.jpg"
+    },
+    {
       "id": "4585128",
       "title": "Cancelo goal against Racing, best of the month",
       "description": "Portuguese fullback receives award for his stunning strike from outside the area against Racing de Santander at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585128/cancelo-goal-against-racing-best-of-the-month",
@@ -21,7 +33,7 @@
       "title": "Blaugranes back in action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -33,7 +45,7 @@
       "title": "Exciting October in store",
       "description": "Getafe, Galatasaray, Betis, PSG, Real Madrid and Alavés all coming up in a busy month at home and abroad",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584325/big-games-coming-up-in-october",
@@ -45,7 +57,7 @@
       "title": "Total control (6-1)",
       "description": "Blaugranes get three points from a game set on the right course from early on",
       "category": "Futsal",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4584533/fc-barcelona-6-1-o-parrulo-total-control",
@@ -57,7 +69,7 @@
       "title": "Big win ahead of the Clásico (0-6)",
       "description": "European champions continue to win big, with players returning and more positive vibes ahead of Real Madrid visit",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 30 Sep 26",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4584478/as-roma-0-6-fc-barcelona-big-win-ahead-of-the-clasico",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4582725/five-world-u20-champions",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/16b6bd90-a5ee-4b04-bd61-9497bc49c92d/WhatsApp-Image-2026-09-27-at-21.25.56.jpeg",
       "localImage": "assets/news/4582725.jpg"
-    },
-    {
-      "id": "4582575",
-      "title": "Barça 5-3 PAS Alcoi: Casas snatches the win",
-      "description": "Despite a host of absentees, two goals from Martí Casas in the final minute earned Barça victory in their opening Group B game of the competition",
-      "category": "Roller Hockey",
-      "relativeTime": "Published date 27 Sep 26",
-      "publishedDate": "2026-09-27",
-      "dateLabel": "September 27",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/d7e54c3b-2d4d-4de8-acd9-bda9cb5d01b3/2026-09-27-FCB-HOQUEI-2052.jpg",
-      "localImage": "assets/news/4582575.jpg"
     }
   ]
 }
