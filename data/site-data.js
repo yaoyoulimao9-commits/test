@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-01T07:46:03.398Z",
+  "generatedAt": "2026-10-01T15:24:40.565Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4585128",
+      "title": "Cancelo goal against Racing, best of the month",
+      "description": "Portuguese fullback receives award for his stunning strike from outside the area against Racing de Santander at the Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-01",
+      "dateLabel": "October 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585128/cancelo-goal-against-racing-best-of-the-month",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/98f6dadb-8d7b-4229-888b-f1c94449d1eb/DAG-368-_M1A2937.jpg",
+      "localImage": "assets/news/4585128.jpg"
+    },
+    {
+      "id": "4580541",
+      "title": "Blaugranes back in action",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-01",
+      "dateLabel": "October 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/1a4a2e9d-7678-49ba-bfd5-4c83a385e91c/DAG-429-_M1A3800.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4584325",
+      "title": "Exciting October in store",
+      "description": "Getafe, Galatasaray, Betis, PSG, Real Madrid and Alavés all coming up in a busy month at home and abroad",
+      "category": "First Team",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-01",
+      "dateLabel": "October 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584325/big-games-coming-up-in-october",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/30/1eb598f0-7cd2-46d4-b341-b17a5745abc1/3200X2000_Calendar-OCT-ENG.jpg",
+      "localImage": "assets/news/4584325.jpg"
+    },
+    {
       "id": "4584533",
       "title": "Total control (6-1)",
       "description": "Blaugranes get three points from a game set on the right course from early on",
       "category": "Futsal",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4584533/fc-barcelona-6-1-o-parrulo-total-control",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Big win ahead of the Clásico (0-6)",
       "description": "European champions continue to win big, with players returning and more positive vibes ahead of Real Madrid visit",
       "category": "Women",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4584478/as-roma-0-6-fc-barcelona-big-win-ahead-of-the-clasico",
@@ -6371,23 +6407,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4584478.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Five goals for blaugranes from Tuesday's games",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
-      "publishedDate": "2026-09-30",
-      "dateLabel": "September 30",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/acac7d62-4a14-4d14-ae39-e87d35a8fe5b/_MGA0262.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4584279",
       "title": "Spectacular September",
       "description": "Incredible month brings nine goals and seven assists following a stunning display against Croatia",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 30 Sep 26",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584279/spectacular-september-for-lamine-yamal",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4582575/barca-5-3-pas-alcoi-casas-snatches-the-win",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/d7e54c3b-2d4d-4de8-acd9-bda9cb5d01b3/2026-09-27-FCB-HOQUEI-2052.jpg",
       "localImage": "assets/news/4582575.jpg"
-    },
-    {
-      "id": "4582491",
-      "title": "Barça 39-29 Zamalek: World finalists!",
-      "description": "After beating the Egyptian side, Barça have now mathematically secured their place in the grand final of this international tournament | Photos: IHF / Kolektiff / Jozo Cabraja",
-      "category": "Handball",
-      "relativeTime": "Published date 27 Sep 26",
-      "publishedDate": "2026-09-27",
-      "dateLabel": "September 27",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4582491/barca-39-29-zamalek-world-finalists",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/d1cd3e00-e156-4f4d-92b5-cfe4d42c1744/WhatsApp-Image-2026-09-27-at-15.53.14.jpeg",
-      "localImage": "assets/news/4582491.jpg"
-    },
-    {
-      "id": "4581966",
-      "title": "Upcoming targets for Raphinha",
-      "description": "Brazilian has 89 goals for Barça, is an all-time top 30 blaugrana goalscorer and can soon surpass various Club legends",
-      "category": "First Team",
-      "relativeTime": "Published date 27 Sep 26",
-      "publishedDate": "2026-09-27",
-      "dateLabel": "September 27",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581966/upcoming-targets-for-raphinha",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/25/4d9533d0-642a-48ad-a0e9-d4d30268979d/_MGA7332.jpg",
-      "localImage": "assets/news/4581966.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-01T07:46:03.398Z",
+  "newsUpdatedAt": "2026-10-01T15:24:40.565Z",
   "archive": {}
 };
