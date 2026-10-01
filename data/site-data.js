@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-09-30T22:15:31.472Z",
+  "generatedAt": "2026-10-01T01:32:12.890Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Total control (6-1)",
       "description": "Blaugranes get three points from a game set on the right course from early on",
       "category": "Futsal",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4584533/fc-barcelona-6-1-o-parrulo-total-control",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Big win ahead of the Clásico (0-6)",
       "description": "European champions continue to win big, with players returning and more positive vibes ahead of Real Madrid visit",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4584478/as-roma-0-6-fc-barcelona-big-win-ahead-of-the-clasico",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Five goals for blaugranes from Tuesday's games",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Spectacular September",
       "description": "Incredible month brings nine goals and seven assists following a stunning display against Croatia",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-09-30",
       "dateLabel": "September 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584279/spectacular-september-for-lamine-yamal",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4581966.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-09-30T22:15:31.472Z",
+  "newsUpdatedAt": "2026-10-01T01:32:12.890Z",
   "archive": {}
 };
