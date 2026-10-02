@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-02T13:08:19.020Z",
+  "updatedAt": "2026-10-02T18:40:19.875Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Classic European matchup for Kounde",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Mobility and accessibility for FC Barcelona v Real Madrid",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4585245/mobility-and-accessibility-for-fc-barcelona-v-real-madrid",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 33-42 Veszprém: Overcome in the final",
       "description": "Barça fail to retain their Club World Championship title after being on the back foot for most of the final / Photos: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4585274/barca-33-42-veszprem-overcome-in-the-final",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 01 Oct 26",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4585252/fc-barcelona-statement",
