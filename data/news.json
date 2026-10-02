@@ -1,27 +1,51 @@
 {
-  "updatedAt": "2026-10-02T06:09:15.558Z",
+  "updatedAt": "2026-10-02T13:08:19.020Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
       "id": "4580541",
-      "title": "Two wins as Cancelo scores stunner",
+      "title": "Classic European matchup for Kounde",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-02",
+      "dateLabel": "October 02",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/bb9dd885-f15f-4402-95e4-3af77d4e79d5/kounde.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4585245",
+      "title": "Mobility and accessibility for FC Barcelona v Real Madrid",
+      "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
+      "category": "Club",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-02",
+      "dateLabel": "October 02",
+      "source": "https://www.fcbarcelona.com/en/club/news/4585245/mobility-and-accessibility-for-fc-barcelona-v-real-madrid",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/15/fed589ff-f4fd-4680-b2d2-c1dd455982dc/VO260511A70809_-_IMG_0213.jpg",
+      "localImage": "assets/news/4585245.jpg"
+    },
+    {
+      "id": "4585274",
+      "title": "Barça 33-42 Veszprém: Overcome in the final",
+      "description": "Barça fail to retain their Club World Championship title after being on the back foot for most of the final / Photos: IHF / Kolektiff / Jozo Cabraja",
+      "category": "Handball",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/1a4a2e9d-7678-49ba-bfd5-4c83a385e91c/DAG-429-_M1A3800.jpg",
-      "localImage": "assets/news/4580541.jpg"
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4585274/barca-33-42-veszprem-overcome-in-the-final",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/14543190-59e6-4269-a6df-8d3e8321b346/CWC26_Final-FC-Barcelona-vs-Veszpr-m-HC__1JC1268_JC.jpg",
+      "localImage": "assets/news/4585274.jpg"
     },
     {
       "id": "4585252",
       "title": "FC Barcelona statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4585252/fc-barcelona-statement",
@@ -33,7 +57,7 @@
       "title": "Cancelo goal against Racing, best of the month",
       "description": "Portuguese fullback receives award for his stunning strike from outside the area against Racing de Santander at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 01 Oct 26",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585128/cancelo-goal-against-racing-best-of-the-month",
@@ -45,7 +69,7 @@
       "title": "Exciting October in store",
       "description": "Getafe, Galatasaray, Betis, PSG, Real Madrid and Alavés all coming up in a busy month at home and abroad",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 01 Oct 26",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584325/big-games-coming-up-in-october",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/news/4582926/barca-foundation-launches-a-campaign-to-promote-its-charitable-legacy-and-turn-barca-passion-into-a-legacy-that-transforms-lives",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/f2a60254-18cd-4798-b9cd-3d566427e6ca/FCB_ESPAN-OL.00_01_02_01.Imagen-fija002.png",
       "localImage": "assets/news/4582926.png"
-    },
-    {
-      "id": "4583003",
-      "title": "Basketball team clocking up the air miles",
-      "description": "Barça team face one of the toughest weeks of the season, with more than 11,000 kilometres of air travel to play in Dubai, Istanbul and Murcia",
-      "category": "Basketball",
-      "relativeTime": "Published date 28 Sep 26",
-      "publishedDate": "2026-09-28",
-      "dateLabel": "September 28",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583003/basketball-team-clocking-up-the-air-miles",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/9c7582a9-20ba-49c4-b914-1f9a314f56d0/20260927_Brizuela_Nunez.jpg",
-      "localImage": "assets/news/4583003.jpg"
-    },
-    {
-      "id": "4582725",
-      "title": "Five world U20 champions",
-      "description": "Barça players Carla Julià, Aïcha, Noa Jiménez, Rosalia and Julia Torres were crowned U20 world champions with Spain on Sunday",
-      "category": "Women",
-      "relativeTime": "Published date 27 Sep 26",
-      "publishedDate": "2026-09-27",
-      "dateLabel": "September 27",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4582725/five-world-u20-champions",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/27/16b6bd90-a5ee-4b04-bd61-9497bc49c92d/WhatsApp-Image-2026-09-27-at-21.25.56.jpeg",
-      "localImage": "assets/news/4582725.jpg"
     }
   ]
 }
