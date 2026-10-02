@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:40:19.875Z",
+  "updatedAt": "2026-10-02T22:56:48.611Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
@@ -9,7 +9,7 @@
       "title": "Classic European matchup for Kounde",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -17,11 +17,23 @@
       "localImage": "assets/news/4580541.jpg"
     },
     {
+      "id": "4585738",
+      "title": "Raphinha, Liga MVP for September",
+      "description": "Brazilian wins the award for the second time in a row",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-02",
+      "dateLabel": "October 02",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585738/raphinha-liga-player-of-the-month-for-september",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/c795debd-c96d-4daf-88b5-41a0d456335e/_MGA5369.jpg",
+      "localImage": "assets/news/4585738.jpg"
+    },
+    {
       "id": "4585245",
       "title": "Mobility and accessibility for FC Barcelona v Real Madrid",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4585245/mobility-and-accessibility-for-fc-barcelona-v-real-madrid",
@@ -33,7 +45,7 @@
       "title": "Barça 33-42 Veszprém: Overcome in the final",
       "description": "Barça fail to retain their Club World Championship title after being on the back foot for most of the final / Photos: IHF / Kolektiff / Jozo Cabraja",
       "category": "Handball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 01 Oct 26",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4585274/barca-33-42-veszprem-overcome-in-the-final",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581481/one-win-away-from-best-ever-start-to-laliga",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/02764d52-c3c3-48f7-bd48-8c79b643713f/DAG-078-_M1A0875.jpg",
       "localImage": "assets/news/4581481.jpg"
-    },
-    {
-      "id": "4582926",
-      "title": "Barça Foundation launches Charitable Legacy campaign",
-      "description": "The initiative is based on a campaign film that speaks to the deepest emotions of Barça supporters and invites fans to transform their passion for Barça into a legacy of solidarity",
-      "category": "",
-      "relativeTime": "Published date 28 Sep 26",
-      "publishedDate": "2026-09-28",
-      "dateLabel": "September 28",
-      "source": "https://www.fcbarcelona.com/en/news/4582926/barca-foundation-launches-a-campaign-to-promote-its-charitable-legacy-and-turn-barca-passion-into-a-legacy-that-transforms-lives",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/f2a60254-18cd-4798-b9cd-3d566427e6ca/FCB_ESPAN-OL.00_01_02_01.Imagen-fija002.png",
-      "localImage": "assets/news/4582926.png"
     }
   ]
 }
