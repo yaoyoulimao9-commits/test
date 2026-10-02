@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-02T00:10:56.155Z",
+  "generatedAt": "2026-10-02T06:09:15.562Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Two wins as Cancelo scores stunner",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/club/news/4585252/fc-barcelona-statement",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Cancelo goal against Racing, best of the month",
       "description": "Portuguese fullback receives award for his stunning strike from outside the area against Racing de Santander at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585128/cancelo-goal-against-racing-best-of-the-month",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Exciting October in store",
       "description": "Getafe, Galatasaray, Betis, PSG, Real Madrid and Alavés all coming up in a busy month at home and abroad",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-01",
       "dateLabel": "October 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584325/big-games-coming-up-in-october",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4582725.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-02T00:10:56.155Z",
+  "newsUpdatedAt": "2026-10-02T06:09:15.562Z",
   "archive": {}
 };
