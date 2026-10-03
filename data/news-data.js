@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-03T17:35:34.945Z",
+  "updatedAt": "2026-10-03T20:12:11.197Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4580541",
+      "title": "Two more games for blaugranes",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-03",
+      "dateLabel": "October 03",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/f6907416-c0a4-41b7-90fb-f1637f2c67d3/DAG-165-_M1A1131.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4586127",
+      "title": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
+      "description": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-03",
+      "dateLabel": "October 03",
+      "source": "https://www.fcbarcelona.com/en/club/news/4586127/fc-barcelona-statement",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/fb175477-d779-49b3-a611-38a2637cfb25/foto-comunicat-web.jpg",
+      "localImage": "assets/news/4586127.jpg"
+    },
     {
       "id": "4586123",
       "title": "FC Barcelona Statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Final blaugrana duel of the international break",
       "description": "A Croatia squad containing Dominik Livaković faces Anthony Gordon's England in the third round of fixtures for both teams in the UEFA Nations League",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585817/final-blaugrana-duel-of-the-international-break",
@@ -27,23 +51,11 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4585817.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Two more games for blaugranes",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
-      "publishedDate": "2026-10-03",
-      "dateLabel": "October 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/f6907416-c0a4-41b7-90fb-f1637f2c67d3/DAG-165-_M1A1131.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4585785",
       "title": "Besiktas 82-95 Barça: Turkish delight",
       "description": "Aleksander Sekulić's side claim a convincing win on EuroLeague Matchday 3.",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 02 Oct 26",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4585785/besiktas-82-95-barca-turkish-delight",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha, Liga MVP for September",
       "description": "Brazilian wins the award for the second time in a row",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 02 Oct 26",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585738/raphinha-liga-player-of-the-month-for-september",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583548/hansi-flick-liga-coach-of-the-month-for-september",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg",
       "localImage": "assets/news/4583548.jpg"
-    },
-    {
-      "id": "4583523",
-      "title": "Exclusive access to seven EuroLeague games",
-      "description": "Deal for matches against Zalgiris, Olympiacos, Red Star, Besiktas, Hapoel Tel Aviv, Panathinaikos and Partizan.",
-      "category": "",
-      "relativeTime": "Published date 29 Sep 26",
-      "publishedDate": "2026-09-29",
-      "dateLabel": "September 29",
-      "source": "https://www.fcbarcelona.com/en/news/4583523/exclusive-access-for-members-to-seven-euroleague-games-at-the-palau-blaugrana",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/0bdde725-548f-46ba-85e7-e430629bbde7/2609_SECC_BSK_Partits_Exclusius_SocisDigital_1920x1080_01_ENG.jpg",
-      "localImage": "assets/news/4583523.jpg"
     }
   ]
 };
