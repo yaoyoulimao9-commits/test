@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T22:56:48.611Z",
+  "updatedAt": "2026-10-03T01:54:00.172Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
       "id": "4580541",
-      "title": "Classic European matchup for Kounde",
+      "title": "Kounde sits out France draw",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -17,11 +17,23 @@
       "localImage": "assets/news/4580541.jpg"
     },
     {
+      "id": "4585785",
+      "title": "Besiktas 82-95 Barça: Turkish delight",
+      "description": "Aleksander Sekulić's side claim a convincing win on EuroLeague Matchday 3.",
+      "category": "Basketball",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-02",
+      "dateLabel": "October 02",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4585785/besiktas-82-95-barca-turkish-delight",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/9b6b8330-c93c-4542-8a58-a670617138d9/EOB_7744_ftVl2Nce_20261002081544.jpg.jpeg",
+      "localImage": "assets/news/4585785.jpg"
+    },
+    {
       "id": "4585738",
       "title": "Raphinha, Liga MVP for September",
       "description": "Brazilian wins the award for the second time in a row",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585738/raphinha-liga-player-of-the-month-for-september",
@@ -33,7 +45,7 @@
       "title": "Mobility and accessibility for FC Barcelona v Real Madrid",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4585245/mobility-and-accessibility-for-fc-barcelona-v-real-madrid",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583000/7-2-win-against-racing-best-moment-from-september",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/fec78abc-8466-416a-b5b7-d7283f854741/_MGA7382.jpg",
       "localImage": "assets/news/4583000.jpg"
-    },
-    {
-      "id": "4581481",
-      "title": "One win away from best ever start to LaLiga",
-      "description": "After the lengthy international break, FC Barcelona will host Getafe with the chance to equal the record set in the 2013/14 season",
-      "category": "First Team",
-      "relativeTime": "Published date 28 Sep 26",
-      "publishedDate": "2026-09-28",
-      "dateLabel": "September 28",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4581481/one-win-away-from-best-ever-start-to-laliga",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/24/02764d52-c3c3-48f7-bd48-8c79b643713f/DAG-078-_M1A0875.jpg",
-      "localImage": "assets/news/4581481.jpg"
     }
   ]
 }
