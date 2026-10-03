@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-03T20:12:11.203Z",
+  "generatedAt": "2026-10-03T23:18:54.834Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6348,14 +6348,14 @@ window.BARCA_DATA = {
   "news": [
     {
       "id": "4580541",
-      "title": "Two more games for blaugranes",
+      "title": "Goals for Lamine, Rodri and Gordon",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/f6907416-c0a4-41b7-90fb-f1637f2c67d3/DAG-165-_M1A1131.jpg",
+      "sourceImage": "",
       "localImage": "assets/news/4580541.jpg"
     },
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
       "description": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586127/fc-barcelona-statement",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona Statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Final blaugrana duel of the international break",
       "description": "A Croatia squad containing Dominik Livaković faces Anthony Gordon's England in the third round of fixtures for both teams in the UEFA Nations League",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585817/final-blaugrana-duel-of-the-international-break",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4583548.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-03T20:12:11.203Z",
+  "newsUpdatedAt": "2026-10-03T23:18:54.834Z",
   "archive": {}
 };
