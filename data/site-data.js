@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-03T13:19:41.835Z",
+  "generatedAt": "2026-10-03T17:35:34.950Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4586123",
+      "title": "FC Barcelona Statement",
+      "description": "",
+      "category": "Club",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-03",
+      "dateLabel": "October 03",
+      "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/11/06/9fc40dea-21b8-46f3-bc01-28050c38c931/comunicat.jpg",
+      "localImage": "assets/news/4586123.jpg"
+    },
+    {
       "id": "4585817",
       "title": "Final blaugrana duel of the international break",
       "description": "A Croatia squad containing Dominik Livaković faces Anthony Gordon's England in the third round of fixtures for both teams in the UEFA Nations League",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585817/final-blaugrana-duel-of-the-international-break",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Two more games for blaugranes",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Besiktas 82-95 Barça: Turkish delight",
       "description": "Aleksander Sekulić's side claim a convincing win on EuroLeague Matchday 3.",
       "category": "Basketball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4585785/besiktas-82-95-barca-turkish-delight",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Raphinha, Liga MVP for September",
       "description": "Brazilian wins the award for the second time in a row",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585738/raphinha-liga-player-of-the-month-for-september",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4583523/exclusive-access-for-members-to-seven-euroleague-games-at-the-palau-blaugrana",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/0bdde725-548f-46ba-85e7-e430629bbde7/2609_SECC_BSK_Partits_Exclusius_SocisDigital_1920x1080_01_ENG.jpg",
       "localImage": "assets/news/4583523.jpg"
-    },
-    {
-      "id": "4583200",
-      "title": "Blaugrana clash in Seville",
-      "description": "The six Barça players called up by Spain face Dominik Livaković’s Croatia at the Ramón Sánchez-Pizjuán (8.45pm).",
-      "category": "First Team",
-      "relativeTime": "Published date 29 Sep 26",
-      "publishedDate": "2026-09-29",
-      "dateLabel": "September 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4583200/blaugrana-clash-in-seville",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/28/65d60d4c-f655-41f7-8b26-b138b350fd23/_MGA0381.jpg",
-      "localImage": "assets/news/4583200.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-03T13:19:41.835Z",
+  "newsUpdatedAt": "2026-10-03T17:35:34.950Z",
   "archive": {}
 };
