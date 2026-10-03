@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-03T01:54:00.176Z",
+  "generatedAt": "2026-10-03T08:01:49.795Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Kounde sits out France draw",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Besiktas 82-95 Barça: Turkish delight",
       "description": "Aleksander Sekulić's side claim a convincing win on EuroLeague Matchday 3.",
       "category": "Basketball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4585785/besiktas-82-95-barca-turkish-delight",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Raphinha, Liga MVP for September",
       "description": "Brazilian wins the award for the second time in a row",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585738/raphinha-liga-player-of-the-month-for-september",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for FC Barcelona v Real Madrid",
       "description": "Club recommends arriving at Spotify Camp Nou in plenty of time and travelling on foot or by public transport whenever possible",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 02 Oct 26",
       "publishedDate": "2026-10-02",
       "dateLabel": "October 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4585245/mobility-and-accessibility-for-fc-barcelona-v-real-madrid",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4583000.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-03T01:54:00.176Z",
+  "newsUpdatedAt": "2026-10-03T08:01:49.795Z",
   "archive": {}
 };
