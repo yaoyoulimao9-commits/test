@@ -1,32 +1,68 @@
 {
-  "updatedAt": "2026-10-04T18:46:44.593Z",
+  "updatedAt": "2026-10-04T22:18:59.761Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4580541",
+      "title": "Cancelo scores again",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-04",
+      "dateLabel": "October 04",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/36227dde-4fb3-41a8-ab7a-22072df81744/DAG-429-_M1A3800.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
+      "id": "4586518",
+      "title": "Barça 7-0 Real Madrid: Classic stuff",
+      "description": "Outstanding Clàudia Pina leads a seven-goal rout at Spotify Camp Nou",
+      "category": "Women",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-04",
+      "dateLabel": "October 04",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586518/barca-7-0-real-madrid-classic-stuff",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/a53ac6bf-ab5a-4ff6-aad7-8b6952004659/_5DS1003-2-2.jpg",
+      "localImage": "assets/news/4586518.jpg"
+    },
+    {
+      "id": "4586517",
+      "title": "UCAM Murcia 100-94 Barça: First ACB loss",
+      "description": "Defeat in the domestic competition brings a week of three away games to a close",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-04",
+      "dateLabel": "October 04",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586517/ucam-murcia-100-94-barca-first-acb-loss",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/51b1b0ba-ab96-4fb5-bafe-8a819be469bc/RS942033_.jpg",
+      "localImage": "assets/news/4586517.jpg"
+    },
+    {
+      "id": "4586507",
+      "title": "Tudelano 1-2 Barça Atlètic: Splendid comeback",
+      "description": "Two second-half goals turn the game around after the Barça reserves had trailed at the break at the Ciudad de Tudela, keeping the blaugranes top of the table",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-04",
+      "dateLabel": "October 04",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4586507/tudelano-1-2-barca-atletic-splendid-comeback",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/b56ce220-63ed-40ea-a298-07879bced8c7/DSC02057.jpg",
+      "localImage": "assets/news/4586507.jpg"
+    },
+    {
       "id": "4586391",
       "title": "CLÁSICO PREVIEW | Barça V Real Madrid",
       "description": "The first women's Barça v Real Madrid fixture this season is at the Spotify Camp Nou, with kick-off now at 7.00pm CEST",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586391/clasico-preview-barcelona-v-real-madrid",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/0e71107c-8a8a-4449-aa64-4e84f7ad4136/_GP11630.jpg",
       "localImage": "assets/news/4586391.jpg"
-    },
-    {
-      "id": "4580541",
-      "title": "Hamza and Cancelo back in action",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
-      "publishedDate": "2026-10-04",
-      "dateLabel": "October 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/f5765e09-8106-4768-a7dc-5a797d847a05/_MGA2343-1-.jpg",
-      "localImage": "assets/news/4580541.jpg"
     },
     {
       "id": "4586126",
@@ -183,42 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4584478/as-roma-0-6-fc-barcelona-big-win-ahead-of-the-clasico",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/30/a58da3b8-bc36-4c5e-9efa-9b00b466ed5b/_GP10624.jpg",
       "localImage": "assets/news/4584478.jpg"
-    },
-    {
-      "id": "4584279",
-      "title": "Spectacular September",
-      "description": "Incredible month brings nine goals and seven assists following a stunning display against Croatia",
-      "category": "First Team",
-      "relativeTime": "Published date 30 Sep 26",
-      "publishedDate": "2026-09-30",
-      "dateLabel": "September 30",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4584279/spectacular-september-for-lamine-yamal",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/09/ae654665-d2fc-4873-b0de-f3f61a0f5d77/_MGA6025.jpg",
-      "localImage": "assets/news/4584279.jpg"
-    },
-    {
-      "id": "4583725",
-      "title": "UWCL PREVIEW | Roma v Barça",
-      "description": "First road trip of the campaign is to the Italian capital with Van Asten and the U20 world champions back in the squad",
-      "category": "Women",
-      "relativeTime": "Published date 29 Sep 26",
-      "publishedDate": "2026-09-29",
-      "dateLabel": "September 29",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4583725/uwcl-preview-as-roma-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/69780a0b-ecbd-42a6-b94f-de890ca6ab1e/_GP10128-2.jpg",
-      "localImage": "assets/news/4583725.jpg"
-    },
-    {
-      "id": "4583732",
-      "title": "Dubai Basketball 94-87 FC Barcelona: Honourable defeat",
-      "description": "Barça battle all the way but a poor second quarter brings a first defeat in European competition",
-      "category": "Basketball",
-      "relativeTime": "Published date 29 Sep 26",
-      "publishedDate": "2026-09-29",
-      "dateLabel": "September 29",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4583732/dubai-basketball-94-87-fc-barcelona-honourable-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/a2f204f1-71ce-49a4-bc0e-bdd55b4b6228/29.09.26_EUR_JF_3082_PevWYTtE_20260929082841.jpg",
-      "localImage": "assets/news/4583732.jpg"
     }
   ]
 }
