@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-04T09:41:02.636Z",
+  "generatedAt": "2026-10-04T15:19:32.629Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "CLÁSICO PREVIEW | Barça V Real Madrid",
       "description": "The first women's Barça v Real Madrid fixture this season is at the Spotify Camp Nou, with kick-off now at 7.00pm CEST",
       "category": "Women",
-      "relativeTime": "Published date 41 Mins ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586391/clasico-preview-barcelona-v-real-madrid",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Hamza and Cancelo back in action",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Back on the winning trail (46-31)",
       "description": "Blaugranes put the defeat against Veszprém behind them with a big win at the Palau and the fourth in five in the Liga Asobal",
       "category": "Handball",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4586126/barca-46-31-horneo-alicante-back-on-the-winning-trail",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "The women’s Clásico will be played on Sunday at 7.00pm at Spotify Camp Nou",
       "description": "The women’s Clásico will be played on Sunday at 7.00pm at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586127/fc-barcelona-statement",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona Statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4583732.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-04T09:41:02.636Z",
+  "newsUpdatedAt": "2026-10-04T15:19:32.629Z",
   "archive": {}
 };
