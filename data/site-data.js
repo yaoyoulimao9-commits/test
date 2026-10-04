@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-03T23:18:54.834Z",
+  "generatedAt": "2026-10-04T02:51:05.961Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Goals for Lamine, Rodri and Gordon",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
       "description": "The women’s Clásico will be played tomorrow at 7.00pm at Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586127/fc-barcelona-statement",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona Statement",
       "description": "",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Final blaugrana duel of the international break",
       "description": "A Croatia squad containing Dominik Livaković faces Anthony Gordon's England in the third round of fixtures for both teams in the UEFA Nations League",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-03",
       "dateLabel": "October 03",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585817/final-blaugrana-duel-of-the-international-break",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4583548.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-03T23:18:54.834Z",
+  "newsUpdatedAt": "2026-10-04T02:51:05.961Z",
   "archive": {}
 };
