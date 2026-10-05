@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-04T22:18:59.766Z",
+  "generatedAt": "2026-10-05T01:15:28.041Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Cancelo scores again",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,11 +6363,11 @@ window.BARCA_DATA = {
       "title": "Barça 7-0 Real Madrid: Classic stuff",
       "description": "Outstanding Clàudia Pina leads a seven-goal rout at Spotify Camp Nou",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586518/barca-7-0-real-madrid-classic-stuff",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/a53ac6bf-ab5a-4ff6-aad7-8b6952004659/_5DS1003-2-2.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/cc6ffbaf-afd0-4219-b46c-4b493269f8fd/_5DS1003-2-2.jpg",
       "localImage": "assets/news/4586518.jpg"
     },
     {
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "UCAM Murcia 100-94 Barça: First ACB loss",
       "description": "Defeat in the domestic competition brings a week of three away games to a close",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586517/ucam-murcia-100-94-barca-first-acb-loss",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Tudelano 1-2 Barça Atlètic: Splendid comeback",
       "description": "Two second-half goals turn the game around after the Barça reserves had trailed at the break at the Ciudad de Tudela, keeping the blaugranes top of the table",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4586507/tudelano-1-2-barca-atletic-splendid-comeback",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "CLÁSICO PREVIEW | Barça V Real Madrid",
       "description": "The first women's Barça v Real Madrid fixture this season is at the Spotify Camp Nou, with kick-off now at 7.00pm CEST",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586391/clasico-preview-barcelona-v-real-madrid",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4584478.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-04T22:18:59.766Z",
+  "newsUpdatedAt": "2026-10-05T01:15:28.041Z",
   "archive": {}
 };
