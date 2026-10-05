@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-05T17:05:59.366Z",
+  "generatedAt": "2026-10-05T23:09:44.223Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4580541",
+      "title": "Late comeback for France",
+      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-05",
+      "dateLabel": "October 05",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/3fde2e83-f0b1-49a2-b04f-d38be38c5a15/_MGA5737.jpg",
+      "localImage": "assets/news/4580541.jpg"
+    },
+    {
       "id": "4586995",
       "title": "Cubarsí, Bernal and Espart, Golden Boy finalists",
       "description": "The three young talents in contention for an award that Barça have won in three of the last five seasons",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586995/cubarsi-bernal-and-xavi-espart-among-25-golden-boy-finalists",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Laporta to attend EuroLeague meeting",
       "description": "Barça president will attend Tuesday’s meeting in Como of the clubs that own European basketball’s top competition",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586972/joan-laporta-to-lead-barca-delegation-at-euroleague-meeting",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "The creator of Captain Tsubasa visits FC Barcelona",
       "description": "Yoichi Takahashi met Joan Soler, vice president of the commercial area in a visit that included a trip to the Musuem and Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4586855/the-creator-of-captain-tsubasa-visits-fc-barcelona",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Back at work",
       "description": "Barça return to training with sights set on Saturday’s game against Getafe",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586808/back-at-work",
@@ -6395,23 +6407,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4586808.jpg"
     },
     {
-      "id": "4580541",
-      "title": "Kounde's turn",
-      "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/3fde2e83-f0b1-49a2-b04f-d38be38c5a15/_MGA5737.jpg",
-      "localImage": "assets/news/4580541.jpg"
-    },
-    {
       "id": "4586753",
       "title": "Records from a Clásico for the ages",
       "description": "Sunday's game with Real Madrid will go down in the FC Barcelona annals",
       "category": "Women",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586753/records-from-a-clasico-for-the-ages",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça Vision Lab, the new Web3 fan experience",
       "description": "Developed with Andamio on Cardano technology, the project lets fans explore FC Barcelona's history and values, join community activities and earn verifiable digital credentials",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4586745/barca-vision-launches-barca-vision-lab-a-new-web3-experience-connecting-the-club-with-the-fans",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Barça 7-0 Real Madrid: Classic stuff",
       "description": "Outstanding Clàudia Pina leads a seven-goal rout at Spotify Camp Nou",
       "category": "Women",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 04 Oct 26",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586518/barca-7-0-real-madrid-classic-stuff",
@@ -6447,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "UCAM Murcia 100-94 Barça: First ACB loss",
       "description": "Defeat in the domestic competition brings a week of three away games to a close",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 04 Oct 26",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586517/ucam-murcia-100-94-barca-first-acb-loss",
@@ -6459,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Tudelano 1-2 Barça Atlètic: Splendid comeback",
       "description": "Two second-half goals turn the game around after the Barça reserves had trailed at the break at the Ciudad de Tudela, keeping the blaugranes top of the table",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 04 Oct 26",
       "publishedDate": "2026-10-04",
       "dateLabel": "October 04",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4586507/tudelano-1-2-barca-atletic-splendid-comeback",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4585245.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-05T17:05:59.366Z",
+  "newsUpdatedAt": "2026-10-05T23:09:44.223Z",
   "archive": {}
 };
