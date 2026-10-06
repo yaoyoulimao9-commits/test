@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-06T10:45:33.670Z",
+  "generatedAt": "2026-10-06T17:09:41.671Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4587049",
+      "title": "Pina, Liga F MVP for September",
+      "description": "FC Barcelona star scored four goals and gave three assists in three games last month",
+      "category": "Women",
+      "relativeTime": "Published date 8 Mins ago",
+      "publishedDate": "2026-10-06",
+      "dateLabel": "October 06",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4587049/claudia-pina-liga-f-mvp-for-september",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/b1dee665-858f-488a-ac08-f10b7224f607/WhatsApp-Image-2026-10-05-at-17.48.49.jpeg",
+      "localImage": "assets/news/4587049.jpg"
+    },
+    {
+      "id": "4587439",
+      "title": "'I bring a winning mindset'",
+      "description": "",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-06",
+      "dateLabel": "October 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587439/gabriel-jesus-i-bring-directness-and-a-winning-mindset-to-the-team",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/d9c648af-a556-4b06-8ea0-595d2ffe6739/_MGA2291.jpg",
+      "localImage": "assets/news/4587439.jpg"
+    },
+    {
+      "id": "4587299",
+      "title": "New faces at training",
+      "description": "Frenkie de Jong completes part of the session with the group, and Adeyemi and Hamza both back from the international break",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-06",
+      "dateLabel": "October 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/44e60327-a62c-438b-b918-128893490106/_MGA2102.jpg",
+      "localImage": "assets/news/4587299.jpg"
+    },
+    {
       "id": "4580541",
       "title": "Last day of internationals",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 54 Mins ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PreZero to make Spotify Camp Nou ‘Zero Waste’",
       "description": "Environmental services company becomes a new Espai Barça sponsor, helping make FC Barcelona a European leader in large-scale waste management at major sporting events",
       "category": "Club",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/club/news/4587264/prezero-to-turn-spotify-camp-nou-and-ciutat-esportiva-joan-gamper-into-zero-waste-facilities",
@@ -6371,23 +6407,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4587264.jpg"
     },
     {
-      "id": "4586873",
-      "title": "This Tuesday, Gabriel Jesus on YouTube",
-      "description": "Members of Barça’s YouTube community can ask the Brazilian striker anything they want",
-      "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
-      "publishedDate": "2026-10-06",
-      "dateLabel": "October 06",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586873/this-tuesday-gabriel-jesus-on-fc-barcelonas-youtube-channel",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/24836274-ec65-4eae-8a40-88ec8fb92e87/3200x2000_Live_Q-A.jpg",
-      "localImage": "assets/news/4586873.jpg"
-    },
-    {
       "id": "4587253",
       "title": "Football for hope",
       "description": "Barça Academy Fukuoka's Kumamoto Smile Match a huge success",
       "category": "",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/news/4587253/football-for-hope",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Cubarsí, Bernal and Espart, Golden Boy finalists",
       "description": "The three young talents in contention for an award that Barça have won in three of the last five seasons",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 05 Oct 26",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586995/cubarsi-bernal-and-xavi-espart-among-25-golden-boy-finalists",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Laporta to attend EuroLeague meeting",
       "description": "Barça president will attend Tuesday’s meeting in Como of the clubs that own European basketball’s top competition",
       "category": "Basketball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 05 Oct 26",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586972/joan-laporta-to-lead-barca-delegation-at-euroleague-meeting",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "The creator of Captain Tsubasa visits FC Barcelona",
       "description": "Yoichi Takahashi met Joan Soler, vice president of the commercial area in a visit that included a trip to the Musuem and Spotify Camp Nou",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 05 Oct 26",
       "publishedDate": "2026-10-05",
       "dateLabel": "October 05",
       "source": "https://www.fcbarcelona.com/en/club/news/4586855/the-creator-of-captain-tsubasa-visits-fc-barcelona",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4586127/fc-barcelona-statement",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/01/fb175477-d779-49b3-a611-38a2637cfb25/foto-comunicat-web.jpg",
       "localImage": "assets/news/4586127.jpg"
-    },
-    {
-      "id": "4586123",
-      "title": "FC Barcelona Statement",
-      "description": "",
-      "category": "Club",
-      "relativeTime": "Published date 03 Oct 26",
-      "publishedDate": "2026-10-03",
-      "dateLabel": "October 03",
-      "source": "https://www.fcbarcelona.com/en/club/news/4586123/fc-barcelona-statement",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/11/06/9fc40dea-21b8-46f3-bc01-28050c38c931/comunicat.jpg",
-      "localImage": "assets/news/4586123.jpg"
-    },
-    {
-      "id": "4585817",
-      "title": "Final blaugrana duel of the international break",
-      "description": "A Croatia squad containing Dominik Livaković faces Anthony Gordon's England in the third round of fixtures for both teams in the UEFA Nations League",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Oct 26",
-      "publishedDate": "2026-10-03",
-      "dateLabel": "October 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4585817/final-blaugrana-duel-of-the-international-break",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/02/c481eb7f-6ab2-4ff8-a522-0e0b8108660b/DAG-421-_M1A9900.jpg",
-      "localImage": "assets/news/4585817.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-06T10:45:33.670Z",
+  "newsUpdatedAt": "2026-10-06T17:09:41.671Z",
   "archive": {}
 };
