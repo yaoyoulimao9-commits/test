@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-07T01:30:36.846Z",
+  "generatedAt": "2026-10-07T07:42:12.858Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Final international fixtures conclude",
       "description": "A guide to how the blaugranes fare with their national sides across the first international break of the season",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Big win for the blaugranes (1-6)",
       "description": "A great attacking performance earns the victory in the Frit Ravich Lliga Catalana group stage matchday two game",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4587514/ch-lloret-1-6-barca-big-win-for-the-blaugranes",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Pina, Liga F MVP for September",
       "description": "FC Barcelona star scored four goals and gave three assists in three games last month",
       "category": "Women",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4587049/claudia-pina-liga-f-mvp-for-september",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "'I bring a winning mindset'",
       "description": "",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587439/gabriel-jesus-i-bring-directness-and-a-winning-mindset-to-the-team",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "New faces at training",
       "description": "Frenkie de Jong completes part of the session with the group, and Adeyemi and Hamza both back from the international break",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PreZero to make Spotify Camp Nou ‘Zero Waste’",
       "description": "Environmental services company becomes a new Espai Barça sponsor, helping make FC Barcelona a European leader in large-scale waste management at major sporting events",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/club/news/4587264/prezero-to-turn-spotify-camp-nou-and-ciutat-esportiva-joan-gamper-into-zero-waste-facilities",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Football for hope",
       "description": "Barça Academy Fukuoka's Kumamoto Smile Match a huge success",
       "category": "",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-06",
       "dateLabel": "October 06",
       "source": "https://www.fcbarcelona.com/en/news/4587253/football-for-hope",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4586126.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-07T01:30:36.846Z",
+  "newsUpdatedAt": "2026-10-07T07:42:12.858Z",
   "archive": {}
 };
