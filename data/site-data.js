@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-08T00:56:46.112Z",
+  "generatedAt": "2026-10-08T07:17:55.522Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Pedro Rodríguez announces retirement",
       "description": "Former Barça striker calls time on a top-level career after leaving an indelible mark on the club",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587927/pedro-rodriguez-announces-retirement",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Busy weeks for the penyes",
       "description": "FC Barcelona's official penyes made the most of the international break, holding more than 25 events, including three 50th anniversaries, the 20th Castilla y León Penyes Meeting and five other anniversary celebrations.",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/news/4587923/busy-weeks-for-the-penyes",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "More international players return",
       "description": "Kounde, Bernal, Espart and Cancelo are back whilst Joan Garcia trained with the squad and Frenkie de Jong completed part of the session",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587842/more-international-players-return",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Getafe",
       "description": "Global viewing guide to the first game following the international break",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587851/when-and-where-to-watch-fc-barcelona-v-getafe",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Tickets for Sabah v FC Barcelona available for penyes",
       "description": "Tickets for the trip to Baku cost €7.50 and can be requested until 11.59pm CEST on 14 October",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/news/4587812/tickets-for-sabah-v-fc-barcelona-uefa-champions-league-match-available-for-penyes",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Emotional farewell for Leo Messi with Argentina",
       "description": "The man who has scored more goals, made most appearances and won most honours with Barça make his final bow with the national team",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587673/emotional-farewell-for-leo-messi-with-argentina",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4586753.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-08T00:56:46.112Z",
+  "newsUpdatedAt": "2026-10-08T07:17:55.522Z",
   "archive": {}
 };
