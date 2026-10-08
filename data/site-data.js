@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-08T07:17:55.522Z",
+  "generatedAt": "2026-10-08T14:54:27.402Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,15 +6347,75 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4588657",
+      "title": "All internationals back in training",
+      "description": "Hansi Flick now has all his players back after their national side commitments",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588657/all-internationals-back-in-training",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/08/73ff8caa-b118-4258-95a2-89188254db17/WhatsApp-Image-2026-10-08-at-12.51.06.jpeg",
+      "localImage": "assets/news/4588657.jpg"
+    },
+    {
+      "id": "4588149",
+      "title": "Four live streams on Barça Play on Saturday 10 October",
+      "description": "The U14, U15 and Barça Atlètic matches can be watched live via the Club website, app and YouTube channel",
+      "category": "Club",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/club/news/4588149/four-live-streams-on-barca-play-on-saturday-10-october",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/f867dd91-a8d7-44e0-ab0d-1fc7c34c8e14/2026-09-26_FCBATLETICvsPENYASPORT_082.JPG",
+      "localImage": "assets/news/4588149.jpg"
+    },
+    {
+      "id": "4588557",
+      "title": "Special typeface for each kit",
+      "description": "Barça to bear a different design on each of three kits for the 26/27 season with an innovative and unique style",
+      "category": "Club",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/club/news/4588557/special-typeface-for-each-kit",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/08/96a778dc-bf38-413f-8a70-59121f694c26/ORI-COMPOSICI-N-CAMISETAS-LAMINE-CUARS-RAPHINHA-1-copia.png",
+      "localImage": "assets/news/4588557.jpg"
+    },
+    {
+      "id": "4588452",
+      "title": "Thanks to you all, we've reached 110,000!",
+      "description": "To celebrate surpassing 110,000 registered supporters and thank all Official Penyes for their dedication, FC Barcelona is launching a special draw with an exclusive reward for one lucky penya.",
+      "category": "",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/news/4588452/thanks-to-you-all-weve-reached-110000",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/04/30/9520108f-16c6-452c-a78c-862dccd1cbf5/2604_Penyistes_100K_Web_Hero_3200x2000_01_CAT.jpg",
+      "localImage": "assets/news/4588452.jpg"
+    },
+    {
+      "id": "4588143",
+      "title": "Five things about Barça v Getafe",
+      "description": "We take a look at the various stats and peculiarities surrounding the LaLiga matchday eight fixture between the sides",
+      "category": "First Team",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/e33b951b-4310-4ef8-b161-13e7ffebda11/_MGA3782.webp",
+      "localImage": "assets/news/4588143.png"
+    },
+    {
       "id": "4587927",
       "title": "Pedro Rodríguez announces retirement",
       "description": "Former Barça striker calls time on a top-level career after leaving an indelible mark on the club",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587927/pedro-rodriguez-announces-retirement",
-      "sourceImage": "",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/4ffe39b9-30e5-4735-9275-30b54cf0a92f/FOTOS-PEDRO-26.jpg",
       "localImage": "assets/news/4587927.jpg"
     },
     {
@@ -6363,11 +6423,11 @@ window.BARCA_DATA = {
       "title": "Busy weeks for the penyes",
       "description": "FC Barcelona's official penyes made the most of the international break, holding more than 25 events, including three 50th anniversaries, the 20th Castilla y León Penyes Meeting and five other anniversary celebrations.",
       "category": "",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/news/4587923/busy-weeks-for-the-penyes",
-      "sourceImage": "",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/b4a50b78-71d3-43f8-ae29-6e71437c216f/WhatsApp-Image-2026-10-05-at-09.33.13-1-.jpeg",
       "localImage": "assets/news/4587923.jpg"
     },
     {
@@ -6375,11 +6435,11 @@ window.BARCA_DATA = {
       "title": "More international players return",
       "description": "Kounde, Bernal, Espart and Cancelo are back whilst Joan Garcia trained with the squad and Frenkie de Jong completed part of the session",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587842/more-international-players-return",
-      "sourceImage": "",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/b6302003-522f-4d2c-86e9-19339962e55a/WhatsApp-Image-2026-10-07-at-12.54.28-1-.jpeg",
       "localImage": "assets/news/4587842.jpg"
     },
     {
@@ -6387,11 +6447,11 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Getafe",
       "description": "Global viewing guide to the first game following the international break",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587851/when-and-where-to-watch-fc-barcelona-v-getafe",
-      "sourceImage": "",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/bb4ae590-1466-4842-aed0-78f96526aa8b/3200x2000_Horarios-.png",
       "localImage": "assets/news/4587851.png"
     },
     {
@@ -6399,11 +6459,11 @@ window.BARCA_DATA = {
       "title": "Tickets for Sabah v FC Barcelona available for penyes",
       "description": "Tickets for the trip to Baku cost €7.50 and can be requested until 11.59pm CEST on 14 October",
       "category": "",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 07 Oct 26",
       "publishedDate": "2026-10-07",
       "dateLabel": "October 07",
       "source": "https://www.fcbarcelona.com/en/news/4587812/tickets-for-sabah-v-fc-barcelona-uefa-champions-league-match-available-for-penyes",
-      "sourceImage": "",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/3656b49e-243a-44e8-88d9-762d2a2c7fca/Baku.jpg",
       "localImage": "assets/news/4587812.jpg"
     },
     {
@@ -6501,68 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4587253/football-for-hope",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/123a4a66-788c-4b09-b24e-d3bfe37da65c/DSC_0825.JPG",
       "localImage": "assets/news/4587253.jpg"
-    },
-    {
-      "id": "4586995",
-      "title": "Cubarsí, Bernal and Espart, Golden Boy finalists",
-      "description": "The three young talents in contention for an award that Barça have won in three of the last five seasons",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Oct 26",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586995/cubarsi-bernal-and-xavi-espart-among-25-golden-boy-finalists",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/1e26df66-8a49-4642-b9cc-ebf7cd93a2c0/DAG-170-_M1A2500.jpg",
-      "localImage": "assets/news/4586995.jpg"
-    },
-    {
-      "id": "4586972",
-      "title": "Laporta to attend EuroLeague meeting",
-      "description": "Barça president will attend Tuesday’s meeting in Como of the clubs that own European basketball’s top competition",
-      "category": "Basketball",
-      "relativeTime": "Published date 05 Oct 26",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586972/joan-laporta-to-lead-barca-delegation-at-euroleague-meeting",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/a8629faa-a9d0-489a-9b25-2ef2c8e2d777/LAPORTA-03.jpg",
-      "localImage": "assets/news/4586972.jpg"
-    },
-    {
-      "id": "4586855",
-      "title": "The creator of Captain Tsubasa visits FC Barcelona",
-      "description": "Yoichi Takahashi met Joan Soler, vice president of the commercial area in a visit that included a trip to the Musuem and Spotify Camp Nou",
-      "category": "Club",
-      "relativeTime": "Published date 05 Oct 26",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/club/news/4586855/the-creator-of-captain-tsubasa-visits-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/d11e2a0d-e04c-4463-a59b-5d0af98709e8/IMG-20261005-WA0006.jpg",
-      "localImage": "assets/news/4586855.jpg"
-    },
-    {
-      "id": "4586808",
-      "title": "Back at work",
-      "description": "Barça return to training with sights set on Saturday’s game against Getafe",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Oct 26",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4586808/back-at-work",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/05/20c25ef5-c6da-471e-82ba-c24088fbc5ac/image00002.jpeg",
-      "localImage": "assets/news/4586808.jpg"
-    },
-    {
-      "id": "4586753",
-      "title": "Records from a Clásico for the ages",
-      "description": "Sunday's game with Real Madrid will go down in the FC Barcelona annals",
-      "category": "Women",
-      "relativeTime": "Published date 05 Oct 26",
-      "publishedDate": "2026-10-05",
-      "dateLabel": "October 05",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4586753/records-from-a-clasico-for-the-ages",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/04/5172a5cc-3170-4bc0-aac9-95b1d80729bd/_5DS1307-2.jpg",
-      "localImage": "assets/news/4586753.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-08T07:17:55.522Z",
+  "newsUpdatedAt": "2026-10-08T14:54:27.402Z",
   "archive": {}
 };
