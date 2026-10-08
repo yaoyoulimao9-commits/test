@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-10-08T14:54:27.400Z",
+  "updatedAt": "2026-10-08T20:40:25.805Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4588488",
+      "title": "Xavi Espart renews until 2030",
+      "description": "FC Barcelona and the La Masia player reach agreement to extend his contract",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-08",
+      "dateLabel": "October 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/08/0ca960b7-9e40-4f3d-acf7-a7d012fba730/WhatsApp-Image-2026-10-08-at-10.09.14.jpeg",
+      "localImage": "assets/news/4588488.jpg"
+    },
+    {
       "id": "4588657",
       "title": "All internationals back in training",
       "description": "Hansi Flick now has all his players back after their national side commitments",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588657/all-internationals-back-in-training",
@@ -21,7 +33,7 @@
       "title": "Four live streams on Barça Play on Saturday 10 October",
       "description": "The U14, U15 and Barça Atlètic matches can be watched live via the Club website, app and YouTube channel",
       "category": "Club",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/club/news/4588149/four-live-streams-on-barca-play-on-saturday-10-october",
@@ -33,7 +45,7 @@
       "title": "Special typeface for each kit",
       "description": "Barça to bear a different design on each of three kits for the 26/27 season with an innovative and unique style",
       "category": "Club",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/club/news/4588557/special-typeface-for-each-kit",
@@ -45,7 +57,7 @@
       "title": "Thanks to you all, we've reached 110,000!",
       "description": "To celebrate surpassing 110,000 registered supporters and thank all Official Penyes for their dedication, FC Barcelona is launching a special draw with an exclusive reward for one lucky penya.",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/news/4588452/thanks-to-you-all-weve-reached-110000",
@@ -57,7 +69,7 @@
       "title": "Five things about Barça v Getafe",
       "description": "We take a look at the various stats and peculiarities surrounding the LaLiga matchday eight fixture between the sides",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/club/news/4587264/prezero-to-turn-spotify-camp-nou-and-ciutat-esportiva-joan-gamper-into-zero-waste-facilities",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/14f860df-ddd0-4087-9ba4-38ad18265214/Acord-PREZERO.jpg",
       "localImage": "assets/news/4587264.jpg"
-    },
-    {
-      "id": "4587253",
-      "title": "Football for hope",
-      "description": "Barça Academy Fukuoka's Kumamoto Smile Match a huge success",
-      "category": "",
-      "relativeTime": "Published date 06 Oct 26",
-      "publishedDate": "2026-10-06",
-      "dateLabel": "October 06",
-      "source": "https://www.fcbarcelona.com/en/news/4587253/football-for-hope",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/123a4a66-788c-4b09-b24e-d3bfe37da65c/DSC_0825.JPG",
-      "localImage": "assets/news/4587253.jpg"
     }
   ]
 }
