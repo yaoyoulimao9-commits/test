@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-09T01:10:48.737Z",
+  "generatedAt": "2026-10-09T07:58:49.436Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4588761",
+      "title": "Barça Legends to play Ajax Legends",
+      "description": "First game of the season is a charity match in the Dutch capital",
+      "category": "",
+      "relativeTime": "Published date 43 Mins ago",
+      "publishedDate": "2026-10-09",
+      "dateLabel": "October 09",
+      "source": "https://www.fcbarcelona.com/en/news/4588761/barca-legends-to-play-ajax-legends-at-johan-cruyff-arena",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/08/66171e1b-8c51-44be-8075-3c43440ef1fb/2610_Bar-a_Legends_Partit_Ajax_Amsterdam_Web_Hero_3200x2000_02_ENG.jpg",
+      "localImage": "assets/news/4588761.jpg"
+    },
+    {
       "id": "4588885",
       "title": "Barça 34-27 Dinamo: Third win in Europe",
       "description": "Carlos Ortega’s side lead throughout the match, but have to adapt to the scrappy, stop-start tempo imposed by the Romanians",
       "category": "Handball",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4588885/barca-34-27-dinamo-third-win-in-europe",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart renews until 2030",
       "description": "FC Barcelona and the La Masia player reach agreement to extend his contract",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "All internationals back in training",
       "description": "Hansi Flick now has all his players back after their national side commitments",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588657/all-internationals-back-in-training",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Four live streams on Barça Play on Saturday 10 October",
       "description": "The U14, U15 and Barça Atlètic matches can be watched live via the Club website, app and YouTube channel",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/club/news/4588149/four-live-streams-on-barca-play-on-saturday-10-october",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Special typeface for each kit",
       "description": "Barça to bear a different design on each of three kits for the 26/27 season with an innovative and unique style",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/club/news/4588557/special-typeface-for-each-kit",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Thanks to you all, we've reached 110,000!",
       "description": "To celebrate surpassing 110,000 registered supporters and thank all Official Penyes for their dedication, FC Barcelona is launching a special draw with an exclusive reward for one lucky penya.",
       "category": "",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 08 Oct 26",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/news/4588452/thanks-to-you-all-weve-reached-110000",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Five things about Barça v Getafe",
       "description": "We take a look at the various stats and peculiarities surrounding the LaLiga matchday eight fixture between the sides",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 08 Oct 26",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587439/gabriel-jesus-i-bring-directness-and-a-winning-mindset-to-the-team",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/d9c648af-a556-4b06-8ea0-595d2ffe6739/_MGA2291.jpg",
       "localImage": "assets/news/4587439.jpg"
-    },
-    {
-      "id": "4587299",
-      "title": "New faces at training",
-      "description": "Frenkie de Jong completes part of the session with the group, and Adeyemi and Hamza both back from the international break",
-      "category": "First Team",
-      "relativeTime": "Published date 06 Oct 26",
-      "publishedDate": "2026-10-06",
-      "dateLabel": "October 06",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/06/44e60327-a62c-438b-b918-128893490106/_MGA2102.jpg",
-      "localImage": "assets/news/4587299.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-09T01:10:48.737Z",
+  "newsUpdatedAt": "2026-10-09T07:58:49.436Z",
   "archive": {}
 };
