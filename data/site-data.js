@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-09T15:14:50.361Z",
+  "generatedAt": "2026-10-09T20:18:58.849Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Pedro brings a legendary career to an end",
       "description": "Former Barça player retires aged 39 after a glittering career in which he won almost everything with Barça and Spain",
       "category": "Club",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/club/news/4589300/pedro-rodriguez-brings-a-legendary-career-to-an-end",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'Raphinha not available for Getafe'",
       "description": "German coach discusses various matters ahead of Saturday's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589429/hansi-flick-raphinha-not-available-for-getafe",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Final training session ahead of Barça v Getafe",
       "description": "Hansi Flick had all available first-team players at his disposal for the final training session ahead of Saturday's La Liga fixture",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589422/final-training-session-ahead-of-barca-v-getafe",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Kerolin, the Brazilian spark",
       "description": "The new arrival to the Barça Femení project brings versatility and pace to the team as she explains in an interview with Club media",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4588711/kerolin-the-brazilian-spark",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Mobility and accessibility for FC Barcelona v Getafe",
       "description": "Club recommends arriving at Spotify Camp Nou well in advance and travelling on foot or by public transport wherever possible",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/club/news/4588847/mobility-and-accessibility-for-fc-barcelona-v-getafe",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Legends to play Ajax Legends",
       "description": "First game of the season is a charity match in the Dutch capital",
       "category": "",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/news/4588761/barca-legends-to-play-ajax-legends-at-johan-cruyff-arena",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça 34-27 Dinamo: Third win in Europe",
       "description": "Carlos Ortega’s side lead throughout the match, but have to adapt to the scrappy, stop-start tempo imposed by the Romanians",
       "category": "Handball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4588885/barca-34-27-dinamo-third-win-in-europe",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart renews until 2030",
       "description": "FC Barcelona and the La Masia player reach agreement to extend his contract",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 08 Oct 26",
       "publishedDate": "2026-10-08",
       "dateLabel": "October 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4587812.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-09T15:14:50.361Z",
+  "newsUpdatedAt": "2026-10-09T20:18:58.849Z",
   "archive": {}
 };
