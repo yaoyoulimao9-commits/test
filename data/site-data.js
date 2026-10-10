@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-10T13:01:15.008Z",
+  "generatedAt": "2026-10-10T17:48:50.957Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4590127",
+      "title": "A special build-up",
+      "description": "Pedro took the ceremonial kick-off before the match, while Raphinha and Cancelo were also honoured for their outstanding performances in September",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-10",
+      "dateLabel": "October 10",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590127/a-special-build-up",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/827348cd-1ae8-4549-be57-ea7181a60f77/DAG-028-_C4A6181.jpg",
+      "localImage": "assets/news/4590127.jpg"
+    },
+    {
       "id": "4589922",
       "title": "Barça 2-1 Voltregà: Into the Lliga Catalana Final Four",
       "description": "Ricard Ares’ side beat the Osona team thanks to a Martí Casas brace and an outstanding display from goalkeeper Arnau Martínez, finishing top of their group",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-10",
       "dateLabel": "October 10",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4589922/barca-2-1-cp-voltrega-into-the-lliga-catalana-final-four",
@@ -6363,19 +6375,19 @@ window.BARCA_DATA = {
       "title": "Tribute to Joan Laporta in Sitges",
       "description": "FC Barcelona president's commemorative tile unveiled on the Football Walk of Fame, at Passatge Johan Cruyff 14, at the Camp Municipal d’Aiguadolç",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-10",
       "dateLabel": "October 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4589952/tribute-to-joan-laporta-in-sitges",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/b35adf8f-2b61-4652-ba73-cd3982be319e/LAPORTA-A-SITGES.jpeg",
+      "localImage": "assets/news/4589952.jpg"
     },
     {
       "id": "4589519",
       "title": "Barça squad for visit of Getafe",
       "description": "Hansi Flick has named 22 players for the visit of José Bordalás' team to Spotify Camp Nou in La Liga",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-10",
       "dateLabel": "October 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589519/the-fc-barcelona-squad-for-visit-of-getafe",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Barça v Getafe",
       "description": "After an unusually long international break, football is finally back at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-10",
       "dateLabel": "October 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589547/preview-fc-barcelona-v-getafe",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 81-88 Zalgiris Kaunas: Victory slips away",
       "description": "A poor final quarter sees Sekulic's team lose a 10 point lead to go down to defeat in the Euroleague at the Palau",
       "category": "Basketball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-09",
       "dateLabel": "October 09",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4589625/barca-81-88-zalgiris-kaunas-victory-slips-away",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4588452/thanks-to-you-all-weve-reached-110000",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/04/30/9520108f-16c6-452c-a78c-862dccd1cbf5/2604_Penyistes_100K_Web_Hero_3200x2000_01_CAT.jpg",
       "localImage": "assets/news/4588452.jpg"
-    },
-    {
-      "id": "4588143",
-      "title": "Five things about Barça v Getafe",
-      "description": "We take a look at the various stats and peculiarities surrounding the LaLiga matchday eight fixture between the sides",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Oct 26",
-      "publishedDate": "2026-10-08",
-      "dateLabel": "October 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/07/e33b951b-4310-4ef8-b161-13e7ffebda11/_MGA3782.webp",
-      "localImage": "assets/news/4588143.png"
     }
   ],
-  "newsUpdatedAt": "2026-10-10T13:01:15.008Z",
+  "newsUpdatedAt": "2026-10-10T17:48:50.957Z",
   "archive": {}
 };
