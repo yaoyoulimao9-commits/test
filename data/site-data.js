@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-12T09:06:36.081Z",
+  "generatedAt": "2026-10-12T19:02:10.756Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4591110",
+      "title": "'We need to be careful'",
+      "description": "Catalan centre back with his views ahead of the game with Galatasaray",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-12",
+      "dateLabel": "October 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/568cb987-fb38-4c91-9d8d-6b415872ddc5/_MGA5123.jpg",
+      "localImage": "assets/news/4591110.jpg"
+    },
+    {
+      "id": "4591109",
+      "title": "'One of the best atmospheres'",
+      "description": "German coach with his views ahead of the game with Galatasaray",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-12",
+      "dateLabel": "October 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591109/hansi-flick-one-of-the-best-atmospheres",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/6f4ece61-d99d-477e-b9f1-ce7780ff1cd5/_MGA5197.jpg",
+      "localImage": "assets/news/4591109.jpg"
+    },
+    {
+      "id": "4590569",
+      "title": "Four Turks with a blaugrana past",
+      "description": "FC Barcelona have had two basketball and two football players in their professional teams down the years",
+      "category": "Club",
+      "relativeTime": "Published date 10 hrs ago",
+      "publishedDate": "2026-10-12",
+      "dateLabel": "October 12",
+      "source": "https://www.fcbarcelona.com/en/club/news/4590569/four-turks-with-a-blaugrana-past",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/35de3a34-af49-4c65-b446-c24fbec41b0e/_Jugadors_Turcs_web.jpg",
+      "localImage": "assets/news/4590569.jpg"
+    },
+    {
       "id": "4590653",
       "title": "Squad for trip to Istanbul",
       "description": "Coach Hansi Flick names 22 man list for Match Day 2 of the UEFA Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 89-86 Valencia Basket: Show of character",
       "description": "The blaugranes take the win in a to and fro encounter in the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Galatasaray v Barça",
       "description": "We take a look at TV and kick off times around the world for the blaugranes' first away trip in the Champions League this season",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 11 Oct 26",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590582/when-and-where-to-watch-galatasaray-v-fc-barcelona",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Another league victory (33-40)",
       "description": "The blaugranes win the first of three away games, with Romania and Galicia to come before a return to the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 11 Oct 26",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4590496/tubos-aranda-33-40-barca-another-league-victory",
@@ -6399,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Recovery session with Galatasaray on the horizon",
       "description": "Substitutes against Getafe plus Frenkie de Jong complete a training session, while the starters do recovery work",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 11 Oct 26",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590493/recovery-session-with-galatasaray-on-the-horizon",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589519/the-fc-barcelona-squad-for-visit-of-getafe",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/ad1e67e8-4da0-4d06-b8da-fba7c97d3449/_MGA3203.jpg",
       "localImage": "assets/news/4589519.jpg"
-    },
-    {
-      "id": "4589547",
-      "title": "PREVIEW | Barça v Getafe",
-      "description": "After an unusually long international break, football is finally back at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589547/preview-fc-barcelona-v-getafe",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/178a5ab2-4d3b-48c4-b268-119f85ac0533/IMG_6294.PNG",
-      "localImage": "assets/news/4589547.png"
-    },
-    {
-      "id": "4589625",
-      "title": "Barça 81-88 Zalgiris Kaunas: Victory slips away",
-      "description": "A poor final quarter sees Sekulic's team lose a 10 point lead to go down to defeat in the Euroleague at the Palau",
-      "category": "Basketball",
-      "relativeTime": "Published date 09 Oct 26",
-      "publishedDate": "2026-10-09",
-      "dateLabel": "October 09",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4589625/barca-81-88-zalgiris-kaunas-victory-slips-away",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/81751000-87bc-4b4d-a9f5-63541d7dda5f/2026-10-09_FCBBASQUETvsZALGIRIS_068.JPG",
-      "localImage": "assets/news/4589625.jpg"
-    },
-    {
-      "id": "4589300",
-      "title": "Pedro brings a legendary career to an end",
-      "description": "Former Barça player retires aged 39 after a glittering career in which he won almost everything with Barça and Spain",
-      "category": "Club",
-      "relativeTime": "Published date 09 Oct 26",
-      "publishedDate": "2026-10-09",
-      "dateLabel": "October 09",
-      "source": "https://www.fcbarcelona.com/en/club/news/4589300/pedro-rodriguez-brings-a-legendary-career-to-an-end",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/fbba5e43-2600-42ed-9cb1-25459eab27af/_GP12819.jpg",
-      "localImage": "assets/news/4589300.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-12T09:06:36.081Z",
+  "newsUpdatedAt": "2026-10-12T19:02:10.756Z",
   "archive": {}
 };
