@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-11T22:26:50.890Z",
+  "generatedAt": "2026-10-12T01:44:34.750Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 89-86 Valencia Basket: Show of character",
       "description": "The blaugranes take the win in a to and fro encounter in the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Galatasaray v Barça",
       "description": "We take a look at TV and kick off times around the world for the blaugranes' first away trip in the Champions League this season",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590582/when-and-where-to-watch-galatasaray-v-fc-barcelona",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Another league victory (33-40)",
       "description": "The blaugranes win the first of three away games, with Romania and Galicia to come before a return to the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4590496/tubos-aranda-33-40-barca-another-league-victory",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Recovery session with Galatasaray on the horizon",
       "description": "Substitutes against Getafe plus Frenkie de Jong complete a training session, while the starters do recovery work",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590493/recovery-session-with-galatasaray-on-the-horizon",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça equal best ever league start",
       "description": "The win against Getafe matches 2013/14 campaign with eight wins in first eight games",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590436/fc-barcelona-equal-best-start-to-league-season",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4589429.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-11T22:26:50.890Z",
+  "newsUpdatedAt": "2026-10-12T01:44:34.750Z",
   "archive": {}
 };
