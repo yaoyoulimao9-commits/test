@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-10-12T01:44:34.744Z",
+  "updatedAt": "2026-10-12T09:06:36.076Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4590653",
+      "title": "Squad for trip to Istanbul",
+      "description": "Coach Hansi Flick names 22 man list for Match Day 2 of the UEFA Champions League",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-12",
+      "dateLabel": "October 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/ce7a6e86-f1dc-4342-b61c-11bb6ccf6051/image00011.jpeg",
+      "localImage": "assets/news/4590653.jpg"
+    },
+    {
       "id": "4590611",
       "title": "Barça 89-86 Valencia Basket: Show of character",
       "description": "The blaugranes take the win in a to and fro encounter in the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
@@ -21,7 +33,7 @@
       "title": "When and where to watch Galatasaray v Barça",
       "description": "We take a look at TV and kick off times around the world for the blaugranes' first away trip in the Champions League this season",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590582/when-and-where-to-watch-galatasaray-v-fc-barcelona",
@@ -33,7 +45,7 @@
       "title": "Another league victory (33-40)",
       "description": "The blaugranes win the first of three away games, with Romania and Galicia to come before a return to the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4590496/tubos-aranda-33-40-barca-another-league-victory",
@@ -45,7 +57,7 @@
       "title": "Recovery session with Galatasaray on the horizon",
       "description": "Substitutes against Getafe plus Frenkie de Jong complete a training session, while the starters do recovery work",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590493/recovery-session-with-galatasaray-on-the-horizon",
@@ -57,7 +69,7 @@
       "title": "Barça equal best ever league start",
       "description": "The win against Getafe matches 2013/14 campaign with eight wins in first eight games",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 11 Oct 26",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590436/fc-barcelona-equal-best-start-to-league-season",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/club/news/4589300/pedro-rodriguez-brings-a-legendary-career-to-an-end",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/fbba5e43-2600-42ed-9cb1-25459eab27af/_GP12819.jpg",
       "localImage": "assets/news/4589300.jpg"
-    },
-    {
-      "id": "4589429",
-      "title": "Flick: 'Raphinha not available for Getafe'",
-      "description": "German coach discusses various matters ahead of Saturday's game at Spotify Camp Nou",
-      "category": "First Team",
-      "relativeTime": "Published date 09 Oct 26",
-      "publishedDate": "2026-10-09",
-      "dateLabel": "October 09",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589429/hansi-flick-raphinha-not-available-for-getafe",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/f6f07647-d6e1-44c6-b832-cb27a2557b1f/_MGA3443.jpg",
-      "localImage": "assets/news/4589429.jpg"
     }
   ]
 }
