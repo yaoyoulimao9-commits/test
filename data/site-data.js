@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-13T01:18:10.147Z",
+  "generatedAt": "2026-10-13T08:24:21.947Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4591330",
+      "title": "396 Penya members to cheer Barça on in Istanbul",
+      "description": "The match against Galatasaray will enjoy strong backing from the blaugrana penyes",
+      "category": "",
+      "relativeTime": "Published date 47 Mins ago",
+      "publishedDate": "2026-10-13",
+      "dateLabel": "October 13",
+      "source": "https://www.fcbarcelona.com/en/news/4591330/396-penya-members-to-cheer-barca-on-in-istanbul",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/97cf18f7-080d-44a1-a0d7-b071739d17e8/istanbulLondon.jpg",
+      "localImage": "assets/news/4591330.jpg"
+    },
+    {
       "id": "4591186",
       "title": "First contact with Ali Sami Yen",
       "description": "Hansi Flick's side train at Galatasaray's stadium, where they will play their second UEFA Champions League league phase match on Tuesday",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591186/first-contact-with-ali-sami-yen",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'We need to be careful'",
       "description": "Catalan centre back with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "'One of the best atmospheres'",
       "description": "German coach with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591109/hansi-flick-one-of-the-best-atmospheres",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Four Turks with a blaugrana past",
       "description": "FC Barcelona have had two basketball and two football players in their professional teams down the years",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/club/news/4590569/four-turks-with-a-blaugrana-past",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Squad for trip to Istanbul",
       "description": "Coach Hansi Flick names 22 man list for Match Day 2 of the UEFA Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 12 Oct 26",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4589922/barca-2-1-cp-voltrega-into-the-lliga-catalana-final-four",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/c3c9a1d2-f4b4-4afe-8d28-a75d197c537c/2026-10-10-HOQUEI-BARC-A-VOLTREGA-7368.jpg",
       "localImage": "assets/news/4589922.jpg"
-    },
-    {
-      "id": "4589952",
-      "title": "Tribute to Joan Laporta in Sitges",
-      "description": "FC Barcelona president's commemorative tile unveiled on the Football Walk of Fame, at Passatge Johan Cruyff 14, at the Camp Municipal d’Aiguadolç",
-      "category": "Club",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/club/news/4589952/tribute-to-joan-laporta-in-sitges",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/b35adf8f-2b61-4652-ba73-cd3982be319e/LAPORTA-A-SITGES.jpeg",
-      "localImage": "assets/news/4589952.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-13T01:18:10.147Z",
+  "newsUpdatedAt": "2026-10-13T08:24:21.947Z",
   "archive": {}
 };
