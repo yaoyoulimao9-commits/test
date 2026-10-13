@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-13T16:24:50.222Z",
+  "generatedAt": "2026-10-13T21:31:51.709Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4591863",
+      "title": "Galatasaray 1-4 Barça: Heaven in hell",
+      "description": "Barça carry their sensational league form onto the European stage with another emphatic Champions League victory, coming from behind to triumph in Istanbul",
+      "category": "First Team",
+      "relativeTime": "Published date 32 Mins ago",
+      "publishedDate": "2026-10-13",
+      "dateLabel": "October 13",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591863/galatasaray-1-4-fc-barcelona-heaven-in-hell",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/edfaf46a-1bb5-4e51-a190-1b93874ee27d/_MGA8006.jpg",
+      "localImage": "assets/news/4591863.jpg"
+    },
+    {
+      "id": "4591897",
+      "title": "10 out of 10",
+      "description": "With the win in Istanbul over Galatasaray the blaugranes extend their winning run this season in all competitions",
+      "category": "First Team",
+      "relativeTime": "Published date 34 Mins ago",
+      "publishedDate": "2026-10-13",
+      "dateLabel": "October 13",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591897/10-out-of-10-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/bda4bb13-2aa9-4fe3-98c9-de27538ed850/_MGA7997.jpg",
+      "localImage": "assets/news/4591897.jpg"
+    },
+    {
       "id": "4591677",
       "title": "UEFA YOUTH LEAGUE | Galatasaray 0-1 Barça",
       "description": "Pedro Rodríguez penalty is enough to earn the first European points of the campaign",
       "category": "Barça Youth",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4591677/uefa-youth-league-galatasaray-0-1-fc-barcelona",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Galatasaray v Barça",
       "description": "The first road trip of the European campaign as the Catalans look to continue their dream start to 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590935/preview-galatasaray-v-fc-barcelona",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Close to 900 club and penya members to cheer on Barça in Istanbul",
       "description": "492 club members and 396 penya members are travelling to Turkey to support Barça in the first 2026/27 Champions League away fixture",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/news/4591367/close-to-900-club-and-penya-members-to-cheer-on-barca-in-istanbul",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "396 Penya members to cheer Barça on in Istanbul",
       "description": "The match against Galatasaray will enjoy strong backing from the blaugrana penyes",
       "category": "",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/news/4591330/396-penya-members-to-cheer-barca-on-in-istanbul",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "First contact with Ali Sami Yen",
       "description": "Hansi Flick's side train at Galatasaray's stadium, where they will play their second UEFA Champions League league phase match on Tuesday",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 12 Oct 26",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591186/first-contact-with-ali-sami-yen",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "'We need to be careful'",
       "description": "Catalan centre back with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 12 Oct 26",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "'One of the best atmospheres'",
       "description": "German coach with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 12 Oct 26",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591109/hansi-flick-one-of-the-best-atmospheres",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590143/fc-barcelona-3-0-getafe-still-on-target",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/3520cd40-5101-4a31-a652-ac94046b8f62/_MGA7844.jpg",
       "localImage": "assets/news/4590143.jpg"
-    },
-    {
-      "id": "4590133",
-      "title": "Gerard Martín century maker",
-      "description": "The defender reaches 100 games for the blaugranes with his appearance at Spotify Camp Nou against Getafe",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590133/gerard-martin-reaches-a-century-of-appearances-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/3b8c2a0c-4733-4b42-a492-bd6d5a0dadd5/_MGA4468.jpg",
-      "localImage": "assets/news/4590133.jpg"
-    },
-    {
-      "id": "4576643",
-      "title": "Kounde overtakes Abidal and gets on scoresheet",
-      "description": "Against Getafe, Frenchman makes 194th appearance for Barça, moving ahead of compatriot Eric Abidal, and marks the occasion with a goal in the win over Getafe",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4576643/kounde-overtakes-abidal-to-become-the-frenchman-with-the-most-appearances-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/07572837-bb35-4bef-8b91-3449f3326889/_MGA4206.jpg",
-      "localImage": "assets/news/4576643.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-13T16:24:50.222Z",
+  "newsUpdatedAt": "2026-10-13T21:31:51.709Z",
   "archive": {}
 };
