@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-12T19:02:10.751Z",
+  "updatedAt": "2026-10-13T01:18:10.142Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4591186",
+      "title": "First contact with Ali Sami Yen",
+      "description": "Hansi Flick's side train at Galatasaray's stadium, where they will play their second UEFA Champions League league phase match on Tuesday",
+      "category": "First Team",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-10-12",
+      "dateLabel": "October 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591186/first-contact-with-ali-sami-yen",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/7262d11c-2775-4785-b37f-d36f3739e7d7/_MGA5255.jpg",
+      "localImage": "assets/news/4591186.jpg"
+    },
     {
       "id": "4591110",
       "title": "'We need to be careful'",
       "description": "Catalan centre back with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "'One of the best atmospheres'",
       "description": "German coach with his views ahead of the game with Galatasaray",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591109/hansi-flick-one-of-the-best-atmospheres",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Four Turks with a blaugrana past",
       "description": "FC Barcelona have had two basketball and two football players in their professional teams down the years",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/club/news/4590569/four-turks-with-a-blaugrana-past",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Squad for trip to Istanbul",
       "description": "Coach Hansi Flick names 22 man list for Match Day 2 of the UEFA Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-12",
       "dateLabel": "October 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 89-86 Valencia Basket: Show of character",
       "description": "The blaugranes take the win in a to and fro encounter in the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 11 Oct 26",
       "publishedDate": "2026-10-11",
       "dateLabel": "October 11",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4589952/tribute-to-joan-laporta-in-sitges",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/b35adf8f-2b61-4652-ba73-cd3982be319e/LAPORTA-A-SITGES.jpeg",
       "localImage": "assets/news/4589952.jpg"
-    },
-    {
-      "id": "4589519",
-      "title": "Barça squad for visit of Getafe",
-      "description": "Hansi Flick has named 22 players for the visit of José Bordalás' team to Spotify Camp Nou in La Liga",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4589519/the-fc-barcelona-squad-for-visit-of-getafe",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/09/ad1e67e8-4da0-4d06-b8da-fba7c97d3449/_MGA3203.jpg",
-      "localImage": "assets/news/4589519.jpg"
     }
   ]
 };
