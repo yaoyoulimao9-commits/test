@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-13T21:31:51.704Z",
+  "updatedAt": "2026-10-14T00:35:32.183Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4591873",
+      "title": "Barça 90-87 Maccabi Rapyd Tel Aviv: Perseverance",
+      "description": "Three-pointer from Justin Robinson almost on the buzzer caps a superb team effort from Barça in a fiercely contested game that goes right down to the wire",
+      "category": "Basketball",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-13",
+      "dateLabel": "October 13",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4591873/barca-90-87-maccabi-rapyd-tel-aviv-perseverance",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/25e58c80-9320-47ed-a08b-31a70e637213/JC018785.jpg",
+      "localImage": "assets/news/4591873.jpg"
+    },
     {
       "id": "4591863",
       "title": "Galatasaray 1-4 Barça: Heaven in hell",
       "description": "Barça carry their sensational league form onto the European stage with another emphatic Champions League victory, coming from behind to triumph in Istanbul",
       "category": "First Team",
-      "relativeTime": "Published date 32 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591863/galatasaray-1-4-fc-barcelona-heaven-in-hell",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "10 out of 10",
       "description": "With the win in Istanbul over Galatasaray the blaugranes extend their winning run this season in all competitions",
       "category": "First Team",
-      "relativeTime": "Published date 34 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591897/10-out-of-10-for-fc-barcelona",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "UEFA YOUTH LEAGUE | Galatasaray 0-1 Barça",
       "description": "Pedro Rodríguez penalty is enough to earn the first European points of the campaign",
       "category": "Barça Youth",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4591677/uefa-youth-league-galatasaray-0-1-fc-barcelona",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Galatasaray v Barça",
       "description": "The first road trip of the European campaign as the Catalans look to continue their dream start to 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590935/preview-galatasaray-v-fc-barcelona",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Close to 900 club and penya members to cheer on Barça in Istanbul",
       "description": "492 club members and 396 penya members are travelling to Turkey to support Barça in the first 2026/27 Champions League away fixture",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/news/4591367/close-to-900-club-and-penya-members-to-cheer-on-barca-in-istanbul",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "396 Penya members to cheer Barça on in Istanbul",
       "description": "The match against Galatasaray will enjoy strong backing from the blaugrana penyes",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/news/4591330/396-penya-members-to-cheer-barca-on-in-istanbul",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4590260/barca-8-0-magna-xota-party-time-at-the-palau",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/b5cf2813-f872-4fd9-8238-cb24a16cb100/BARC-A_XOTA-57.jpg",
       "localImage": "assets/news/4590260.jpg"
-    },
-    {
-      "id": "4590143",
-      "title": "FC Barcelona 3-0 Getafe: Still on target",
-      "description": "Goals from Anthony Gordon, Gabriel Jesus and Jules Koundé secure an eighth consecutive league victory, matching the club's best-ever start to a Liga season",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Oct 26",
-      "publishedDate": "2026-10-10",
-      "dateLabel": "October 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590143/fc-barcelona-3-0-getafe-still-on-target",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/10/3520cd40-5101-4a31-a652-ac94046b8f62/_MGA7844.jpg",
-      "localImage": "assets/news/4590143.jpg"
     }
   ]
 };
