@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-14T10:35:04.898Z",
+  "generatedAt": "2026-10-14T15:29:15.933Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4592264",
+      "title": "Join the Telegram channel for penyes and penya members",
+      "description": "The official FC Barcelona Infopenyistes Telegram channel provides useful information and updates through the free instant messaging app",
+      "category": "",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-14",
+      "dateLabel": "October 14",
+      "source": "https://www.fcbarcelona.com/en/news/4592264/join-the-telegram-channel-for-penyes-and-penya-members",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/4d52d3f5-3601-4f79-84cb-fa2a5b6e5b60/2610_Penyistes_Telegram_Web_Hero_3200x2000_01_CAT.jpg",
+      "localImage": "assets/news/4592264.jpg"
+    },
+    {
+      "id": "4592248",
+      "title": "Presentation of Barça Academy Residency Querétaro",
+      "description": "Sergi Barjuan, sporting director of the Barça Academy, attends official launch of the Academy's second residential project",
+      "category": "",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-14",
+      "dateLabel": "October 14",
+      "source": "https://www.fcbarcelona.com/en/news/4592248/presentation-of-barca-academy-residency-queretaro",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/5e6d5295-675a-4707-988b-e2f2f32bff47/BAR-Queretaro-1.jpeg",
+      "localImage": "assets/news/4592248.jpg"
+    },
+    {
       "id": "4592187",
       "title": "FC Barcelona statement",
       "description": "The women’s first team match against Arsenal at Spotify Camp Nou will take place on Thursday, 12 November at 6:45 pm",
       "category": "Women",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4592187/fc-barcelona-statement",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Twenty comebacks",
       "description": "At Galatasaray, Barça once again conceded first but ended up comfortable winners",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592194/twenty-comebacks-under-flick",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The goal machine rolls on",
       "description": "After another great attacking display in Istanbul, FC Barcelona show that the recent international break has not affected their goalscoring talent",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592193/the-goal-machine-rolls-on",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 90-87 Maccabi Rapyd Tel Aviv: Perseverance",
       "description": "Three-pointer from Justin Robinson almost on the buzzer caps a superb team effort from Barça in a fiercely contested game that goes right down to the wire",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4591873/barca-90-87-maccabi-rapyd-tel-aviv-perseverance",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Galatasaray 1-4 Barça: Heaven in hell",
       "description": "Barça carry their sensational league form onto the European stage with another emphatic Champions League victory, coming from behind to triumph in Istanbul",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591863/galatasaray-1-4-fc-barcelona-heaven-in-hell",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "10 out of 10",
       "description": "With the win in Istanbul over Galatasaray the blaugranes extend their winning run this season in all competitions",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591897/10-out-of-10-for-fc-barcelona",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "UEFA YOUTH LEAGUE | Galatasaray 0-1 Barça",
       "description": "Pedro Rodríguez penalty is enough to earn the first European points of the campaign",
       "category": "Barça Youth",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 13 Oct 26",
       "publishedDate": "2026-10-13",
       "dateLabel": "October 13",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4591677/uefa-youth-league-galatasaray-0-1-fc-barcelona",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/716873c7-67dd-4da3-985a-e1740bce1d50/JC014411.jpg",
       "localImage": "assets/news/4590611.jpg"
-    },
-    {
-      "id": "4590582",
-      "title": "When and where to watch Galatasaray v Barça",
-      "description": "We take a look at TV and kick off times around the world for the blaugranes' first away trip in the Champions League this season",
-      "category": "First Team",
-      "relativeTime": "Published date 11 Oct 26",
-      "publishedDate": "2026-10-11",
-      "dateLabel": "October 11",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590582/when-and-where-to-watch-galatasaray-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/bc55cb7b-e1cd-4722-83c1-ec51a99c1e4a/3200x2000_Horarios-.png",
-      "localImage": "assets/news/4590582.png"
-    },
-    {
-      "id": "4590496",
-      "title": "Another league victory (33-40)",
-      "description": "The blaugranes win the first of three away games, with Romania and Galicia to come before a return to the Palau",
-      "category": "Handball",
-      "relativeTime": "Published date 11 Oct 26",
-      "publishedDate": "2026-10-11",
-      "dateLabel": "October 11",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4590496/tubos-aranda-33-40-barca-another-league-victory",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/6e4b7ad1-a3b7-4dff-8492-7750d946e182/WhatsApp-Image-2026-10-11-at-13.46.08.jpeg",
-      "localImage": "assets/news/4590496.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-14T10:35:04.898Z",
+  "newsUpdatedAt": "2026-10-14T15:29:15.933Z",
   "archive": {}
 };
