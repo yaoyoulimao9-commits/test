@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-14T23:10:20.049Z",
+  "generatedAt": "2026-10-15T01:48:21.609Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Join the Telegram channel for penyes and penya members",
       "description": "The official FC Barcelona Infopenyistes Telegram channel provides useful information and updates through the free instant messaging app",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/news/4592264/join-the-telegram-channel-for-penyes-and-penya-members",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Presentation of Barça Academy Residency Querétaro",
       "description": "Sergi Barjuan, sporting director of the Barça Academy, attends official launch of the Academy's second residential project",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/news/4592248/presentation-of-barca-academy-residency-queretaro",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona statement",
       "description": "The women’s first team match against Arsenal at Spotify Camp Nou will take place on Thursday, 12 November at 6:45 pm",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4592187/fc-barcelona-statement",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Twenty comebacks",
       "description": "At Galatasaray, Barça once again conceded first but ended up comfortable winners",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592194/twenty-comebacks-under-flick",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "The goal machine rolls on",
       "description": "After another great attacking display in Istanbul, FC Barcelona show that the recent international break has not affected their goalscoring talent",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592193/the-goal-machine-rolls-on",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4590611.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-14T23:10:20.049Z",
+  "newsUpdatedAt": "2026-10-15T01:48:21.609Z",
   "archive": {}
 };
