@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-15T21:18:38.780Z",
+  "updatedAt": "2026-10-15T23:49:30.562Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4592939",
+      "title": "Dinamo 22-36 Barça: Into the Main Round",
+      "description": "Dominance from start to finish secures another win the Champions League",
+      "category": "Handball",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-15",
+      "dateLabel": "October 15",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/3838c183-833c-4e5a-bf95-c53fb3c6e4d3/WhatsApp-Image-2026-10-15-at-20.18.05.jpeg",
+      "localImage": "assets/news/4592939.jpg"
+    },
     {
       "id": "4592732",
       "title": "Raphinha back in training",
       "description": "Brazilian trains with his teammates for the first time since picking up a knock while on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592732/raphinha-back-in-training",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator",
       "description": "Spotify and FC Barcelona collaborate with one of the most unique creative figures in contemporary culture, and launch an extensive product collection with his brand GOLF WANG",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4592373/upcoming-clasico-jersey-to-feature-the-logo-of-tyler-the-creator",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "20% discount at the Joan Miró Foundation",
       "description": "All members of Barça penyes can visit the Fundació Joan Miró with a special discount on both standard and reduced admission tickets, a promotion that will remain valid until December 2026",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/news/4592598/20-discount-at-the-joan-miro-foundation",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/568cb987-fb38-4c91-9d8d-6b415872ddc5/_MGA5123.jpg",
       "localImage": "assets/news/4591110.jpg"
-    },
-    {
-      "id": "4591109",
-      "title": "'One of the best atmospheres'",
-      "description": "German coach with his views ahead of the game with Galatasaray",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Oct 26",
-      "publishedDate": "2026-10-12",
-      "dateLabel": "October 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591109/hansi-flick-one-of-the-best-atmospheres",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/6f4ece61-d99d-477e-b9f1-ce7780ff1cd5/_MGA5197.jpg",
-      "localImage": "assets/news/4591109.jpg"
     }
   ]
 };
