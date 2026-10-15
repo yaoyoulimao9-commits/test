@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-15T01:48:21.609Z",
+  "generatedAt": "2026-10-15T07:21:28.576Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4592373",
+      "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator",
+      "description": "Spotify and FC Barcelona collaborate with one of the most unique creative figures in contemporary culture, and launch an extensive product collection with his brand GOLF WANG",
+      "category": "Club",
+      "relativeTime": "Published date 16 Mins ago",
+      "publishedDate": "2026-10-15",
+      "dateLabel": "October 15",
+      "source": "https://www.fcbarcelona.com/en/club/news/4592373/upcoming-clasico-jersey-to-feature-the-logo-of-tyler-the-creator",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/63dcca9a-fbc8-4471-88cd-968df0917cdf/2610_Spotify_Jersey_Swap_Hero_3200x2000_02_ENG.jpg",
+      "localImage": "assets/news/4592373.jpg"
+    },
+    {
+      "id": "4592598",
+      "title": "20% discount at the Joan Miró Foundation",
+      "description": "All members of Barça penyes can visit the Fundació Joan Miró with a special discount on both standard and reduced admission tickets, a promotion that will remain valid until December 2026",
+      "category": "",
+      "relativeTime": "Published date 26 Mins ago",
+      "publishedDate": "2026-10-15",
+      "dateLabel": "October 15",
+      "source": "https://www.fcbarcelona.com/en/news/4592598/20-discount-at-the-joan-miro-foundation",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/05/06/7c43e654-1dee-469c-b249-d9c051f1d314/fjm-fa-ana.jpg",
+      "localImage": "assets/news/4592598.jpg"
+    },
+    {
       "id": "4592264",
       "title": "Join the Telegram channel for penyes and penya members",
       "description": "The official FC Barcelona Infopenyistes Telegram channel provides useful information and updates through the free instant messaging app",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/news/4592264/join-the-telegram-channel-for-penyes-and-penya-members",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Presentation of Barça Academy Residency Querétaro",
       "description": "Sergi Barjuan, sporting director of the Barça Academy, attends official launch of the Academy's second residential project",
       "category": "",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/news/4592248/presentation-of-barca-academy-residency-queretaro",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona statement",
       "description": "The women’s first team match against Arsenal at Spotify Camp Nou will take place on Thursday, 12 November at 6:45 pm",
       "category": "Women",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4592187/fc-barcelona-statement",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Twenty comebacks",
       "description": "At Galatasaray, Barça once again conceded first but ended up comfortable winners",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592194/twenty-comebacks-under-flick",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "The goal machine rolls on",
       "description": "After another great attacking display in Istanbul, FC Barcelona show that the recent international break has not affected their goalscoring talent",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-14",
       "dateLabel": "October 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592193/the-goal-machine-rolls-on",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4590569/four-turks-with-a-blaugrana-past",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/35de3a34-af49-4c65-b446-c24fbec41b0e/_Jugadors_Turcs_web.jpg",
       "localImage": "assets/news/4590569.jpg"
-    },
-    {
-      "id": "4590653",
-      "title": "Squad for trip to Istanbul",
-      "description": "Coach Hansi Flick names 22 man list for Match Day 2 of the UEFA Champions League",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Oct 26",
-      "publishedDate": "2026-10-12",
-      "dateLabel": "October 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/ce7a6e86-f1dc-4342-b61c-11bb6ccf6051/image00011.jpeg",
-      "localImage": "assets/news/4590653.jpg"
-    },
-    {
-      "id": "4590611",
-      "title": "Barça 89-86 Valencia Basket: Show of character",
-      "description": "The blaugranes take the win in a to and fro encounter in the Palau Blaugrana",
-      "category": "Basketball",
-      "relativeTime": "Published date 11 Oct 26",
-      "publishedDate": "2026-10-11",
-      "dateLabel": "October 11",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4590611/barca-89-86-valencia-basket-show-of-character",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/11/716873c7-67dd-4da3-985a-e1740bce1d50/JC014411.jpg",
-      "localImage": "assets/news/4590611.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-15T01:48:21.609Z",
+  "newsUpdatedAt": "2026-10-15T07:21:28.576Z",
   "archive": {}
 };
