@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-16T09:16:17.863Z",
+  "updatedAt": "2026-10-16T14:12:38.412Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4593204",
+      "title": "'Raphinha and De Jong can play'",
+      "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-16",
+      "dateLabel": "October 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/16/6d9867ec-9acf-42fa-8eee-7de3a24aa4d0/_MGA7031.jpg",
+      "localImage": "assets/news/4593204.jpg"
+    },
     {
       "id": "4591742",
       "title": "When and where to watch Betis v Barça",
       "description": "International viewing guide for this weekend's clash in Seville",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591742/when-and-where-to-watch-betis-v-fc-barcelona",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Betis side with best ever start",
       "description": "Andalusian side host Barça on the back of their best ever start to a season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Dinamo 22-36 Barça: Into the Main Round",
       "description": "Dominance from start to finish secures another win the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha back in training",
       "description": "Brazilian trains with his teammates for the first time since picking up a knock while on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 15 Oct 26",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592732/raphinha-back-in-training",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/news/4591367/close-to-900-club-and-penya-members-to-cheer-on-barca-in-istanbul",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/96a27118-12ed-4b6e-ad29-86ef3b4bbbe4/istanbulLondon.jpg",
       "localImage": "assets/news/4591367.jpg"
-    },
-    {
-      "id": "4591330",
-      "title": "396 Penya members to cheer Barça on in Istanbul",
-      "description": "The match against Galatasaray will enjoy strong backing from the blaugrana penyes",
-      "category": "",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/news/4591330/396-penya-members-to-cheer-barca-on-in-istanbul",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/97cf18f7-080d-44a1-a0d7-b071739d17e8/istanbulLondon.jpg",
-      "localImage": "assets/news/4591330.jpg"
     }
   ]
 };
