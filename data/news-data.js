@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-15T23:49:30.562Z",
+  "updatedAt": "2026-10-16T04:24:18.896Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Dinamo 22-36 Barça: Into the Main Round",
       "description": "Dominance from start to finish secures another win the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Raphinha back in training",
       "description": "Brazilian trains with his teammates for the first time since picking up a knock while on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592732/raphinha-back-in-training",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator",
       "description": "Spotify and FC Barcelona collaborate with one of the most unique creative figures in contemporary culture, and launch an extensive product collection with his brand GOLF WANG",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4592373/upcoming-clasico-jersey-to-feature-the-logo-of-tyler-the-creator",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "20% discount at the Joan Miró Foundation",
       "description": "All members of Barça penyes can visit the Fundació Joan Miró with a special discount on both standard and reduced admission tickets, a promotion that will remain valid until December 2026",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/news/4592598/20-discount-at-the-joan-miro-foundation",
