@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-10-16T04:24:18.896Z",
+  "updatedAt": "2026-10-16T09:16:17.863Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4591742",
+      "title": "When and where to watch Betis v Barça",
+      "description": "International viewing guide for this weekend's clash in Seville",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-16",
+      "dateLabel": "October 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591742/when-and-where-to-watch-betis-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/db3473a6-272b-4e61-9214-db58496fa3e4/3200x2000_Horarios-Betis_17_10.png",
+      "localImage": "assets/news/4591742.png"
+    },
+    {
+      "id": "4592741",
+      "title": "Betis side with best ever start",
+      "description": "Andalusian side host Barça on the back of their best ever start to a season",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-16",
+      "dateLabel": "October 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/2ed63544-9e18-44b6-89ce-0f846cb5de55/_MGA6020-1-.jpg",
+      "localImage": "assets/news/4592741.jpg"
+    },
+    {
       "id": "4592939",
       "title": "Dinamo 22-36 Barça: Into the Main Round",
       "description": "Dominance from start to finish secures another win the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
@@ -21,7 +45,7 @@
       "title": "Raphinha back in training",
       "description": "Brazilian trains with his teammates for the first time since picking up a knock while on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592732/raphinha-back-in-training",
@@ -33,7 +57,7 @@
       "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator",
       "description": "Spotify and FC Barcelona collaborate with one of the most unique creative figures in contemporary culture, and launch an extensive product collection with his brand GOLF WANG",
       "category": "Club",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 15 Oct 26",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4592373/upcoming-clasico-jersey-to-feature-the-logo-of-tyler-the-creator",
@@ -45,7 +69,7 @@
       "title": "20% discount at the Joan Miró Foundation",
       "description": "All members of Barça penyes can visit the Fundació Joan Miró with a special discount on both standard and reduced admission tickets, a promotion that will remain valid until December 2026",
       "category": "",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 15 Oct 26",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/news/4592598/20-discount-at-the-joan-miro-foundation",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/news/4591330/396-penya-members-to-cheer-barca-on-in-istanbul",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/97cf18f7-080d-44a1-a0d7-b071739d17e8/istanbulLondon.jpg",
       "localImage": "assets/news/4591330.jpg"
-    },
-    {
-      "id": "4591186",
-      "title": "First contact with Ali Sami Yen",
-      "description": "Hansi Flick's side train at Galatasaray's stadium, where they will play their second UEFA Champions League league phase match on Tuesday",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Oct 26",
-      "publishedDate": "2026-10-12",
-      "dateLabel": "October 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591186/first-contact-with-ali-sami-yen",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/7262d11c-2775-4785-b37f-d36f3739e7d7/_MGA5255.jpg",
-      "localImage": "assets/news/4591186.jpg"
-    },
-    {
-      "id": "4591110",
-      "title": "'We need to be careful'",
-      "description": "Catalan centre back with his views ahead of the game with Galatasaray",
-      "category": "First Team",
-      "relativeTime": "Published date 12 Oct 26",
-      "publishedDate": "2026-10-12",
-      "dateLabel": "October 12",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591110/pau-cubarsi-we-need-to-be-careful",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/568cb987-fb38-4c91-9d8d-6b415872ddc5/_MGA5123.jpg",
-      "localImage": "assets/news/4591110.jpg"
     }
   ]
 }
