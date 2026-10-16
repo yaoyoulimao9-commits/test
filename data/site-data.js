@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-16T14:12:38.417Z",
+  "generatedAt": "2026-10-16T18:19:59.605Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4592779",
+      "title": "Frenkie de Jong and Raphinha back in the squad",
+      "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-16",
+      "dateLabel": "October 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/58ea5f15-5365-4a9d-a814-536ae5b25138/_MGA6687.jpg",
+      "localImage": "assets/news/4592779.jpg"
+    },
+    {
       "id": "4593204",
       "title": "'Raphinha and De Jong can play'",
       "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Betis v Barça",
       "description": "International viewing guide for this weekend's clash in Seville",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591742/when-and-where-to-watch-betis-v-fc-barcelona",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Betis side with best ever start",
       "description": "Andalusian side host Barça on the back of their best ever start to a season",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Dinamo 22-36 Barça: Into the Main Round",
       "description": "Dominance from start to finish secures another win the Champions League",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-15",
       "dateLabel": "October 15",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4590935/preview-galatasaray-v-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/12/b68e8fc7-63f1-4313-93fa-d2f9e1406df1/WEB-galatasaray-MD.png",
       "localImage": "assets/news/4590935.png"
-    },
-    {
-      "id": "4591367",
-      "title": "Close to 900 club and penya members to cheer on Barça in Istanbul",
-      "description": "492 club members and 396 penya members are travelling to Turkey to support Barça in the first 2026/27 Champions League away fixture",
-      "category": "",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/news/4591367/close-to-900-club-and-penya-members-to-cheer-on-barca-in-istanbul",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/96a27118-12ed-4b6e-ad29-86ef3b4bbbe4/istanbulLondon.jpg",
-      "localImage": "assets/news/4591367.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-16T14:12:38.417Z",
+  "newsUpdatedAt": "2026-10-16T18:19:59.605Z",
   "archive": {}
 };
