@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-16T21:40:50.242Z",
+  "generatedAt": "2026-10-17T00:24:54.043Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 100-105 Olympiacos: Fight until the end",
       "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
       "category": "Basketball",
-      "relativeTime": "Published date 40 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong and Raphinha back in the squad",
       "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'Raphinha and De Jong can play'",
       "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Betis v Barça",
       "description": "International viewing guide for this weekend's clash in Seville",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591742/when-and-where-to-watch-betis-v-fc-barcelona",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Betis side with best ever start",
       "description": "Andalusian side host Barça on the back of their best ever start to a season",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4591677.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-16T21:40:50.242Z",
+  "newsUpdatedAt": "2026-10-17T00:24:54.043Z",
   "archive": {}
 };
