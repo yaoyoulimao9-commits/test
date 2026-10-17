@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-10-17T16:38:44.360Z",
+  "updatedAt": "2026-10-17T19:19:17.485Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4588635",
+      "title": "Raphinha comes back to draw level with Neymar",
+      "description": "The forward now has 186 appearances, placing him fifth on the all-time list for FC Barcelona's Brazilian players",
+      "category": "First Team",
+      "relativeTime": "Published date 40 Mins ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588635/raphinha-comes-back-to-draw-level-with-neymar",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/4093d0d4-b93e-4ad8-bc2c-5ca208588cb6/_MGA7954.jpg",
+      "localImage": "assets/news/4588635.jpg"
+    },
+    {
+      "id": "4593638",
+      "title": "Betis 2-5 Barça: The dream start continues",
+      "description": "Thriller at La Cartuja sees goals from Lamine Yamal, Rodri, Gabriel Jesus, Eric García and Dani Olmo secure a historic ninth league win in nine games",
+      "category": "First Team",
+      "relativeTime": "Published date 41 Mins ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593638/betis-2-5-fc-barcelona-the-dream-start-continues",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/b3d659b6-fc31-4554-a1e0-1a8321390af8/_MGA8159.jpg",
+      "localImage": "assets/news/4593638.jpg"
+    },
+    {
+      "id": "4593710",
+      "title": "Hansi Flick's Barça equal record for best league start",
+      "description": "The blaugranes' win against Betis makes it nine wins from their first nine matches in La Liga, a feat not achieves since the 1968/69 season",
+      "category": "First Team",
+      "relativeTime": "Published date 45 Mins ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/13022a09-2e60-4c2a-b6e6-ce9248a79a95/_MGA8129.jpg",
+      "localImage": "assets/news/4593710.jpg"
+    },
+    {
+      "id": "4593593",
+      "title": "Barça 5-0 Voltregà: Lliga Catalana finalists",
+      "description": "Ricard Ares’ side cruise to victory over their opponents from Osona to book their place in the final, which will be played this Sunday at 8pm CEST",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4593593/barca-5-0-cp-voltrega-lliga-catalana-finalists",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/09634eea-a957-4f0b-9c8d-aa959e48ada6/DSC04799.jpg",
+      "localImage": "assets/news/4593593.jpg"
+    },
+    {
+      "id": "4593590",
+      "title": "Barça Atlètic 2-1 Utebo: Still at the top",
+      "description": "Reserves win against at the Estadi Johan Cruyff to consolidate their plead in the division",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4593590/barca-atletic-2-1-utebo-still-at-the-top",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/e8f3d303-6802-489e-9870-e25b3fcd78f9/2026-10-17_FCBATLETICvsUTEBO_159.jpg",
+      "localImage": "assets/news/4593590.jpg"
+    },
+    {
       "id": "4593115",
       "title": "PREVIEW | Betis v Barça",
       "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
@@ -21,7 +81,7 @@
       "title": "Barça 100-105 Olympiacos: Fight until the end",
       "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
       "category": "Basketball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
@@ -159,66 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4592187/fc-barcelona-statement",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/10/08/cd935dd1-a04a-4a23-8a32-7bbdeb79a573/16x9_FCBSTATEMENT_2025-02.jpg",
       "localImage": "assets/news/4592187.jpg"
-    },
-    {
-      "id": "4592194",
-      "title": "Twenty comebacks",
-      "description": "At Galatasaray, Barça once again conceded first but ended up comfortable winners",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Oct 26",
-      "publishedDate": "2026-10-14",
-      "dateLabel": "October 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592194/twenty-comebacks-under-flick",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/b5a8addd-02da-4f03-ba82-94fcf062382b/_MGA5997.jpg",
-      "localImage": "assets/news/4592194.jpg"
-    },
-    {
-      "id": "4592193",
-      "title": "The goal machine rolls on",
-      "description": "After another great attacking display in Istanbul, FC Barcelona show that the recent international break has not affected their goalscoring talent",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Oct 26",
-      "publishedDate": "2026-10-14",
-      "dateLabel": "October 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592193/the-goal-machine-rolls-on",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/b54619b2-2143-45bf-8cea-37bf7c862e25/_MGA8048-1-.jpg",
-      "localImage": "assets/news/4592193.jpg"
-    },
-    {
-      "id": "4591873",
-      "title": "Barça 90-87 Maccabi Rapyd Tel Aviv: Perseverance",
-      "description": "Three-pointer from Justin Robinson almost on the buzzer caps a superb team effort from Barça in a fiercely contested game that goes right down to the wire",
-      "category": "Basketball",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4591873/barca-90-87-maccabi-rapyd-tel-aviv-perseverance",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/25e58c80-9320-47ed-a08b-31a70e637213/JC018785.jpg",
-      "localImage": "assets/news/4591873.jpg"
-    },
-    {
-      "id": "4591863",
-      "title": "Galatasaray 1-4 Barça: Heaven in hell",
-      "description": "Barça carry their sensational league form onto the European stage with another emphatic Champions League victory, coming from behind to triumph in Istanbul",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591863/galatasaray-1-4-fc-barcelona-heaven-in-hell",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/edfaf46a-1bb5-4e51-a190-1b93874ee27d/_MGA8006.jpg",
-      "localImage": "assets/news/4591863.jpg"
-    },
-    {
-      "id": "4591897",
-      "title": "10 out of 10",
-      "description": "With the win in Istanbul over Galatasaray the blaugranes extend their winning run this season in all competitions",
-      "category": "First Team",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591897/10-out-of-10-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/bda4bb13-2aa9-4fe3-98c9-de27538ed850/_MGA7997.jpg",
-      "localImage": "assets/news/4591897.jpg"
     }
   ]
 }
