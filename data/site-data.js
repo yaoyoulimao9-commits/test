@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-17T13:10:28.736Z",
+  "generatedAt": "2026-10-17T16:38:44.365Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Betis v Barça",
       "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça 100-105 Olympiacos: Fight until the end",
       "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
       "category": "Basketball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong and Raphinha back in the squad",
       "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Oct 26",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4591897.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-17T13:10:28.736Z",
+  "newsUpdatedAt": "2026-10-17T16:38:44.365Z",
   "archive": {}
 };
