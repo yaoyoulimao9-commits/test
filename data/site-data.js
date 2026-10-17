@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-17T04:57:30.928Z",
+  "generatedAt": "2026-10-17T09:16:51.216Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4593115",
+      "title": "PREVIEW | Betis v Barça",
+      "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-17",
+      "dateLabel": "October 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/451d5456-4de7-4045-9331-c94003385a11/WEB-BetisMD.png",
+      "localImage": "assets/news/4593115.png"
+    },
+    {
       "id": "4593363",
       "title": "Barça 100-105 Olympiacos: Fight until the end",
       "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
       "category": "Basketball",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong and Raphinha back in the squad",
       "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "'Raphinha and De Jong can play'",
       "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Betis v Barça",
       "description": "International viewing guide for this weekend's clash in Seville",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Oct 26",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591742/when-and-where-to-watch-betis-v-fc-barcelona",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Betis side with best ever start",
       "description": "Andalusian side host Barça on the back of their best ever start to a season",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Oct 26",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591897/10-out-of-10-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/bda4bb13-2aa9-4fe3-98c9-de27538ed850/_MGA7997.jpg",
       "localImage": "assets/news/4591897.jpg"
-    },
-    {
-      "id": "4591677",
-      "title": "UEFA YOUTH LEAGUE | Galatasaray 0-1 Barça",
-      "description": "Pedro Rodríguez penalty is enough to earn the first European points of the campaign",
-      "category": "Barça Youth",
-      "relativeTime": "Published date 13 Oct 26",
-      "publishedDate": "2026-10-13",
-      "dateLabel": "October 13",
-      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4591677/uefa-youth-league-galatasaray-0-1-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/13/1e8cf85a-e43f-4aad-9bcc-dce8b51fdba0/_MGA7925.jpg",
-      "localImage": "assets/news/4591677.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-17T04:57:30.928Z",
+  "newsUpdatedAt": "2026-10-17T09:16:51.216Z",
   "archive": {}
 };
