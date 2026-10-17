@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-17T09:16:51.213Z",
+  "updatedAt": "2026-10-17T13:10:28.615Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Betis v Barça",
       "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Barça 100-105 Olympiacos: Fight until the end",
       "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Frenkie de Jong and Raphinha back in the squad",
       "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "'Raphinha and De Jong can play'",
       "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 16 Oct 26",
       "publishedDate": "2026-10-16",
       "dateLabel": "October 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
