@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-18T19:24:22.812Z",
+  "generatedAt": "2026-10-18T21:50:49.978Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4594114",
+      "title": "Lliga Catalana champions (0-1)",
+      "description": "Blaugranes come through against Calafell in this close contest of a final, with Martí Casas scoring the winning goal",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-18",
+      "dateLabel": "October 18",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4594114/calafell-0-1-barca-lliga-catalana-champions",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/328e515c-6641-493d-b197-79edb79f8daa/Image-3-.jfif",
+      "localImage": "assets/news/4594114.jpg"
+    },
+    {
+      "id": "4594078",
+      "title": "Loss at the Olímpic (113-89)",
+      "description": "Blaugranes fall to defeat away at Badalona in the derby",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-18",
+      "dateLabel": "October 18",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/d523a795-aedc-41b2-bd77-d751894d1062/DAG-048-_M1A8975.jpg",
+      "localImage": "assets/news/4594078.jpg"
+    },
+    {
+      "id": "4594084",
+      "title": "Show of strength (28-37)",
+      "description": "Blaugranes improve as the game goes on to seal a fifth league win, with standout performances by Elderaa and Hallgrimsson",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-18",
+      "dateLabel": "October 18",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4594084/frigorificos-del-morrazo-28-37-barca-show-of-strength",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/52ae7742-4a28-48f6-91bc-308690960388/3G0A2064-Ra-l-Fonseca-1-.jpeg",
+      "localImage": "assets/news/4594084.jpg"
+    },
+    {
       "id": "4594024",
       "title": "Medical updates on Eric and Kounde",
       "description": "Catalan set to be out for three to four weeks while the Frenchman will miss the match against PSG",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594024/medical-updates-on-eric-and-kounde",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Real Sociedad 2-1 Barça Femení: Defeat in Zubieta",
       "description": "Despite going ahead in the opening minute, the blaugranes drop points for the first time this season",
       "category": "Women",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "13 different scorers a record in Europe",
       "description": "With goals from Rodrigo, Eric Garcia and Dani Olmo in the win at Betis, the blaugranes list of goalscorers grows ever bigger",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Flick matches his best run of wins",
       "description": "With the victory against Betis in La Cartuja, the Barça coach records 11 consecutive victories this season",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593754/hansi-flick-equals-his-best-run-of-wins-with-fc-barcelona",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/2ed63544-9e18-44b6-89ce-0f846cb5de55/_MGA6020-1-.jpg",
       "localImage": "assets/news/4592741.jpg"
-    },
-    {
-      "id": "4592939",
-      "title": "Dinamo 22-36 Barça: Into the Main Round",
-      "description": "Dominance from start to finish secures another win the Champions League",
-      "category": "Handball",
-      "relativeTime": "Published date 15 Oct 26",
-      "publishedDate": "2026-10-15",
-      "dateLabel": "October 15",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4592939/dinamo-22-36-barca-into-the-main-round",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/3838c183-833c-4e5a-bf95-c53fb3c6e4d3/WhatsApp-Image-2026-10-15-at-20.18.05.jpeg",
-      "localImage": "assets/news/4592939.jpg"
-    },
-    {
-      "id": "4592732",
-      "title": "Raphinha back in training",
-      "description": "Brazilian trains with his teammates for the first time since picking up a knock while on international duty",
-      "category": "First Team",
-      "relativeTime": "Published date 15 Oct 26",
-      "publishedDate": "2026-10-15",
-      "dateLabel": "October 15",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592732/raphinha-back-in-training",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/69d69cf8-6558-4c38-9af5-6ca6a82e05f3/image00013.jpeg",
-      "localImage": "assets/news/4592732.jpg"
-    },
-    {
-      "id": "4592373",
-      "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator",
-      "description": "Spotify and FC Barcelona collaborate with one of the most unique creative figures in contemporary culture, and launch an extensive product collection with his brand GOLF WANG",
-      "category": "Club",
-      "relativeTime": "Published date 15 Oct 26",
-      "publishedDate": "2026-10-15",
-      "dateLabel": "October 15",
-      "source": "https://www.fcbarcelona.com/en/club/news/4592373/upcoming-clasico-jersey-to-feature-the-logo-of-tyler-the-creator",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/63dcca9a-fbc8-4471-88cd-968df0917cdf/2610_Spotify_Jersey_Swap_Hero_3200x2000_02_ENG.jpg",
-      "localImage": "assets/news/4592373.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-18T19:24:22.812Z",
+  "newsUpdatedAt": "2026-10-18T21:50:49.978Z",
   "archive": {}
 };
