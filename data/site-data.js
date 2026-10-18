@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-18T09:03:31.945Z",
+  "generatedAt": "2026-10-18T13:13:57.736Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4593903",
+      "title": "Real Sociedad 2-1 Barça Femení: Defeat in Zubieta",
+      "description": "Despite going ahead in the opening minute, the blaugranes drop points for the first time this season",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-18",
+      "dateLabel": "October 18",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/14958296-90ba-4f43-8468-965408dd8c97/CSP_IA_20261018_0037.jpg",
+      "localImage": "assets/news/4593903.jpg"
+    },
+    {
+      "id": "4593865",
+      "title": "13 different scorers a record in Europe",
+      "description": "With goals from Rodrigo, Eric Garcia and Dani Olmo in the win at Betis, the blaugranes list of goalscorers grows ever bigger",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-18",
+      "dateLabel": "October 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/13f1619e-6305-4a26-ac11-b9f4c5bfa73e/_MGA8155.jpg",
+      "localImage": "assets/news/4593865.jpg"
+    },
+    {
       "id": "4593754",
       "title": "Flick matches his best run of wins",
       "description": "With the victory against Betis in La Cartuja, the Barça coach records 11 consecutive victories this season",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593754/hansi-flick-equals-his-best-run-of-wins-with-fc-barcelona",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Raphinha comes back to draw level with Neymar",
       "description": "The forward now has 186 appearances, placing him fifth on the all-time list for FC Barcelona's Brazilian players",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588635/raphinha-comes-back-to-draw-level-with-neymar",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Betis 2-5 Barça: The dream start continues",
       "description": "Thriller at La Cartuja sees goals from Lamine Yamal, Rodri, Gabriel Jesus, Eric García and Dani Olmo secure a historic ninth league win in nine games",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593638/betis-2-5-fc-barcelona-the-dream-start-continues",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick's Barça equal record for best league start",
       "description": "The blaugranes' win against Betis makes it nine wins from their first nine matches in La Liga, a feat not achieves since the 1968/69 season",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-0 Voltregà: Lliga Catalana finalists",
       "description": "Ricard Ares’ side cruise to victory over their opponents from Osona to book their place in the final, which will be played this Sunday at 8pm CEST",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4593593/barca-5-0-cp-voltrega-lliga-catalana-finalists",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 2-1 Utebo: Still at the top",
       "description": "Reserves win against at the Estadi Johan Cruyff to consolidate their plead in the division",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4593590/barca-atletic-2-1-utebo-still-at-the-top",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4592598/20-discount-at-the-joan-miro-foundation",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/05/06/7c43e654-1dee-469c-b249-d9c051f1d314/fjm-fa-ana.jpg",
       "localImage": "assets/news/4592598.jpg"
-    },
-    {
-      "id": "4592264",
-      "title": "Join the Telegram channel for penyes and penya members",
-      "description": "The official FC Barcelona Infopenyistes Telegram channel provides useful information and updates through the free instant messaging app",
-      "category": "",
-      "relativeTime": "Published date 14 Oct 26",
-      "publishedDate": "2026-10-14",
-      "dateLabel": "October 14",
-      "source": "https://www.fcbarcelona.com/en/news/4592264/join-the-telegram-channel-for-penyes-and-penya-members",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/4d52d3f5-3601-4f79-84cb-fa2a5b6e5b60/2610_Penyistes_Telegram_Web_Hero_3200x2000_01_CAT.jpg",
-      "localImage": "assets/news/4592264.jpg"
-    },
-    {
-      "id": "4592248",
-      "title": "Presentation of Barça Academy Residency Querétaro",
-      "description": "Sergi Barjuan, sporting director of the Barça Academy, attends official launch of the Academy's second residential project",
-      "category": "",
-      "relativeTime": "Published date 14 Oct 26",
-      "publishedDate": "2026-10-14",
-      "dateLabel": "October 14",
-      "source": "https://www.fcbarcelona.com/en/news/4592248/presentation-of-barca-academy-residency-queretaro",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/5e6d5295-675a-4707-988b-e2f2f32bff47/BAR-Queretaro-1.jpeg",
-      "localImage": "assets/news/4592248.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-18T09:03:31.945Z",
+  "newsUpdatedAt": "2026-10-18T13:13:57.736Z",
   "archive": {}
 };
