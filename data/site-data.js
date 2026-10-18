@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-17T21:43:08.129Z",
+  "generatedAt": "2026-10-18T00:00:10.976Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha comes back to draw level with Neymar",
       "description": "The forward now has 186 appearances, placing him fifth on the all-time list for FC Barcelona's Brazilian players",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588635/raphinha-comes-back-to-draw-level-with-neymar",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Betis 2-5 Barça: The dream start continues",
       "description": "Thriller at La Cartuja sees goals from Lamine Yamal, Rodri, Gabriel Jesus, Eric García and Dani Olmo secure a historic ninth league win in nine games",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593638/betis-2-5-fc-barcelona-the-dream-start-continues",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick's Barça equal record for best league start",
       "description": "The blaugranes' win against Betis makes it nine wins from their first nine matches in La Liga, a feat not achieves since the 1968/69 season",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 5-0 Voltregà: Lliga Catalana finalists",
       "description": "Ricard Ares’ side cruise to victory over their opponents from Osona to book their place in the final, which will be played this Sunday at 8pm CEST",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4593593/barca-5-0-cp-voltrega-lliga-catalana-finalists",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 2-1 Utebo: Still at the top",
       "description": "Reserves win against at the Estadi Johan Cruyff to consolidate their plead in the division",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4593590/barca-atletic-2-1-utebo-still-at-the-top",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Betis v Barça",
       "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-17",
       "dateLabel": "October 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4592187.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-17T21:43:08.129Z",
+  "newsUpdatedAt": "2026-10-18T00:00:10.975Z",
   "archive": {}
 };
