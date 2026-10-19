@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-19T17:45:19.201Z",
+  "updatedAt": "2026-10-19T22:18:03.421Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4594810",
+      "title": "First contact with Parc des Princes",
+      "description": "Hansi Flick's side take to the pitch at the Parisian stadium ahead of Tuesday's clash with Paris Saint-Germain (9pm CEST).",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-19",
+      "dateLabel": "October 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594810/first-contact-with-parc-des-princes",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/19/23b2650d-4e88-4fb8-be4d-79834f58eae4/_MGA8540.jpg",
+      "localImage": "assets/news/4594810.jpg"
+    },
+    {
+      "id": "4594778",
+      "title": "Hansi Flick: 'We're ready'",
+      "description": "German coach speaks to the media ahead of Tuesday huge clash with Paris Saint-Germain",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-19",
+      "dateLabel": "October 19",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594778/hansi-flick-were-ready",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/19/b07991b3-1af2-4d67-8423-179c50283dc1/_MGA8390.jpg",
+      "localImage": "assets/news/4594778.jpg"
+    },
     {
       "id": "4591743",
       "title": "When and where to watch PSG v Barça",
       "description": "Our guide to the international kick-off times and TV channels for the third UEFA Champions League match of the season",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591743/when-and-where-to-watch-paris-saint-germain-v-fc-barcelona",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça squad for PSG game",
       "description": "Hansi Flick's side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Lliga Catalana champions (0-1)",
       "description": "Blaugranes come through against Calafell in this close contest of a final, with Martí Casas scoring the winning goal",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 18 Oct 26",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4594114/calafell-0-1-barca-lliga-catalana-champions",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Loss at the Olímpic (113-89)",
       "description": "Blaugranes fall to defeat away at Badalona in the derby",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 18 Oct 26",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
@@ -55,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Show of strength (28-37)",
       "description": "Blaugranes improve as the game goes on to seal a fifth league win, with standout performances by Elderaa and Hallgrimsson",
       "category": "Handball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Oct 26",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4594084/frigorificos-del-morrazo-28-37-barca-show-of-strength",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/16/f5c37fde-99df-41f4-afe3-9a42fe3e2e4a/2026-10-16_FCBBASQUETvsOLYMPIACOS_054.JPG",
       "localImage": "assets/news/4593363.jpg"
-    },
-    {
-      "id": "4592779",
-      "title": "Frenkie de Jong and Raphinha back in the squad",
-      "description": "The Dutchman and the Brazilian are back for the match in Seville against Betis at the La Cartuja stadium (kick-off 6.30pm CEST, 17 October)",
-      "category": "First Team",
-      "relativeTime": "Published date 16 Oct 26",
-      "publishedDate": "2026-10-16",
-      "dateLabel": "October 16",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4592779/the-squad-for-betis-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/15/58ea5f15-5365-4a9d-a814-536ae5b25138/_MGA6687.jpg",
-      "localImage": "assets/news/4592779.jpg"
-    },
-    {
-      "id": "4593204",
-      "title": "'Raphinha and De Jong can play'",
-      "description": "Barça coach confirms the return of the Brazilian and the Dutchman ahead of the Betis clash",
-      "category": "First Team",
-      "relativeTime": "Published date 16 Oct 26",
-      "publishedDate": "2026-10-16",
-      "dateLabel": "October 16",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593204/hansi-flick-raphinha-and-de-jong-can-play",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/16/6d9867ec-9acf-42fa-8eee-7de3a24aa4d0/_MGA7031.jpg",
-      "localImage": "assets/news/4593204.jpg"
     }
   ]
 };
