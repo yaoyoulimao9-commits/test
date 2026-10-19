@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-18T21:50:49.978Z",
+  "generatedAt": "2026-10-19T00:11:48.139Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Lliga Catalana champions (0-1)",
       "description": "Blaugranes come through against Calafell in this close contest of a final, with Martí Casas scoring the winning goal",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4594114/calafell-0-1-barca-lliga-catalana-champions",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Loss at the Olímpic (113-89)",
       "description": "Blaugranes fall to defeat away at Badalona in the derby",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Show of strength (28-37)",
       "description": "Blaugranes improve as the game goes on to seal a fifth league win, with standout performances by Elderaa and Hallgrimsson",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4594084/frigorificos-del-morrazo-28-37-barca-show-of-strength",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Medical updates on Eric and Kounde",
       "description": "Catalan set to be out for three to four weeks while the Frenchman will miss the match against PSG",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594024/medical-updates-on-eric-and-kounde",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Real Sociedad 2-1 Barça Femení: Defeat in Zubieta",
       "description": "Despite going ahead in the opening minute, the blaugranes drop points for the first time this season",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "13 different scorers a record in Europe",
       "description": "With goals from Rodrigo, Eric Garcia and Dani Olmo in the win at Betis, the blaugranes list of goalscorers grows ever bigger",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Flick matches his best run of wins",
       "description": "With the victory against Betis in La Cartuja, the Barça coach records 11 consecutive victories this season",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593754/hansi-flick-equals-his-best-run-of-wins-with-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4592741.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-18T21:50:49.978Z",
+  "newsUpdatedAt": "2026-10-19T00:11:48.139Z",
   "archive": {}
 };
