@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-19T11:13:44.514Z",
+  "generatedAt": "2026-10-19T17:45:19.206Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch PSG v Barça",
       "description": "Our guide to the international kick-off times and TV channels for the third UEFA Champions League match of the season",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591743/when-and-where-to-watch-paris-saint-germain-v-fc-barcelona",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça squad for PSG game",
       "description": "Hansi Flick's side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Lliga Catalana champions (0-1)",
       "description": "Blaugranes come through against Calafell in this close contest of a final, with Martí Casas scoring the winning goal",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4594114/calafell-0-1-barca-lliga-catalana-champions",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Loss at the Olímpic (113-89)",
       "description": "Blaugranes fall to defeat away at Badalona in the derby",
       "category": "Basketball",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Show of strength (28-37)",
       "description": "Blaugranes improve as the game goes on to seal a fifth league win, with standout performances by Elderaa and Hallgrimsson",
       "category": "Handball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4594084/frigorificos-del-morrazo-28-37-barca-show-of-strength",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Medical updates on Eric and Kounde",
       "description": "Catalan set to be out for three to four weeks while the Frenchman will miss the match against PSG",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 18 Oct 26",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594024/medical-updates-on-eric-and-kounde",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Real Sociedad 2-1 Barça Femení: Defeat in Zubieta",
       "description": "Despite going ahead in the opening minute, the blaugranes drop points for the first time this season",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 18 Oct 26",
       "publishedDate": "2026-10-18",
       "dateLabel": "October 18",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4593204.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-19T11:13:44.514Z",
+  "newsUpdatedAt": "2026-10-19T17:45:19.206Z",
   "archive": {}
 };
