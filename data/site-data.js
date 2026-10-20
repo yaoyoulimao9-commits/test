@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-20T01:14:51.782Z",
+  "generatedAt": "2026-10-20T06:33:58.020Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "First contact with Parc des Princes",
       "description": "Hansi Flick's side take to the pitch at the Parisian stadium ahead of Tuesday's clash with Paris Saint-Germain (9pm CEST).",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594810/first-contact-with-parc-des-princes",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'We're ready'",
       "description": "German coach speaks to the media ahead of Tuesday huge clash with Paris Saint-Germain",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594778/hansi-flick-were-ready",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch PSG v Barça",
       "description": "Our guide to the international kick-off times and TV channels for the third UEFA Champions League match of the season",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591743/when-and-where-to-watch-paris-saint-germain-v-fc-barcelona",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça squad for PSG game",
       "description": "Hansi Flick's side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4593363.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-20T01:14:51.782Z",
+  "newsUpdatedAt": "2026-10-20T06:33:58.020Z",
   "archive": {}
 };
