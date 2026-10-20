@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-20T06:33:58.020Z",
+  "generatedAt": "2026-10-20T12:10:17.146Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4594863",
+      "title": "PREVIEW | PSG v Barça",
+      "description": "The Parc de Princes is the venue as the back-to-back European champions take on a side that has won every game so far this season",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-20",
+      "dateLabel": "October 20",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594863/preview-paris-saint-germain-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/19/a2e17dfd-5c16-4214-9eec-1c29fde3fea0/WhatsApp-Image-2026-10-19-at-23.32.47.jpeg",
+      "localImage": "assets/news/4594863.jpg"
+    },
+    {
+      "id": "4595003",
+      "title": "486 Penya members will back the team in Paris",
+      "description": "The Penya Blaugrana de Paris organized a pre-match dinner yesterday attended by FC Barcelona Vice-President Rafael Yuste and Board Member Josep-Ignasi Macià.",
+      "category": "",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-20",
+      "dateLabel": "October 20",
+      "source": "https://www.fcbarcelona.com/en/news/4595003/486-penya-members-will-back-the-team-in-paris",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/20/3b50b07e-a6ab-4880-a137-c2da65fb6fdf/WhatsApp-Image-2026-10-19-at-23.29.00.jpeg",
+      "localImage": "assets/news/4595003.jpg"
+    },
+    {
       "id": "4594810",
       "title": "First contact with Parc des Princes",
       "description": "Hansi Flick's side take to the pitch at the Parisian stadium ahead of Tuesday's clash with Paris Saint-Germain (9pm CEST).",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594810/first-contact-with-parc-des-princes",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'We're ready'",
       "description": "German coach speaks to the media ahead of Tuesday huge clash with Paris Saint-Germain",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594778/hansi-flick-were-ready",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch PSG v Barça",
       "description": "Our guide to the international kick-off times and TV channels for the third UEFA Champions League match of the season",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 19 Oct 26",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591743/when-and-where-to-watch-paris-saint-germain-v-fc-barcelona",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça squad for PSG game",
       "description": "Hansi Flick's side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 19 Oct 26",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4593590/barca-atletic-2-1-utebo-still-at-the-top",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/e8f3d303-6802-489e-9870-e25b3fcd78f9/2026-10-17_FCBATLETICvsUTEBO_159.jpg",
       "localImage": "assets/news/4593590.jpg"
-    },
-    {
-      "id": "4593115",
-      "title": "PREVIEW | Betis v Barça",
-      "description": "Having won every game so far this season, the Catalans now enter perhaps the trickiest stage of the campaign so far",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593115/preview-real-betis-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/451d5456-4de7-4045-9331-c94003385a11/WEB-BetisMD.png",
-      "localImage": "assets/news/4593115.png"
-    },
-    {
-      "id": "4593363",
-      "title": "Barça 100-105 Olympiacos: Fight until the end",
-      "description": "A Justin Robinson three pointer took the game into overtime but the Greeks bounced back to take win",
-      "category": "Basketball",
-      "relativeTime": "Published date 16 Oct 26",
-      "publishedDate": "2026-10-16",
-      "dateLabel": "October 16",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4593363/barca-100-105-olympiacos-fight-until-the-end",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/16/f5c37fde-99df-41f4-afe3-9a42fe3e2e4a/2026-10-16_FCBBASQUETvsOLYMPIACOS_054.JPG",
-      "localImage": "assets/news/4593363.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-20T06:33:58.020Z",
+  "newsUpdatedAt": "2026-10-20T12:10:17.146Z",
   "archive": {}
 };
