@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-20T12:10:17.146Z",
+  "generatedAt": "2026-10-20T17:30:19.857Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4595622",
+      "title": "PSG 1-1 FC Barcelona U19: Hard fought point",
+      "description": "Pedro Rodríguez transforma un penalti para dar el empate a los azulgranas en un partido muy disputado.",
+      "category": "Barça Youth",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-20",
+      "dateLabel": "October 20",
+      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4595622/psg-1-1-fc-barcelona-u19-hard-fought-point",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/20/cd2e55d9-bff6-429c-8cce-282672db859e/_MGA8186.jpg",
+      "localImage": "assets/news/4595622.jpg"
+    },
+    {
       "id": "4594863",
       "title": "PREVIEW | PSG v Barça",
       "description": "The Parc de Princes is the venue as the back-to-back European champions take on a side that has won every game so far this season",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594863/preview-paris-saint-germain-v-fc-barcelona",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "486 Penya members will back the team in Paris",
       "description": "The Penya Blaugrana de Paris organized a pre-match dinner yesterday attended by FC Barcelona Vice-President Rafael Yuste and Board Member Josep-Ignasi Macià.",
       "category": "",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/news/4595003/486-penya-members-will-back-the-team-in-paris",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "First contact with Parc des Princes",
       "description": "Hansi Flick's side take to the pitch at the Parisian stadium ahead of Tuesday's clash with Paris Saint-Germain (9pm CEST).",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594810/first-contact-with-parc-des-princes",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick: 'We're ready'",
       "description": "German coach speaks to the media ahead of Tuesday huge clash with Paris Saint-Germain",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 19 Oct 26",
       "publishedDate": "2026-10-19",
       "dateLabel": "October 19",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594778/hansi-flick-were-ready",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4593593/barca-5-0-cp-voltrega-lliga-catalana-finalists",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/09634eea-a957-4f0b-9c8d-aa959e48ada6/DSC04799.jpg",
       "localImage": "assets/news/4593593.jpg"
-    },
-    {
-      "id": "4593590",
-      "title": "Barça Atlètic 2-1 Utebo: Still at the top",
-      "description": "Reserves win against at the Estadi Johan Cruyff to consolidate their plead in the division",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4593590/barca-atletic-2-1-utebo-still-at-the-top",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/e8f3d303-6802-489e-9870-e25b3fcd78f9/2026-10-17_FCBATLETICvsUTEBO_159.jpg",
-      "localImage": "assets/news/4593590.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-20T12:10:17.146Z",
+  "newsUpdatedAt": "2026-10-20T17:30:19.857Z",
   "archive": {}
 };
