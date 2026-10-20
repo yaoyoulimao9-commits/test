@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-20T20:51:32.739Z",
+  "updatedAt": "2026-10-20T23:49:46.889Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4596285",
+      "title": "PSG 4-2 Barça: First defeat",
+      "description": "Equalisers from Xavi Espart and Lamine Yamal keep the Catalans well in contention, but two late goals for the Parisians bring an end to the perfect start to 2026/27",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-20",
+      "dateLabel": "October 20",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596285/paris-saint-germain-4-2-fc-barcelona-first-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/20/fadfac3c-6d87-4551-9710-0f672dc2de34/_MGA9746.jpg",
+      "localImage": "assets/news/4596285.jpg"
+    },
     {
       "id": "4595622",
       "title": "PSG 1-1 FC Barcelona U19: Hard fought point",
       "description": "Pedro Rodríguez transforma un penalti para dar el empate a los azulgranas en un partido muy disputado.",
       "category": "Barça Youth",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4595622/psg-1-1-fc-barcelona-u19-hard-fought-point",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | PSG v Barça",
       "description": "The Parc de Princes is the venue as the back-to-back European champions take on a side that has won every game so far this season",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594863/preview-paris-saint-germain-v-fc-barcelona",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "486 Penya members will back the team in Paris",
       "description": "The Penya Blaugrana de Paris organized a pre-match dinner yesterday attended by FC Barcelona Vice-President Rafael Yuste and Board Member Josep-Ignasi Macià.",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/news/4595003/486-penya-members-will-back-the-team-in-paris",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/13022a09-2e60-4c2a-b6e6-ce9248a79a95/_MGA8129.jpg",
       "localImage": "assets/news/4593710.jpg"
-    },
-    {
-      "id": "4593593",
-      "title": "Barça 5-0 Voltregà: Lliga Catalana finalists",
-      "description": "Ricard Ares’ side cruise to victory over their opponents from Osona to book their place in the final, which will be played this Sunday at 8pm CEST",
-      "category": "Roller Hockey",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4593593/barca-5-0-cp-voltrega-lliga-catalana-finalists",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/09634eea-a957-4f0b-9c8d-aa959e48ada6/DSC04799.jpg",
-      "localImage": "assets/news/4593593.jpg"
     }
   ]
 };
