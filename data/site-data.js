@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-21T09:39:36.395Z",
+  "generatedAt": "2026-10-21T15:11:03.610Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,59 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4596701",
+      "title": "Dani Olmo injury news",
+      "description": "Tests carried out confirm that the player is suffering from an injury to his left adductor muscle",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-21",
+      "dateLabel": "October 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596701/dani-olmo-injury-news",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/3b6dded9-85fd-4486-8cb8-557894c66cec/_MGA9412-1-.jpg",
+      "localImage": "assets/news/4596701.jpg"
+    },
+    {
+      "id": "4596667",
+      "title": "Recovery session after PSG game",
+      "description": "The players with most minutes in the game in the Parc des Princes have a gym session with the rest of the squad training at the Ciutat Esportiva",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-21",
+      "dateLabel": "October 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596667/recovery-session-after-psg-game",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/4e42512a-2d4d-4fd0-9e1e-ad6d80ea1910/WhatsApp-Image-2026-10-21-at-13.37.38.jpeg",
+      "localImage": "assets/news/4596667.jpg"
+    },
+    {
+      "id": "4596623",
+      "title": "Lamine Yamal's double digits",
+      "description": "Nobody has provided more assists in Europe's five biggest leagues in 2026/27",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-21",
+      "dateLabel": "October 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596623/lamine-yamals-double-digits",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/4a065205-b723-4e65-8730-cb4b0ea17c86/_MGA9503.jpg",
+      "localImage": "assets/news/4596623.jpg"
+    },
+    {
+      "id": "4596588",
+      "title": "Xavi Espart comes of age",
+      "description": "The full back puts in an excellent performance in the game against PSG, proving growing maturity and promise for the future",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-21",
+      "dateLabel": "October 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596588/xavi-espart-comes-of-age-against-paris-saint-germain",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/b41724ca-0f00-4d87-8c8c-f730d06a0424/_MGA9688.jpg",
+      "localImage": "assets/news/4596588.jpg"
+    },
+    {
       "id": "4596285",
       "title": "PSG 4-2 Barça: First defeat",
       "description": "Equalisers from Xavi Espart and Lamine Yamal keep the Catalans well in contention, but two late goals for the Parisians bring an end to the perfect start to 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596285/paris-saint-germain-4-2-fc-barcelona-first-defeat",
@@ -6363,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PSG 1-1 FC Barcelona U19: Hard fought point",
       "description": "Pedro Rodríguez transforma un penalti para dar el empate a los azulgranas en un partido muy disputado.",
       "category": "Barça Youth",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 Oct 26",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4595622/psg-1-1-fc-barcelona-u19-hard-fought-point",
@@ -6513,56 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/13f1619e-6305-4a26-ac11-b9f4c5bfa73e/_MGA8155.jpg",
       "localImage": "assets/news/4593865.jpg"
-    },
-    {
-      "id": "4593754",
-      "title": "Flick matches his best run of wins",
-      "description": "With the victory against Betis in La Cartuja, the Barça coach records 11 consecutive victories this season",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593754/hansi-flick-equals-his-best-run-of-wins-with-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/4e26dd94-d03c-4c41-b101-038ceb369fec/_MGA7637-1-.jpg",
-      "localImage": "assets/news/4593754.jpg"
-    },
-    {
-      "id": "4588635",
-      "title": "Raphinha comes back to draw level with Neymar",
-      "description": "The forward now has 186 appearances, placing him fifth on the all-time list for FC Barcelona's Brazilian players",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4588635/raphinha-comes-back-to-draw-level-with-neymar",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/4093d0d4-b93e-4ad8-bc2c-5ca208588cb6/_MGA7954.jpg",
-      "localImage": "assets/news/4588635.jpg"
-    },
-    {
-      "id": "4593638",
-      "title": "Betis 2-5 Barça: The dream start continues",
-      "description": "Thriller at La Cartuja sees goals from Lamine Yamal, Rodri, Gabriel Jesus, Eric García and Dani Olmo secure a historic ninth league win in nine games",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593638/betis-2-5-fc-barcelona-the-dream-start-continues",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/b3d659b6-fc31-4554-a1e0-1a8321390af8/_MGA8159.jpg",
-      "localImage": "assets/news/4593638.jpg"
-    },
-    {
-      "id": "4593710",
-      "title": "Hansi Flick's Barça equal record for best league start",
-      "description": "The blaugranes' win against Betis makes it nine wins from their first nine matches in La Liga, a feat not achieves since the 1968/69 season",
-      "category": "First Team",
-      "relativeTime": "Published date 17 Oct 26",
-      "publishedDate": "2026-10-17",
-      "dateLabel": "October 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/17/13022a09-2e60-4c2a-b6e6-ce9248a79a95/_MGA8129.jpg",
-      "localImage": "assets/news/4593710.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-21T09:39:36.395Z",
+  "newsUpdatedAt": "2026-10-21T15:11:03.610Z",
   "archive": {}
 };
