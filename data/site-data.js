@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-21T04:36:54.370Z",
+  "generatedAt": "2026-10-21T09:39:36.395Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "PSG 4-2 Barça: First defeat",
       "description": "Equalisers from Xavi Espart and Lamine Yamal keep the Catalans well in contention, but two late goals for the Parisians bring an end to the perfect start to 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596285/paris-saint-germain-4-2-fc-barcelona-first-defeat",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "PSG 1-1 FC Barcelona U19: Hard fought point",
       "description": "Pedro Rodríguez transforma un penalti para dar el empate a los azulgranas en un partido muy disputado.",
       "category": "Barça Youth",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4595622/psg-1-1-fc-barcelona-u19-hard-fought-point",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | PSG v Barça",
       "description": "The Parc de Princes is the venue as the back-to-back European champions take on a side that has won every game so far this season",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 20 Oct 26",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594863/preview-paris-saint-germain-v-fc-barcelona",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "486 Penya members will back the team in Paris",
       "description": "The Penya Blaugrana de Paris organized a pre-match dinner yesterday attended by FC Barcelona Vice-President Rafael Yuste and Board Member Josep-Ignasi Macià.",
       "category": "",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 20 Oct 26",
       "publishedDate": "2026-10-20",
       "dateLabel": "October 20",
       "source": "https://www.fcbarcelona.com/en/news/4595003/486-penya-members-will-back-the-team-in-paris",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4593710.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-21T04:36:54.370Z",
+  "newsUpdatedAt": "2026-10-21T09:39:36.395Z",
   "archive": {}
 };
