@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-22T01:27:24.502Z",
+  "updatedAt": "2026-10-22T06:33:20.768Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Dani Olmo injury news",
       "description": "Tests carried out confirm that the player is suffering from an injury to his left adductor muscle",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596701/dani-olmo-injury-news",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Recovery session after PSG game",
       "description": "The players with most minutes in the game in the Parc des Princes have a gym session with the rest of the squad training at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596667/recovery-session-after-psg-game",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Lamine Yamal's double digits",
       "description": "Nobody has provided more assists in Europe's five biggest leagues in 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596623/lamine-yamals-double-digits",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Xavi Espart comes of age",
       "description": "The full back puts in an excellent performance in the game against PSG, proving growing maturity and promise for the future",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596588/xavi-espart-comes-of-age-against-paris-saint-germain",
