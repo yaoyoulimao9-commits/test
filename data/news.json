@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-10-22T12:23:06.624Z",
+  "updatedAt": "2026-10-22T17:36:26.951Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4597134",
+      "title": "New Nike boots ready for El Clásico",
+      "description": "Rodri, Joan Garcia, Xavi Espart and Adeyemi will sport personalised motivational messages to inspire them to give their all against Real Madrid",
+      "category": "Club",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-22",
+      "dateLabel": "October 22",
+      "source": "https://www.fcbarcelona.com/en/club/news/4597134/new-nike-boots-ready-for-el-clasico",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/70612131-9f1d-4621-bc19-1fea792e3890/3200X2000_NIKE.png",
+      "localImage": "assets/news/4597134.png"
+    },
+    {
       "id": "4596876",
       "title": "Flick and Mou, head-to-head",
       "description": "FC Barcelona's coach has a fine record to date against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
@@ -21,7 +33,7 @@
       "title": "Dani Olmo injury news",
       "description": "Tests carried out confirm that the player is suffering from an injury to his left adductor muscle",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 21 Oct 26",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596701/dani-olmo-injury-news",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594024/medical-updates-on-eric-and-kounde",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/e36ba3ed-db2b-4ea6-8143-64fedb19306b/_MGA7641.jpg",
       "localImage": "assets/news/4594024.jpg"
-    },
-    {
-      "id": "4593903",
-      "title": "Real Sociedad 2-1 Barça Femení: Defeat in Zubieta",
-      "description": "Despite going ahead in the opening minute, the blaugranes drop points for the first time this season",
-      "category": "Women",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/14958296-90ba-4f43-8468-965408dd8c97/CSP_IA_20261018_0037.jpg",
-      "localImage": "assets/news/4593903.jpg"
     }
   ]
 }
