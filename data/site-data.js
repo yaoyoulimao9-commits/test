@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-22T06:33:20.772Z",
+  "generatedAt": "2026-10-22T12:23:06.629Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4596876",
+      "title": "Flick and Mou, head-to-head",
+      "description": "FC Barcelona's coach has a fine record to date against Real Madrid",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-22",
+      "dateLabel": "October 22",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/1193739b-ffc7-483d-a9fb-de5a56f19f0c/_MGA6966_1.jpg",
+      "localImage": "assets/news/4596876.jpg"
+    },
+    {
       "id": "4596701",
       "title": "Dani Olmo injury news",
       "description": "Tests carried out confirm that the player is suffering from an injury to his left adductor muscle",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596701/dani-olmo-injury-news",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Recovery session after PSG game",
       "description": "The players with most minutes in the game in the Parc des Princes have a gym session with the rest of the squad training at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 21 Oct 26",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596667/recovery-session-after-psg-game",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal's double digits",
       "description": "Nobody has provided more assists in Europe's five biggest leagues in 2026/27",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 Oct 26",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596623/lamine-yamals-double-digits",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart comes of age",
       "description": "The full back puts in an excellent performance in the game against PSG, proving growing maturity and promise for the future",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 21 Oct 26",
       "publishedDate": "2026-10-21",
       "dateLabel": "October 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596588/xavi-espart-comes-of-age-against-paris-saint-germain",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4593903/real-sociedad-2-1-barca-femeni-defeat-in-zubieta",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/14958296-90ba-4f43-8468-965408dd8c97/CSP_IA_20261018_0037.jpg",
       "localImage": "assets/news/4593903.jpg"
-    },
-    {
-      "id": "4593865",
-      "title": "13 different scorers a record in Europe",
-      "description": "With goals from Rodrigo, Eric Garcia and Dani Olmo in the win at Betis, the blaugranes list of goalscorers grows ever bigger",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/13f1619e-6305-4a26-ac11-b9f4c5bfa73e/_MGA8155.jpg",
-      "localImage": "assets/news/4593865.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-22T06:33:20.772Z",
+  "newsUpdatedAt": "2026-10-22T12:23:06.629Z",
   "archive": {}
 };
