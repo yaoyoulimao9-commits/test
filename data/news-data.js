@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-22T20:49:07.803Z",
+  "updatedAt": "2026-10-22T23:57:59.805Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4597476",
+      "title": "Teamwork brings victory (81-89)",
+      "description": "Blaugranes earn their fourth EuroLeague win in Italy with a team performance led by Punter, Gibson, Martin and Parra",
+      "category": "Basketball",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-22",
+      "dateLabel": "October 22",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4597476/armani-olimpia-milano-81-89-barca-teamwork-brings-victory",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/8b6d0217-3d42-4c4f-9a11-1de87287a03d/_VDE9570_ZWBfcO7Y_20261022094232.jpg",
+      "localImage": "assets/news/4597476.jpg"
+    },
+    {
+      "id": "4597472",
+      "title": "Untouchable at the Palau (40-34)",
+      "description": "Fifth consecutive EHF Champions League win for the blaugranes in the final home game of the group phase",
+      "category": "Handball",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-22",
+      "dateLabel": "October 22",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597472/barca-40-34-montpeller-handball-untouchable-at-the-palau",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/c4a040ff-ca92-452c-a382-72a7b845b059/2026-10-22_FCBHANDBOLvsMONTPELLIER_066.JPG",
+      "localImage": "assets/news/4597472.jpg"
+    },
     {
       "id": "4597134",
       "title": "New Nike boots ready for El Clásico",
       "description": "Rodri, Joan Garcia, Xavi Espart and Adeyemi will sport personalised motivational messages to inspire them to give their all against Real Madrid",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4597134/new-nike-boots-ready-for-el-clasico",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Flick and Mou, head-to-head",
       "description": "FC Barcelona's coach has a fine record to date against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/d523a795-aedc-41b2-bd77-d751894d1062/DAG-048-_M1A8975.jpg",
       "localImage": "assets/news/4594078.jpg"
-    },
-    {
-      "id": "4594084",
-      "title": "Show of strength (28-37)",
-      "description": "Blaugranes improve as the game goes on to seal a fifth league win, with standout performances by Elderaa and Hallgrimsson",
-      "category": "Handball",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4594084/frigorificos-del-morrazo-28-37-barca-show-of-strength",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/52ae7742-4a28-48f6-91bc-308690960388/3G0A2064-Ra-l-Fonseca-1-.jpeg",
-      "localImage": "assets/news/4594084.jpg"
-    },
-    {
-      "id": "4594024",
-      "title": "Medical updates on Eric and Kounde",
-      "description": "Catalan set to be out for three to four weeks while the Frenchman will miss the match against PSG",
-      "category": "First Team",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594024/medical-updates-on-eric-and-kounde",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/e36ba3ed-db2b-4ea6-8143-64fedb19306b/_MGA7641.jpg",
-      "localImage": "assets/news/4594024.jpg"
     }
   ]
 };
