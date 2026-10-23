@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-23T09:59:29.974Z",
+  "generatedAt": "2026-10-23T15:00:26.097Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,59 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4597541",
+      "title": "Four live streams and special Clásico coverage on Barça Play",
+      "description": "Packed schedule of blaugrana youth football matches available via the official FC Barcelona media this weekend",
+      "category": "Club",
+      "relativeTime": "Published date 9 Mins ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/club/news/4597541/four-live-streams-and-special-clasico-coverage-on-barca-play",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/7efb1e03-a1ea-41d5-b0b3-c829a1f72219/2026-10-17_FCBATLETICvsUTEBO_063.JPG",
+      "localImage": "assets/news/4597541.jpg"
+    },
+    {
+      "id": "4597785",
+      "title": "'I have a special connection with Hansi Flick'",
+      "description": "Ahead of his first Clásico, the German winger responds to questions from the Barça fans",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597785/karim-adeyemi-i-have-a-special-connection-with-hansi-flick",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/9e736efc-4234-4ace-b511-8c80595a8a1d/_MGA0202.jpg",
+      "localImage": "assets/news/4597785.jpg"
+    },
+    {
+      "id": "4597861",
+      "title": "105 million euros of notes successfully allocated",
+      "description": "Operation completes the total of 210 million euros over two issues approved by the General Assembly for Delegate Members",
+      "category": "Club",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/club/news/4597861/fc-barcelona-successfully-allocates-105-million-euros-of-notes",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/10/08/cd935dd1-a04a-4a23-8a32-7bbdeb79a573/16x9_FCBSTATEMENT_2025-02.jpg",
+      "localImage": "assets/news/4597861.jpg"
+    },
+    {
+      "id": "4597765",
+      "title": "Penultimate session ahead of the Clásico",
+      "description": "The countdown to the Barça v Real Madrid match continues for the blaugranes, who were in for training this morning at the Ciutat Esportiva",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597765/penultimate-session-ahead-of-the-clasico",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/4ac81740-907c-4f15-921f-9639518e1dfe/image00022.jpeg",
+      "localImage": "assets/news/4597765.jpg"
+    },
+    {
       "id": "4597145",
       "title": "When and where to watch El Clásico",
       "description": "International viewing guide to one of the biggest football fixtures in the world",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597145/when-and-where-to-watch-fc-barcelona-v-real-madrid",
@@ -6363,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "A Clásico with many new faces",
       "description": "Six FC Barcelona players are preparing for their first match in blaugrana against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597462/a-clasico-with-many-new-faces",
@@ -6375,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Teamwork brings victory (81-89)",
       "description": "Blaugranes earn their fourth EuroLeague win in Italy with a team performance led by Punter, Gibson, Martin and Parra",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4597476/armani-olimpia-milano-81-89-barca-teamwork-brings-victory",
@@ -6387,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Untouchable at the Palau (40-34)",
       "description": "Fifth consecutive EHF Champions League win for the blaugranes in the final home game of the group phase",
       "category": "Handball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597472/barca-40-34-montpeller-handball-untouchable-at-the-palau",
@@ -6399,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "New Nike boots ready for El Clásico",
       "description": "Rodri, Joan Garcia, Xavi Espart and Adeyemi will sport personalised motivational messages to inspire them to give their all against Real Madrid",
       "category": "Club",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4597134/new-nike-boots-ready-for-el-clasico",
@@ -6513,56 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4595003/486-penya-members-will-back-the-team-in-paris",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/20/3b50b07e-a6ab-4880-a137-c2da65fb6fdf/WhatsApp-Image-2026-10-19-at-23.29.00.jpeg",
       "localImage": "assets/news/4595003.jpg"
-    },
-    {
-      "id": "4594810",
-      "title": "First contact with Parc des Princes",
-      "description": "Hansi Flick's side take to the pitch at the Parisian stadium ahead of Tuesday's clash with Paris Saint-Germain (9pm CEST).",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Oct 26",
-      "publishedDate": "2026-10-19",
-      "dateLabel": "October 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594810/first-contact-with-parc-des-princes",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/19/23b2650d-4e88-4fb8-be4d-79834f58eae4/_MGA8540.jpg",
-      "localImage": "assets/news/4594810.jpg"
-    },
-    {
-      "id": "4594778",
-      "title": "Hansi Flick: 'We're ready'",
-      "description": "German coach speaks to the media ahead of Tuesday huge clash with Paris Saint-Germain",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Oct 26",
-      "publishedDate": "2026-10-19",
-      "dateLabel": "October 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594778/hansi-flick-were-ready",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/19/b07991b3-1af2-4d67-8423-179c50283dc1/_MGA8390.jpg",
-      "localImage": "assets/news/4594778.jpg"
-    },
-    {
-      "id": "4591743",
-      "title": "When and where to watch PSG v Barça",
-      "description": "Our guide to the international kick-off times and TV channels for the third UEFA Champions League match of the season",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Oct 26",
-      "publishedDate": "2026-10-19",
-      "dateLabel": "October 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4591743/when-and-where-to-watch-paris-saint-germain-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/14/0bd7eeb2-ca56-4981-9a30-6e0de4df652a/3200x2000_Horarios-Paris_20_10.png",
-      "localImage": "assets/news/4591743.png"
-    },
-    {
-      "id": "4594106",
-      "title": "Barça squad for PSG game",
-      "description": "Hansi Flick's side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Oct 26",
-      "publishedDate": "2026-10-19",
-      "dateLabel": "October 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/96e974d9-6ffb-4dea-80b8-e635df12ea1b/_MGA7720.jpg",
-      "localImage": "assets/news/4594106.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-23T09:59:29.974Z",
+  "newsUpdatedAt": "2026-10-23T15:00:26.097Z",
   "archive": {}
 };
