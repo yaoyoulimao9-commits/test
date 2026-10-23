@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-23T04:40:34.570Z",
+  "generatedAt": "2026-10-23T09:59:29.974Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4597145",
+      "title": "When and where to watch El Clásico",
+      "description": "International viewing guide to one of the biggest football fixtures in the world",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597145/when-and-where-to-watch-fc-barcelona-v-real-madrid",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/1f892d7e-8d81-4ff7-9cd0-df7945688b1c/3200x2000_Horarios-RealMadrd_25_10.png",
+      "localImage": "assets/news/4597145.png"
+    },
+    {
+      "id": "4597462",
+      "title": "A Clásico with many new faces",
+      "description": "Six FC Barcelona players are preparing for their first match in blaugrana against Real Madrid",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-23",
+      "dateLabel": "October 23",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597462/a-clasico-with-many-new-faces",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/37cfff3c-8c71-4251-98f4-152dd33c7ee7/_C4A5977-1-.jpg",
+      "localImage": "assets/news/4597462.jpg"
+    },
+    {
       "id": "4597476",
       "title": "Teamwork brings victory (81-89)",
       "description": "Blaugranes earn their fourth EuroLeague win in Italy with a team performance led by Punter, Gibson, Martin and Parra",
       "category": "Basketball",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4597476/armani-olimpia-milano-81-89-barca-teamwork-brings-victory",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Untouchable at the Palau (40-34)",
       "description": "Fifth consecutive EHF Champions League win for the blaugranes in the final home game of the group phase",
       "category": "Handball",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597472/barca-40-34-montpeller-handball-untouchable-at-the-palau",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "New Nike boots ready for El Clásico",
       "description": "Rodri, Joan Garcia, Xavi Espart and Adeyemi will sport personalised motivational messages to inspire them to give their all against Real Madrid",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4597134/new-nike-boots-ready-for-el-clasico",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Flick and Mou, head-to-head",
       "description": "FC Barcelona's coach has a fine record to date against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 22 Oct 26",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4594106/fc-barcelona-squad-for-the-trip-to-psg",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/96e974d9-6ffb-4dea-80b8-e635df12ea1b/_MGA7720.jpg",
       "localImage": "assets/news/4594106.jpg"
-    },
-    {
-      "id": "4594114",
-      "title": "Lliga Catalana champions (0-1)",
-      "description": "Blaugranes come through against Calafell in this close contest of a final, with Martí Casas scoring the winning goal",
-      "category": "Roller Hockey",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4594114/calafell-0-1-barca-lliga-catalana-champions",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/328e515c-6641-493d-b197-79edb79f8daa/Image-3-.jfif",
-      "localImage": "assets/news/4594114.jpg"
-    },
-    {
-      "id": "4594078",
-      "title": "Loss at the Olímpic (113-89)",
-      "description": "Blaugranes fall to defeat away at Badalona in the derby",
-      "category": "Basketball",
-      "relativeTime": "Published date 18 Oct 26",
-      "publishedDate": "2026-10-18",
-      "dateLabel": "October 18",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4594078/joventut-de-badalona-113-89-barca-loss-at-the-olimpic",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/18/d523a795-aedc-41b2-bd77-d751894d1062/DAG-048-_M1A8975.jpg",
-      "localImage": "assets/news/4594078.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-23T04:40:34.570Z",
+  "newsUpdatedAt": "2026-10-23T09:59:29.974Z",
   "archive": {}
 };
