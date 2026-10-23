@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-22T23:57:59.810Z",
+  "generatedAt": "2026-10-23T04:40:34.570Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Teamwork brings victory (81-89)",
       "description": "Blaugranes earn their fourth EuroLeague win in Italy with a team performance led by Punter, Gibson, Martin and Parra",
       "category": "Basketball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4597476/armani-olimpia-milano-81-89-barca-teamwork-brings-victory",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Untouchable at the Palau (40-34)",
       "description": "Fifth consecutive EHF Champions League win for the blaugranes in the final home game of the group phase",
       "category": "Handball",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597472/barca-40-34-montpeller-handball-untouchable-at-the-palau",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "New Nike boots ready for El Clásico",
       "description": "Rodri, Joan Garcia, Xavi Espart and Adeyemi will sport personalised motivational messages to inspire them to give their all against Real Madrid",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/club/news/4597134/new-nike-boots-ready-for-el-clasico",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Flick and Mou, head-to-head",
       "description": "FC Barcelona's coach has a fine record to date against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-22",
       "dateLabel": "October 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4594078.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-22T23:57:59.810Z",
+  "newsUpdatedAt": "2026-10-23T04:40:34.570Z",
   "archive": {}
 };
