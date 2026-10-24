@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-24T17:34:07.526Z",
+  "generatedAt": "2026-10-24T19:46:50.967Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "El Ejido 2-7 Barça: Winning comeback",
       "description": "The blaugranes get back to league action with a big win before upcoming challenge in Europe",
       "category": "Futsal",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4598191/el-ejido-2-7-barca-winning-comeback",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Ready for El Clásico",
       "description": "Saturday session is the last before taking on Real Madrid on Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598180/ready-for-el-clasico",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "\"Much more than three points'",
       "description": "FC Barcelona coach with his views ahead of Sunday's big game with Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598196/hansi-flick-clasico-much-more-than-three-points",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça connects football, art and culture",
       "description": "This artistic initiative is part of FC Barcelona's brand strategy to reach new audiences and expand its cultural relevance beyond football.",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4598035/barca-connects-football-art-and-culture-in-a-creative-experience-inspired-by-tyler-the-creator",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 45-27 REBI Balonmano Cuenca: No mercy",
       "description": "Carlos Ortega's team pick up a sixth victory in the ASOBAL league, their second win in the space of 48 hours",
       "category": "Handball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 Oct 26",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597973/barca-45-27-rebi-balonmano-cuenca-no-mercy",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Messi receives the 2026 Princess Asturias Prize",
       "description": "The former FC Barcelona player received the award on Friday in Oviedo recognising values in sport such as friendship, teamwork and fair play",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 23 Oct 26",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4597966/messi-receives-the-2026-princess-asturias-prize",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4596667.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-24T17:34:07.526Z",
+  "newsUpdatedAt": "2026-10-24T19:46:50.967Z",
   "archive": {}
 };
