@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-24T14:28:28.339Z",
+  "generatedAt": "2026-10-24T17:34:07.526Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4598191",
+      "title": "El Ejido 2-7 Barça: Winning comeback",
+      "description": "The blaugranes get back to league action with a big win before upcoming challenge in Europe",
+      "category": "Futsal",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-24",
+      "dateLabel": "October 24",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4598191/el-ejido-2-7-barca-winning-comeback",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/c7759994-1bb8-4bc7-8eb7-e19ee6cfccac/DSC00796.JPG",
+      "localImage": "assets/news/4598191.jpg"
+    },
+    {
       "id": "4598180",
       "title": "Ready for El Clásico",
       "description": "Saturday session is the last before taking on Real Madrid on Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598180/ready-for-el-clasico",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "\"Much more than three points'",
       "description": "FC Barcelona coach with his views ahead of Sunday's big game with Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598196/hansi-flick-clasico-much-more-than-three-points",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça connects football, art and culture",
       "description": "This artistic initiative is part of FC Barcelona's brand strategy to reach new audiences and expand its cultural relevance beyond football.",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4598035/barca-connects-football-art-and-culture-in-a-creative-experience-inspired-by-tyler-the-creator",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 45-27 REBI Balonmano Cuenca: No mercy",
       "description": "Carlos Ortega's team pick up a sixth victory in the ASOBAL league, their second win in the space of 48 hours",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4597973/barca-45-27-rebi-balonmano-cuenca-no-mercy",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Messi receives the 2026 Princess Asturias Prize",
       "description": "The former FC Barcelona player received the award on Friday in Oviedo recognising values in sport such as friendship, teamwork and fair play",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4597966/messi-receives-the-2026-princess-asturias-prize",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Four live streams and special Clásico coverage on Barça Play",
       "description": "Packed schedule of blaugrana youth football matches available via the official FC Barcelona media this weekend",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 23 Oct 26",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4597541/four-live-streams-and-special-clasico-coverage-on-barca-play",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596667/recovery-session-after-psg-game",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/4e42512a-2d4d-4fd0-9e1e-ad6d80ea1910/WhatsApp-Image-2026-10-21-at-13.37.38.jpeg",
       "localImage": "assets/news/4596667.jpg"
-    },
-    {
-      "id": "4596623",
-      "title": "Lamine Yamal's double digits",
-      "description": "Nobody has provided more assists in Europe's five biggest leagues in 2026/27",
-      "category": "First Team",
-      "relativeTime": "Published date 21 Oct 26",
-      "publishedDate": "2026-10-21",
-      "dateLabel": "October 21",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596623/lamine-yamals-double-digits",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/4a065205-b723-4e65-8730-cb4b0ea17c86/_MGA9503.jpg",
-      "localImage": "assets/news/4596623.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-24T14:28:28.339Z",
+  "newsUpdatedAt": "2026-10-24T17:34:07.526Z",
   "archive": {}
 };
