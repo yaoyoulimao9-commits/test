@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-24T19:46:50.962Z",
+  "updatedAt": "2026-10-24T22:26:39.316Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4598324",
+      "title": "Barça 3-0 Granada: Triumphant return to the Estadi Johan Cruyff",
+      "description": "The blaugranes pick up three points in their first game at home the stadium for a month with Caroline Graham Hansen the catalyst for victory",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-24",
+      "dateLabel": "October 24",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4598324/barca-3-0-granada-triumphant-return-to-the-estadi-johan-cruyff",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/bf615dc7-758f-4b0a-9bcc-5ded645b1f85/_5DS0712_1716yjlb.jpg",
+      "localImage": "assets/news/4598324.jpg"
+    },
+    {
+      "id": "4598277",
+      "title": "Liceo 3-5 Barça: Super Cup finalists",
+      "description": "The blaugranes put in a great performance in the semi-final to set up the chance for more silverware / Photos: @fedpatinaje | Aniol Moral",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-24",
+      "dateLabel": "October 24",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598277/liceo-3-5-barca-super-cup-finalists",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/2b75e485-28fb-4166-9377-59d4399574a6/DSC00129.jpg.jpeg",
+      "localImage": "assets/news/4598277.jpg"
+    },
     {
       "id": "4598191",
       "title": "El Ejido 2-7 Barça: Winning comeback",
       "description": "The blaugranes get back to league action with a big win before upcoming challenge in Europe",
       "category": "Futsal",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4598191/el-ejido-2-7-barca-winning-comeback",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Ready for El Clásico",
       "description": "Saturday session is the last before taking on Real Madrid on Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598180/ready-for-el-clasico",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "\"Much more than three points'",
       "description": "FC Barcelona coach with his views ahead of Sunday's big game with Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598196/hansi-flick-clasico-much-more-than-three-points",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça connects football, art and culture",
       "description": "This artistic initiative is part of FC Barcelona's brand strategy to reach new audiences and expand its cultural relevance beyond football.",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 23 Oct 26",
       "publishedDate": "2026-10-23",
       "dateLabel": "October 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4598035/barca-connects-football-art-and-culture-in-a-creative-experience-inspired-by-tyler-the-creator",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596876/clasico-brings-second-head-to-head-between-flick-and-mourinho",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/1193739b-ffc7-483d-a9fb-de5a56f19f0c/_MGA6966_1.jpg",
       "localImage": "assets/news/4596876.jpg"
-    },
-    {
-      "id": "4596701",
-      "title": "Dani Olmo injury news",
-      "description": "Tests carried out confirm that the player is suffering from an injury to his left adductor muscle",
-      "category": "First Team",
-      "relativeTime": "Published date 21 Oct 26",
-      "publishedDate": "2026-10-21",
-      "dateLabel": "October 21",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596701/dani-olmo-injury-news",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/3b6dded9-85fd-4486-8cb8-557894c66cec/_MGA9412-1-.jpg",
-      "localImage": "assets/news/4596701.jpg"
-    },
-    {
-      "id": "4596667",
-      "title": "Recovery session after PSG game",
-      "description": "The players with most minutes in the game in the Parc des Princes have a gym session with the rest of the squad training at the Ciutat Esportiva",
-      "category": "First Team",
-      "relativeTime": "Published date 21 Oct 26",
-      "publishedDate": "2026-10-21",
-      "dateLabel": "October 21",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4596667/recovery-session-after-psg-game",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/4e42512a-2d4d-4fd0-9e1e-ad6d80ea1910/WhatsApp-Image-2026-10-21-at-13.37.38.jpeg",
-      "localImage": "assets/news/4596667.jpg"
     }
   ]
 };
