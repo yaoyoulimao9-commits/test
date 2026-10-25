@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-25T00:30:41.784Z",
+  "generatedAt": "2026-10-25T05:15:45.605Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 3-0 Granada: Triumphant return to the Estadi Johan Cruyff",
       "description": "The blaugranes pick up three points in their first game at home the stadium for a month with Caroline Graham Hansen the catalyst for victory",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4598324/barca-3-0-granada-triumphant-return-to-the-estadi-johan-cruyff",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Liceo 3-5 Barça: Super Cup finalists",
       "description": "The blaugranes put in a great performance in the semi-final to set up the chance for more silverware / Photos: @fedpatinaje | Aniol Moral",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598277/liceo-3-5-barca-super-cup-finalists",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "El Ejido 2-7 Barça: Winning comeback",
       "description": "The blaugranes get back to league action with a big win before upcoming challenge in Europe",
       "category": "Futsal",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4598191/el-ejido-2-7-barca-winning-comeback",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Ready for El Clásico",
       "description": "Saturday session is the last before taking on Real Madrid on Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598180/ready-for-el-clasico",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "\"Much more than three points'",
       "description": "FC Barcelona coach with his views ahead of Sunday's big game with Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598196/hansi-flick-clasico-much-more-than-three-points",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4596876.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-25T00:30:41.784Z",
+  "newsUpdatedAt": "2026-10-25T05:15:45.604Z",
   "archive": {}
 };
