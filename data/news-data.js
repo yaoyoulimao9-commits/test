@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-25T10:07:06.892Z",
+  "updatedAt": "2026-10-25T14:22:04.167Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Real Madrid",
       "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 99-81 Casademont Zaragoza: Much needed win",
       "description": "The blaugranes take an important win with Juan Núñez putting in his best performance for the team",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4598329/barca-99-81-casademont-zaragoza-much-needed-win",
@@ -43,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça 3-0 Granada: Triumphant return to the Estadi Johan Cruyff",
       "description": "The blaugranes pick up three points in their first game at home the stadium for a month with Caroline Graham Hansen the catalyst for victory",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4598324/barca-3-0-granada-triumphant-return-to-the-estadi-johan-cruyff",
@@ -55,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Liceo 3-5 Barça: Super Cup finalists",
       "description": "The blaugranes put in a great performance in the semi-final to set up the chance for more silverware / Photos: @fedpatinaje | Aniol Moral",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598277/liceo-3-5-barca-super-cup-finalists",
@@ -63,11 +63,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4598277.jpg"
     },
     {
+      "id": "4598231",
+      "title": "The squad for the Clásico",
+      "description": "Hansi Flick names 23 players for the clash between FC Barcelona and Real Madrid, which kicks off at 9.00pm CET today at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 24 Oct 26",
+      "publishedDate": "2026-10-24",
+      "dateLabel": "October 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598231/the-squad-for-the-clasico",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/a0076b15-6e2e-4a19-babf-7e78e53f4fa6/_MGA0267.jpg",
+      "localImage": "assets/news/4598231.jpg"
+    },
+    {
       "id": "4598191",
       "title": "El Ejido 2-7 Barça: Winning comeback",
       "description": "The blaugranes get back to league action with a big win before upcoming challenge in Europe",
       "category": "Futsal",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Oct 26",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4598191/el-ejido-2-7-barca-winning-comeback",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Ready for El Clásico",
       "description": "Saturday session is the last before taking on Real Madrid on Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Oct 26",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598180/ready-for-el-clasico",
@@ -91,7 +103,7 @@ window.BARCA_NEWS = {
       "title": "'Much more than three points'",
       "description": "FC Barcelona coach with his views ahead of Sunday's big game with Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 24 Oct 26",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598196/hansi-flick-clasico-much-more-than-three-points",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597462/a-clasico-with-many-new-faces",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/37cfff3c-8c71-4251-98f4-152dd33c7ee7/_C4A5977-1-.jpg",
       "localImage": "assets/news/4597462.jpg"
-    },
-    {
-      "id": "4597476",
-      "title": "Teamwork brings victory (81-89)",
-      "description": "Blaugranes earn their fourth EuroLeague win in Italy with a team performance led by Punter, Gibson, Martin and Parra",
-      "category": "Basketball",
-      "relativeTime": "Published date 22 Oct 26",
-      "publishedDate": "2026-10-22",
-      "dateLabel": "October 22",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4597476/armani-olimpia-milano-81-89-barca-teamwork-brings-victory",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/8b6d0217-3d42-4c4f-9a11-1de87287a03d/_VDE9570_ZWBfcO7Y_20261022094232.jpg",
-      "localImage": "assets/news/4597476.jpg"
     }
   ]
 };
