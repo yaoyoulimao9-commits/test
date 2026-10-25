@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-25T20:46:17.677Z",
+  "updatedAt": "2026-10-25T23:12:06.949Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4598695",
+      "title": "Frenkie de Jong returns",
+      "description": "The blaugrana midfielder makes his first appearance in five months",
+      "category": "First Team",
+      "relativeTime": "Published date 52 Mins ago",
+      "publishedDate": "2026-10-25",
+      "dateLabel": "October 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598695/frenkie-de-jong-returns",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/7e0fd296-bf98-48dc-864c-c3fb92504b9a/2026-10-25_FCBvsRMADRID_187.JPG",
+      "localImage": "assets/news/4598695.jpg"
+    },
+    {
+      "id": "4598638",
+      "title": "Barça 1-2 Real Madrid: Heartbreaking defeat",
+      "description": "Mbappé's late winner ends Barça's perfect league start after a magnificent contest that could have gone either way",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-25",
+      "dateLabel": "October 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/3d83b540-f132-49c0-852a-f346930bd80c/DAG-083-_M1A2770.JPG",
+      "localImage": "assets/news/4598638.jpg"
+    },
     {
       "id": "4598544",
       "title": "UE Olot 2-0 Barça Atlètic: First defeat",
       "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
       "description": "Hard fought victory in Olot in the final which was decided on penalties",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Real Madrid",
       "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
@@ -55,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Barça 99-81 Casademont Zaragoza: Much needed win",
       "description": "The blaugranes take an important win with Juan Núñez putting in his best performance for the team",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 24 Oct 26",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4598329/barca-99-81-casademont-zaragoza-much-needed-win",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597785/karim-adeyemi-i-have-a-special-connection-with-hansi-flick",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/9e736efc-4234-4ace-b511-8c80595a8a1d/_MGA0202.jpg",
       "localImage": "assets/news/4597785.jpg"
-    },
-    {
-      "id": "4597861",
-      "title": "105 million euros of notes successfully allocated",
-      "description": "Operation completes the total of 210 million euros over two issues approved by the General Assembly for Delegate Members",
-      "category": "Club",
-      "relativeTime": "Published date 23 Oct 26",
-      "publishedDate": "2026-10-23",
-      "dateLabel": "October 23",
-      "source": "https://www.fcbarcelona.com/en/club/news/4597861/fc-barcelona-successfully-allocates-105-million-euros-of-notes",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/10/08/cd935dd1-a04a-4a23-8a32-7bbdeb79a573/16x9_FCBSTATEMENT_2025-02.jpg",
-      "localImage": "assets/news/4597861.jpg"
-    },
-    {
-      "id": "4597765",
-      "title": "Penultimate session ahead of the Clásico",
-      "description": "The countdown to the Barça v Real Madrid match continues for the blaugranes, who were in for training this morning at the Ciutat Esportiva",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Oct 26",
-      "publishedDate": "2026-10-23",
-      "dateLabel": "October 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597765/penultimate-session-ahead-of-the-clasico",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/4ac81740-907c-4f15-921f-9639518e1dfe/image00022.jpeg",
-      "localImage": "assets/news/4597765.jpg"
     }
   ]
 };
