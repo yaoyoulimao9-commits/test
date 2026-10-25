@@ -1,25 +1,49 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-25T17:50:32.889Z",
+  "updatedAt": "2026-10-25T20:46:17.677Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4598544",
+      "title": "UE Olot 2-0 Barça Atlètic: First defeat",
+      "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-25",
+      "dateLabel": "October 25",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/532d782b-42a3-4ae0-839d-2b084b97bd33/WhatsApp-Image-2026-10-25-at-17.57.39.jpeg",
+      "localImage": "assets/news/4598544.jpg"
+    },
     {
       "id": "4598175",
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 15 Mins ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/6001242c-1f4a-4a26-b52b-6f21d7cefe57/_MGA0554.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/52948e07-c4b6-4d05-9463-c659085edb0c/_MGA0608.jpg",
       "localImage": "assets/news/4598175.jpg"
+    },
+    {
+      "id": "4598538",
+      "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
+      "description": "Hard fought victory in Olot in the final which was decided on penalties",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-25",
+      "dateLabel": "October 25",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/cea28e4e-f0ee-438e-bc2d-1e974fda1331/2026-10-25-FCB-HOQUEI-FINAL-SUPERCOPA-ESP-2574.jpg",
+      "localImage": "assets/news/4598538.jpg"
     },
     {
       "id": "4598192",
       "title": "PREVIEW | Barça v Real Madrid",
       "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 99-81 Casademont Zaragoza: Much needed win",
       "description": "The blaugranes take an important win with Juan Núñez putting in his best performance for the team",
       "category": "Basketball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4598329/barca-99-81-casademont-zaragoza-much-needed-win",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 3-0 Granada: Triumphant return to the Estadi Johan Cruyff",
       "description": "The blaugranes pick up three points in their first game at home the stadium for a month with Caroline Graham Hansen the catalyst for victory",
       "category": "Women",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 24 Oct 26",
       "publishedDate": "2026-10-24",
       "dateLabel": "October 24",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4598324/barca-3-0-granada-triumphant-return-to-the-estadi-johan-cruyff",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597765/penultimate-session-ahead-of-the-clasico",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/4ac81740-907c-4f15-921f-9639518e1dfe/image00022.jpeg",
       "localImage": "assets/news/4597765.jpg"
-    },
-    {
-      "id": "4597145",
-      "title": "When and where to watch El Clásico",
-      "description": "International viewing guide to one of the biggest football fixtures in the world",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Oct 26",
-      "publishedDate": "2026-10-23",
-      "dateLabel": "October 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597145/when-and-where-to-watch-fc-barcelona-v-real-madrid",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/1f892d7e-8d81-4ff7-9cd0-df7945688b1c/3200x2000_Horarios-RealMadrd_25_10.png",
-      "localImage": "assets/news/4597145.png"
-    },
-    {
-      "id": "4597462",
-      "title": "A Clásico with many new faces",
-      "description": "Six FC Barcelona players are preparing for their first match in blaugrana against Real Madrid",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Oct 26",
-      "publishedDate": "2026-10-23",
-      "dateLabel": "October 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597462/a-clasico-with-many-new-faces",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/37cfff3c-8c71-4251-98f4-152dd33c7ee7/_C4A5977-1-.jpg",
-      "localImage": "assets/news/4597462.jpg"
     }
   ]
 };
