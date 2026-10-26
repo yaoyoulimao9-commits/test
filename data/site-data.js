@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-26T15:07:58.528Z",
+  "generatedAt": "2026-10-26T20:44:11.720Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart injury news",
       "description": "",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599042/xavi-espart-injury-news",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Raphinha scores again",
       "description": "In his third game back after a spell on the sidelines, the captain equalises in the Clásico, his eighth goal against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598953/raphinha-scores-again",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'We weren't fresh enough'",
       "description": "German coach admits that his team lacked energy against Real Madrid and says he expects the right reaction",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598708/hansi-flick-we-werent-fresh-enough",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong returns",
       "description": "The blaugrana midfielder makes his first appearance in five months",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598695/frenkie-de-jong-returns",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 1-2 Real Madrid: Heartbreaking defeat",
       "description": "Mbappé's late winner ends Barça's perfect league start after a magnificent contest that could have gone either way",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 25 Oct 26",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "UE Olot 2-0 Barça Atlètic: First defeat",
       "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 25 Oct 26",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 25 Oct 26",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
       "description": "Hard fought victory in Olot in the final which was decided on penalties",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 25 Oct 26",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4597973.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-26T15:07:58.528Z",
+  "newsUpdatedAt": "2026-10-26T20:44:11.720Z",
   "archive": {}
 };
