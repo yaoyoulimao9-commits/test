@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-25T23:12:06.949Z",
+  "updatedAt": "2026-10-26T01:40:14.637Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4598708",
+      "title": "'We weren't fresh enough'",
+      "description": "German coach admits that his team lacked energy against Real Madrid and says he expects the right reaction",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-25",
+      "dateLabel": "October 25",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598708/hansi-flick-we-werent-fresh-enough",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/2cae08b1-18bc-4255-81dd-cfb55945e54f/_MGA0921.jpg",
+      "localImage": "assets/news/4598708.jpg"
+    },
     {
       "id": "4598695",
       "title": "Frenkie de Jong returns",
       "description": "The blaugrana midfielder makes his first appearance in five months",
       "category": "First Team",
-      "relativeTime": "Published date 52 Mins ago",
+      "relativeTime": "Published date 3 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598695/frenkie-de-jong-returns",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 1-2 Real Madrid: Heartbreaking defeat",
       "description": "Mbappé's late winner ends Barça's perfect league start after a magnificent contest that could have gone either way",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "UE Olot 2-0 Barça Atlètic: First defeat",
       "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
       "description": "Hard fought victory in Olot in the final which was decided on penalties",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Real Madrid",
       "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4597541/four-live-streams-and-special-clasico-coverage-on-barca-play",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/22/7efb1e03-a1ea-41d5-b0b3-c829a1f72219/2026-10-17_FCBATLETICvsUTEBO_063.JPG",
       "localImage": "assets/news/4597541.jpg"
-    },
-    {
-      "id": "4597785",
-      "title": "'I have a special connection with Hansi Flick'",
-      "description": "Ahead of his first Clásico, the German winger responds to questions from the Barça fans",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Oct 26",
-      "publishedDate": "2026-10-23",
-      "dateLabel": "October 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4597785/karim-adeyemi-i-have-a-special-connection-with-hansi-flick",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/23/9e736efc-4234-4ace-b511-8c80595a8a1d/_MGA0202.jpg",
-      "localImage": "assets/news/4597785.jpg"
     }
   ]
 };
