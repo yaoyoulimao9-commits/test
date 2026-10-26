@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-26T01:40:14.640Z",
+  "generatedAt": "2026-10-26T07:43:58.933Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "'We weren't fresh enough'",
       "description": "German coach admits that his team lacked energy against Real Madrid and says he expects the right reaction",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598708/hansi-flick-we-werent-fresh-enough",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Frenkie de Jong returns",
       "description": "The blaugrana midfielder makes his first appearance in five months",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598695/frenkie-de-jong-returns",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 1-2 Real Madrid: Heartbreaking defeat",
       "description": "Mbappé's late winner ends Barça's perfect league start after a magnificent contest that could have gone either way",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "UE Olot 2-0 Barça Atlètic: First defeat",
       "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
       "description": "Hard fought victory in Olot in the final which was decided on penalties",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Barça v Real Madrid",
       "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4597541.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-26T01:40:14.640Z",
+  "newsUpdatedAt": "2026-10-26T07:43:58.933Z",
   "archive": {}
 };
