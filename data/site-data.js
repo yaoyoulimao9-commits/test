@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-27T00:23:22.325Z",
+  "generatedAt": "2026-10-27T05:33:41.660Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça, best women's team",
       "description": "The blaugrana women's team reclaim the prize after a historic season which saw them win four trophies",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599206/fc-barcelona-best-womens-team-in-2026",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Cata Coll, Goalkeeper of the Year",
       "description": "The Barça Femení keeper takes the award at the Ballon d'Or gala in London",
       "category": "Women",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599035/cata-coll-goalkeeper-of-the-year",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Pere Romeu wins Coach of the Year",
       "description": "In the third edition of the award, the blaugrana boss take the prize, the first Barça coach to do so in the women's or men's category",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599030/pere-romeu-wins-coach-of-the-year",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Vicky retains Young Talent of the Year award",
       "description": "Madrid-born player receives award recognising her as best under-21 female footballer in the world",
       "category": "Women",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599001/vicky-lopez-retains-young-talent-of-the-year-award",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, Young Talent of the Year and top 3",
       "description": "The blaugrana striker becomes the first player to win the award for the best footballer under 21 three years in a row and finishes on the podium for the main award",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599205/lamine-yamal-young-talent-of-the-year-and-third-in-ballon-dor-rankings",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart injury news",
       "description": "",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599042/xavi-espart-injury-news",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Raphinha scores again",
       "description": "In his third game back after a spell on the sidelines, the captain equalises in the Clásico, his eighth goal against Real Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598953/raphinha-scores-again",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4598231.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-27T00:23:22.325Z",
+  "newsUpdatedAt": "2026-10-27T05:33:41.660Z",
   "archive": {}
 };
