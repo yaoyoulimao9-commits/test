@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-27T20:56:52.141Z",
+  "generatedAt": "2026-10-28T00:28:05.489Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4599815",
+      "title": "More joy in Europe (84-88)",
+      "description": "Punter and his teammates earn Barça's fifth EuroLeague win and third in a row in all competitions",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-27",
+      "dateLabel": "October 27",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4599815/fc-bayern-munich-84-88-barca-more-joy-in-europe",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/27/6a68eb5c-1ce7-4826-b918-d480f4fa37ba/261027_FCBB_Barcelona_sam68_osUG1IJN_20261027095822.jpg",
+      "localImage": "assets/news/4599815.jpg"
+    },
+    {
       "id": "4599624",
       "title": "PB Shanghai makes another donation",
       "description": "Chinese supporters’ club has presented a cheque for €1,150, marking its third contribution to the Foundation",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/news/4599624/penya-blaugrana-shanghai-makes-another-donation-to-the-barca-foundation",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Six years of Barça success",
       "description": "Since 2021, FC Barcelona is the club with most awards from the prestigious gala",
       "category": "Club",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/club/news/4599544/six-years-of-barca-success-at-the-ballon-dor-gala",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça, best women's team",
       "description": "The blaugrana women's team reclaim the prize after a historic season which saw them win four trophies",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 26 Oct 26",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599206/fc-barcelona-best-womens-team-in-2026",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Cata Coll, Goalkeeper of the Year",
       "description": "The Barça Femení keeper takes the award at the Ballon d'Or gala in London",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 26 Oct 26",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599035/cata-coll-goalkeeper-of-the-year",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Pere Romeu wins Coach of the Year",
       "description": "In the third edition of the award, the blaugrana boss take the prize, the first Barça coach to do so in the women's or men's category",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 26 Oct 26",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599030/pere-romeu-wins-coach-of-the-year",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Vicky retains Young Talent of the Year award",
       "description": "Madrid-born player receives award recognising her as best under-21 female footballer in the world",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 26 Oct 26",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599001/vicky-lopez-retains-young-talent-of-the-year-award",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal, Young Talent of the Year and top 3",
       "description": "The blaugrana striker becomes the first player to win the award for the best footballer under 21 three years in a row and finishes on the podium for the main award",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 26 Oct 26",
       "publishedDate": "2026-10-26",
       "dateLabel": "October 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599205/lamine-yamal-young-talent-of-the-year-and-third-in-ballon-dor-rankings",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4598329/barca-99-81-casademont-zaragoza-much-needed-win",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/7ff7963d-e8be-44ae-bfdf-360c299f6894/2026-10-24_FCBBASQUETvsSARAGOSSA_220.jpg",
       "localImage": "assets/news/4598329.jpg"
-    },
-    {
-      "id": "4598324",
-      "title": "Barça 3-0 Granada: Triumphant return to the Estadi Johan Cruyff",
-      "description": "The blaugranes pick up three points in their first game at home the stadium for a month with Caroline Graham Hansen the catalyst for victory",
-      "category": "Women",
-      "relativeTime": "Published date 24 Oct 26",
-      "publishedDate": "2026-10-24",
-      "dateLabel": "October 24",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4598324/barca-3-0-granada-triumphant-return-to-the-estadi-johan-cruyff",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/bf615dc7-758f-4b0a-9bcc-5ded645b1f85/_5DS0712_1716yjlb.jpg",
-      "localImage": "assets/news/4598324.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-27T20:56:52.141Z",
+  "newsUpdatedAt": "2026-10-28T00:28:05.489Z",
   "archive": {}
 };
