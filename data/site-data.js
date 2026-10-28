@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-28T06:15:43.527Z",
+  "generatedAt": "2026-10-28T13:30:05.618Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4600150",
+      "title": "Return to work",
+      "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-28",
+      "dateLabel": "October 28",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/28/9dd2467f-2857-4069-a8fb-f7e5e86f9970/WhatsApp-Image-2026-10-28-at-12.49.49.jpeg",
+      "localImage": "assets/news/4600150.jpg"
+    },
+    {
+      "id": "4599503",
+      "title": "When and where to watch Barça v Alavés",
+      "description": "International viewing guide to this weekend's game at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-28",
+      "dateLabel": "October 28",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599503/when-and-where-to-watch-fc-barcelona-v-alaves",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/27/38439501-c539-46c0-a902-b2219e6f1ed2/3200x2000_Horarios-ALAVES_31_10-2.jpeg",
+      "localImage": "assets/news/4599503.jpg"
+    },
+    {
       "id": "4599815",
       "title": "More joy in Europe (84-88)",
       "description": "Punter and his teammates earn Barça's fifth EuroLeague win and third in a row in all competitions",
       "category": "Basketball",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4599815/fc-bayern-munich-84-88-barca-more-joy-in-europe",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "PB Shanghai makes another donation",
       "description": "Chinese supporters’ club has presented a cheque for €1,150, marking its third contribution to the Foundation",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/news/4599624/penya-blaugrana-shanghai-makes-another-donation-to-the-barca-foundation",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Six years of Barça success",
       "description": "Since 2021, FC Barcelona is the club with most awards from the prestigious gala",
       "category": "Club",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 27 Oct 26",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/club/news/4599544/six-years-of-barca-success-at-the-ballon-dor-gala",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/cea28e4e-f0ee-438e-bc2d-1e974fda1331/2026-10-25-FCB-HOQUEI-FINAL-SUPERCOPA-ESP-2574.jpg",
       "localImage": "assets/news/4598538.jpg"
-    },
-    {
-      "id": "4598192",
-      "title": "PREVIEW | Barça v Real Madrid",
-      "description": "Spotify Camp Nou is the venue this Sunday at 9pm CET for the latest episode of the biggest rivalry in club football",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598192/preview-fc-barcelona-v-real-madrid",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/c67f4408-308c-4e71-8738-93432e6e5920/WhatsApp-Image-2026-10-25-at-09.37.00.jpeg",
-      "localImage": "assets/news/4598192.jpg"
-    },
-    {
-      "id": "4598329",
-      "title": "Barça 99-81 Casademont Zaragoza: Much needed win",
-      "description": "The blaugranes take an important win with Juan Núñez putting in his best performance for the team",
-      "category": "Basketball",
-      "relativeTime": "Published date 24 Oct 26",
-      "publishedDate": "2026-10-24",
-      "dateLabel": "October 24",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4598329/barca-99-81-casademont-zaragoza-much-needed-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/24/7ff7963d-e8be-44ae-bfdf-360c299f6894/2026-10-24_FCBBASQUETvsSARAGOSSA_220.jpg",
-      "localImage": "assets/news/4598329.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-28T06:15:43.527Z",
+  "newsUpdatedAt": "2026-10-28T13:30:05.618Z",
   "archive": {}
 };
