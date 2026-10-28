@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-28T13:30:05.618Z",
+  "generatedAt": "2026-10-28T19:05:11.391Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Return to work",
       "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Alavés",
       "description": "International viewing guide to this weekend's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599503/when-and-where-to-watch-fc-barcelona-v-alaves",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "More joy in Europe (84-88)",
       "description": "Punter and his teammates earn Barça's fifth EuroLeague win and third in a row in all competitions",
       "category": "Basketball",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4599815/fc-bayern-munich-84-88-barca-more-joy-in-europe",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "PB Shanghai makes another donation",
       "description": "Chinese supporters’ club has presented a cheque for €1,150, marking its third contribution to the Foundation",
       "category": "",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 27 Oct 26",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/news/4599624/penya-blaugrana-shanghai-makes-another-donation-to-the-barca-foundation",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4598538.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-28T13:30:05.618Z",
+  "newsUpdatedAt": "2026-10-28T19:05:11.391Z",
   "archive": {}
 };
