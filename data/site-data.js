@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-28T19:05:11.391Z",
+  "generatedAt": "2026-10-28T23:12:03.861Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4600276",
+      "title": "Victory on Champions League return (6-1)",
+      "description": "Blaugranes earn first three points in the Main Round as they mark their return to the premier club competition in Europe with a victory / Photos: cibko.sports.photography",
+      "category": "Futsal",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-28",
+      "dateLabel": "October 28",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600276/barca-6-1-minerva-victory-on-champions-league-return",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/28/34f822b4-4b34-4ec7-863b-e9c97f3c7c87/FC-Barcelona-Futsal-CLub-MInerva-3.jpg",
+      "localImage": "assets/news/4600276.jpg"
+    },
+    {
       "id": "4600150",
       "title": "Return to work",
       "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Alavés",
       "description": "International viewing guide to this weekend's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599503/when-and-where-to-watch-fc-barcelona-v-alaves",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "More joy in Europe (84-88)",
       "description": "Punter and his teammates earn Barça's fifth EuroLeague win and third in a row in all competitions",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 27 Oct 26",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4599815/fc-bayern-munich-84-88-barca-more-joy-in-europe",
@@ -6527,18 +6539,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4598638.jpg"
     },
     {
-      "id": "4598544",
-      "title": "UE Olot 2-0 Barça Atlètic: First defeat",
-      "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/532d782b-42a3-4ae0-839d-2b084b97bd33/WhatsApp-Image-2026-10-25-at-17.57.39.jpeg",
-      "localImage": "assets/news/4598544.jpg"
-    },
-    {
       "id": "4598175",
       "title": "Countdown to the Clásico",
       "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
@@ -6551,18 +6551,18 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4598175.jpg"
     },
     {
-      "id": "4598538",
-      "title": "Barça 2-2 (5-4) Igualada HC: Spanish Super Cup champions!",
-      "description": "Hard fought victory in Olot in the final which was decided on penalties",
-      "category": "Roller Hockey",
+      "id": "4598544",
+      "title": "UE Olot 2-0 Barça Atlètic: First defeat",
+      "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
+      "category": "Barça Atlètic",
       "relativeTime": "Published date 25 Oct 26",
       "publishedDate": "2026-10-25",
       "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4598538/barca-2-2-5-4-igualada-hc-spanish-super-cup-champions",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/cea28e4e-f0ee-438e-bc2d-1e974fda1331/2026-10-25-FCB-HOQUEI-FINAL-SUPERCOPA-ESP-2574.jpg",
-      "localImage": "assets/news/4598538.jpg"
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/532d782b-42a3-4ae0-839d-2b084b97bd33/WhatsApp-Image-2026-10-25-at-17.57.39.jpeg",
+      "localImage": "assets/news/4598544.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-28T19:05:11.391Z",
+  "newsUpdatedAt": "2026-10-28T23:12:03.861Z",
   "archive": {}
 };
