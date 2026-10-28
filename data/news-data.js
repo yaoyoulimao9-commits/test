@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-28T00:28:05.485Z",
+  "updatedAt": "2026-10-28T06:15:43.523Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "More joy in Europe (84-88)",
       "description": "Punter and his teammates earn Barça's fifth EuroLeague win and third in a row in all competitions",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4599815/fc-bayern-munich-84-88-barca-more-joy-in-europe",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "PB Shanghai makes another donation",
       "description": "Chinese supporters’ club has presented a cheque for €1,150, marking its third contribution to the Foundation",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/news/4599624/penya-blaugrana-shanghai-makes-another-donation-to-the-barca-foundation",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Six years of Barça success",
       "description": "Since 2021, FC Barcelona is the club with most awards from the prestigious gala",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-10-27",
       "dateLabel": "October 27",
       "source": "https://www.fcbarcelona.com/en/club/news/4599544/six-years-of-barca-success-at-the-ballon-dor-gala",
