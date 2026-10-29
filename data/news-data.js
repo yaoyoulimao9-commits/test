@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-28T23:12:03.856Z",
+  "updatedAt": "2026-10-29T02:49:40.215Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Victory on Champions League return (6-1)",
       "description": "Blaugranes earn first three points in the Main Round as they mark their return to the premier club competition in Europe with a victory / Photos: cibko.sports.photography",
       "category": "Futsal",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600276/barca-6-1-minerva-victory-on-champions-league-return",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Return to work",
       "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
@@ -31,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Alavés",
       "description": "International viewing guide to this weekend's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599503/when-and-where-to-watch-fc-barcelona-v-alaves",
