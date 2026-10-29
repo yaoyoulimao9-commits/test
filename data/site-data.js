@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-29T09:50:58.005Z",
+  "generatedAt": "2026-10-29T16:53:07.090Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,83 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4600084",
+      "title": "Board admits five new penyas",
+      "description": "In addition to the newly established supporters clubs, three more towns have regained their official penyes and joined the FC Barcelona register",
+      "category": "",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/news/4600084/board-admits-five-new-penyas",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/28/baba76cf-707b-468b-9c65-90d491295fbc/Vilablareix.jpg",
+      "localImage": "assets/news/4600084.jpg"
+    },
+    {
+      "id": "4600710",
+      "title": "Minute's silence at first team training",
+      "description": "On the day after the tragic rail accident in the province of Toledo, the blaugranes remember the victims and show their support for the injured and all those affected",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600710/training-session-with-minutes-silence-for-the-victims-of-the-rail-accident-between-los-yebenes-and-urda",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/a00d1cff-82d5-46e0-a799-19d180b338a3/_MGA2068.jpg",
+      "localImage": "assets/news/4600710.jpg"
+    },
+    {
+      "id": "4600717",
+      "title": "Board of Directors meeting",
+      "description": "Meeting held at the Club's offices after initially being set to take place in Tarragona",
+      "category": "Club",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/club/news/4600717/board-of-directors-meeting",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/884c0a79-eb58-4b1b-a5af-52e423811485/FOTO-JUNTA.jpeg",
+      "localImage": "assets/news/4600717.jpg"
+    },
+    {
+      "id": "4600661",
+      "title": "Five things ahead of Barça v Alavés",
+      "description": "Time to get into gear for the match against the side from Vitoria via some interesting observations",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600661/five-things-ahead-of-barca-v-alaves",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/f78d1a7a-7cfe-4c0a-8a49-be3b166c94be/_MGA4925.jpg",
+      "localImage": "assets/news/4600661.jpg"
+    },
+    {
+      "id": "4600694",
+      "title": "Penya Credential for 2026/76 season available",
+      "description": "Penya administrators can obtain the credential via their personal profile in the Penya Member Registry",
+      "category": "",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/news/4600694/penya-credential-for-202676-season-available",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/02dcafbc-4505-4630-9bfd-70b690f797c9/Web_Digital_1920x1080_01_Web_Digital_1920x1080_01_CAT.png",
+      "localImage": "assets/news/4600694.png"
+    },
+    {
+      "id": "4600678",
+      "title": "Castanyada and Halloween at the Spotify Camp Nou",
+      "description": "Museum, Boulevard and Ice Rink to host specially themed activities on October 30 and 31 and November 1",
+      "category": "Club",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/club/news/4600678/castanyada-and-halloween-at-the-spotify-camp-nou",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/03585f45-92a1-41d3-a302-6937dfcd6405/2610_Halloween_Web_Hero_3200x2000_01_CAT.jpg",
+      "localImage": "assets/news/4600678.jpg"
+    },
+    {
       "id": "4600276",
       "title": "Victory on Champions League return (6-1)",
       "description": "Blaugranes earn first three points in the Main Round as they mark their return to the premier club competition in Europe with a victory / Photos: cibko.sports.photography",
       "category": "Futsal",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600276/barca-6-1-minerva-victory-on-champions-league-return",
@@ -6363,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Return to work",
       "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 28 Oct 26",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
@@ -6489,80 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599042/xavi-espart-injury-news",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/26/59edcc70-0b08-49f1-b5d6-4adfc6669cc2/2026-10-25_FCBvsRMADRID_058.jpg",
       "localImage": "assets/news/4599042.jpg"
-    },
-    {
-      "id": "4598953",
-      "title": "Raphinha scores again",
-      "description": "In his third game back after a spell on the sidelines, the captain equalises in the Clásico, his eighth goal against Real Madrid",
-      "category": "First Team",
-      "relativeTime": "Published date 26 Oct 26",
-      "publishedDate": "2026-10-26",
-      "dateLabel": "October 26",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598953/raphinha-scores-again",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/26/9c2a7088-5942-4884-87cc-3fc6455bb33a/2026-10-25_FCBvsRMADRID_158.jpg",
-      "localImage": "assets/news/4598953.jpg"
-    },
-    {
-      "id": "4598708",
-      "title": "'We weren't fresh enough'",
-      "description": "German coach admits that his team lacked energy against Real Madrid and says he expects the right reaction",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598708/hansi-flick-we-werent-fresh-enough",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/2cae08b1-18bc-4255-81dd-cfb55945e54f/_MGA0921.jpg",
-      "localImage": "assets/news/4598708.jpg"
-    },
-    {
-      "id": "4598695",
-      "title": "Frenkie de Jong returns",
-      "description": "The blaugrana midfielder makes his first appearance in five months",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598695/frenkie-de-jong-returns",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/7e0fd296-bf98-48dc-864c-c3fb92504b9a/2026-10-25_FCBvsRMADRID_187.JPG",
-      "localImage": "assets/news/4598695.jpg"
-    },
-    {
-      "id": "4598638",
-      "title": "Barça 1-2 Real Madrid: Heartbreaking defeat",
-      "description": "Mbappé's late winner ends Barça's perfect league start after a magnificent contest that could have gone either way",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/3d83b540-f132-49c0-852a-f346930bd80c/DAG-083-_M1A2770.JPG",
-      "localImage": "assets/news/4598638.jpg"
-    },
-    {
-      "id": "4598175",
-      "title": "Countdown to the Clásico",
-      "description": "Keep up to date with all the build up to Barça v Real Madrid at Spotify Camp Nou (all times CET)",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/52948e07-c4b6-4d05-9463-c659085edb0c/_MGA0608.jpg",
-      "localImage": "assets/news/4598175.jpg"
-    },
-    {
-      "id": "4598544",
-      "title": "UE Olot 2-0 Barça Atlètic: First defeat",
-      "description": "After going seven games unbeaten, Barça have suffered their first loss of the season",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 25 Oct 26",
-      "publishedDate": "2026-10-25",
-      "dateLabel": "October 25",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4598544/ue-olot-2-0-barca-atletic-first-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/25/532d782b-42a3-4ae0-839d-2b084b97bd33/WhatsApp-Image-2026-10-25-at-17.57.39.jpeg",
-      "localImage": "assets/news/4598544.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-29T09:50:58.005Z",
+  "newsUpdatedAt": "2026-10-29T16:53:07.090Z",
   "archive": {}
 };
