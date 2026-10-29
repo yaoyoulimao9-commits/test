@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-29T02:49:40.218Z",
+  "generatedAt": "2026-10-29T09:50:58.005Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Victory on Champions League return (6-1)",
       "description": "Blaugranes earn first three points in the Main Round as they mark their return to the premier club competition in Europe with a victory / Photos: cibko.sports.photography",
       "category": "Futsal",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600276/barca-6-1-minerva-victory-on-champions-league-return",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Return to work",
       "description": "After two rest days, the squad kicks off the week's training sessions at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600150/return-to-work",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Alavés",
       "description": "International viewing guide to this weekend's game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 28 Oct 26",
       "publishedDate": "2026-10-28",
       "dateLabel": "October 28",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4599503/when-and-where-to-watch-fc-barcelona-v-alaves",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4598544.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-29T02:49:40.218Z",
+  "newsUpdatedAt": "2026-10-29T09:50:58.005Z",
   "archive": {}
 };
