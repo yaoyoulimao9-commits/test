@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-10-29T21:45:50.119Z",
+  "generatedAt": "2026-10-30T01:54:55.631Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4601146",
+      "title": "Koge 0-8 Barça: Goals galore",
+      "description": "Pere Romeu's side cruised to victory over the Danish outfit and remain top of the Champions League standings",
+      "category": "Women",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-29",
+      "dateLabel": "October 29",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4601146/koge-0-8-barca-goals-galore",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/ee08e228-799a-4df8-929d-0f116925cfac/_GP10739_tn0dmrma.jpg",
+      "localImage": "assets/news/4601146.jpg"
+    },
+    {
       "id": "4601045",
       "title": "FC Barcelona official statement",
       "description": "FC Barcelona has decided to suspend the operation of Gol 1957 for the next league match",
       "category": "Club",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/club/news/4601045/fc-barcelona-official-statement",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Semey 1-6 Barça: Into the last sixteen",
       "description": "Barça laid the foundations for victory in the first half with goals from Eric Martel and Higor and, despite the home side's response after the break, sealed the win with four more goals | PHOTO: Rinat Sametov",
       "category": "Futsal",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600982/semey-1-6-barca-into-the-last-sixteen",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Board admits five new penyas",
       "description": "In addition to the newly established supporters clubs, three more towns have regained their official penyes and joined the FC Barcelona register",
       "category": "",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/news/4600084/board-admits-five-new-penyas",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Minute's silence at first team training",
       "description": "On the day after the tragic rail accident in the province of Toledo, the blaugranes remember the victims and show their support for the injured and all those affected",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600710/training-session-with-minutes-silence-for-the-victims-of-the-rail-accident-between-los-yebenes-and-urda",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Board of Directors meeting",
       "description": "Meeting held at the Club's offices after initially being set to take place in Tarragona",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/club/news/4600717/board-of-directors-meeting",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Five things ahead of Barça v Alavés",
       "description": "Time to get into gear for the match against the side from Vitoria via some interesting observations",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600661/five-things-ahead-of-barca-v-alaves",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Penya Credential for 2026/76 season available",
       "description": "Penya administrators can obtain the credential via their personal profile in the Penya Member Registry",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/news/4600694/penya-credential-for-202676-season-available",
@@ -6435,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Castanyada and Halloween at the Spotify Camp Nou",
       "description": "Museum, Boulevard and Ice Rink to host specially themed activities on October 30 and 31 and November 1",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-29",
       "dateLabel": "October 29",
       "source": "https://www.fcbarcelona.com/en/club/news/4600678/castanyada-and-halloween-at-the-spotify-camp-nou",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599030/pere-romeu-wins-coach-of-the-year",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/26/38841685-c669-487e-a202-a18d86c5bc84/_5DS8707-2-2.jpg",
       "localImage": "assets/news/4599030.jpg"
-    },
-    {
-      "id": "4599001",
-      "title": "Vicky retains Young Talent of the Year award",
-      "description": "Madrid-born player receives award recognising her as best under-21 female footballer in the world",
-      "category": "Women",
-      "relativeTime": "Published date 26 Oct 26",
-      "publishedDate": "2026-10-26",
-      "dateLabel": "October 26",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4599001/vicky-lopez-retains-young-talent-of-the-year-award",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/26/65d980f7-b32e-4910-bb34-7923b647d3b1/_MGA1574.jpg",
-      "localImage": "assets/news/4599001.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-10-29T21:45:50.119Z",
+  "newsUpdatedAt": "2026-10-30T01:54:55.631Z",
   "archive": {}
 };
