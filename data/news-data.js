@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-30T23:45:37.840Z",
+  "updatedAt": "2026-10-31T05:29:25.770Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4601714",
+      "title": "Barça 98-94 Valencia: Drama to the end",
+      "description": "Culers come out on top in a closely contested game that went down to the final minutes, securing their second EuroLeague win of the week",
+      "category": "Basketball",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-10-30",
+      "dateLabel": "October 30",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4601714/barca-98-94-valencia-basket-drama-to-the-end",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/30/9dc65902-4d5e-42ff-ad12-cf8befe02037/AC200465_6dxoz4yn.jpg",
+      "localImage": "assets/news/4601714.jpg"
+    },
     {
       "id": "4601665",
       "title": "Iker Rodríguez, blaugrana until 2029",
       "description": "The young goalkeeper signs on for another three seasons with an option for another two",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4601665/iker-rodriguez-blaugrana-until-2029",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Alavés",
       "description": "With five players from Barça Atlètic, the league leaders finalise preparations for Saturday's game",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601420/last-session-before-alaves",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Barça Legends back to India",
       "description": "The blaugranes will visit Kolkata on 25 November",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/news/4601467/barca-legends-back-to-india",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Flick: 'We want to show our best'",
       "description": "German coach eager to return to winning ways against Alavés on Saturday",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601455/hansi-flick-we-want-to-show-our-best",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Dani Olmo celebrates 100 games",
       "description": "The Catalan midfielder reached a century of appearances in the Champions League game against PSG",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601412/dani-olmo-reaches-100-games-for-fc-barcelona",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Tasty menu on Barça Play at weekend",
       "description": "Three main male youth teams (Barça Atlètic, U19A and U19B), plus live coverage of Flick's side on BARÇA LIVE on the Club website, app and YouTube channel",
       "category": "Club",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/club/news/4599825/three-la-masia-matches-and-coverage-of-barca-v-alaves-on-the-barca-play-menu",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4600678/castanyada-and-halloween-at-the-spotify-camp-nou",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/21/03585f45-92a1-41d3-a302-6937dfcd6405/2610_Halloween_Web_Hero_3200x2000_01_CAT.jpg",
       "localImage": "assets/news/4600678.jpg"
-    },
-    {
-      "id": "4600276",
-      "title": "Victory on Champions League return (6-1)",
-      "description": "Blaugranes earn first three points in the Main Round as they mark their return to the premier club competition in Europe with a victory / Photos: cibko.sports.photography",
-      "category": "Futsal",
-      "relativeTime": "Published date 28 Oct 26",
-      "publishedDate": "2026-10-28",
-      "dateLabel": "October 28",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4600276/barca-6-1-minerva-victory-on-champions-league-return",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/28/34f822b4-4b34-4ec7-863b-e9c97f3c7c87/FC-Barcelona-Futsal-CLub-MInerva-3.jpg",
-      "localImage": "assets/news/4600276.jpg"
     }
   ]
 };
