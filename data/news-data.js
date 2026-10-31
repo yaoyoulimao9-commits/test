@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-31T16:18:23.745Z",
+  "updatedAt": "2026-10-31T20:16:53.079Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4602098",
+      "title": "Barça Atlètic 2-1 Arnedo: Last-gasp win",
+      "description": "A A late goal from Álex González earns the reserves all three points",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 51 Mins ago",
+      "publishedDate": "2026-10-31",
+      "dateLabel": "October 31",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4602098/barca-atletic-2-1-arnedo-last-gasp-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/c48f1f04-ae82-4f82-a0bd-bd7eddc05278/BARC-A-B_ARNEDO-86.jpg",
+      "localImage": "assets/news/4602098.jpg"
+    },
+    {
+      "id": "4602104",
+      "title": "Lučenec 0-11 Barça: Big win to finish main round",
+      "description": "Great performance from Javi Rodríguez's team in Slovakia in the final game of the initial round of the UEFA Futsal Champions League",
+      "category": "Futsal",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-10-31",
+      "dateLabel": "October 31",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4602104/luenec-0-11-barca-big-win-to-finish-main-round",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/1be2ee70-a72f-41a6-832e-912cd023d852/WhatsApp-Image-2026-10-31-at-19.44.52.jpeg",
+      "localImage": "assets/news/4602104.jpg"
+    },
     {
       "id": "4601620",
       "title": "The squad for Barça v Alavés",
       "description": "These are the players that will be defending top spot in La Liga at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601620/the-squad-for-barca-v-alaves",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Barça v Alavés",
       "description": "The league leaders will be looking to bounce back after dropping their first points of the season in El Clásico",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601684/preview-fc-barcelona-v-alaves",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Barça 98-94 Valencia: Drama to the end",
       "description": "Culers come out on top in a closely contested game that went down to the final minutes, securing their second EuroLeague win of the week",
       "category": "Basketball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4601714/barca-98-94-valencia-basket-drama-to-the-end",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Iker Rodríguez, blaugrana until 2029",
       "description": "The young goalkeeper signs on for another three seasons with an option for another two",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 30 Oct 26",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4601665/iker-rodriguez-blaugrana-until-2029",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600710/training-session-with-minutes-silence-for-the-victims-of-the-rail-accident-between-los-yebenes-and-urda",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/a00d1cff-82d5-46e0-a799-19d180b338a3/_MGA2068.jpg",
       "localImage": "assets/news/4600710.jpg"
-    },
-    {
-      "id": "4600717",
-      "title": "Board of Directors meeting",
-      "description": "Meeting held at the Club's offices after initially being set to take place in Tarragona",
-      "category": "Club",
-      "relativeTime": "Published date 29 Oct 26",
-      "publishedDate": "2026-10-29",
-      "dateLabel": "October 29",
-      "source": "https://www.fcbarcelona.com/en/club/news/4600717/board-of-directors-meeting",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/884c0a79-eb58-4b1b-a5af-52e423811485/FOTO-JUNTA.jpeg",
-      "localImage": "assets/news/4600717.jpg"
-    },
-    {
-      "id": "4600661",
-      "title": "Five things ahead of Barça v Alavés",
-      "description": "Time to get into gear for the match against the side from Vitoria via some interesting observations",
-      "category": "First Team",
-      "relativeTime": "Published date 29 Oct 26",
-      "publishedDate": "2026-10-29",
-      "dateLabel": "October 29",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600661/five-things-ahead-of-barca-v-alaves",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/f78d1a7a-7cfe-4c0a-8a49-be3b166c94be/_MGA4925.jpg",
-      "localImage": "assets/news/4600661.jpg"
     }
   ]
 };
