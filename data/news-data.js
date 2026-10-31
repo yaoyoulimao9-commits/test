@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-10-31T11:11:36.902Z",
+  "updatedAt": "2026-10-31T16:18:23.745Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4601620",
+      "title": "The squad for Barça v Alavés",
+      "description": "These are the players that will be defending top spot in La Liga at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-10-31",
+      "dateLabel": "October 31",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601620/the-squad-for-barca-v-alaves",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/30/191afe9b-59fd-4cd4-b0d6-437eb365d27b/_MGA2290.jpg",
+      "localImage": "assets/news/4601620.jpg"
+    },
     {
       "id": "4601684",
       "title": "PREVIEW | Barça v Alavés",
       "description": "The league leaders will be looking to bounce back after dropping their first points of the season in El Clásico",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601684/preview-fc-barcelona-v-alaves",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Barça 98-94 Valencia: Drama to the end",
       "description": "Culers come out on top in a closely contested game that went down to the final minutes, securing their second EuroLeague win of the week",
       "category": "Basketball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4601714/barca-98-94-valencia-basket-drama-to-the-end",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Iker Rodríguez, blaugrana until 2029",
       "description": "The young goalkeeper signs on for another three seasons with an option for another two",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4601665/iker-rodriguez-blaugrana-until-2029",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Last session before Alavés",
       "description": "With five players from Barça Atlètic, the league leaders finalise preparations for Saturday's game",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 30 Oct 26",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601420/last-session-before-alaves",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça Legends back to India",
       "description": "The blaugranes will visit Kolkata on 25 November",
       "category": "",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 30 Oct 26",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/news/4601467/barca-legends-back-to-india",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Flick: 'We want to show our best'",
       "description": "German coach eager to return to winning ways against Alavés on Saturday",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 30 Oct 26",
       "publishedDate": "2026-10-30",
       "dateLabel": "October 30",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601455/hansi-flick-we-want-to-show-our-best",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4600661/five-things-ahead-of-barca-v-alaves",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/f78d1a7a-7cfe-4c0a-8a49-be3b166c94be/_MGA4925.jpg",
       "localImage": "assets/news/4600661.jpg"
-    },
-    {
-      "id": "4600694",
-      "title": "Penya Credential for 2026/76 season available",
-      "description": "Penya administrators can obtain the credential via their personal profile in the Penya Member Registry",
-      "category": "",
-      "relativeTime": "Published date 29 Oct 26",
-      "publishedDate": "2026-10-29",
-      "dateLabel": "October 29",
-      "source": "https://www.fcbarcelona.com/en/news/4600694/penya-credential-for-202676-season-available",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/02dcafbc-4505-4630-9bfd-70b690f797c9/Web_Digital_1920x1080_01_Web_Digital_1920x1080_01_CAT.png",
-      "localImage": "assets/news/4600694.png"
     }
   ]
 };
