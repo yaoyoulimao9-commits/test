@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-01T05:54:42.466Z",
+  "generatedAt": "2026-11-01T13:13:30.903Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4602401",
+      "title": "Recovery session with Aston Villa on the horizon",
+      "description": "Blaugranes in for a morning session at the Ciutat Esportiva Joan Gamper after the big win against Alavés at the Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 38 Mins ago",
+      "publishedDate": "2026-11-01",
+      "dateLabel": "November 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602401/recovery-session-with-aston-villa-on-the-horizon",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/01/b4b15701-cf0b-4d09-8b52-a7aaba660f12/WhatsApp-Image-2026-11-01-at-13.34.33-2-.jpeg",
+      "localImage": "assets/news/4602401.jpg"
+    },
+    {
+      "id": "4602385",
+      "title": "Challenging November ahead",
+      "description": "Blaugranes enter fourth month of the season with five demanding fixtures punctuated by an international break",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-01",
+      "dateLabel": "November 01",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602385/challenging-november-ahead",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/01/ecf32466-5a90-4a92-b25d-81c8fd7b66c1/_MGA2792.jpg",
+      "localImage": "assets/news/4602385.jpg"
+    },
+    {
       "id": "4601449",
       "title": "Hansi Flick: Record-breaking 100 wins",
       "description": "German cements his status as the manager with the highest win percentage in the club history",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601449/hansi-flick-record-breaking-100-wins",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 6-1 Alavés: That's more like it!",
       "description": "Raphinha and Lamine Yamal both score twice as Hansi Flick's side put their recent setbacks behind them with a Halloween victory to stay top of LaLiga",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602177/fc-barcelona-6-1-alaves-thats-more-like-it",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Brian Fariñas makes debut",
       "description": "Youngster makes his first appearance in a Barça shirt in the league match against Alavés at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602134/brian-farinas-makes-fc-barcelona-first-team-debut",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 2-1 Arnedo: Last-gasp win",
       "description": "A A late goal from Álex González earns the reserves all three points",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4602098/barca-atletic-2-1-arnedo-last-gasp-win",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Lučenec 0-11 Barça: Big win to finish main round",
       "description": "Great performance from Javi Rodríguez's team in Slovakia in the final game of the initial round of the UEFA Futsal Champions League",
       "category": "Futsal",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4602104/luenec-0-11-barca-big-win-to-finish-main-round",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "The squad for Barça v Alavés",
       "description": "These are the players that will be defending top spot in La Liga at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 31 Oct 26",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601620/the-squad-for-barca-v-alaves",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Barça v Alavés",
       "description": "The league leaders will be looking to bounce back after dropping their first points of the season in El Clásico",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 31 Oct 26",
       "publishedDate": "2026-10-31",
       "dateLabel": "October 31",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601684/preview-fc-barcelona-v-alaves",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4601146/koge-0-8-barca-goals-galore",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/ee08e228-799a-4df8-929d-0f116925cfac/_GP10739_tn0dmrma.jpg",
       "localImage": "assets/news/4601146.jpg"
-    },
-    {
-      "id": "4601141",
-      "title": "SAH Aarhus 27-30 Barça: Perfect end to group stage",
-      "description": "Carlos Ortega's side have ended the first phase of the EHF Champions League with a perfect record in Barça's 500th match in the competition",
-      "category": "Handball",
-      "relativeTime": "Published date 29 Oct 26",
-      "publishedDate": "2026-10-29",
-      "dateLabel": "October 29",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4601141/sah-aarhus-27-30-barca-perfect-end-to-group-stage",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/29/19747156-3247-49ad-ae48-6c2cd9202267/WhatsApp-Image-2026-10-29-at-21.41.09.jpeg",
-      "localImage": "assets/news/4601141.jpg"
-    },
-    {
-      "id": "4601045",
-      "title": "FC Barcelona official statement",
-      "description": "FC Barcelona has decided to suspend the operation of Gol 1957 for the next league match",
-      "category": "Club",
-      "relativeTime": "Published date 29 Oct 26",
-      "publishedDate": "2026-10-29",
-      "dateLabel": "October 29",
-      "source": "https://www.fcbarcelona.com/en/club/news/4601045/fc-barcelona-official-statement",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/10/08/cd935dd1-a04a-4a23-8a32-7bbdeb79a573/16x9_FCBSTATEMENT_2025-02.jpg",
-      "localImage": "assets/news/4601045.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-01T05:54:42.466Z",
+  "newsUpdatedAt": "2026-11-01T13:13:30.903Z",
   "archive": {}
 };
