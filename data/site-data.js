@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-02T01:47:35.535Z",
+  "generatedAt": "2026-11-02T09:23:22.849Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4602543",
+      "title": "Barça 4-3 Igualada HC: League debut ends with win",
+      "description": "The culers come up with an opening fixture win against the current champions",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 11 hrs ago",
+      "publishedDate": "2026-11-01",
+      "dateLabel": "November 01",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4602543/barca-4-3-igualada-hc-league-debut-ends-with-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/01/90105d08-38c0-47bf-9709-b2b2a75170d9/2026-11-01_FCBHOQUEIvsIGUALADA_170.jpg",
+      "localImage": "assets/news/4602543.jpg"
+    },
+    {
       "id": "4602541",
       "title": "Unicaja 89-92 Barça: A team on a roll",
       "description": "The blaugranes come through a demanding fixture to take their fifth win in a row",
       "category": "Basketball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4602541/unicaja-89-92-barca-a-team-on-a-roll",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "BM Granollers 25-36 Barça: Derby win for the blaugranes",
       "description": "El conjunto culer suma un nuevo triunfo liguero gracias a una gran segunda mitad en el Palau d'Esports de la localidad vallesana",
       "category": "Handball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4602538/bm-granollers-25-36-barca-derby-win-for-the-blaugranes",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Fariñas: 'Every boy dreams of this'",
       "description": "Young player with debut for FC Barcelona against Alavés",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602437/brian-farinas-every-boy-dreams-of-this",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Resounding away victory (0-4)",
       "description": "Pere Romeu's side earn three more Liga F points, with goals by Kerolin (2), Graham and Pina",
       "category": "Women",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4602406/badalona-women-0-4-barca-resounding-away-victory",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Recovery session with Aston Villa on the horizon",
       "description": "Blaugranes in for a morning session at the Ciutat Esportiva Joan Gamper after the big win against Alavés at the Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602401/recovery-session-with-aston-villa-on-the-horizon",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Challenging November ahead",
       "description": "Blaugranes enter fourth month of the season with five demanding fixtures punctuated by an international break",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-01",
       "dateLabel": "November 01",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602385/challenging-november-ahead",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4601467/barca-legends-back-to-india",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/30/a8020fa2-9d43-477c-a0e6-32b30e5bb210/BAR-_MADRID-LEGENDS-COSTA-RICA-174.jpg",
       "localImage": "assets/news/4601467.jpg"
-    },
-    {
-      "id": "4601455",
-      "title": "Flick: 'We want to show our best'",
-      "description": "German coach eager to return to winning ways against Alavés on Saturday",
-      "category": "First Team",
-      "relativeTime": "Published date 30 Oct 26",
-      "publishedDate": "2026-10-30",
-      "dateLabel": "October 30",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4601455/hansi-flick-we-want-to-show-our-best",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/30/29986bc5-0e42-4710-ab69-09b901a2a320/_MGA0513-2-.jpg",
-      "localImage": "assets/news/4601455.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-02T01:47:35.535Z",
+  "newsUpdatedAt": "2026-11-02T09:23:22.849Z",
   "archive": {}
 };
