@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-03T02:14:51.388Z",
+  "generatedAt": "2026-11-03T10:01:32.224Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona will reopen Gol 1957 for the game against Aston Villa",
       "description": "After a meeting on Monday between representatives of the Club responsible for managing the 'grada d'animació' and spokespersons from the different supporters' groups involved, the Club has decided to lift the temporary ban",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4603320/fc-barcelona-will-reopen-gol-1957-for-the-game-against-aston-villa",
@@ -6359,11 +6359,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4603320.jpg"
     },
     {
+      "id": "4603224",
+      "title": "Hansi Flick, Honorary Ramblista 2026",
+      "description": "The Club’s first vice president Rafael Yuste accepted the award on the Barça coach's behalf",
+      "category": "Club",
+      "relativeTime": "Published date 14 hrs ago",
+      "publishedDate": "2026-11-02",
+      "dateLabel": "November 02",
+      "source": "https://www.fcbarcelona.com/en/club/news/4603224/hansi-flick-honorary-ramblista-2026",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/02/edad6029-81ee-4621-942d-5124f7629eae/IMG_7655.JPG",
+      "localImage": "assets/news/4603224.jpg"
+    },
+    {
       "id": "4603215",
       "title": "Seven nominatees for FIFPRO World XI",
       "description": "Cata Coll, Paredes, Aitana Bonmatí, Patri Guijarro, Vicky López, Ewa Pajor and Claudia Pina all shortlisted",
       "category": "Women",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4603215/seven-from-fc-barcelona-nominated-for-fifpro-world-xi",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Four candidates for men's FIFPRO World XI",
       "description": "After a vote from almost 20,000 professional footballers, the list of 26 candidates sees Barça well represented",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603213/cubarsi-rodrigo-pedri-and-lamine-yamal-candidates-for-fifpro-world-xi",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Flick aiming for top eight",
       "description": "FC Barcelona coach with his views ahead of the game with Aston Villa on Tuesday evening",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603044/hansi-flick-aiming-for-top-eight",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Ready for Villa",
       "description": "Hansi Flick and his players finalise preparations for Tuesday's 9pm CET kick-off",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603029/ready-for-aston-villa",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona and Assistència Sanitària renew their strategic alliance",
       "description": "The agreement wides the presence of the insurance company in amateur sport and in the Barça Foundation's Sport4All project, continuing a partnership that goes back more than two decades",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 02 Nov 26",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/club/news/4599679/fc-barcelona-and-assistencia-sanitaria-renew-their-strategic-alliance-until-the-203031-season",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Aston Villa",
       "description": "International viewing guide to the game at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 02 Nov 26",
       "publishedDate": "2026-11-02",
       "dateLabel": "November 02",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602874/when-and-where-to-watch-fc-barcelona-v-aston-villa",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4602134/brian-farinas-makes-fc-barcelona-first-team-debut",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/93f8c849-311e-40d0-88b7-2a2e26c5ec6b/_MGA2796.jpg",
       "localImage": "assets/news/4602134.jpg"
-    },
-    {
-      "id": "4602098",
-      "title": "Barça Atlètic 2-1 Arnedo: Last-gasp win",
-      "description": "A A late goal from Álex González earns the reserves all three points",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 31 Oct 26",
-      "publishedDate": "2026-10-31",
-      "dateLabel": "October 31",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4602098/barca-atletic-2-1-arnedo-last-gasp-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/c48f1f04-ae82-4f82-a0bd-bd7eddc05278/BARC-A-B_ARNEDO-86.jpg",
-      "localImage": "assets/news/4602098.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-03T02:14:51.387Z",
+  "newsUpdatedAt": "2026-11-03T10:01:32.224Z",
   "archive": {}
 };
