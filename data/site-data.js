@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-05T15:47:33.169Z",
+  "generatedAt": "2026-11-05T21:57:35.828Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha staying until 2030",
       "description": "FC Barcelona and the Brazilian have reached an agreement on the extension of his contract",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça U19 visits the Ronald McDonald House",
       "description": "The initiative is part of the Barça Foundation Blaugrana Bracelets programme, which uses the magic of Barça’s colours to contribute to the emotional well-being of children facing illness.",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/news/4604810/barca-u19-visits-the-ronald-mcdonald-house-to-share-an-afternoon-of-joy-with-children-and-families",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Highest goalscoring Barça side in a century",
       "description": "The three goals against Aston Villa means it's now 60 goals in only 15 games for Flick's side, numbers that haven't been seen in a century",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604635/highest-goalscoring-barca-side-in-a-century",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "How to follow Barça basketball games",
       "description": "Discover the different ways to follow Barça's progress on the road",
       "category": "Basketball",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4604673/how-to-follow-fc-barcelona-basketball-games",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": ""
     }
   ],
-  "newsUpdatedAt": "2026-11-05T15:47:33.169Z",
+  "newsUpdatedAt": "2026-11-05T21:57:35.828Z",
   "archive": {}
 };
