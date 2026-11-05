@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-05T00:20:06.442Z",
+  "generatedAt": "2026-11-05T07:21:58.030Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha to renew this Thursday",
       "description": "Brazilian set to extend contract with FC Barcelona to 30 June 2030",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604460/raphinha-to-sign-renewal-with-president-laporta-this-thursday",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Recovery session after win over Villa",
       "description": "The players who started in the Champions have a post match session with gym work",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604300/recovery-session-after-win-over-villa",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Rodri injury news",
       "description": "Midfielder has a right hamstring injury and will miss the game against Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça futsal to face MNK Olmissum in the last 16 of the Champions League",
       "description": "Should they win against the Croatian team, Javi Rodríguez's men will face either Minerva or Stalitsa Minsk in the quarter finals",
       "category": "Futsal",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4604249/barca-futsal-to-face-mnk-olmissum-in-the-last-16-of-the-champions-league",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "BARÇA 24H launches on Disney+ in the Nordic countries",
       "description": "Agreement strengthens club’s new content distribution and monetisation model, helping it reach new audiences and create business opportunities",
       "category": "Club",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/club/news/4604295/fc-barcelona-expands-international-distribution-of-its-audiovisual-content-with-launch-of-barca-24h-on-disney-in-the-nordic-countries",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Raphinha rises in three rankings",
       "description": "Brazilian scores twice against Aston Villa to equal Ronaldinho’s goalscoring tally and become the fourth Brazilian with the most appearances and goals in Barça history",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603997/raphinha-rises-in-three-rankings",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4603075.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-05T00:20:06.442Z",
+  "newsUpdatedAt": "2026-11-05T07:21:58.030Z",
   "archive": {}
 };
