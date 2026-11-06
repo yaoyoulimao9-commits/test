@@ -1,13 +1,73 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-06T09:50:06.338Z",
+  "updatedAt": "2026-11-06T17:26:38.590Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4604218",
+      "title": "When and where to watch Atlético v Barça",
+      "description": "International viewing guide to the top-of-the-table clash",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-06",
+      "dateLabel": "November 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604218/when-and-where-to-watch-atletico-madrid-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/4142f5f7-258c-41ed-bfdd-309ae79ffe52/3200x2000_Horarios-ATMADRID_08_11.png",
+      "localImage": "assets/news/4604218.png"
+    },
+    {
+      "id": "4605545",
+      "title": "Back at training",
+      "description": "Players returning from injury continuing to make progress in their recovery, although they are still following individual training programmes as they await medical clearance",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-06",
+      "dateLabel": "November 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605545/back-at-training",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/06/f19c6c91-202a-445a-b24e-50926d0718f7/_MGA4324.jpg",
+      "localImage": "assets/news/4605545.jpg"
+    },
+    {
+      "id": "4605559",
+      "title": "Barça players called up for international duty",
+      "description": "Many of the blaugrana squad will be in action with their respective national teams during the upcoming international break, the last of 2026",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-06",
+      "dateLabel": "November 06",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605559/large-number-of-fc-barcelona-players-called-up-for-international-duty",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/06/1205528d-e14b-4a72-9edd-adf1df1ff053/_MGA5356.jpg",
+      "localImage": "assets/news/4605559.jpg"
+    },
+    {
+      "id": "4603774",
+      "title": "Four games this weekend on Barça Play",
+      "description": "Plenty of youth action to enjoy this Saturday and Sunday at FC Barcelona",
+      "category": "Club",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-11-06",
+      "dateLabel": "November 06",
+      "source": "https://www.fcbarcelona.com/en/club/news/4603774/four-games-this-weekend-on-barca-play",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/5b593a00-23dd-4d22-be89-a7dda187ddcd/BARC-A-B_ARNEDO-140.jpg",
+      "localImage": "assets/news/4603774.jpg"
+    },
+    {
+      "id": "4605469",
+      "title": "CAT all set for Christmas",
+      "description": "The festive season will bring plenty of new products to the Barça Store",
+      "category": "Club",
+      "relativeTime": "Published date 9 hrs ago",
+      "publishedDate": "2026-11-06",
+      "dateLabel": "November 06",
+      "source": "https://www.fcbarcelona.com/en/club/news/4605469/cat-all-set-for-christmas",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/06/e7c204da-09fc-4d18-a706-9832033d8998/2611_CAT_Colecci-_Nadal_Web_Hero_3200x2000_01_CAT.jpg",
+      "localImage": "assets/news/4605469.jpg"
+    },
     {
       "id": "4605214",
       "title": "Great win as run continues (90-93)",
       "description": "Fine performance from Brizuela from the third quarter onwards helps the blaugranes to a sixth consecutive victory",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4605214/hapoel-tel-aviv-90-93-barca-great-win-as-run-continues",
@@ -19,12 +79,24 @@ window.BARCA_NEWS = {
       "title": "Raphinha staying until 2030",
       "description": "FC Barcelona and the Brazilian have reached an agreement on the extension of his contract",
       "category": "First Team",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 05 Nov 26",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/e05e54a6-6c66-4b58-a1c4-03c5a37bd70e/_GP12847.jpg",
       "localImage": "assets/news/4604888.jpg"
+    },
+    {
+      "id": "4604884",
+      "title": "FC Barcelona and the Barça Foundation launch the first Blaugrana Solidarity Gala",
+      "description": "The charity event will take place on 9 December 2026 at Barcelona’s Llotja de Mar and aims to become the annual flagship event of Blaugrana solidarity",
+      "category": "Club",
+      "relativeTime": "Published date 05 Nov 26",
+      "publishedDate": "2026-11-05",
+      "dateLabel": "November 05",
+      "source": "https://www.fcbarcelona.com/en/club/news/4604884/fc-barcelona-and-the-barca-foundation-launch-the-first-blaugrana-solidarity-gala-to-support-paediatric-palliative-care",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/f9d3034f-7353-494e-9433-5a977cdb7199/polseres-horitzontal.png",
+      "localImage": "assets/news/4604884.png"
     },
     {
       "id": "4604810",
@@ -145,78 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604029/hansi-flick-it-was-important-to-defend-as-a-unit",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/6c3ef9e4-dd26-4f23-95e0-bc73f7c2e659/2026-11-03_FCBvsASTONVILLA_101.jpg",
       "localImage": "assets/news/4604029.jpg"
-    },
-    {
-      "id": "4603860",
-      "title": "Barça 3-0 Aston Villa: Three goals, three points",
-      "description": "Goals from Lamine Yamal and Raphinha (2) make it nine points in the Champions League and a place among the frontrunners in the table",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/1d016ca8-1cd3-4a59-94e0-fdcc37db4812/_MGA4003.jpg",
-      "localImage": "assets/news/4603860.jpg"
-    },
-    {
-      "id": "4603628",
-      "title": "De Jong makes 300th appearance",
-      "description": "Dutch midfielder reaches the round figure in the victory against Aston Villa",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603628/frenkie-de-jong-reaches-300-appearances-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/20993fe1-2517-47d4-b1b3-af7fa663db0a/_MGA4173-1-.jpg",
-      "localImage": "assets/news/4603628.jpg"
-    },
-    {
-      "id": "4603853",
-      "title": "New record in Europe for Lamine Yamal",
-      "description": "The Barça forward now has 14 goals in the competition, more than any other player before their 20th birthday",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603853/lamine-yamal-top-champions-league-scorer-under-20-years-of-age",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/6589b605-bdc6-4738-bc62-2c720631b9f4/_MGA8550.jpg",
-      "localImage": "assets/news/4603853.jpg"
-    },
-    {
-      "id": "4603599",
-      "title": "Emotional minute's silence",
-      "description": "Before kick off against Aston Villa, the stadium paid tribute to CD Tenerife player Jesús de Miguel and the victims of the recent train accident in Urda, Spain",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603599/emotional-minutes-silence",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/76fa1559-b674-41c1-8cbf-daa15286f0b5/2303367409.jpg",
-      "localImage": "assets/news/4603599.jpg"
-    },
-    {
-      "id": "4603862",
-      "title": "Prince William in the directors' box",
-      "description": "The heir to the British throne, a well-known Aston Villa supporter, was not going to miss his team's visit to Barça's home ground",
-      "category": "Club",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/club/news/4603862/prince-william-in-the-directors-box-at-spotify-camp-nou-for-barca-v-aston-villa",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/ad03319a-4813-4399-8a75-d64ae908abef/WhatsApp-Image-2026-11-03-at-20.39.20.jpeg",
-      "localImage": "assets/news/4603862.jpg"
-    },
-    {
-      "id": "4603746",
-      "title": "UEFA YOUTH LEAGUE | Barça 3-3 Aston Villa",
-      "description": "A point salvaged in a game the Catalans were winning 2-0 but ended up losing until the very end",
-      "category": "Barça Youth",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4603746/uefa-youth-league-fc-barcelona-3-3-aston-villa",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/8a0f449a-b23f-4dec-92bc-665822a48b73/2026-11-03_JUVENILAvsASTONVILLA_084.jpg",
-      "localImage": "assets/news/4603746.jpg"
     }
   ]
 };
