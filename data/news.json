@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-11-05T21:57:35.823Z",
+  "updatedAt": "2026-11-06T02:22:03.776Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4605214",
+      "title": "Great win as run continues (91-93)",
+      "description": "Fine performance from Brizuela from the third quarter onwards helps the blaugranes to a sixth consecutive victory",
+      "category": "Basketball",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-05",
+      "dateLabel": "November 05",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4605214/hapoel-tel-aviv-91-93-barca-great-win-as-run-continues",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/8bf98233-55c4-4694-bbbf-ca94c2017796/JTR15573_kOdUldtV_20261105091217.jpg",
+      "localImage": "assets/news/4605214.jpg"
+    },
+    {
       "id": "4604888",
       "title": "Raphinha staying until 2030",
       "description": "FC Barcelona and the Brazilian have reached an agreement on the extension of his contract",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
@@ -21,7 +33,7 @@
       "title": "Barça U19 visits the Ronald McDonald House",
       "description": "The initiative is part of the Barça Foundation Blaugrana Bracelets programme, which uses the magic of Barça’s colours to contribute to the emotional well-being of children facing illness.",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/news/4604810/barca-u19-visits-the-ronald-mcdonald-house-to-share-an-afternoon-of-joy-with-children-and-families",
@@ -33,7 +45,7 @@
       "title": "Highest goalscoring Barça side in a century",
       "description": "The three goals against Aston Villa means it's now 60 goals in only 15 games for Flick's side, numbers that haven't been seen in a century",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604635/highest-goalscoring-barca-side-in-a-century",
@@ -45,7 +57,7 @@
       "title": "How to follow Barça basketball games",
       "description": "Discover the different ways to follow Barça's progress on the road",
       "category": "Basketball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 04 Nov 26",
       "publishedDate": "2026-11-04",
       "dateLabel": "November 04",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4604673/how-to-follow-fc-barcelona-basketball-games",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4603746/uefa-youth-league-fc-barcelona-3-3-aston-villa",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/8a0f449a-b23f-4dec-92bc-665822a48b73/2026-11-03_JUVENILAvsASTONVILLA_084.jpg",
       "localImage": "assets/news/4603746.jpg"
-    },
-    {
-      "id": "4603808",
-      "title": "Road to VCT: Meet our new 2027 roster.",
-      "description": "Barça eSports announces its roster for 2027, with the goal of qualifying for VCT EMEA",
-      "category": "Club",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/club/news/4603808/road-to-vct-meet-our-new-2027-roster",
-      "sourceImage": "",
-      "localImage": ""
     }
   ]
 }
