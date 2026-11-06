@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-06T02:22:03.779Z",
+  "generatedAt": "2026-11-06T09:50:06.343Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6348,13 +6348,13 @@ window.BARCA_DATA = {
   "news": [
     {
       "id": "4605214",
-      "title": "Great win as run continues (91-93)",
+      "title": "Great win as run continues (90-93)",
       "description": "Fine performance from Brizuela from the third quarter onwards helps the blaugranes to a sixth consecutive victory",
       "category": "Basketball",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4605214/hapoel-tel-aviv-91-93-barca-great-win-as-run-continues",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4605214/hapoel-tel-aviv-90-93-barca-great-win-as-run-continues",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/8bf98233-55c4-4694-bbbf-ca94c2017796/JTR15573_kOdUldtV_20261105091217.jpg",
       "localImage": "assets/news/4605214.jpg"
     },
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Raphinha staying until 2030",
       "description": "FC Barcelona and the Brazilian have reached an agreement on the extension of his contract",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça U19 visits the Ronald McDonald House",
       "description": "The initiative is part of the Barça Foundation Blaugrana Bracelets programme, which uses the magic of Barça’s colours to contribute to the emotional well-being of children facing illness.",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 05 Nov 26",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/news/4604810/barca-u19-visits-the-ronald-mcdonald-house-to-share-an-afternoon-of-joy-with-children-and-families",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Highest goalscoring Barça side in a century",
       "description": "The three goals against Aston Villa means it's now 60 goals in only 15 games for Flick's side, numbers that haven't been seen in a century",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 05 Nov 26",
       "publishedDate": "2026-11-05",
       "dateLabel": "November 05",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604635/highest-goalscoring-barca-side-in-a-century",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4603746.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-06T02:22:03.779Z",
+  "newsUpdatedAt": "2026-11-06T09:50:06.343Z",
   "archive": {}
 };
