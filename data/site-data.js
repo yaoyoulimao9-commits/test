@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-07T02:21:05.526Z",
+  "generatedAt": "2026-11-07T09:13:16.416Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Atlético v Barça",
       "description": "International viewing guide to the top-of-the-table clash",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604218/when-and-where-to-watch-atletico-madrid-v-fc-barcelona",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Back at training",
       "description": "Players returning from injury continuing to make progress in their recovery, although they are still following individual training programmes as they await medical clearance",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605545/back-at-training",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça players called up for international duty",
       "description": "Many of the blaugrana squad will be in action with their respective national teams during the upcoming international break, the last of 2026",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605559/large-number-of-fc-barcelona-players-called-up-for-international-duty",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Four games this weekend on Barça Play",
       "description": "Plenty of youth action to enjoy this Saturday and Sunday at FC Barcelona",
       "category": "Club",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/club/news/4603774/four-games-this-weekend-on-barca-play",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "CAT all set for Christmas",
       "description": "The festive season will bring plenty of new products to the Barça Store",
       "category": "Club",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 06 Nov 26",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/club/news/4605469/cat-all-set-for-christmas",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4604029.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-07T02:21:05.526Z",
+  "newsUpdatedAt": "2026-11-07T09:13:16.416Z",
   "archive": {}
 };
