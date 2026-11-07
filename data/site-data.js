@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-07T15:54:17.206Z",
+  "generatedAt": "2026-11-07T20:11:39.643Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "'Eric and Christensen will be in the squad'",
       "description": "Barça coach confirms the return of two key defenders for the demanding trip to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Eric and Christensen are back",
       "description": "Eric Garcia and Andreas Christensen rejoin the group ahead of Sunday's visit to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605954/last-workout-before-the-metropolitano",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4604295.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-07T15:54:17.206Z",
+  "newsUpdatedAt": "2026-11-07T20:11:39.643Z",
   "archive": {}
 };
