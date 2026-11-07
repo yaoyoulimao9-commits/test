@@ -1,15 +1,39 @@
 {
-  "updatedAt": "2026-11-07T09:13:16.411Z",
+  "updatedAt": "2026-11-07T15:54:17.201Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4605960",
+      "title": "'Eric and Christensen will be in the squad'",
+      "description": "Barça coach confirms the return of two key defenders for the demanding trip to Atlético Madrid",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-07",
+      "dateLabel": "November 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/07/3fe5c4c4-ca3f-42fd-8fe4-352d2b45daf7/_MGA4660.jpg",
+      "localImage": "assets/news/4605960.jpg"
+    },
+    {
+      "id": "4605954",
+      "title": "Eric and Christensen are back",
+      "description": "Eric Garcia and Andreas Christensen rejoin the group ahead of Sunday's visit to Atlético Madrid",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-07",
+      "dateLabel": "November 07",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605954/last-workout-before-the-metropolitano",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/07/7969c273-3c56-46e7-826d-4aa716473e5d/WhatsApp-Image-2026-11-07-at-12.53.37-1-.jpeg",
+      "localImage": "assets/news/4605954.jpg"
+    },
+    {
       "id": "4604218",
       "title": "When and where to watch Atlético v Barça",
       "description": "International viewing guide to the top-of-the-table clash",
       "category": "First Team",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 06 Nov 26",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604218/when-and-where-to-watch-atletico-madrid-v-fc-barcelona",
@@ -21,7 +45,7 @@
       "title": "Back at training",
       "description": "Players returning from injury continuing to make progress in their recovery, although they are still following individual training programmes as they await medical clearance",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 06 Nov 26",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605545/back-at-training",
@@ -33,7 +57,7 @@
       "title": "Barça players called up for international duty",
       "description": "Many of the blaugrana squad will be in action with their respective national teams during the upcoming international break, the last of 2026",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 06 Nov 26",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605559/large-number-of-fc-barcelona-players-called-up-for-international-duty",
@@ -45,7 +69,7 @@
       "title": "Four games this weekend on Barça Play",
       "description": "Plenty of youth action to enjoy this Saturday and Sunday at FC Barcelona",
       "category": "Club",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 06 Nov 26",
       "publishedDate": "2026-11-06",
       "dateLabel": "November 06",
       "source": "https://www.fcbarcelona.com/en/club/news/4603774/four-games-this-weekend-on-barca-play",
@@ -195,30 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/club/news/4604295/fc-barcelona-expands-international-distribution-of-its-audiovisual-content-with-launch-of-barca-24h-on-disney-in-the-nordic-countries",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/c733800d-0de9-42a8-b13b-4321edda08c5/CREATIVITAT-FAST-DISNEY-16_9-1920x1080-BLACK-7_00000-1-.png",
       "localImage": "assets/news/4604295.jpg"
-    },
-    {
-      "id": "4603997",
-      "title": "Raphinha rises in three rankings",
-      "description": "Brazilian scores twice against Aston Villa to equal Ronaldinho’s goalscoring tally and become the fourth Brazilian with the most appearances and goals in Barça history",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4603997/raphinha-rises-in-three-rankings",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/a9e4ef1f-052e-4590-a151-646e2149d204/_MGA4009-1-.jpg",
-      "localImage": "assets/news/4603997.jpg"
-    },
-    {
-      "id": "4604029",
-      "title": "Hansi Flick: 'It was important to defend as a unit'",
-      "description": "The German coach happy with the defensive display from his side in their win over Aston Villa in the Champions League",
-      "category": "First Team",
-      "relativeTime": "Published date 03 Nov 26",
-      "publishedDate": "2026-11-03",
-      "dateLabel": "November 03",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604029/hansi-flick-it-was-important-to-defend-as-a-unit",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/03/6c3ef9e4-dd26-4f23-95e0-bc73f7c2e659/2026-11-03_FCBvsASTONVILLA_101.jpg",
-      "localImage": "assets/news/4604029.jpg"
     }
   ]
 }
