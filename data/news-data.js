@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-07T20:11:39.636Z",
+  "updatedAt": "2026-11-07T23:56:10.447Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "'Eric and Christensen will be in the squad'",
       "description": "Barça coach confirms the return of two key defenders for the demanding trip to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Eric and Christensen are back",
       "description": "Eric Garcia and Andreas Christensen rejoin the group ahead of Sunday's visit to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605954/last-workout-before-the-metropolitano",
