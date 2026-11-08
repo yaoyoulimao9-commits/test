@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-11-08T13:15:16.443Z",
+  "updatedAt": "2026-11-08T18:29:13.307Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4606346",
+      "title": "Barça 5-1 Madrid CFF: Lead extended",
+      "description": "Pere Romeu's team run out comfortable winner at the Estadi Johan Cruyff thanks to goals from Brugts, Pajor, Carla Julià, Patri and Pina, to extend their lead at the top of the table",
+      "category": "Football",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/news/4606346/barca-5-1-madrid-cff-lead-extended",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/700e5afc-6ec9-4096-9db5-500870b34fc6/_GP15849-2.jpg",
+      "localImage": "assets/news/4606346.jpg"
+    },
+    {
+      "id": "4606355",
+      "title": "Torrejón 500",
+      "description": "Catalan defender reaches 500 official appearances after more than a decade in the Barça shirt",
+      "category": "Football",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/news/4606355/marta-torrejon-plays-500th-game-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/5c8d8452-9edc-4473-9616-0f6d6ddeb5d7/3200X2000-500_PARTITS-MARTA_TORREJON.jpg",
+      "localImage": "assets/news/4606355.jpg"
+    },
+    {
+      "id": "4606327",
+      "title": "Pajor plays 100th gamne",
+      "description": "Polish star reaches the landmark against Madrid CFF st the Estadi Johan Cruyff",
+      "category": "Football",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/news/4606327/ewa-pajor-makes-100th-appearance-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/abceca34-1b3f-4dd8-997a-1bcaae8a6edc/_5DS6494-2.jpg",
+      "localImage": "assets/news/4606327.jpg"
+    },
+    {
+      "id": "4606246",
+      "title": "Hard work earns away win (0-1)",
+      "description": "Blaugranes earn a tough win away to Liceo to continue their early season form / Photo: Manu Boutureira",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4606246/hockey-club-liceo-0-1-barca-hard-work-earns-away-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/3fd7958c-a619-4055-93e3-5aec39780e02/WhatsApp-Image-2026-11-08-at-14.08.27.jpeg",
+      "localImage": "assets/news/4606246.jpg"
+    },
+    {
+      "id": "4606245",
+      "title": "Cruise control (99-91)",
+      "description": "Blaugranes earn seventh consecutive victory in this tough test against the Galician side to go 5 and 2 in the Liga Endesa",
+      "category": "Basketball",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4606245/barca-99-91-rio-breogan-cruise-control",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/fceb4936-febb-4083-9be7-d0c1e707c76e/2026-11-08_FCBBASQUETvsBREOGAN_167.jpg",
+      "localImage": "assets/news/4606245.jpg"
+    },
+    {
       "id": "4606030",
       "title": "The squad for Atlético v Barça",
       "description": "Flick can call on reinforcements for the final match ahead of the international break as Eric and Christensen are passed fit",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606030/the-squad-for-atletico-madrid-v-fc-barcelona",
@@ -21,7 +81,7 @@
       "title": "PREVIEW | Atlético v Barça",
       "description": "Top.-of-the-table clash with leadership going into the international break at stake",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605936/preview-atletico-madrid-v-fc-barcelona",
@@ -159,66 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/news/4604810/barca-u19-visits-the-ronald-mcdonald-house-to-share-an-afternoon-of-joy-with-children-and-families",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/e743a96d-310f-4a6a-aa9f-3bc61e18a1ce/2026-10-28-VISITA-EQUIP-JUV-CASA-MAC-DONALD-4116.jpg",
       "localImage": "assets/news/4604810.jpg"
-    },
-    {
-      "id": "4604635",
-      "title": "Highest goalscoring Barça side in a century",
-      "description": "The three goals against Aston Villa means it's now 60 goals in only 15 games for Flick's side, numbers that haven't been seen in a century",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Nov 26",
-      "publishedDate": "2026-11-05",
-      "dateLabel": "November 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604635/highest-goalscoring-barca-side-in-a-century",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/74793851-cf31-4454-8127-f9c155a6528e/_MGA8557.jpg",
-      "localImage": "assets/news/4604635.jpg"
-    },
-    {
-      "id": "4604673",
-      "title": "How to follow Barça basketball games",
-      "description": "Discover the different ways to follow Barça's progress on the road",
-      "category": "Basketball",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4604673/how-to-follow-fc-barcelona-basketball-games",
-      "sourceImage": "",
-      "localImage": ""
-    },
-    {
-      "id": "4604460",
-      "title": "Raphinha to renew this Thursday",
-      "description": "Brazilian set to extend contract with FC Barcelona to 30 June 2030",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604460/raphinha-to-sign-renewal-with-president-laporta-this-thursday",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/ac3dc30f-134d-41e3-b909-917dd42f17f6/_MGA4672.jpg",
-      "localImage": "assets/news/4604460.jpg"
-    },
-    {
-      "id": "4604300",
-      "title": "Recovery session after win over Villa",
-      "description": "The players who started in the Champions have a post match session with gym work",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604300/recovery-session-after-win-over-villa",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/7d110003-5ec6-478c-be3a-9e234e2f89c4/image00008.jpeg",
-      "localImage": "assets/news/4604300.jpg"
-    },
-    {
-      "id": "4604306",
-      "title": "Rodri injury news",
-      "description": "Midfielder has a right hamstring injury and will miss the game against Atlético Madrid",
-      "category": "First Team",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/d062d159-31ba-48df-b5fd-141087be9ece/_MGA3884.jpg",
-      "localImage": "assets/news/4604306.jpg"
     }
   ]
 }
