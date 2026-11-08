@@ -1,15 +1,51 @@
 {
-  "updatedAt": "2026-11-08T18:29:13.307Z",
+  "updatedAt": "2026-11-08T22:27:43.873Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4606439",
+      "title": "Atlético 1-2 Barça: Comeback to stay top",
+      "description": "Fermin brace turns a potential two-point deficit into a five-point advantage over one of the biggest contenders in the Liga title race",
+      "category": "First Team",
+      "relativeTime": "Published date 25 Mins ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/d606760f-3bf4-4f76-acad-eca4f28e8259/_MGA8636.jpg",
+      "localImage": "assets/news/4606439.jpg"
+    },
+    {
+      "id": "4606427",
+      "title": "Day marked by tributes to Jesús de Miguel",
+      "description": "Atlético Madrid v Barça and the other matchday 12 fixtures pay tribute to the CD Tenerife striker",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606427/day-marked-by-tributes-to-jesus-de-miguel",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/850fb19b-e1b9-4faa-a461-b17641871caa/_MGA5055.jpg",
+      "localImage": "assets/news/4606427.jpg"
+    },
+    {
+      "id": "4606352",
+      "title": "Manresa 0-3 Barça Atlètic: Solid leaders",
+      "description": "A sensational start helped Barça take all three points at the Estadi Municipal Nou Congost",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4606352/ce-manresa-0-3-barca-atletic-solid-leaders",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/84055e68-297c-47d4-9aac-c69be82f25a3/MANRESA_BARC-A-ATLETIC-21.jpg",
+      "localImage": "assets/news/4606352.jpg"
+    },
+    {
       "id": "4606346",
       "title": "Barça 5-1 Madrid CFF: Lead extended",
       "description": "Pere Romeu's team run out comfortable winner at the Estadi Johan Cruyff thanks to goals from Brugts, Pajor, Carla Julià, Patri and Pina, to extend their lead at the top of the table",
       "category": "Football",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/news/4606346/barca-5-1-madrid-cff-lead-extended",
@@ -17,23 +53,11 @@
       "localImage": "assets/news/4606346.jpg"
     },
     {
-      "id": "4606355",
-      "title": "Torrejón 500",
-      "description": "Catalan defender reaches 500 official appearances after more than a decade in the Barça shirt",
-      "category": "Football",
-      "relativeTime": "Published date 1 hr ago",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/news/4606355/marta-torrejon-plays-500th-game-for-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/5c8d8452-9edc-4473-9616-0f6d6ddeb5d7/3200X2000-500_PARTITS-MARTA_TORREJON.jpg",
-      "localImage": "assets/news/4606355.jpg"
-    },
-    {
       "id": "4606327",
       "title": "Pajor plays 100th gamne",
       "description": "Polish star reaches the landmark against Madrid CFF st the Estadi Johan Cruyff",
       "category": "Football",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/news/4606327/ewa-pajor-makes-100th-appearance-for-fc-barcelona",
@@ -41,11 +65,23 @@
       "localImage": "assets/news/4606327.jpg"
     },
     {
+      "id": "4606355",
+      "title": "Torrejón 500",
+      "description": "Catalan defender reaches 500 official appearances after more than a decade in the Barça shirt",
+      "category": "Football",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/news/4606355/marta-torrejon-plays-500th-game-for-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/5c8d8452-9edc-4473-9616-0f6d6ddeb5d7/3200X2000-500_PARTITS-MARTA_TORREJON.jpg",
+      "localImage": "assets/news/4606355.jpg"
+    },
+    {
       "id": "4606246",
       "title": "Hard work earns away win (0-1)",
       "description": "Blaugranes earn a tough win away to Liceo to continue their early season form / Photo: Manu Boutureira",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4606246/hockey-club-liceo-0-1-barca-hard-work-earns-away-win",
@@ -57,7 +93,7 @@
       "title": "Cruise control (99-91)",
       "description": "Blaugranes earn seventh consecutive victory in this tough test against the Galician side to go 5 and 2 in the Liga Endesa",
       "category": "Basketball",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4606245/barca-99-91-rio-breogan-cruise-control",
@@ -69,7 +105,7 @@
       "title": "The squad for Atlético v Barça",
       "description": "Flick can call on reinforcements for the final match ahead of the international break as Eric and Christensen are passed fit",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606030/the-squad-for-atletico-madrid-v-fc-barcelona",
@@ -81,7 +117,7 @@
       "title": "PREVIEW | Atlético v Barça",
       "description": "Top.-of-the-table clash with leadership going into the international break at stake",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-08",
       "dateLabel": "November 08",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605936/preview-atletico-madrid-v-fc-barcelona",
@@ -183,42 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4605214/hapoel-tel-aviv-90-93-barca-great-win-as-run-continues",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/8bf98233-55c4-4694-bbbf-ca94c2017796/JTR15573_kOdUldtV_20261105091217.jpg",
       "localImage": "assets/news/4605214.jpg"
-    },
-    {
-      "id": "4604888",
-      "title": "Raphinha staying until 2030",
-      "description": "FC Barcelona and the Brazilian have reached an agreement on the extension of his contract",
-      "category": "First Team",
-      "relativeTime": "Published date 05 Nov 26",
-      "publishedDate": "2026-11-05",
-      "dateLabel": "November 05",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/e05e54a6-6c66-4b58-a1c4-03c5a37bd70e/_GP12847.jpg",
-      "localImage": "assets/news/4604888.jpg"
-    },
-    {
-      "id": "4604884",
-      "title": "FC Barcelona and the Barça Foundation launch the first Blaugrana Solidarity Gala",
-      "description": "The charity event will take place on 9 December 2026 at Barcelona’s Llotja de Mar and aims to become the annual flagship event of Blaugrana solidarity",
-      "category": "Club",
-      "relativeTime": "Published date 05 Nov 26",
-      "publishedDate": "2026-11-05",
-      "dateLabel": "November 05",
-      "source": "https://www.fcbarcelona.com/en/club/news/4604884/fc-barcelona-and-the-barca-foundation-launch-the-first-blaugrana-solidarity-gala-to-support-paediatric-palliative-care",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/f9d3034f-7353-494e-9433-5a977cdb7199/polseres-horitzontal.png",
-      "localImage": "assets/news/4604884.png"
-    },
-    {
-      "id": "4604810",
-      "title": "Barça U19 visits the Ronald McDonald House",
-      "description": "The initiative is part of the Barça Foundation Blaugrana Bracelets programme, which uses the magic of Barça’s colours to contribute to the emotional well-being of children facing illness.",
-      "category": "",
-      "relativeTime": "Published date 05 Nov 26",
-      "publishedDate": "2026-11-05",
-      "dateLabel": "November 05",
-      "source": "https://www.fcbarcelona.com/en/news/4604810/barca-u19-visits-the-ronald-mcdonald-house-to-share-an-afternoon-of-joy-with-children-and-families",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/05/e743a96d-310f-4a6a-aa9f-3bc61e18a1ce/2026-10-28-VISITA-EQUIP-JUV-CASA-MAC-DONALD-4116.jpg",
-      "localImage": "assets/news/4604810.jpg"
     }
   ]
 }
