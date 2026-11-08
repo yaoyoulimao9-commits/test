@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-08T05:53:46.700Z",
+  "generatedAt": "2026-11-08T13:15:16.446Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4606030",
+      "title": "The squad for Atlético v Barça",
+      "description": "Flick can call on reinforcements for the final match ahead of the international break as Eric and Christensen are passed fit",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606030/the-squad-for-atletico-madrid-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/07/6df6d430-9c8e-40ae-b186-6bbcc36feabf/_MGA4451.jpg",
+      "localImage": "assets/news/4606030.jpg"
+    },
+    {
+      "id": "4605936",
+      "title": "PREVIEW | Atlético v Barça",
+      "description": "Top.-of-the-table clash with leadership going into the international break at stake",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-08",
+      "dateLabel": "November 08",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605936/preview-atletico-madrid-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/07/dbad5c09-6b75-47db-8561-1871bb1332d6/IMG_7007.PNG",
+      "localImage": "assets/news/4605936.png"
+    },
+    {
       "id": "4605960",
       "title": "'Eric and Christensen will be in the squad'",
       "description": "Barça coach confirms the return of two key defenders for the demanding trip to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 07 Nov 26",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Eric and Christensen are back",
       "description": "Eric Garcia and Andreas Christensen rejoin the group ahead of Sunday's visit to Atlético Madrid",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 07 Nov 26",
       "publishedDate": "2026-11-07",
       "dateLabel": "November 07",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4605954/last-workout-before-the-metropolitano",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/d062d159-31ba-48df-b5fd-141087be9ece/_MGA3884.jpg",
       "localImage": "assets/news/4604306.jpg"
-    },
-    {
-      "id": "4604249",
-      "title": "Barça futsal to face MNK Olmissum in the last 16 of the Champions League",
-      "description": "Should they win against the Croatian team, Javi Rodríguez's men will face either Minerva or Stalitsa Minsk in the quarter finals",
-      "category": "Futsal",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4604249/barca-futsal-to-face-mnk-olmissum-in-the-last-16-of-the-champions-league",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/b01bd15c-6409-4f4c-bc1c-172ebfec5206/3200x2000-sorteo-2026-B.jpg",
-      "localImage": "assets/news/4604249.jpg"
-    },
-    {
-      "id": "4604295",
-      "title": "BARÇA 24H launches on Disney+ in the Nordic countries",
-      "description": "Agreement strengthens club’s new content distribution and monetisation model, helping it reach new audiences and create business opportunities",
-      "category": "Club",
-      "relativeTime": "Published date 04 Nov 26",
-      "publishedDate": "2026-11-04",
-      "dateLabel": "November 04",
-      "source": "https://www.fcbarcelona.com/en/club/news/4604295/fc-barcelona-expands-international-distribution-of-its-audiovisual-content-with-launch-of-barca-24h-on-disney-in-the-nordic-countries",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/04/c733800d-0de9-42a8-b13b-4321edda08c5/CREATIVITAT-FAST-DISNEY-16_9-1920x1080-BLACK-7_00000-1-.png",
-      "localImage": "assets/news/4604295.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-08T05:53:46.700Z",
+  "newsUpdatedAt": "2026-11-08T13:15:16.446Z",
   "archive": {}
 };
