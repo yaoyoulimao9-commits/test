@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-10T03:29:32.705Z",
+  "generatedAt": "2026-11-10T11:43:54.158Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4607244",
+      "title": "Barça Foundation Presents the New EuroLeague One Team Ambassadors",
+      "description": "Agustín Ubal, Justin Minaya and Olek Balcerowski join as role models for the socio-educational initiative that promotes inclusion and personal development among vulnerable young people",
+      "category": "",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-10",
+      "dateLabel": "November 10",
+      "source": "https://www.fcbarcelona.com/en/news/4607244/barca-foundation-presents-the-new-euroleague-one-team-ambassadors",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/d0b7afff-1080-4f33-bfa4-ffe5d3bd2595/2026-10-20_AMBAIXADORSONETEAMEUROLEAGUE_017-1-.JPG",
+      "localImage": "assets/news/4607244.jpg"
+    },
+    {
       "id": "4606953",
       "title": "Lamine , Cubarsí and Rodri in FIFPRO World XI",
       "description": "Three players have been named in best XI of the year following a vote involving 19,806 professional footballers from around the world",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana talent to the fore at the Golden Boy awards",
       "description": "Pau Cubarsí and Giulia Galli lead the way for the prizes announced by Italian website Tuttosport, with Joan Laporta also named as best president",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/club/news/4606936/blaugrana-talent-to-the-fore-at-the-golden-boy-awards",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Trio named in the 2026 FIFPRO World XI",
       "description": "The three Barça players have been named in the best XI of the year, further underlining the club's prominence in world football",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4606922/paredes-pina-and-aitana-named-in-the-2026-fifpro-world-xi",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal wins Goal of the Month",
       "description": "His extraordinary strike away to Betis collects the award",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606338/lamine-yamal-wins-liga-goal-of-the-month-for-october",
@@ -6395,11 +6407,23 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4606338.jpg"
     },
     {
+      "id": "4606862",
+      "title": "Iniesta Experience: [The Inner Game]",
+      "description": "FC Barcelona Penya members can enjoy a 25% discount on ticket purchases.",
+      "category": "",
+      "relativeTime": "Published date 23 hrs ago",
+      "publishedDate": "2026-11-09",
+      "dateLabel": "November 09",
+      "source": "https://www.fcbarcelona.com/en/news/4606862/iniesta-experience-the-inner-game",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/80d224ea-bda3-4bb1-a4b5-d325a2db0ba7/Logo_Iniesta_Experience_Banner_NL_1920x1080px_cat.jpg",
+      "localImage": "assets/news/4606862.jpg"
+    },
+    {
       "id": "4606860",
       "title": "Training session without the international players",
       "description": "After the win over Atlético, Hansi Flick's team returned to training at the Ciutat Esportiva",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606860/training-session-without-the-international-players",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Castellers de Vilafranca make history in Japan",
       "description": "Catalan human castle group put on a performance at the Barça Academy headquarters",
       "category": "",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/news/4606833/castellers-de-vilafranca-make-history-at-barca-academy-yokohama",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Hansi Flick's Barça pull off another comeback",
       "description": "The blaugranes have come from behind on four occasions now this season, three in La Liga, with only Inter Milan completing more in Europe's top five leagues",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 09 Nov 26",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606828/hansi-flicks-barca-pull-off-another-comeback",
@@ -6435,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "Loads of footy on Barça Play",
       "description": "Six matches will be available to watch on FC Barcelona's official channels over the weekend of 14 and 15 November",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 09 Nov 26",
       "publishedDate": "2026-11-09",
       "dateLabel": "November 09",
       "source": "https://www.fcbarcelona.com/en/club/news/4606058/loads-of-live-footy-on-barca-play",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/news/4606327/ewa-pajor-makes-100th-appearance-for-fc-barcelona",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/abceca34-1b3f-4dd8-997a-1bcaae8a6edc/_5DS6494-2.jpg",
       "localImage": "assets/news/4606327.jpg"
-    },
-    {
-      "id": "4606246",
-      "title": "Hard work earns away win (0-1)",
-      "description": "Blaugranes earn a tough win away to Liceo to continue their early season form / Photo: Manu Boutureira",
-      "category": "Roller Hockey",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4606246/hockey-club-liceo-0-1-barca-hard-work-earns-away-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/3fd7958c-a619-4055-93e3-5aec39780e02/WhatsApp-Image-2026-11-08-at-14.08.27.jpeg",
-      "localImage": "assets/news/4606246.jpg"
-    },
-    {
-      "id": "4606245",
-      "title": "Cruise control (99-91)",
-      "description": "Blaugranes earn seventh consecutive victory in this tough test against the Galician side to go 5 and 2 in the Liga Endesa",
-      "category": "Basketball",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4606245/barca-99-91-rio-breogan-cruise-control",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/fceb4936-febb-4083-9be7-d0c1e707c76e/2026-11-08_FCBBASQUETvsBREOGAN_167.jpg",
-      "localImage": "assets/news/4606245.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-10T03:29:32.705Z",
+  "newsUpdatedAt": "2026-11-10T11:43:54.158Z",
   "archive": {}
 };
