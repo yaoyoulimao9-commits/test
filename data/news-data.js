@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-11T15:36:10.188Z",
+  "updatedAt": "2026-11-11T22:16:41.868Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Back on top (34-18)",
       "description": "Carlos Ortega's side return to the top of the Liga ASOBAL after a great performance at the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 10 Nov 26",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4607480/barca-34-18-caserio-ciudad-real-back-on-top",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Memorial FC Barcelona taking shape at Spotify Camp Nou",
       "description": "Located just metres from the pitch, future memorial area to have a columbarium and commemorative plaques to conserve Barça fan memories and experiences",
       "category": "Club",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 10 Nov 26",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4607487/memorial-fc-barcelona-taking-shape-at-spotify-camp-nou",
