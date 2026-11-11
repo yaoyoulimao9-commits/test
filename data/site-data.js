@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-11T00:36:58.989Z",
+  "generatedAt": "2026-11-11T07:10:01.553Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Back on top (34-18)",
       "description": "Carlos Ortega's side return to the top of the Liga ASOBAL after a great performance at the Palau",
       "category": "Handball",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4607480/barca-34-18-caserio-ciudad-real-back-on-top",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Memorial FC Barcelona taking shape at Spotify Camp Nou",
       "description": "Located just metres from the pitch, future memorial area to have a columbarium and commemorative plaques to conserve Barça fan memories and experiences",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/club/news/4607487/memorial-fc-barcelona-taking-shape-at-spotify-camp-nou",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Take the chance to get to know the team",
       "description": "The launches 'Meet the team' in which the Barça basketball team will sign autographs and have their photos taken with fans at the Barça Store",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4607345/take-the-chance-to-get-to-know-the-team-and-form-part-of-the-magic-of-the-palau",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona international diary",
       "description": "All the latest on how the players are faring for their national teams",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-diary",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Work continues at the Ciutat Esportiva",
       "description": "Second and final group session of the week without the players on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607323/work-continues-at-the-ciutat-esportiva",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça Foundation Presents the New EuroLeague One Team Ambassadors",
       "description": "Agustín Ubal, Justin Minaya and Olek Balcerowski join as role models for the socio-educational initiative that promotes inclusion and personal development among vulnerable young people",
       "category": "",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/news/4607244/barca-foundation-presents-the-new-euroleague-one-team-ambassadors",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4606439.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-11T00:36:58.989Z",
+  "newsUpdatedAt": "2026-11-11T07:10:01.553Z",
   "archive": {}
 };
