@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-10T19:39:57.627Z",
+  "updatedAt": "2026-11-11T00:36:58.985Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4607480",
+      "title": "Back on top (34-18)",
+      "description": "Carlos Ortega's side return to the top of the Liga ASOBAL after a great performance at the Palau",
+      "category": "Handball",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-10",
+      "dateLabel": "November 10",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4607480/barca-34-18-caserio-ciudad-real-back-on-top",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/800a8682-a6fb-48e6-859c-a8151730f01a/2026-11-10_FCBHANDBOLvsCIUDADREAL_055.jpg",
+      "localImage": "assets/news/4607480.jpg"
+    },
+    {
+      "id": "4607487",
+      "title": "Memorial FC Barcelona taking shape at Spotify Camp Nou",
+      "description": "Located just metres from the pitch, future memorial area to have a columbarium and commemorative plaques to conserve Barça fan memories and experiences",
+      "category": "Club",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-10",
+      "dateLabel": "November 10",
+      "source": "https://www.fcbarcelona.com/en/club/news/4607487/memorial-fc-barcelona-taking-shape-at-spotify-camp-nou",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/cf93baa8-610a-41a7-ab0c-ce360a327e10/DAG-014-_M1A7797.jpg",
+      "localImage": "assets/news/4607487.jpg"
+    },
     {
       "id": "4607345",
       "title": "Take the chance to get to know the team",
       "description": "The launches 'Meet the team' in which the Barça basketball team will sign autographs and have their photos taken with fans at the Barça Store",
       "category": "Basketball",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4607345/take-the-chance-to-get-to-know-the-team-and-form-part-of-the-magic-of-the-palau",
@@ -19,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona international diary",
       "description": "All the latest on how the players are faring for their national teams",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-diary",
@@ -31,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Work continues at the Ciutat Esportiva",
       "description": "Second and final group session of the week without the players on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607323/work-continues-at-the-ciutat-esportiva",
@@ -43,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça Foundation Presents the New EuroLeague One Team Ambassadors",
       "description": "Agustín Ubal, Justin Minaya and Olek Balcerowski join as role models for the socio-educational initiative that promotes inclusion and personal development among vulnerable young people",
       "category": "",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
       "source": "https://www.fcbarcelona.com/en/news/4607244/barca-foundation-presents-the-new-euroleague-one-team-ambassadors",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/d606760f-3bf4-4f76-acad-eca4f28e8259/_MGA8636.jpg",
       "localImage": "assets/news/4606439.jpg"
-    },
-    {
-      "id": "4606427",
-      "title": "Day marked by tributes to Jesús de Miguel",
-      "description": "Atlético Madrid v Barça and the other matchday 12 fixtures pay tribute to the CD Tenerife striker",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606427/day-marked-by-tributes-to-jesus-de-miguel",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/850fb19b-e1b9-4faa-a461-b17641871caa/_MGA5055.jpg",
-      "localImage": "assets/news/4606427.jpg"
-    },
-    {
-      "id": "4606352",
-      "title": "Manresa 0-3 Barça Atlètic: Solid leaders",
-      "description": "A sensational start helped Barça take all three points at the Estadi Municipal Nou Congost",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4606352/ce-manresa-0-3-barca-atletic-solid-leaders",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/84055e68-297c-47d4-9aac-c69be82f25a3/MANRESA_BARC-A-ATLETIC-21.jpg",
-      "localImage": "assets/news/4606352.jpg"
     }
   ]
 };
