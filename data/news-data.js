@@ -1,7 +1,19 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-12T03:19:46.959Z",
+  "updatedAt": "2026-11-12T11:48:18.027Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4607914",
+      "title": "Spain, England and Croatia in action",
+      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-12",
+      "dateLabel": "November 12",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/11/564970b3-0519-44d2-8221-7be44347d707/_MGA4341.jpg",
+      "localImage": "assets/news/4607914.jpg"
+    },
     {
       "id": "4607480",
       "title": "Back on top (34-18)",
@@ -40,13 +52,13 @@ window.BARCA_NEWS = {
     },
     {
       "id": "4607335",
-      "title": "FC Barcelona international diary",
-      "description": "All the latest on how the players are faring for their national teams",
+      "title": "FC Barcelona international schedule",
+      "description": "Our rundown to our players' upcoming commitments with their national teams",
       "category": "First Team",
       "relativeTime": "Published date 10 Nov 26",
       "publishedDate": "2026-11-10",
       "dateLabel": "November 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-diary",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-schedule",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/017f538e-1458-46a7-9344-615ec93a805d/_MGA0933.jpg",
       "localImage": "assets/news/4607335.jpg"
     },
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606581/100-league-games-and-a-brace-for-fermin",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/419cb440-82a9-4947-b108-14f8b774ebe2/_MGA8632.jpg",
       "localImage": "assets/news/4606581.jpg"
-    },
-    {
-      "id": "4606439",
-      "title": "Atlético 1-2 Barça: Comeback to stay top",
-      "description": "Fermin brace turns a potential two-point deficit into a five-point advantage over one of the biggest contenders in the Liga title race",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/d606760f-3bf4-4f76-acad-eca4f28e8259/_MGA8636.jpg",
-      "localImage": "assets/news/4606439.jpg"
     }
   ]
 };
