@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-12T11:48:18.032Z",
+  "generatedAt": "2026-11-12T19:51:06.733Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4608213",
+      "title": "UWCL PREVIEW | Barça v Arsenal",
+      "description": "Blaugranes host the English side on the biggest stage at the Spotify Camp Nou in a replay of the 2025 UEFA Women's Champions League final",
+      "category": "Women",
+      "relativeTime": "Published date 8 hrs ago",
+      "publishedDate": "2026-11-12",
+      "dateLabel": "November 12",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608213/uwcl-preview-fc-barcelona-femeni-v-arsenal-women",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/d0a0f2b6-f0da-40bd-abe2-feed99446b7d/_GP23810-2.jpg",
+      "localImage": "assets/news/4608213.jpg"
+    },
+    {
       "id": "4607914",
       "title": "Spain, England and Croatia in action",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606585/hansi-flick-i-believe-in-this-team",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/b812ed4f-c1d5-48b7-9cf1-b4da53eea9b8/_MGA5042.jpg",
       "localImage": "assets/news/4606585.jpg"
-    },
-    {
-      "id": "4606581",
-      "title": "100 league games and a brace for Fermín",
-      "description": "The La Masia product celebrates reaching a century with both goals in the win over Atlético in the Metropolitano",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606581/100-league-games-and-a-brace-for-fermin",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/419cb440-82a9-4947-b108-14f8b774ebe2/_MGA8632.jpg",
-      "localImage": "assets/news/4606581.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-12T11:48:18.032Z",
+  "newsUpdatedAt": "2026-11-12T19:51:06.733Z",
   "archive": {}
 };
