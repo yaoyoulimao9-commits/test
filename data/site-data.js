@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-13T01:01:59.443Z",
+  "generatedAt": "2026-11-13T07:52:06.834Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Wins for Spain and England",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Recognitions galore",
       "description": "Marta Torrejón honoured for reaching 500 appearances in a Barça shirt, on a day that also saw the club celebrate the awards won at the Ballon d'Or ceremony",
       "category": "Women",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608302/recognitions-galore",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Barça 1-1 Arsenal: Bittersweet point",
       "description": "Graham Hansen goal salvages a draw against the Londoners",
       "category": "Football",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/news/4608364/barca-1-1-arsenal-bittersweet-point",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "UWCL PREVIEW | Barça v Arsenal",
       "description": "Blaugranes host the English side on the biggest stage at the Spotify Camp Nou in a replay of the 2025 UEFA Women's Champions League final",
       "category": "Women",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608213/uwcl-preview-fc-barcelona-femeni-v-arsenal-women",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4606828.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-13T01:01:59.443Z",
+  "newsUpdatedAt": "2026-11-13T07:52:06.834Z",
   "archive": {}
 };
