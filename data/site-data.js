@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-13T16:14:28.376Z",
+  "generatedAt": "2026-11-13T22:09:28.592Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "300 milion euro issue to complete Stadium works finalised",
       "description": "Financing to enable further progress on transforming Spotify Camp Nou, the centrepiece of Espai Barça",
       "category": "Club",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4608721/fc-barcelona-finalises-300-million-euro-issue-for-completing-spotify-camp-nou-works",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Vicky López medical update",
       "description": "Player set to be out for longer due to right thigh injury",
       "category": "Women",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608647/vicky-lopez-medical-update",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "All set for Amsterdam",
       "description": "The Johan Cruyff Arena is sold out for the game featuring the Barça Legends",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/news/4608657/all-set-for-amsterdam",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "African Cup of Nations and Nations League action",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic visits Can Ruti",
       "description": "The visit is part of the “Christmas All Year” initiative, promoted by the Barça Foundation to support hospitalised children throughout the year, not just during the Christmas holidays",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/news/4608653/barca-atletic-shares-an-afternoon-with-children-and-young-people-hospitalised-at-can-ruti-as-part-of-the-blaugrana-bracelets-project",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "FC Barcelona and Vueling renew partnership to promote Barça Femení worldwide",
       "description": "Company to continue as the official airline for the women's football first team for 2026/27 season, with a plane with a new livery featuring six blaugrana players set to be used from December 15",
       "category": "Football",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/football/news/4608303/fc-barcelona-and-vueling-renew-partnership-to-promote-barca-femeni-worldwide",
@@ -6423,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Recognitions galore",
       "description": "Marta Torrejón honoured for reaching 500 appearances in a Barça shirt, on a day that also saw the club celebrate the awards won at the Ballon d'Or ceremony",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 12 Nov 26",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608302/recognitions-galore",
@@ -6435,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Barça 1-1 Arsenal: Bittersweet point",
       "description": "Graham Hansen goal salvages a draw against the Londoners",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 12 Nov 26",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608364/barca-1-1-arsenal-bittersweet-point",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4606338.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-13T16:14:28.376Z",
+  "newsUpdatedAt": "2026-11-13T22:09:28.592Z",
   "archive": {}
 };
