@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-12T19:51:06.733Z",
+  "generatedAt": "2026-11-13T01:01:59.443Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,28 +6347,52 @@ window.BARCA_DATA = {
   },
   "news": [
     {
-      "id": "4608213",
-      "title": "UWCL PREVIEW | Barça v Arsenal",
-      "description": "Blaugranes host the English side on the biggest stage at the Spotify Camp Nou in a replay of the 2025 UEFA Women's Champions League final",
-      "category": "Women",
-      "relativeTime": "Published date 8 hrs ago",
-      "publishedDate": "2026-11-12",
-      "dateLabel": "November 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608213/uwcl-preview-fc-barcelona-femeni-v-arsenal-women",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/d0a0f2b6-f0da-40bd-abe2-feed99446b7d/_GP23810-2.jpg",
-      "localImage": "assets/news/4608213.jpg"
-    },
-    {
       "id": "4607914",
-      "title": "Spain, England and Croatia in action",
+      "title": "Wins for Spain and England",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 2 hrs ago",
       "publishedDate": "2026-11-12",
       "dateLabel": "November 12",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/11/564970b3-0519-44d2-8221-7be44347d707/_MGA4341.jpg",
       "localImage": "assets/news/4607914.jpg"
+    },
+    {
+      "id": "4608302",
+      "title": "Recognitions galore",
+      "description": "Marta Torrejón honoured for reaching 500 appearances in a Barça shirt, on a day that also saw the club celebrate the awards won at the Ballon d'Or ceremony",
+      "category": "Women",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-12",
+      "dateLabel": "November 12",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608302/recognitions-galore",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/fa9e053a-bb72-464e-959b-7e4b2cb1301a/_5DS8577-2.jpg",
+      "localImage": "assets/news/4608302.jpg"
+    },
+    {
+      "id": "4608364",
+      "title": "Barça 1-1 Arsenal: Bittersweet point",
+      "description": "Graham Hansen goal salvages a draw against the Londoners",
+      "category": "Football",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-12",
+      "dateLabel": "November 12",
+      "source": "https://www.fcbarcelona.com/en/football/news/4608364/barca-1-1-arsenal-bittersweet-point",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/8f738d2b-7863-4d79-a6a7-06702f16d15d/JC010379-2.jpg",
+      "localImage": "assets/news/4608364.jpg"
+    },
+    {
+      "id": "4608213",
+      "title": "UWCL PREVIEW | Barça v Arsenal",
+      "description": "Blaugranes host the English side on the biggest stage at the Spotify Camp Nou in a replay of the 2025 UEFA Women's Champions League final",
+      "category": "Women",
+      "relativeTime": "Published date 13 hrs ago",
+      "publishedDate": "2026-11-12",
+      "dateLabel": "November 12",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608213/uwcl-preview-fc-barcelona-femeni-v-arsenal-women",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/d0a0f2b6-f0da-40bd-abe2-feed99446b7d/_GP23810-2.jpg",
+      "localImage": "assets/news/4608213.jpg"
     },
     {
       "id": "4607480",
@@ -6467,18 +6491,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4606936.jpg"
     },
     {
-      "id": "4606922",
-      "title": "Trio named in the 2026 FIFPRO World XI",
-      "description": "The three Barça players have been named in the best XI of the year, further underlining the club's prominence in world football",
-      "category": "Women",
-      "relativeTime": "Published date 09 Nov 26",
-      "publishedDate": "2026-11-09",
-      "dateLabel": "November 09",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4606922/paredes-pina-and-aitana-named-in-the-2026-fifpro-world-xi",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/09/33c3eca3-083f-498a-ad07-17a6f9c52eab/FEM_FIFPRO-1-.jpg",
-      "localImage": "assets/news/4606922.jpg"
-    },
-    {
       "id": "4606338",
       "title": "Lamine Yamal wins Goal of the Month",
       "description": "His extraordinary strike away to Betis collects the award",
@@ -6489,6 +6501,18 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606338/lamine-yamal-wins-liga-goal-of-the-month-for-october",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/21a9baac-c7b9-410e-94e6-82a6700f5a8d/_MGA7721.jpg",
       "localImage": "assets/news/4606338.jpg"
+    },
+    {
+      "id": "4606922",
+      "title": "Trio named in the 2026 FIFPRO World XI",
+      "description": "The three Barça players have been named in the best XI of the year, further underlining the club's prominence in world football",
+      "category": "Women",
+      "relativeTime": "Published date 09 Nov 26",
+      "publishedDate": "2026-11-09",
+      "dateLabel": "November 09",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4606922/paredes-pina-and-aitana-named-in-the-2026-fifpro-world-xi",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/09/33c3eca3-083f-498a-ad07-17a6f9c52eab/FEM_FIFPRO-1-.jpg",
+      "localImage": "assets/news/4606922.jpg"
     },
     {
       "id": "4606862",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606828/hansi-flicks-barca-pull-off-another-comeback",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/09/2cf2899f-78c5-446f-bed8-f48df5713122/_MGA5360.jpg",
       "localImage": "assets/news/4606828.jpg"
-    },
-    {
-      "id": "4606058",
-      "title": "Loads of footy on Barça Play",
-      "description": "Six matches will be available to watch on FC Barcelona's official channels over the weekend of 14 and 15 November",
-      "category": "Club",
-      "relativeTime": "Published date 09 Nov 26",
-      "publishedDate": "2026-11-09",
-      "dateLabel": "November 09",
-      "source": "https://www.fcbarcelona.com/en/club/news/4606058/loads-of-live-footy-on-barca-play",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2025/09/12/0fbf3c94-c1d8-41fc-ba02-843b6cd04e09/TIGRES_BARC-A-LEGENDS-81.jpg",
-      "localImage": "assets/news/4606058.jpg"
-    },
-    {
-      "id": "4606585",
-      "title": "Hansi Flick: 'I believe in this team'",
-      "description": "The Barça coach reacts to the win over Atlético and his side's excellent second half performance in the second half in the Metropolitano",
-      "category": "First Team",
-      "relativeTime": "Published date 08 Nov 26",
-      "publishedDate": "2026-11-08",
-      "dateLabel": "November 08",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606585/hansi-flick-i-believe-in-this-team",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/b812ed4f-c1d5-48b7-9cf1-b4da53eea9b8/_MGA5042.jpg",
-      "localImage": "assets/news/4606585.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-12T19:51:06.733Z",
+  "newsUpdatedAt": "2026-11-13T01:01:59.443Z",
   "archive": {}
 };
