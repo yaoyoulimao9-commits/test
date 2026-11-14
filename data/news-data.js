@@ -1,13 +1,49 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-13T22:09:28.587Z",
+  "updatedAt": "2026-11-14T02:40:22.512Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4607914",
+      "title": "Three wins out of three on Friday",
+      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-13",
+      "dateLabel": "November 13",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/e51ac118-b1fd-4412-a09f-de6f3326355e/_MGA4039.jpg",
+      "localImage": "assets/news/4607914.jpg"
+    },
+    {
+      "id": "4608861",
+      "title": "Panathinaikos 74-76 Barça: What a win",
+      "description": "The blaugranes win in Greece in epic fashion to record an eight victory in a row",
+      "category": "Basketball",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-13",
+      "dateLabel": "November 13",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4608861/panathinaikos-74-76-barca-what-a-win",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/f857303a-8381-4efe-a3d3-c6ed99c042d9/1IN_5567_1KImIbze_20261113114156.jpg",
+      "localImage": "assets/news/4608861.jpg"
+    },
+    {
+      "id": "4608860",
+      "title": "Barça 37-28 Sevilla: Nine in a row",
+      "description": "The blaugranes pick up a win in the league before a testing week in Europe and at home",
+      "category": "Handball",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-11-13",
+      "dateLabel": "November 13",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4608860/barca-37-28-sevilla-nine-in-a-row",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/69107dd4-3924-4282-96d0-b205aeeaaa70/2026-11-13_FCBHANDBOLvsSEVILLA_094.jpg",
+      "localImage": "assets/news/4608860.jpg"
+    },
     {
       "id": "4608721",
       "title": "300 milion euro issue to complete Stadium works finalised",
       "description": "Financing to enable further progress on transforming Spotify Camp Nou, the centrepiece of Espai Barça",
       "category": "Club",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4608721/fc-barcelona-finalises-300-million-euro-issue-for-completing-spotify-camp-nou-works",
@@ -19,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Vicky López medical update",
       "description": "Player set to be out for longer due to right thigh injury",
       "category": "Women",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608647/vicky-lopez-medical-update",
@@ -31,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "All set for Amsterdam",
       "description": "The Johan Cruyff Arena is sold out for the game featuring the Barça Legends",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/news/4608657/all-set-for-amsterdam",
@@ -39,23 +75,11 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4608657.jpg"
     },
     {
-      "id": "4607914",
-      "title": "African Cup of Nations and Nations League action",
-      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
-      "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
-      "publishedDate": "2026-11-13",
-      "dateLabel": "November 13",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/e51ac118-b1fd-4412-a09f-de6f3326355e/_MGA4039.jpg",
-      "localImage": "assets/news/4607914.jpg"
-    },
-    {
       "id": "4608653",
       "title": "Barça Atlètic visits Can Ruti",
       "description": "The visit is part of the “Christmas All Year” initiative, promoted by the Barça Foundation to support hospitalised children throughout the year, not just during the Christmas holidays",
       "category": "",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/news/4608653/barca-atletic-shares-an-afternoon-with-children-and-young-people-hospitalised-at-can-ruti-as-part-of-the-blaugrana-bracelets-project",
@@ -67,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "FC Barcelona and Vueling renew partnership to promote Barça Femení worldwide",
       "description": "Company to continue as the official airline for the women's football first team for 2026/27 season, with a plane with a new livery featuring six blaugrana players set to be used from December 15",
       "category": "Football",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/football/news/4608303/fc-barcelona-and-vueling-renew-partnership-to-promote-barca-femeni-worldwide",
@@ -193,30 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/09/8a530304-f301-41e8-8ce4-e35258e859f9/MAS_FIFPRO-2-.jpg",
       "localImage": "assets/news/4606953.jpg"
-    },
-    {
-      "id": "4606936",
-      "title": "Blaugrana talent to the fore at the Golden Boy awards",
-      "description": "Pau Cubarsí and Giulia Galli lead the way for the prizes announced by Italian website Tuttosport, with Joan Laporta also named as best president",
-      "category": "Club",
-      "relativeTime": "Published date 09 Nov 26",
-      "publishedDate": "2026-11-09",
-      "dateLabel": "November 09",
-      "source": "https://www.fcbarcelona.com/en/club/news/4606936/blaugrana-talent-to-the-fore-at-the-golden-boy-awards",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/09/bb7f8c62-f97a-4b06-aae5-4fede3b7ed87/2026-10-31_FCBvsALAVES_044.jpg",
-      "localImage": "assets/news/4606936.jpg"
-    },
-    {
-      "id": "4606338",
-      "title": "Lamine Yamal wins Goal of the Month",
-      "description": "His extraordinary strike away to Betis collects the award",
-      "category": "First Team",
-      "relativeTime": "Published date 09 Nov 26",
-      "publishedDate": "2026-11-09",
-      "dateLabel": "November 09",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4606338/lamine-yamal-wins-liga-goal-of-the-month-for-october",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/08/21a9baac-c7b9-410e-94e6-82a6700f5a8d/_MGA7721.jpg",
-      "localImage": "assets/news/4606338.jpg"
     }
   ]
 };
