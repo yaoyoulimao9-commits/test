@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-14T16:43:00.891Z",
+  "updatedAt": "2026-11-14T21:25:17.403Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4609118",
+      "title": "Pons Lleida 6-5 Barça: No WSE Continental Cup final",
+      "description": "The blaugranes lose out to their Catalan rivals and miss out on the chance for more silverware",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-14",
+      "dateLabel": "November 14",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4609118/pons-lleida-6-5-barca-no-wse-continental-cup-final",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/4b2458b7-feb8-4568-a61c-cb981d5d99cc/DSC06947.jpg",
+      "localImage": "assets/news/4609118.jpg"
+    },
     {
       "id": "4609084",
       "title": "Hard-fought draw (3-3)",
       "description": "Barça dominate play, but the Catalans and Murcians ultimately share the points",
       "category": "Futsal",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
@@ -16,10 +28,10 @@ window.BARCA_NEWS = {
     },
     {
       "id": "4607914",
-      "title": "Raphinha captains Brazil against Japan",
+      "title": "Raphinha starts and sees red against Japan",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Five games at Spotify Camp Nou before the end of the year",
       "description": "Barça approach the final weeks of 2026 with demanding contests against Villarreal, Atlético Madrid, Manchester City and Real Sociedad",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Panathinaikos 74-76 Barça: What a win",
       "description": "The blaugranes win in Greece in epic fashion to record an eight victory in a row",
       "category": "Basketball",
-      "relativeTime": "Published date 18 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4608861/panathinaikos-74-76-barca-what-a-win",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Barça 37-28 Sevilla: Nine in a row",
       "description": "The blaugranes pick up a win in the league before a testing week in Europe and at home",
       "category": "Handball",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 13 Nov 26",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4608860/barca-37-28-sevilla-nine-in-a-row",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-schedule",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/017f538e-1458-46a7-9344-615ec93a805d/_MGA0933.jpg",
       "localImage": "assets/news/4607335.jpg"
-    },
-    {
-      "id": "4607323",
-      "title": "Work continues at the Ciutat Esportiva",
-      "description": "Second and final group session of the week without the players on international duty",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Nov 26",
-      "publishedDate": "2026-11-10",
-      "dateLabel": "November 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607323/work-continues-at-the-ciutat-esportiva",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/1d4a5667-fc13-417a-a122-f6dc26299b28/image00007.jpeg",
-      "localImage": "assets/news/4607323.jpg"
     }
   ]
 };
