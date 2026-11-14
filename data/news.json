@@ -1,15 +1,27 @@
 {
-  "updatedAt": "2026-11-14T10:14:00.036Z",
+  "updatedAt": "2026-11-14T16:43:00.891Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "sourceName": "FC Barcelona Official Channel",
   "note": "资讯标题、摘要、分类、发布时间与图片均来自 FC Barcelona 官方新闻页；中文翻译为本站便于阅读所作。",
   "items": [
     {
+      "id": "4609084",
+      "title": "Hard-fought draw (3-3)",
+      "description": "Barça dominate play, but the Catalans and Murcians ultimately share the points",
+      "category": "Futsal",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-14",
+      "dateLabel": "November 14",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/e884eb60-5de7-42e5-8f9a-781d1dd1bdf6/WhatsApp-Image-2026-11-14-at-13.46.22-1-.jpeg",
+      "localImage": "assets/news/4609084.jpg"
+    },
+    {
       "id": "4607914",
       "title": "Raphinha captains Brazil against Japan",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 43 Mins ago",
+      "relativeTime": "Published date 4 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -21,7 +33,7 @@
       "title": "Five games at Spotify Camp Nou before the end of the year",
       "description": "Barça approach the final weeks of 2026 with demanding contests against Villarreal, Atlético Madrid, Manchester City and Real Sociedad",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
@@ -33,7 +45,7 @@
       "title": "Panathinaikos 74-76 Barça: What a win",
       "description": "The blaugranes win in Greece in epic fashion to record an eight victory in a row",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4608861/panathinaikos-74-76-barca-what-a-win",
@@ -45,7 +57,7 @@
       "title": "Barça 37-28 Sevilla: Nine in a row",
       "description": "The blaugranes pick up a win in the league before a testing week in Europe and at home",
       "category": "Handball",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4608860/barca-37-28-sevilla-nine-in-a-row",
@@ -57,7 +69,7 @@
       "title": "300 milion euro issue to complete Stadium works finalised",
       "description": "Financing to enable further progress on transforming Spotify Camp Nou, the centrepiece of Espai Barça",
       "category": "Club",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 13 Nov 26",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/club/news/4608721/fc-barcelona-finalises-300-million-euro-issue-for-completing-spotify-camp-nou-works",
@@ -207,18 +219,6 @@
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607323/work-continues-at-the-ciutat-esportiva",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/1d4a5667-fc13-417a-a122-f6dc26299b28/image00007.jpeg",
       "localImage": "assets/news/4607323.jpg"
-    },
-    {
-      "id": "4607244",
-      "title": "Barça Foundation Presents the New EuroLeague One Team Ambassadors",
-      "description": "Agustín Ubal, Justin Minaya and Olek Balcerowski join as role models for the socio-educational initiative that promotes inclusion and personal development among vulnerable young people",
-      "category": "",
-      "relativeTime": "Published date 10 Nov 26",
-      "publishedDate": "2026-11-10",
-      "dateLabel": "November 10",
-      "source": "https://www.fcbarcelona.com/en/news/4607244/barca-foundation-presents-the-new-euroleague-one-team-ambassadors",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/d0b7afff-1080-4f33-bfa4-ffe5d3bd2595/2026-10-20_AMBAIXADORSONETEAMEUROLEAGUE_017-1-.JPG",
-      "localImage": "assets/news/4607244.jpg"
     }
   ]
 }
