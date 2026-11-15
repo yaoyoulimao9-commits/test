@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-15T01:17:54.559Z",
+  "generatedAt": "2026-11-15T08:25:24.143Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Raphinha starts and sees red against Japan",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Barça Atlètic 0-1 Girona B: First home defeat",
       "description": "The blaugranes gave it all but a second half goal from the visitors consigned Barça to defeat",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4609122/barca-atletic-0-1-girona-b-first-home-defeat",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Pons Lleida 6-5 Barça: No WSE Continental Cup final",
       "description": "The blaugranes lose out to their Catalan rivals and miss out on the chance for more silverware",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4609118/pons-lleida-6-5-barca-no-wse-continental-cup-final",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Hard-fought draw (3-3)",
       "description": "Barça dominate play, but the Catalans and Murcians ultimately share the points",
       "category": "Futsal",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Five games at Spotify Camp Nou before the end of the year",
       "description": "Barça approach the final weeks of 2026 with demanding contests against Villarreal, Atlético Madrid, Manchester City and Real Sociedad",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4607345.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-15T01:17:54.559Z",
+  "newsUpdatedAt": "2026-11-15T08:25:24.143Z",
   "archive": {}
 };
