@@ -1,13 +1,37 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-15T15:51:53.553Z",
+  "updatedAt": "2026-11-15T20:59:52.562Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4609457",
+      "title": "Deportivo 1-1 Barça: Point saved at Riazor",
+      "description": "Van Asten injury time goals avoids the first defeat of the season in Galicia",
+      "category": "Women",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-15",
+      "dateLabel": "November 15",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4609457/deportivo-1-1-barca-point-saved-at-riazor",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/37f5983d-dfbf-4635-bc25-10468925d60a/CSP_JM_20261115_0064.jpg",
+      "localImage": "assets/news/4609457.jpg"
+    },
+    {
+      "id": "4609458",
+      "title": "Se amplía la racha (108-83)",
+      "description": "Run of three consecutive home games at the Palau opens with ninth straight win",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-15",
+      "dateLabel": "November 15",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4609458/barca-108-83-obradoiro-winning-run-continues-at-palau",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/d9f3b730-10c3-49a8-bc23-d62d74de7f90/2026-11-15_FCBBASQUETvsOBRADOIRO_171.jpg",
+      "localImage": "assets/news/4609458.jpg"
+    },
     {
       "id": "4609355",
       "title": "Loads of live footy on Barça Play",
       "description": "The derby between Espanyol B and Barça Atlètic and the return of La Liga with Barça v Villarreal take centre stage on the club's platforms",
       "category": "Club",
-      "relativeTime": "Published date 26 Mins ago",
+      "relativeTime": "Published date 5 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4609355/loads-of-live-footy-on-barca-play",
@@ -15,11 +39,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4609355.jpg"
     },
     {
+      "id": "4609361",
+      "title": "Ajax Legends 4-7 Barça Legends: Goals galore in Amsterdam",
+      "description": "Barça come out on top in a charity match full of talent, reunions and entertainment",
+      "category": "",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-15",
+      "dateLabel": "November 15",
+      "source": "https://www.fcbarcelona.com/en/news/4609361/ajax-legends-4-7-barca-legends-goals-galore-in-amsterdam",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/37fd58dc-9183-42a7-bf1f-0d5967ce25bc/_5DS8560.jpg",
+      "localImage": "assets/news/4609361.jpg"
+    },
+    {
       "id": "4607914",
       "title": "Spain, England and Croatia in action",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -31,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Back at the Metropolitano",
       "description": "Seven days after the Atlético v Barça league clash, several players return to the venue on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609338/blaugrana-return-to-the-metropolitano",
@@ -43,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "Barça Atlètic 0-1 Girona B: First home defeat",
       "description": "The blaugranes gave it all but a second half goal from the visitors consigned Barça to defeat",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 14 Nov 26",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4609122/barca-atletic-0-1-girona-b-first-home-defeat",
@@ -55,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Pons Lleida 6-5 Barça: No WSE Continental Cup final",
       "description": "The blaugranes lose out to their Catalan rivals and miss out on the chance for more silverware",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 14 Nov 26",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4609118/pons-lleida-6-5-barca-no-wse-continental-cup-final",
@@ -181,42 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608302/recognitions-galore",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/fa9e053a-bb72-464e-959b-7e4b2cb1301a/_5DS8577-2.jpg",
       "localImage": "assets/news/4608302.jpg"
-    },
-    {
-      "id": "4608364",
-      "title": "Barça 1-1 Arsenal: Bittersweet point",
-      "description": "Graham Hansen goal salvages a draw against the Londoners",
-      "category": "Women",
-      "relativeTime": "Published date 12 Nov 26",
-      "publishedDate": "2026-11-12",
-      "dateLabel": "November 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608364/barca-1-1-arsenal-bittersweet-point",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/8f738d2b-7863-4d79-a6a7-06702f16d15d/JC010379-2.jpg",
-      "localImage": "assets/news/4608364.jpg"
-    },
-    {
-      "id": "4608213",
-      "title": "UWCL PREVIEW | Barça v Arsenal",
-      "description": "Blaugranes host the English side on the biggest stage at the Spotify Camp Nou in a replay of the 2025 UEFA Women's Champions League final",
-      "category": "Women",
-      "relativeTime": "Published date 12 Nov 26",
-      "publishedDate": "2026-11-12",
-      "dateLabel": "November 12",
-      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4608213/uwcl-preview-fc-barcelona-femeni-v-arsenal-women",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/12/d0a0f2b6-f0da-40bd-abe2-feed99446b7d/_GP23810-2.jpg",
-      "localImage": "assets/news/4608213.jpg"
-    },
-    {
-      "id": "4607480",
-      "title": "Back on top (34-18)",
-      "description": "Carlos Ortega's side return to the top of the Liga ASOBAL after a great performance at the Palau",
-      "category": "Handball",
-      "relativeTime": "Published date 10 Nov 26",
-      "publishedDate": "2026-11-10",
-      "dateLabel": "November 10",
-      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4607480/barca-34-18-caserio-ciudad-real-back-on-top",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/800a8682-a6fb-48e6-859c-a8151730f01a/2026-11-10_FCBHANDBOLvsCIUDADREAL_055.jpg",
-      "localImage": "assets/news/4607480.jpg"
     }
   ]
 };
