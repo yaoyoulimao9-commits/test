@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-14T21:25:17.406Z",
+  "generatedAt": "2026-11-15T01:17:54.559Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4607914",
+      "title": "Raphinha starts and sees red against Japan",
+      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-14",
+      "dateLabel": "November 14",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/0be4be8d-ba48-4b2f-994d-a79eb5b901d2/2026-11-03_FCBvsASTONVILLA_116.jpg",
+      "localImage": "assets/news/4607914.jpg"
+    },
+    {
+      "id": "4609122",
+      "title": "Barça Atlètic 0-1 Girona B: First home defeat",
+      "description": "The blaugranes gave it all but a second half goal from the visitors consigned Barça to defeat",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-11-14",
+      "dateLabel": "November 14",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4609122/barca-atletic-0-1-girona-b-first-home-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/6d74f7aa-7d62-43d5-969e-e121ac9db258/2026-11-14_FCBATLETICvsGIRONAB_093.jpg",
+      "localImage": "assets/news/4609122.jpg"
+    },
+    {
       "id": "4609118",
       "title": "Pons Lleida 6-5 Barça: No WSE Continental Cup final",
       "description": "The blaugranes lose out to their Catalan rivals and miss out on the chance for more silverware",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4609118/pons-lleida-6-5-barca-no-wse-continental-cup-final",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Hard-fought draw (3-3)",
       "description": "Barça dominate play, but the Catalans and Murcians ultimately share the points",
       "category": "Futsal",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
@@ -6371,23 +6395,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4609084.jpg"
     },
     {
-      "id": "4607914",
-      "title": "Raphinha starts and sees red against Japan",
-      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
-      "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/0be4be8d-ba48-4b2f-994d-a79eb5b901d2/2026-11-03_FCBvsASTONVILLA_116.jpg",
-      "localImage": "assets/news/4607914.jpg"
-    },
-    {
       "id": "4608811",
       "title": "Five games at Spotify Camp Nou before the end of the year",
       "description": "Barça approach the final weeks of 2026 with demanding contests against Villarreal, Atlético Madrid, Manchester City and Real Sociedad",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-14",
       "dateLabel": "November 14",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Panathinaikos 74-76 Barça: What a win",
       "description": "The blaugranes win in Greece in epic fashion to record an eight victory in a row",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 13 Nov 26",
       "publishedDate": "2026-11-13",
       "dateLabel": "November 13",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4608861/panathinaikos-74-76-barca-what-a-win",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4607345/take-the-chance-to-get-to-know-the-team-and-form-part-of-the-magic-of-the-palau",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/de716ee3-a7bb-45c1-8837-1714d8542463/JC010708.jpg",
       "localImage": "assets/news/4607345.jpg"
-    },
-    {
-      "id": "4607335",
-      "title": "FC Barcelona international schedule",
-      "description": "Our rundown to our players' upcoming commitments with their national teams",
-      "category": "First Team",
-      "relativeTime": "Published date 10 Nov 26",
-      "publishedDate": "2026-11-10",
-      "dateLabel": "November 10",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607335/fc-barcelona-international-schedule",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/10/017f538e-1458-46a7-9344-615ec93a805d/_MGA0933.jpg",
-      "localImage": "assets/news/4607335.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-14T21:25:17.406Z",
+  "newsUpdatedAt": "2026-11-15T01:17:54.559Z",
   "archive": {}
 };
