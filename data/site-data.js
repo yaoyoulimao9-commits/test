@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-16T00:57:46.753Z",
+  "generatedAt": "2026-11-16T07:55:20.316Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Gordon wins battle of Culers",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Deportivo 1-1 Barça: Point saved at Riazor",
       "description": "Van Asten injury time goals avoids the first defeat of the season in Galicia",
       "category": "Women",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4609457/deportivo-1-1-barca-point-saved-at-riazor",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Se amplía la racha (108-83)",
       "description": "Run of three consecutive home games at the Palau opens with ninth straight win",
       "category": "Basketball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4609458/barca-108-83-obradoiro-winning-run-continues-at-palau",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Loads of live footy on Barça Play",
       "description": "The derby between Espanyol B and Barça Atlètic and the return of La Liga with Barça v Villarreal take centre stage on the club's platforms",
       "category": "Club",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/club/news/4609355/loads-of-live-footy-on-barca-play",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Ajax Legends 4-7 Barça Legends: Goals galore in Amsterdam",
       "description": "Barça come out on top in a charity match full of talent, reunions and entertainment",
       "category": "",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/news/4609361/ajax-legends-4-7-barca-legends-goals-galore-in-amsterdam",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Back at the Metropolitano",
       "description": "Seven days after the Atlético v Barça league clash, several players return to the venue on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609338/blaugrana-return-to-the-metropolitano",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4608302.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-16T00:57:46.753Z",
+  "newsUpdatedAt": "2026-11-16T07:55:20.316Z",
   "archive": {}
 };
