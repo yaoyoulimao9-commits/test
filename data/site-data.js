@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-16T18:25:27.550Z",
+  "generatedAt": "2026-11-17T02:04:00.399Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4607914",
+      "title": "Gordon wins battle of Culers",
+      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
+      "category": "First Team",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-16",
+      "dateLabel": "November 16",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/b966d63e-4d0f-40b1-99f3-a039b39d297b/_MGA5167.jpg",
+      "localImage": "assets/news/4607914.jpg"
+    },
+    {
       "id": "4609902",
       "title": "Cubarsí and De Jong injury news",
       "description": "",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609902/cubarsi-and-de-jong-injury-news",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Olmo, part of session with squad",
       "description": "The midfielder continues his recovery from injury but has now started to train with his team mates who are back in action minus the players on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609818/dani-olmo-completes-part-of-the-session-with-the-squad",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça confirmed for Women's Club World Cup",
       "description": "Blaugrana will take part in this new FIFA-organised tournament, which will be held in the United States from 5 to 30 January 2028.",
       "category": "Women",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4609846/barca-confirmed-for-first-womens-club-world-cup",
@@ -6383,23 +6395,11 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4609846.jpg"
     },
     {
-      "id": "4607914",
-      "title": "Gordon wins battle of Culers",
-      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
-      "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
-      "publishedDate": "2026-11-15",
-      "dateLabel": "November 15",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/b966d63e-4d0f-40b1-99f3-a039b39d297b/_MGA5167.jpg",
-      "localImage": "assets/news/4607914.jpg"
-    },
-    {
       "id": "4609457",
       "title": "Deportivo 1-1 Barça: Point saved at Riazor",
       "description": "Van Asten injury time goals avoids the first defeat of the season in Galicia",
       "category": "Women",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 15 Nov 26",
       "publishedDate": "2026-11-15",
       "dateLabel": "November 15",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4609457/deportivo-1-1-barca-point-saved-at-riazor",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4608647.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-16T18:25:27.550Z",
+  "newsUpdatedAt": "2026-11-17T02:04:00.399Z",
   "archive": {}
 };
