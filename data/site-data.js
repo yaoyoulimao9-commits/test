@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-17T02:04:00.399Z",
+  "generatedAt": "2026-11-17T10:39:15.407Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6348,14 +6348,14 @@ window.BARCA_DATA = {
   "news": [
     {
       "id": "4607914",
-      "title": "Gordon wins battle of Culers",
+      "title": "Barça internationals back in action",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
-      "publishedDate": "2026-11-16",
-      "dateLabel": "November 16",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-17",
+      "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/b966d63e-4d0f-40b1-99f3-a039b39d297b/_MGA5167.jpg",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/e595ca72-4531-495a-8358-03c8240b2862/DAG-230-_M1A7951.jpg",
       "localImage": "assets/news/4607914.jpg"
     },
     {
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Cubarsí and De Jong injury news",
       "description": "",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609902/cubarsi-and-de-jong-injury-news",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Olmo, part of session with squad",
       "description": "The midfielder continues his recovery from injury but has now started to train with his team mates who are back in action minus the players on international duty",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609818/dani-olmo-completes-part-of-the-session-with-the-squad",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça confirmed for Women's Club World Cup",
       "description": "Blaugrana will take part in this new FIFA-organised tournament, which will be held in the United States from 5 to 30 January 2028.",
       "category": "Women",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-16",
       "dateLabel": "November 16",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4609846/barca-confirmed-for-first-womens-club-world-cup",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4608647.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-17T02:04:00.399Z",
+  "newsUpdatedAt": "2026-11-17T10:39:15.407Z",
   "archive": {}
 };
