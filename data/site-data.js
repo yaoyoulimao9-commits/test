@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-18T02:23:15.488Z",
+  "generatedAt": "2026-11-18T10:41:00.923Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4610002",
+      "title": "When and where to watch Barça v Villarreal",
+      "description": "International viewing guide to this weekend's home Liga fixture",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610002/when-and-where-to-watch-fc-barcelona-v-villarreal-cf",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/25e558cd-cd55-4655-b453-622f2e8e525c/3200x2000_Horarios-VILLARREAL.png",
+      "localImage": "assets/news/4610002.png"
+    },
+    {
+      "id": "4609868",
+      "title": "Nine games in a month",
+      "description": "Busy schedule for Hansi Flick's team with seven games at Spotify Camp Nou",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609868/nine-games-in-a-month-to-round-off-2026",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/16/3d749a48-a915-4b5b-8036-15af396a70fd/_MGA4000.jpg",
+      "localImage": "assets/news/4609868.jpg"
+    },
+    {
       "id": "4607914",
       "title": "Victory and 90 minutes for Cancelo",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 86-89 Paris Basketball: Run comes to an end",
       "description": "A late three pointer decides the game in favour of the French side with the blaugranes' nine game winning streak coming to an end",
       "category": "Basketball",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610524/barca-86-89-paris-basketball-run-comes-to-an-end",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Kika Nazareth the new Barça Foundation Genuine ambassador",
       "description": "Women's football first team player stops by for a surprise visit to the delight of the Barça Foundation Genuine players",
       "category": "Club",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/club/news/4610473/kika-nazareth-the-new-barca-foundation-genuine-ambassador",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Second session of the week",
       "description": "Available players continue preparation for the resumption of Liga action in Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610334/second-session-of-the-week",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Exclusive ticket sales for members for Crvena zvezda game",
       "description": "A maximum of one ticket per transfer can be processed via Barça Tickets up to 24 hours before the game",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 17 Nov 26",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/news/4610318/exclusive-ticket-sales-for-members-for-crvena-zvezda-game",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/e884eb60-5de7-42e5-8f9a-781d1dd1bdf6/WhatsApp-Image-2026-11-14-at-13.46.22-1-.jpeg",
       "localImage": "assets/news/4609084.jpg"
-    },
-    {
-      "id": "4609064",
-      "title": "Rafael Yuste at 50th anniversary of PB El Vendrell and Baix Penedès",
-      "description": "Vice-president attended alongside board member Josep-Ignasi Macià and the president of the Veterans Group, Juan Manuel Asensi.",
-      "category": "",
-      "relativeTime": "Published date 14 Nov 26",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/news/4609064/rafael-yuste-at-50th-anniversary-of-pb-el-vendrell-and-baix-penedes",
-      "sourceImage": "",
-      "localImage": ""
-    },
-    {
-      "id": "4608811",
-      "title": "Five games at Spotify Camp Nou before the end of the year",
-      "description": "Barça approach the final weeks of 2026 with demanding contests against Villarreal, Atlético Madrid, Manchester City and Real Sociedad",
-      "category": "First Team",
-      "relativeTime": "Published date 14 Nov 26",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/6d4e7c07-964f-4555-9f91-d44b1df6c676/_MGA8572.jpg",
-      "localImage": "assets/news/4608811.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-18T02:23:15.488Z",
+  "newsUpdatedAt": "2026-11-18T10:41:00.923Z",
   "archive": {}
 };
