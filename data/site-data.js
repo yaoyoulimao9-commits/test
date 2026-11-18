@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-18T10:41:00.923Z",
+  "generatedAt": "2026-11-18T19:22:47.931Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4610863",
+      "title": "Barça Academy Manas shine at the U15 World Cup with Turkmenistan",
+      "description": "Artyom ended the tournament his team's top goalscorer with six goals",
+      "category": "",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/news/4610863/barca-academy-manas-shine-at-the-u15-world-cup-with-turkmenistan",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/4c6dde42-5d5e-4140-8602-daabc440d849/Artyom-BWC-match.jpeg",
+      "localImage": "assets/news/4610863.jpg"
+    },
+    {
+      "id": "4610836",
+      "title": "Killian Hayes: New FC Barcelona playmaker",
+      "description": "25-year-old American, who also holds a French passport and stands 1.95 metres tall, will be a Barça player until the end of the current season",
+      "category": "Basketball",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610836/killian-hayes-new-fc-barcelona-playmaker",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/99ec6445-737e-4b12-bd8b-47e464f6f399/Killian-Hayes-refor-a-la-direcci-de-joc.jpeg",
+      "localImage": "assets/news/4610836.jpg"
+    },
+    {
+      "id": "4610840",
+      "title": "Blaugrana nominees for Globe Soccer Awards",
+      "description": "Cubarsí, Lamine Yamal, Raphinha, Cata Coll, Patri Guijarro and Hansen among players shortlisted for the prestigious honours",
+      "category": "Club",
+      "relativeTime": "Published date 7 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/club/news/4610840/plenty-of-blaugrana-nominees-for-globe-soccer-awards-2026",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/c99d4615-fb84-4429-9c9e-040473a3808e/2026-10-25_FCBvsRMADRID_215.jpg",
+      "localImage": "assets/news/4610840.jpg"
+    },
+    {
       "id": "4610002",
       "title": "When and where to watch Barça v Villarreal",
       "description": "International viewing guide to this weekend's home Liga fixture",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610002/when-and-where-to-watch-fc-barcelona-v-villarreal-cf",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Nine games in a month",
       "description": "Busy schedule for Hansi Flick's team with seven games at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609868/nine-games-in-a-month-to-round-off-2026",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Victory and 90 minutes for Cancelo",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça 86-89 Paris Basketball: Run comes to an end",
       "description": "A late three pointer decides the game in favour of the French side with the blaugranes' nine game winning streak coming to an end",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610524/barca-86-89-paris-basketball-run-comes-to-an-end",
@@ -6399,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Kika Nazareth the new Barça Foundation Genuine ambassador",
       "description": "Women's football first team player stops by for a surprise visit to the delight of the Barça Foundation Genuine players",
       "category": "Club",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 17 Nov 26",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/club/news/4610473/kika-nazareth-the-new-barca-foundation-genuine-ambassador",
@@ -6411,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Second session of the week",
       "description": "Available players continue preparation for the resumption of Liga action in Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 17 Nov 26",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610334/second-session-of-the-week",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609338/blaugrana-return-to-the-metropolitano",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/c97f77b8-3ea2-4478-a0b4-b1ceed356bbd/_MGA5074.jpg",
       "localImage": "assets/news/4609338.jpg"
-    },
-    {
-      "id": "4609122",
-      "title": "Barça Atlètic 0-1 Girona B: First home defeat",
-      "description": "The blaugranes gave it all but a second half goal from the visitors consigned Barça to defeat",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 14 Nov 26",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4609122/barca-atletic-0-1-girona-b-first-home-defeat",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/6d74f7aa-7d62-43d5-969e-e121ac9db258/2026-11-14_FCBATLETICvsGIRONAB_093.jpg",
-      "localImage": "assets/news/4609122.jpg"
-    },
-    {
-      "id": "4609118",
-      "title": "Pons Lleida 6-5 Barça: No WSE Continental Cup final",
-      "description": "The blaugranes lose out to their Catalan rivals and miss out on the chance for more silverware",
-      "category": "Roller Hockey",
-      "relativeTime": "Published date 14 Nov 26",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4609118/pons-lleida-6-5-barca-no-wse-continental-cup-final",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/4b2458b7-feb8-4568-a61c-cb981d5d99cc/DSC06947.jpg",
-      "localImage": "assets/news/4609118.jpg"
-    },
-    {
-      "id": "4609084",
-      "title": "Hard-fought draw (3-3)",
-      "description": "Barça dominate play, but the Catalans and Murcians ultimately share the points",
-      "category": "Futsal",
-      "relativeTime": "Published date 14 Nov 26",
-      "publishedDate": "2026-11-14",
-      "dateLabel": "November 14",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4609084/elpozo-murcia-3-3-barca-hard-fought-draw",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/14/e884eb60-5de7-42e5-8f9a-781d1dd1bdf6/WhatsApp-Image-2026-11-14-at-13.46.22-1-.jpeg",
-      "localImage": "assets/news/4609084.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-18T10:41:00.923Z",
+  "newsUpdatedAt": "2026-11-18T19:22:47.931Z",
   "archive": {}
 };
