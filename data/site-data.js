@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-17T19:47:32.172Z",
+  "generatedAt": "2026-11-18T02:23:15.488Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4607914",
+      "title": "Victory and 90 minutes for Cancelo",
+      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-17",
+      "dateLabel": "November 17",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/e595ca72-4531-495a-8358-03c8240b2862/DAG-230-_M1A7951.jpg",
+      "localImage": "assets/news/4607914.jpg"
+    },
+    {
+      "id": "4610524",
+      "title": "Barça 86-89 Paris Basketball: Run comes to an end",
+      "description": "A late three pointer decides the game in favour of the French side with the blaugranes' nine game winning streak coming to an end",
+      "category": "Basketball",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-17",
+      "dateLabel": "November 17",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610524/barca-86-89-paris-basketball-run-comes-to-an-end",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/53a3354d-02c5-470a-913a-8b1e5a5a22ef/JC025712.jpg",
+      "localImage": "assets/news/4610524.jpg"
+    },
+    {
       "id": "4610473",
       "title": "Kika Nazareth the new Barça Foundation Genuine ambassador",
       "description": "Women's football first team player stops by for a surprise visit to the delight of the Barça Foundation Genuine players",
       "category": "Club",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/club/news/4610473/kika-nazareth-the-new-barca-foundation-genuine-ambassador",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Second session of the week",
       "description": "Available players continue preparation for the resumption of Liga action in Sunday at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610334/second-session-of-the-week",
@@ -6375,24 +6399,12 @@ window.BARCA_DATA = {
       "title": "Exclusive ticket sales for members for Crvena zvezda game",
       "description": "A maximum of one ticket per transfer can be processed via Barça Tickets up to 24 hours before the game",
       "category": "",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/news/4610318/exclusive-ticket-sales-for-members-for-crvena-zvezda-game",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/09/29/0bdde725-548f-46ba-85e7-e430629bbde7/2609_SECC_BSK_Partits_Exclusius_SocisDigital_1920x1080_01_ENG.jpg",
       "localImage": "assets/news/4610318.jpg"
-    },
-    {
-      "id": "4607914",
-      "title": "Final day of international fixtures",
-      "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
-      "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
-      "publishedDate": "2026-11-17",
-      "dateLabel": "November 17",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/e595ca72-4531-495a-8358-03c8240b2862/DAG-230-_M1A7951.jpg",
-      "localImage": "assets/news/4607914.jpg"
     },
     {
       "id": "4609902",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4608811/five-games-at-spotify-camp-nou-before-the-end-of-the-year",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/6d4e7c07-964f-4555-9f91-d44b1df6c676/_MGA8572.jpg",
       "localImage": "assets/news/4608811.jpg"
-    },
-    {
-      "id": "4608861",
-      "title": "Panathinaikos 74-76 Barça: What a win",
-      "description": "The blaugranes win in Greece in epic fashion to record an eight victory in a row",
-      "category": "Basketball",
-      "relativeTime": "Published date 13 Nov 26",
-      "publishedDate": "2026-11-13",
-      "dateLabel": "November 13",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4608861/panathinaikos-74-76-barca-what-a-win",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/13/f857303a-8381-4efe-a3d3-c6ed99c042d9/1IN_5567_1KImIbze_20261113114156.jpg",
-      "localImage": "assets/news/4608861.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-17T19:47:32.172Z",
+  "newsUpdatedAt": "2026-11-18T02:23:15.488Z",
   "archive": {}
 };
