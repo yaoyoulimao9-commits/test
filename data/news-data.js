@@ -1,5 +1,5 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-19T01:27:56.657Z",
+  "updatedAt": "2026-11-19T09:28:44.947Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
     {
@@ -7,7 +7,7 @@ window.BARCA_NEWS = {
       "title": "Barça 5-1 Córdoba: A victory with a dedication",
       "description": "The blaugranes take victory with the final goal coming from Sergio González who dedicated his strike to his mother",
       "category": "Futsal",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4610968/barca-5-1-cordoba-a-victory-with-a-dedication",
@@ -19,7 +19,7 @@ window.BARCA_NEWS = {
       "title": "Can Vidalet 2-1 Barça Atlètic: Out of the Copa Catalunya",
       "description": "Juliano Belletti's side lose out after dominating and exit the competition",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4610930/can-vidalet-2-1-barca-atletic-out-of-the-copa-catalunya",
@@ -27,11 +27,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4610930.jpg"
     },
     {
+      "id": "4610913",
+      "title": "Barça Foundation calls for equal opportunities on World Children's Day",
+      "description": "Joan García, Gerard Martín, Hamza, Irene Paredes and Vicky López feature in a video marking 20 November and championing children's rights around the world",
+      "category": "",
+      "relativeTime": "Published date 17 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/news/4610913/world-childrens-day-barca-foundation-calls-for-equal-opportunities-for-all-children",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/752806f4-9f43-4268-ba65-ba1ae1d4ec23/irene-paredes.png",
+      "localImage": "assets/news/4610913.png"
+    },
+    {
       "id": "4610863",
       "title": "Barça Academy Manas shine at the U15 World Cup with Turkmenistan",
       "description": "Artyom ended the tournament his team's top goalscorer with six goals",
       "category": "",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/news/4610863/barca-academy-manas-shine-at-the-u15-world-cup-with-turkmenistan",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Killian Hayes: New FC Barcelona playmaker",
       "description": "25-year-old American, who also holds a French passport and stands 1.95 metres tall, will be a Barça player until the end of the current season",
       "category": "Basketball",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610836/killian-hayes-new-fc-barcelona-playmaker",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Blaugrana nominees for Globe Soccer Awards",
       "description": "Cubarsí, Lamine Yamal, Raphinha, Cata Coll, Patri Guijarro and Hansen among players shortlisted for the prestigious honours",
       "category": "Club",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4610840/plenty-of-blaugrana-nominees-for-globe-soccer-awards-2026",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Barça v Villarreal",
       "description": "International viewing guide to this weekend's home Liga fixture",
       "category": "First Team",
-      "relativeTime": "Published date 15 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610002/when-and-where-to-watch-fc-barcelona-v-villarreal-cf",
@@ -79,7 +91,7 @@ window.BARCA_NEWS = {
       "title": "Nine games in a month",
       "description": "Busy schedule for Hansi Flick's team with seven games at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 18 Nov 26",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609868/nine-games-in-a-month-to-round-off-2026",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4609458/barca-10883-obradoiro-winning-run-continues-at-palau",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/d9f3b730-10c3-49a8-bc23-d62d74de7f90/2026-11-15_FCBBASQUETvsOBRADOIRO_171.jpg",
       "localImage": "assets/news/4609458.jpg"
-    },
-    {
-      "id": "4609355",
-      "title": "Loads of live footy on Barça Play",
-      "description": "The derby between Espanyol B and Barça Atlètic and the return of La Liga with Barça v Villarreal take centre stage on the club's platforms",
-      "category": "Club",
-      "relativeTime": "Published date 15 Nov 26",
-      "publishedDate": "2026-11-15",
-      "dateLabel": "November 15",
-      "source": "https://www.fcbarcelona.com/en/club/news/4609355/loads-of-live-footy-on-barca-play",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/58d6f081-d5bf-4fdc-a368-da993c925e44/BARC-A-B_ARNEDO-86.jpg",
-      "localImage": "assets/news/4609355.jpg"
     }
   ]
 };
