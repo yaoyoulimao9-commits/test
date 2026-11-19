@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-18T19:22:47.931Z",
+  "generatedAt": "2026-11-19T01:27:56.661Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4610968",
+      "title": "Barça 5-1 Córdoba: A victory with a dedication",
+      "description": "The blaugranes take victory with the final goal coming from Sergio González who dedicated his strike to his mother",
+      "category": "Futsal",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4610968/barca-5-1-cordoba-a-victory-with-a-dedication",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/16a2df33-4f3b-4f60-a110-0d280093b123/2026-11-18_FCBFUTSALvsCORDOVA_139.jpg",
+      "localImage": "assets/news/4610968.jpg"
+    },
+    {
+      "id": "4610930",
+      "title": "Can Vidalet 2-1 Barça Atlètic: Out of the Copa Catalunya",
+      "description": "Juliano Belletti's side lose out after dominating and exit the competition",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-18",
+      "dateLabel": "November 18",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4610930/can-vidalet-2-1-barca-atletic-out-of-the-copa-catalunya",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/86d6be88-d388-4e08-b980-760f357a0efd/WhatsApp-Image-2026-11-18-at-20.00.09.jpeg",
+      "localImage": "assets/news/4610930.jpg"
+    },
+    {
       "id": "4610863",
       "title": "Barça Academy Manas shine at the U15 World Cup with Turkmenistan",
       "description": "Artyom ended the tournament his team's top goalscorer with six goals",
       "category": "",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/news/4610863/barca-academy-manas-shine-at-the-u15-world-cup-with-turkmenistan",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Killian Hayes: New FC Barcelona playmaker",
       "description": "25-year-old American, who also holds a French passport and stands 1.95 metres tall, will be a Barça player until the end of the current season",
       "category": "Basketball",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610836/killian-hayes-new-fc-barcelona-playmaker",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana nominees for Globe Soccer Awards",
       "description": "Cubarsí, Lamine Yamal, Raphinha, Cata Coll, Patri Guijarro and Hansen among players shortlisted for the prestigious honours",
       "category": "Club",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/club/news/4610840/plenty-of-blaugrana-nominees-for-globe-soccer-awards-2026",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Barça v Villarreal",
       "description": "International viewing guide to this weekend's home Liga fixture",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610002/when-and-where-to-watch-fc-barcelona-v-villarreal-cf",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Nine games in a month",
       "description": "Busy schedule for Hansi Flick's team with seven games at Spotify Camp Nou",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-18",
       "dateLabel": "November 18",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609868/nine-games-in-a-month-to-round-off-2026",
@@ -6411,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Victory and 90 minutes for Cancelo",
       "description": "Daily updates to the blaugranes' progress with their national teams during this November international break",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 17 Nov 26",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Barça 86-89 Paris Basketball: Run comes to an end",
       "description": "A late three pointer decides the game in favour of the French side with the blaugranes' nine game winning streak coming to an end",
       "category": "Basketball",
-      "relativeTime": "Published date 21 hrs ago",
+      "relativeTime": "Published date 17 Nov 26",
       "publishedDate": "2026-11-17",
       "dateLabel": "November 17",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610524/barca-86-89-paris-basketball-run-comes-to-an-end",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/club/news/4609355/loads-of-live-footy-on-barca-play",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/10/31/58d6f081-d5bf-4fdc-a368-da993c925e44/BARC-A-B_ARNEDO-86.jpg",
       "localImage": "assets/news/4609355.jpg"
-    },
-    {
-      "id": "4609361",
-      "title": "Ajax Legends 4-7 Barça Legends: Goals galore in Amsterdam",
-      "description": "Barça come out on top in a charity match full of talent, reunions and entertainment",
-      "category": "",
-      "relativeTime": "Published date 15 Nov 26",
-      "publishedDate": "2026-11-15",
-      "dateLabel": "November 15",
-      "source": "https://www.fcbarcelona.com/en/news/4609361/ajax-legends-4-7-barca-legends-goals-galore-in-amsterdam",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/37fd58dc-9183-42a7-bf1f-0d5967ce25bc/_5DS8560.jpg",
-      "localImage": "assets/news/4609361.jpg"
-    },
-    {
-      "id": "4609338",
-      "title": "Back at the Metropolitano",
-      "description": "Seven days after the Atlético v Barça league clash, several players return to the venue on international duty",
-      "category": "First Team",
-      "relativeTime": "Published date 15 Nov 26",
-      "publishedDate": "2026-11-15",
-      "dateLabel": "November 15",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4609338/blaugrana-return-to-the-metropolitano",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/15/c97f77b8-3ea2-4478-a0b4-b1ceed356bbd/_MGA5074.jpg",
-      "localImage": "assets/news/4609338.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-18T19:22:47.931Z",
+  "newsUpdatedAt": "2026-11-19T01:27:56.661Z",
   "archive": {}
 };
