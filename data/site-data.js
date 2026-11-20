@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-20T17:59:41.493Z",
+  "generatedAt": "2026-11-20T23:57:41.128Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4612081",
+      "title": "Barça 100-103 Crvena zvezda: Overtime loss in Europe",
+      "description": "The blaugranes go down to defeat in the Euroleague in a thrilling game at the Palau Blaugrana",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-20",
+      "dateLabel": "November 20",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612081/barca-100-103-crvena-zvezda-overtime-loss-in-europe",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/20/1938f3ac-7498-4889-9f5c-d2142a059dc7/JC022148.jpg",
+      "localImage": "assets/news/4612081.jpg"
+    },
+    {
       "id": "4611957",
       "title": "Andreas Christensen doubtful",
       "description": "The Danish defender has a slight calf problem and could miss Villarreal game",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611957/andreas-christensen-doubtful",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Preparations continue",
       "description": "Hansi Flick and the squad continue to prepare for the return to domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611903/villarreal-match-now-the-focus",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart signs contract to 2030",
       "description": "La Masia player in his first season with the first team and signs a new contract at the Spotify Camp Nou offices",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611885/xavi-espart-signs-contract-to-2030",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana battles in Nations League",
       "description": "Friday's draw for the national team tournament last eight sees Barça players come up against each other in the battle a place in the last four",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611882/double-blaugrana-clash-in-the-nations-league-quarter-finals",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Barça 6-0 Servette: Six goals to secure passage",
       "description": "Blaugranes beat the Swiss side to mathematically secure their place in the next round",
       "category": "Women",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 19 Nov 26",
       "publishedDate": "2026-11-19",
       "dateLabel": "November 19",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4611647/barca-6-0-servette-six-goals-to-secure-passage",
@@ -6411,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "UWCL quarter finalists",
       "description": "Win over Servette ensures a place among the top eight teams with 13 points from a possible 15",
       "category": "Women",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 19 Nov 26",
       "publishedDate": "2026-11-19",
       "dateLabel": "November 19",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4611610/uwcl-quarter-finalists",
@@ -6423,7 +6435,7 @@ window.BARCA_DATA = {
       "title": "Kielce 24-32 Barça: Solid win in Main Round",
       "description": "Victory in the opening game of the Champions League second phase thanks to an outstanding defensive performance and an exceptional Elderaa",
       "category": "Handball",
-      "relativeTime": "Published date 22 hrs ago",
+      "relativeTime": "Published date 19 Nov 26",
       "publishedDate": "2026-11-19",
       "dateLabel": "November 19",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4611585/kielce-24-32-barca-solid-win-in-main-round",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/news/4610863/barca-academy-manas-shine-at-the-u15-world-cup-with-turkmenistan",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/4c6dde42-5d5e-4140-8602-daabc440d849/Artyom-BWC-match.jpeg",
       "localImage": "assets/news/4610863.jpg"
-    },
-    {
-      "id": "4610836",
-      "title": "Killian Hayes: New FC Barcelona playmaker",
-      "description": "25-year-old American, who also holds a French passport and stands 1.95 metres tall, will be a Barça player until the end of the current season",
-      "category": "Basketball",
-      "relativeTime": "Published date 18 Nov 26",
-      "publishedDate": "2026-11-18",
-      "dateLabel": "November 18",
-      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4610836/killian-hayes-new-fc-barcelona-playmaker",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/99ec6445-737e-4b12-bd8b-47e464f6f399/Killian-Hayes-refor-a-la-direcci-de-joc.jpeg",
-      "localImage": "assets/news/4610836.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-20T17:59:41.493Z",
+  "newsUpdatedAt": "2026-11-20T23:57:41.128Z",
   "archive": {}
 };
