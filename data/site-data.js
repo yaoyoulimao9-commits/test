@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-21T06:57:47.380Z",
+  "generatedAt": "2026-11-21T15:17:46.382Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,35 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4612353",
+      "title": "'We are in a good moment'",
+      "description": "Barça coach speaks to the media ahead of Sunday's match against Villarreal at Spotify Camp Nou.",
+      "category": "First Team",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612353/hansi-flick-we-are-in-a-good-moment",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/6f04b2dd-8cd6-482d-b213-2671df91fa04/_MGA7449.jpg",
+      "localImage": "assets/news/4612353.jpg"
+    },
+    {
+      "id": "4612344",
+      "title": "Last session before Villarreal",
+      "description": "Final workout at Ciutat Esportiva before La Liga gets back under way",
+      "category": "First Team",
+      "relativeTime": "Published date 3 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/27db87c9-a490-4aa0-a8ff-5a2cda346094/WhatsApp-Image-2026-11-21-at-12.54.46.jpeg",
+      "localImage": "assets/news/4612344.jpg"
+    },
+    {
       "id": "4612081",
       "title": "Barça 100-103 Crvena zvezda: Overtime loss in Europe",
       "description": "The blaugranes go down to defeat in the Euroleague in a thrilling game at the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612081/barca-100-103-crvena-zvezda-overtime-loss-in-europe",
@@ -6363,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Andreas Christensen doubtful",
       "description": "The Danish defender has a slight calf problem and could miss Villarreal game",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611957/andreas-christensen-doubtful",
@@ -6375,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Preparations continue",
       "description": "Hansi Flick and the squad continue to prepare for the return to domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 20 Nov 26",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611903/villarreal-match-now-the-focus",
@@ -6387,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart signs contract to 2030",
       "description": "La Masia player in his first season with the first team and signs a new contract at the Spotify Camp Nou offices",
       "category": "First Team",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 20 Nov 26",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611885/xavi-espart-signs-contract-to-2030",
@@ -6399,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana battles in Nations League",
       "description": "Friday's draw for the national team tournament last eight sees Barça players come up against each other in the battle a place in the last four",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 20 Nov 26",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611882/double-blaugrana-clash-in-the-nations-league-quarter-finals",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4610930/can-vidalet-2-1-barca-atletic-out-of-the-copa-catalunya",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/86d6be88-d388-4e08-b980-760f357a0efd/WhatsApp-Image-2026-11-18-at-20.00.09.jpeg",
       "localImage": "assets/news/4610930.jpg"
-    },
-    {
-      "id": "4610913",
-      "title": "Barça Foundation calls for equal opportunities on World Children's Day",
-      "description": "Joan García, Gerard Martín, Hamza, Irene Paredes and Vicky López feature in a video marking 20 November and championing children's rights around the world",
-      "category": "",
-      "relativeTime": "Published date 18 Nov 26",
-      "publishedDate": "2026-11-18",
-      "dateLabel": "November 18",
-      "source": "https://www.fcbarcelona.com/en/news/4610913/world-childrens-day-barca-foundation-calls-for-equal-opportunities-for-all-children",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/752806f4-9f43-4268-ba65-ba1ae1d4ec23/irene-paredes.png",
-      "localImage": "assets/news/4610913.png"
-    },
-    {
-      "id": "4610863",
-      "title": "Barça Academy Manas shine at the U15 World Cup with Turkmenistan",
-      "description": "Artyom ended the tournament his team's top goalscorer with six goals",
-      "category": "",
-      "relativeTime": "Published date 18 Nov 26",
-      "publishedDate": "2026-11-18",
-      "dateLabel": "November 18",
-      "source": "https://www.fcbarcelona.com/en/news/4610863/barca-academy-manas-shine-at-the-u15-world-cup-with-turkmenistan",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/4c6dde42-5d5e-4140-8602-daabc440d849/Artyom-BWC-match.jpeg",
-      "localImage": "assets/news/4610863.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-21T06:57:47.380Z",
+  "newsUpdatedAt": "2026-11-21T15:17:46.382Z",
   "archive": {}
 };
