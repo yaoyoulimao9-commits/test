@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-21T15:17:46.382Z",
+  "generatedAt": "2026-11-21T21:06:54.640Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4612468",
+      "title": "Javier Mascherano visits the Barça Foundation and Scotiabank project in Trinidad and Tobago",
+      "description": "The former FC Barcelona player took part in the year-end festival of the Peace of Mind programme, which uses sport to promote emotional well-being, resilience and social inclusion among vulnerable young people",
+      "category": "",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/news/4612468/javier-mascherano-visits-the-barca-foundation-and-scotiabank-project-in-trinidad-and-tobago",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/71d311ec-9025-479f-b19d-41e6018d6193/01_DSC01805.jpg",
+      "localImage": "assets/news/4612468.jpg"
+    },
+    {
       "id": "4612353",
       "title": "'We are in a good moment'",
       "description": "Barça coach speaks to the media ahead of Sunday's match against Villarreal at Spotify Camp Nou.",
       "category": "First Team",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 8 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612353/hansi-flick-we-are-in-a-good-moment",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Last session before Villarreal",
       "description": "Final workout at Ciutat Esportiva before La Liga gets back under way",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Barça 100-103 Crvena zvezda: Overtime loss in Europe",
       "description": "The blaugranes go down to defeat in the Euroleague in a thrilling game at the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 17 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612081/barca-100-103-crvena-zvezda-overtime-loss-in-europe",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Andreas Christensen doubtful",
       "description": "The Danish defender has a slight calf problem and could miss Villarreal game",
       "category": "First Team",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 20 Nov 26",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611957/andreas-christensen-doubtful",
@@ -6465,18 +6477,6 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4611585/kielce-24-32-barca-solid-win-in-main-round",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/fc2a873f-081f-45ac-b283-4acdfcec2e2a/WhatsApp-Image-2026-11-19-at-19.30.18.jpeg",
       "localImage": "assets/news/4611585.jpg"
-    },
-    {
-      "id": "4611296",
-      "title": "All set for the APAC Cup 2026 in Bangkok",
-      "description": "40 teams across four age categories to compete in the fifth edition of the tournament",
-      "category": "",
-      "relativeTime": "Published date 19 Nov 26",
-      "publishedDate": "2026-11-19",
-      "dateLabel": "November 19",
-      "source": "https://www.fcbarcelona.com/en/news/4611296/all-set-for-the-apac-cup-2026-in-bangkok",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/2e5199ef-e4d5-46f6-9fd2-cdcc09a6a7c9/LINE_ALBUM_-3-_241105_77.jpg",
-      "localImage": "assets/news/4611296.jpg"
     },
     {
       "id": "4611474",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4610930.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-21T15:17:46.382Z",
+  "newsUpdatedAt": "2026-11-21T21:06:54.640Z",
   "archive": {}
 };
