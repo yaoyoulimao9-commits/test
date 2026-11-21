@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-20T23:57:41.128Z",
+  "generatedAt": "2026-11-21T06:57:47.380Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 100-103 Crvena zvezda: Overtime loss in Europe",
       "description": "The blaugranes go down to defeat in the Euroleague in a thrilling game at the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612081/barca-100-103-crvena-zvezda-overtime-loss-in-europe",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Andreas Christensen doubtful",
       "description": "The Danish defender has a slight calf problem and could miss Villarreal game",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611957/andreas-christensen-doubtful",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Preparations continue",
       "description": "Hansi Flick and the squad continue to prepare for the return to domestic competition",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611903/villarreal-match-now-the-focus",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Xavi Espart signs contract to 2030",
       "description": "La Masia player in his first season with the first team and signs a new contract at the Spotify Camp Nou offices",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611885/xavi-espart-signs-contract-to-2030",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Blaugrana battles in Nations League",
       "description": "Friday's draw for the national team tournament last eight sees Barça players come up against each other in the battle a place in the last four",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611882/double-blaugrana-clash-in-the-nations-league-quarter-finals",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4610863.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-20T23:57:41.128Z",
+  "newsUpdatedAt": "2026-11-21T06:57:47.380Z",
   "archive": {}
 };
