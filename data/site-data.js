@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-22T01:18:03.641Z",
+  "generatedAt": "2026-11-22T08:47:36.938Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Bidasoa 25-42 Barça: Win and top of the table",
       "description": "Victory in Artaleku leaves Carlos Ortega's team leaders in the league",
       "category": "Handball",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4612490/bidasoa-25-42-barca-win-and-top-of-the-table",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "PAS Alcoi 6-3 Barça: First league defeat",
       "description": "The blaugranes suffer their first reverse of the season in week four of the OK league",
       "category": "Roller Hockey",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4612466/pas-alcoi-6-3-barca-first-league-defeat",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Espanyol B 0-0 Barça Atlètic: Stalemate in the derby",
       "description": "All square in the city derby with the home side ending the game with 10 men",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4612440/espanyol-b-0-0-barca-atletic-stalemate-in-the-derby",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Javier Mascherano visits the Barça Foundation and Scotiabank project in Trinidad and Tobago",
       "description": "The former FC Barcelona player took part in the year-end festival of the Peace of Mind programme, which uses sport to promote emotional well-being, resilience and social inclusion among vulnerable young people",
       "category": "",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/news/4612468/javier-mascherano-visits-the-barca-foundation-and-scotiabank-project-in-trinidad-and-tobago",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "'We are in a good moment'",
       "description": "Barça coach speaks to the media ahead of Sunday's match against Villarreal at Spotify Camp Nou.",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612353/hansi-flick-we-are-in-a-good-moment",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last session before Villarreal",
       "description": "Final workout at Ciutat Esportiva before La Liga gets back under way",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4611316.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-22T01:18:03.641Z",
+  "newsUpdatedAt": "2026-11-22T08:47:36.938Z",
   "archive": {}
 };
