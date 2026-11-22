@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-21T21:06:54.640Z",
+  "generatedAt": "2026-11-22T01:18:03.641Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,47 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4612490",
+      "title": "Bidasoa 25-42 Barça: Win and top of the table",
+      "description": "Victory in Artaleku leaves Carlos Ortega's team leaders in the league",
+      "category": "Handball",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/handball/first-team/news/4612490/bidasoa-25-42-barca-win-and-top-of-the-table",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/0e756de2-349d-49a6-8918-92e13fef0b0f/WhatsApp-Image-2026-11-21-at-21.04.12.jpeg",
+      "localImage": "assets/news/4612490.jpg"
+    },
+    {
+      "id": "4612466",
+      "title": "PAS Alcoi 6-3 Barça: First league defeat",
+      "description": "The blaugranes suffer their first reverse of the season in week four of the OK league",
+      "category": "Roller Hockey",
+      "relativeTime": "Published date 4 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4612466/pas-alcoi-6-3-barca-first-league-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/e31e3b24-4749-40fe-9413-72a733d69317/photo_5767039480006119489_w.jpg",
+      "localImage": "assets/news/4612466.jpg"
+    },
+    {
+      "id": "4612440",
+      "title": "Espanyol B 0-0 Barça Atlètic: Stalemate in the derby",
+      "description": "All square in the city derby with the home side ending the game with 10 men",
+      "category": "Barça Atlètic",
+      "relativeTime": "Published date 6 hrs ago",
+      "publishedDate": "2026-11-21",
+      "dateLabel": "November 21",
+      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4612440/espanyol-b-0-0-barca-atletic-stalemate-in-the-derby",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/82ccf82f-5b1e-44ce-b104-11adf3dea276/WhatsApp-Image-2026-11-21-at-19.35.17.jpeg",
+      "localImage": "assets/news/4612440.jpg"
+    },
+    {
       "id": "4612468",
       "title": "Javier Mascherano visits the Barça Foundation and Scotiabank project in Trinidad and Tobago",
       "description": "The former FC Barcelona player took part in the year-end festival of the Peace of Mind programme, which uses sport to promote emotional well-being, resilience and social inclusion among vulnerable young people",
       "category": "",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/news/4612468/javier-mascherano-visits-the-barca-foundation-and-scotiabank-project-in-trinidad-and-tobago",
@@ -6363,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "'We are in a good moment'",
       "description": "Barça coach speaks to the media ahead of Sunday's match against Villarreal at Spotify Camp Nou.",
       "category": "First Team",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612353/hansi-flick-we-are-in-a-good-moment",
@@ -6375,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "Last session before Villarreal",
       "description": "Final workout at Ciutat Esportiva before La Liga gets back under way",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-21",
       "dateLabel": "November 21",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal",
@@ -6387,7 +6423,7 @@ window.BARCA_DATA = {
       "title": "Barça 100-103 Crvena zvezda: Overtime loss in Europe",
       "description": "The blaugranes go down to defeat in the Euroleague in a thrilling game at the Palau Blaugrana",
       "category": "Basketball",
-      "relativeTime": "Published date 23 hrs ago",
+      "relativeTime": "Published date 20 Nov 26",
       "publishedDate": "2026-11-20",
       "dateLabel": "November 20",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612081/barca-100-103-crvena-zvezda-overtime-loss-in-europe",
@@ -6525,44 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4611316/killian-hayes-ive-come-to-barca-to-win",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/da068bcd-79df-4f58-9402-20aff3f7b743/2026-11-19_RPKILLIANHAYES_028.jpg",
       "localImage": "assets/news/4611316.jpg"
-    },
-    {
-      "id": "4610816",
-      "title": "A traditionally difficult fixture",
-      "description": "History shows the game against Villarreal is likely to be challenging",
-      "category": "First Team",
-      "relativeTime": "Published date 19 Nov 26",
-      "publishedDate": "2026-11-19",
-      "dateLabel": "November 19",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610816/villarreal-a-traditionally-difficult-opponent",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/19/ce1a33ee-5bbe-4c54-9463-db4055fe7534/JUCA0397.jpg",
-      "localImage": "assets/news/4610816.jpg"
-    },
-    {
-      "id": "4610968",
-      "title": "Barça 5-1 Córdoba: A victory with a dedication",
-      "description": "The blaugranes take victory with the final goal coming from Sergio González who dedicated his strike to his mother",
-      "category": "Futsal",
-      "relativeTime": "Published date 18 Nov 26",
-      "publishedDate": "2026-11-18",
-      "dateLabel": "November 18",
-      "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4610968/barca-5-1-cordoba-a-victory-with-a-dedication",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/16a2df33-4f3b-4f60-a110-0d280093b123/2026-11-18_FCBFUTSALvsCORDOVA_139.jpg",
-      "localImage": "assets/news/4610968.jpg"
-    },
-    {
-      "id": "4610930",
-      "title": "Can Vidalet 2-1 Barça Atlètic: Out of the Copa Catalunya",
-      "description": "Juliano Belletti's side lose out after dominating and exit the competition",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 18 Nov 26",
-      "publishedDate": "2026-11-18",
-      "dateLabel": "November 18",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4610930/can-vidalet-2-1-barca-atletic-out-of-the-copa-catalunya",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/18/86d6be88-d388-4e08-b980-760f357a0efd/WhatsApp-Image-2026-11-18-at-20.00.09.jpeg",
-      "localImage": "assets/news/4610930.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-21T21:06:54.640Z",
+  "newsUpdatedAt": "2026-11-22T01:18:03.641Z",
   "archive": {}
 };
