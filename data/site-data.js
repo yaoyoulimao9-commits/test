@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-22T22:27:29.051Z",
+  "generatedAt": "2026-11-23T03:05:22.783Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Barça 6-0 Athletic: Another big win at the Johan Cruyff",
       "description": "Last game before international break is a convincing win over the Basques",
       "category": "Women",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 6 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4612797/barca-6-0-athletic-club-another-big-win-at-the-johan-cruyff",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "La Laguna Tenerife 94-82 Barça: No luck",
       "description": "Blaugranes struggle with injuries and poor three-point shooting as they fall to defeat away to the Canary Islanders",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 7 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612790/la-laguna-tenerife-94-82-barca-no-luck",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Flick: 'An incredible reaction'",
       "description": "Barça coach praises his side's ability to come from behind against a Champions League team",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612760/hansi-flick-an-incredible-reaction",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "An almost unheard of comeback",
       "description": "The 24th comeback under Hansi Flick is similar to the only other time Barça turned around a 2-0 half time deficit this century",
       "category": "First Team",
-      "relativeTime": "Published date 6 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612769/an-almost-unheard-of-comeback",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Barça 3-2 Villarreal: Heroic response",
       "description": "Liga leaders overturn a 2-0 half-time deficit with ten magical minutes and three goals that showcase the resilience of a team that never stops believing",
       "category": "First Team",
-      "relativeTime": "Published date 7 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612696/barca-3-2-villarreal-heroic-response",
@@ -6411,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Barça v Villarreal",
       "description": "The first game back after the international break is against a side that's caused problems for Barça in recent years",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-22",
       "dateLabel": "November 22",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4611861/preview-fc-barcelona-v-villarreal-cf",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4611647.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-22T22:27:29.051Z",
+  "newsUpdatedAt": "2026-11-23T03:05:22.783Z",
   "archive": {}
 };
