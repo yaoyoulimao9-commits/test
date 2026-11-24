@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-24T00:19:44.968Z",
+  "generatedAt": "2026-11-24T10:23:50.490Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4610008",
+      "title": "When and where to watch Sabah v Barça",
+      "description": "We take a look at kick times and TV coverage around the world for the Champions League clash in Azerbaijan",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-24",
+      "dateLabel": "November 24",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610008/when-and-where-to-watch-sabah-v-fc-barcelona",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/17/085a03aa-17fe-4175-bbec-f6454ba8b383/3200x2000_Horarios-SABAH.png",
+      "localImage": "assets/news/4610008.png"
+    },
+    {
       "id": "4613339",
       "title": "Olmissum 1-5 Barça: Important first leg win",
       "description": "The blaugranes take a healthy lead into the second leg of their Champions League last 16 tie after an impressive win in Croatia",
       "category": "Futsal",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 13 hrs ago",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/futsal/first-team/news/4613339/olmissum-1-5-barca-important-first-leg-win",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "Mirza Catovic injury news",
       "description": "",
       "category": "Barça Atlètic",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 15 hrs ago",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4613292/mirza-catovic-injury-news",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "The new La Masia Nutritional Seal",
       "description": "Initiative combines Club nutritionist knowledge with strength of La Masia brand to offer brands new ways to promote and collaborate with FC Barcelona",
       "category": "Club",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/club/news/4611865/barca-and-mcm-elite-foods-create-the-la-masia-nutritional-seal-to-drive-food-quality",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Squad for the trip to Baku",
       "description": "Barça travel to Azerbaijan for match day five of the Champions League initial phase to take on Sabah FC",
       "category": "First Team",
-      "relativeTime": "Published date 12 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613109/squad-for-the-trip-to-baku",
@@ -6395,23 +6407,35 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4613109.jpg"
     },
     {
+      "id": "4613150",
+      "title": "More than 200 penya members to attend Sabah v Barça",
+      "description": "Penya Barcelonista Bakú will play host to the Barça fans travelling to Azerbaijan",
+      "category": "",
+      "relativeTime": "Published date 23 hrs ago",
+      "publishedDate": "2026-11-23",
+      "dateLabel": "November 23",
+      "source": "https://www.fcbarcelona.com/en/news/4613150/more-than-200-penya-members-to-attend-sabah-v-barca",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/8de75650-6260-49c1-9a62-18f16da5909d/PB-BAK-.jpg",
+      "localImage": "assets/news/4613150.jpg"
+    },
+    {
       "id": "4613128",
       "title": "Around 500 members and penya members in Azerbaijan",
       "description": "The Baku Barça penya will play host to the 268 club members and 206 penya members travelling to watch the game between Sabah and Barça",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 23 hrs ago",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/news/4613128/around-500-members-and-penya-members-in-azerbaijan",
-      "sourceImage": "",
-      "localImage": ""
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/8de75650-6260-49c1-9a62-18f16da5909d/PB-BAK-.jpg",
+      "localImage": "assets/news/4613128.jpg"
     },
     {
       "id": "4610386",
       "title": "Longest-ever European trip",
       "description": "Hansi Flick's side will travel to the Azerbaijan this Wednesday for matchday five of the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 23 Nov 26",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610386/baku-fc-barcelonas-longest-ever-trip-in-european-competition",
@@ -6423,7 +6447,7 @@ window.BARCA_DATA = {
       "title": "Lamine Yamal availability news",
       "description": "The player has a slight problem with his right ankle",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 23 Nov 26",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613043/lamine-yamal-availability-news",
@@ -6435,7 +6459,7 @@ window.BARCA_DATA = {
       "title": "All set for the APAC Cup 2026 in Bangkok",
       "description": "40 teams across four age categories to compete in the fifth edition of the tournament",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 23 Nov 26",
       "publishedDate": "2026-11-23",
       "dateLabel": "November 23",
       "source": "https://www.fcbarcelona.com/en/news/4611296/all-set-for-the-apac-cup-2026-in-bangkok",
@@ -6537,32 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/roller-hockey/first-team/news/4612466/pas-alcoi-6-3-barca-first-league-defeat",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/e31e3b24-4749-40fe-9413-72a733d69317/photo_5767039480006119489_w.jpg",
       "localImage": "assets/news/4612466.jpg"
-    },
-    {
-      "id": "4612440",
-      "title": "Espanyol B 0-0 Barça Atlètic: Stalemate in the derby",
-      "description": "All square in the city derby with the home side ending the game with 10 men",
-      "category": "Barça Atlètic",
-      "relativeTime": "Published date 21 Nov 26",
-      "publishedDate": "2026-11-21",
-      "dateLabel": "November 21",
-      "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4612440/espanyol-b-0-0-barca-atletic-stalemate-in-the-derby",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/82ccf82f-5b1e-44ce-b104-11adf3dea276/WhatsApp-Image-2026-11-21-at-19.35.17.jpeg",
-      "localImage": "assets/news/4612440.jpg"
-    },
-    {
-      "id": "4612468",
-      "title": "Javier Mascherano visits the Barça Foundation and Scotiabank project in Trinidad and Tobago",
-      "description": "The former FC Barcelona player took part in the year-end festival of the Peace of Mind programme, which uses sport to promote emotional well-being, resilience and social inclusion among vulnerable young people",
-      "category": "",
-      "relativeTime": "Published date 21 Nov 26",
-      "publishedDate": "2026-11-21",
-      "dateLabel": "November 21",
-      "source": "https://www.fcbarcelona.com/en/news/4612468/javier-mascherano-visits-the-barca-foundation-and-scotiabank-project-in-trinidad-and-tobago",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/21/71d311ec-9025-479f-b19d-41e6018d6193/01_DSC01805.jpg",
-      "localImage": "assets/news/4612468.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-24T00:19:44.968Z",
+  "newsUpdatedAt": "2026-11-24T10:23:50.490Z",
   "archive": {}
 };
