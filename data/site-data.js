@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-24T20:51:44.790Z",
+  "generatedAt": "2026-11-25T04:07:47.582Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6347,11 +6347,23 @@ window.BARCA_DATA = {
   },
   "news": [
     {
+      "id": "4614005",
+      "title": "Barça 77-83 Fenerbahce: Unjust defeat",
+      "description": "The blaugranes show courage and dominate with several players missing only to let victory escape in the final quarter",
+      "category": "Basketball",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-24",
+      "dateLabel": "November 24",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4614005/barca-77-83-fenerbahce-unjust-defeat",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/24/96ccf610-1b45-44e4-a834-9957ae5a61b6/2026-11-24_FCBBASQUETvsFENERBAHCE_126.JPG",
+      "localImage": "assets/news/4614005.jpg"
+    },
+    {
       "id": "4613944",
       "title": "Training at Baku Olympic Stadium",
       "description": "Blaugranes have first ever training session in Azerbaijan ahead of the match against Sabah",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-24",
       "dateLabel": "November 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613944/training-at-baku-olympic-stadium",
@@ -6363,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "'We have to go out with the right attitude'",
       "description": "The Barça coach explains ahead of the Champions League game against Sabah that Pau Cubarsí could play if needed",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-24",
       "dateLabel": "November 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613908/hansi-flick-we-have-to-go-out-with-the-right-attitude",
@@ -6375,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "'I'm focused on giving my best'",
       "description": "Dutchman identifies Sabah as a \"team who try to play out from the back\" during the prematch press conference",
       "category": "First Team",
-      "relativeTime": "Published date 4 hrs ago",
+      "relativeTime": "Published date 12 hrs ago",
       "publishedDate": "2026-11-24",
       "dateLabel": "November 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613906/frenkie-de-jong-im-focused-on-giving-my-best",
@@ -6387,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "Sabah v Barça: Did you know?",
       "description": "The teams have never met before, but there is still plenty to talk about ahead of the game",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-24",
       "dateLabel": "November 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613291/sabah-fc-v-fc-barcelona-did-you-knowx",
@@ -6399,7 +6411,7 @@ window.BARCA_DATA = {
       "title": "When and where to watch Sabah v Barça",
       "description": "We take a look at kick times and TV coverage around the world for the Champions League clash in Azerbaijan",
       "category": "First Team",
-      "relativeTime": "Published date 11 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-24",
       "dateLabel": "November 24",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4610008/when-and-where-to-watch-sabah-v-fc-barcelona",
@@ -6549,20 +6561,8 @@ window.BARCA_DATA = {
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4612790/la-laguna-tenerife-94-82-barca-no-luck",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/22/1a0d5f40-cfcd-4d5f-8757-f112604097ce/RS953262_.jpg",
       "localImage": "assets/news/4612790.jpg"
-    },
-    {
-      "id": "4612760",
-      "title": "Flick: 'An incredible reaction'",
-      "description": "Barça coach praises his side's ability to come from behind against a Champions League team",
-      "category": "First Team",
-      "relativeTime": "Published date 22 Nov 26",
-      "publishedDate": "2026-11-22",
-      "dateLabel": "November 22",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4612760/hansi-flick-an-incredible-reaction",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/22/833247ff-159d-409f-8e77-47babd170645/_MGA7662.jpg",
-      "localImage": "assets/news/4612760.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-24T20:51:44.790Z",
+  "newsUpdatedAt": "2026-11-25T04:07:47.582Z",
   "archive": {}
 };
