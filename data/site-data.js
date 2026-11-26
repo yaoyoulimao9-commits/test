@@ -1,5 +1,5 @@
 window.BARCA_DATA = {
-  "generatedAt": "2026-11-25T23:35:21.195Z",
+  "generatedAt": "2026-11-26T05:28:09.513Z",
   "coverage": "2021/22—2025/26：西甲、欧冠/欧联杯与公开源中可用的国王杯比赛。",
   "matches": [
     {
@@ -6351,7 +6351,7 @@ window.BARCA_DATA = {
       "title": "Àlex Campos makes his Barça first team debut",
       "description": "The young Catalan enjoys his first minutes for Hansi Flick's team after coming on in the win over Sabah in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614680/alex-campos-makes-his-fc-barcelona-first-team-debut",
@@ -6363,7 +6363,7 @@ window.BARCA_DATA = {
       "title": "Sabah 1-4 Barça: Gordon strikes again in Baku",
       "description": "Brace from the Englishman and one each from Adeyemi and Gabriel Jesus secure three more points for the Champions League collection",
       "category": "First Team",
-      "relativeTime": "Published date 3 hrs ago",
+      "relativeTime": "Published date 9 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614625/sabah-1-4-fc-barcelona-gordon-strikes-again-in-baku",
@@ -6375,7 +6375,7 @@ window.BARCA_DATA = {
       "title": "UEFA YOUTH LEAGUE | Sabah 0-7 Barça: Big win in Baku",
       "description": "Albert Peris’ side beat the Azerbaijani team and now have qualification in their own hands",
       "category": "Barça Youth",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 16 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4614501/uefa-youth-league-sabah-fk-0-7-fc-barcelona-big-win-in-baku",
@@ -6387,7 +6387,7 @@ window.BARCA_DATA = {
       "title": "Joan Laporta welcomes penyes from Baku and Baghdad",
       "description": "President, vice-president Elena Fort and board member Aureli Mas welcome around thirty penya members to the Barça team hotel",
       "category": "",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/news/4614405/joan-laporta-welcomes-penyes-from-baku-and-baghdad",
@@ -6399,7 +6399,7 @@ window.BARCA_DATA = {
       "title": "PREVIEW | Sabah v Barça",
       "description": "The Champions League returns this Wednesday with the club's first ever visit to Azerbaijan",
       "category": "First Team",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 20 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613170/preview-sabah-v-fc-barcelona",
@@ -6563,6 +6563,6 @@ window.BARCA_DATA = {
       "localImage": "assets/news/4613128.jpg"
     }
   ],
-  "newsUpdatedAt": "2026-11-25T23:35:21.195Z",
+  "newsUpdatedAt": "2026-11-26T05:28:09.513Z",
   "archive": {}
 };
