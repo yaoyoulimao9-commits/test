@@ -1,13 +1,49 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-26T05:28:09.508Z",
+  "updatedAt": "2026-11-26T15:45:07.273Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4615012",
+      "title": "Medical update on Balde",
+      "description": "First team player has a mild right ankle sprain",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-26",
+      "dateLabel": "November 26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615012/medical-update-on-balde",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/26/7902cb12-be3e-4806-8e6a-e42cda51e169/_MGA9355.jpg",
+      "localImage": "assets/news/4615012.jpg"
+    },
+    {
+      "id": "4615058",
+      "title": "Sekulic steps down as Slovenia coach",
+      "description": "Coach to focus on leading Barça in a show of commitment to the Club",
+      "category": "Basketball",
+      "relativeTime": "Published date 2 hrs ago",
+      "publishedDate": "2026-11-26",
+      "dateLabel": "November 26",
+      "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4615058/aleksander-sekulic-steps-down-as-slovenia-coach",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/26/8645483f-c78e-4788-9767-4765aaca16c2/2026-11-24_FCBBASQUETvsFENERBAHCE_116.JPG",
+      "localImage": "assets/news/4615058.jpg"
+    },
+    {
+      "id": "4614985",
+      "title": "Gordon rules in Baku",
+      "description": "Englishman scores a brace against Sabah FK to add to the four he got for Newcastle United against Qarabağ",
+      "category": "First Team",
+      "relativeTime": "Published date 5 hrs ago",
+      "publishedDate": "2026-11-26",
+      "dateLabel": "November 26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614985/gordon-rules-in-baku",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/26/cad9e5aa-dba6-4931-bcf1-2ca98382b644/_MGA9625.jpg",
+      "localImage": "assets/news/4614985.jpg"
+    },
     {
       "id": "4614680",
       "title": "Àlex Campos makes his Barça first team debut",
       "description": "The young Catalan enjoys his first minutes for Hansi Flick's team after coming on in the win over Sabah in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614680/alex-campos-makes-his-fc-barcelona-first-team-debut",
@@ -19,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Sabah 1-4 Barça: Gordon strikes again in Baku",
       "description": "Brace from the Englishman and one each from Adeyemi and Gabriel Jesus secure three more points for the Champions League collection",
       "category": "First Team",
-      "relativeTime": "Published date 9 hrs ago",
+      "relativeTime": "Published date 19 hrs ago",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614625/sabah-1-4-fc-barcelona-gordon-strikes-again-in-baku",
@@ -31,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "UEFA YOUTH LEAGUE | Sabah 0-7 Barça: Big win in Baku",
       "description": "Albert Peris’ side beat the Azerbaijani team and now have qualification in their own hands",
       "category": "Barça Youth",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 25 Nov 26",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/barca-academy/news/4614501/uefa-youth-league-sabah-fk-0-7-fc-barcelona-big-win-in-baku",
@@ -39,11 +75,23 @@ window.BARCA_NEWS = {
       "localImage": "assets/news/4614501.jpg"
     },
     {
+      "id": "4614553",
+      "title": "The match in Kolkata has been rescheduled",
+      "description": "The fixture, which was due to take place on Wednesday, will now be played on 18 April",
+      "category": "",
+      "relativeTime": "Published date 25 Nov 26",
+      "publishedDate": "2026-11-25",
+      "dateLabel": "November 25",
+      "source": "https://www.fcbarcelona.com/en/news/4614553/the-match-in-kolkata-has-been-rescheduled",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/25/3abdbbc9-a282-4d28-a65e-61e4a3ab4b6e/_5DS0687.jpg",
+      "localImage": "assets/news/4614553.jpg"
+    },
+    {
       "id": "4614405",
       "title": "Joan Laporta welcomes penyes from Baku and Baghdad",
       "description": "President, vice-president Elena Fort and board member Aureli Mas welcome around thirty penya members to the Barça team hotel",
       "category": "",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 25 Nov 26",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/news/4614405/joan-laporta-welcomes-penyes-from-baku-and-baghdad",
@@ -55,7 +103,7 @@ window.BARCA_NEWS = {
       "title": "PREVIEW | Sabah v Barça",
       "description": "The Champions League returns this Wednesday with the club's first ever visit to Azerbaijan",
       "category": "First Team",
-      "relativeTime": "Published date 20 hrs ago",
+      "relativeTime": "Published date 25 Nov 26",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613170/preview-sabah-v-fc-barcelona",
@@ -169,54 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/club/news/4611865/barca-and-mcm-elite-foods-create-the-la-masia-nutritional-seal-to-drive-food-quality",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/20/5be0f117-0746-469d-87f2-4b61dd1e4b05/Creativitat.jpg",
       "localImage": "assets/news/4611865.jpg"
-    },
-    {
-      "id": "4613109",
-      "title": "Squad for the trip to Baku",
-      "description": "Barça travel to Azerbaijan for match day five of the Champions League initial phase to take on Sabah FC",
-      "category": "First Team",
-      "relativeTime": "Published date 23 Nov 26",
-      "publishedDate": "2026-11-23",
-      "dateLabel": "November 23",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613109/squad-for-the-trip-to-baku",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/4df354b3-2062-4b2d-9e93-5e50f4f690bd/_MGA6722.jpg",
-      "localImage": "assets/news/4613109.jpg"
-    },
-    {
-      "id": "4613150",
-      "title": "More than 200 penya members to attend Sabah v Barça",
-      "description": "Penya Barcelonista Bakú will play host to the Barça fans travelling to Azerbaijan",
-      "category": "",
-      "relativeTime": "Published date 23 Nov 26",
-      "publishedDate": "2026-11-23",
-      "dateLabel": "November 23",
-      "source": "https://www.fcbarcelona.com/en/news/4613150/more-than-200-penya-members-to-attend-sabah-v-barca",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/8de75650-6260-49c1-9a62-18f16da5909d/PB-BAK-.jpg",
-      "localImage": "assets/news/4613150.jpg"
-    },
-    {
-      "id": "4613143",
-      "title": "Another football-packed weekend in store",
-      "description": "Barça Atlètic, the youth teams and Barça Live for Deportivo v Barça are all available to watch this weekend on the Club's platforms",
-      "category": "Club",
-      "relativeTime": "Published date 23 Nov 26",
-      "publishedDate": "2026-11-23",
-      "dateLabel": "November 23",
-      "source": "https://www.fcbarcelona.com/en/club/news/4613143/another-football-packed-weekend-in-store",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/22/7109ec2f-dcfb-4fae-a51f-cf74c955558f/DAG-086-_M1A5476.jpg",
-      "localImage": "assets/news/4613143.jpg"
-    },
-    {
-      "id": "4613128",
-      "title": "Around 500 members and penya members in Azerbaijan",
-      "description": "The Baku Barça penya will play host to the 268 club members and 206 penya members travelling to watch the game between Sabah and Barça",
-      "category": "",
-      "relativeTime": "Published date 23 Nov 26",
-      "publishedDate": "2026-11-23",
-      "dateLabel": "November 23",
-      "source": "https://www.fcbarcelona.com/en/news/4613128/around-500-members-and-penya-members-in-azerbaijan",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/8de75650-6260-49c1-9a62-18f16da5909d/PB-BAK-.jpg",
-      "localImage": "assets/news/4613128.jpg"
     }
   ]
 };
