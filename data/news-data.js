@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-26T15:45:07.273Z",
+  "updatedAt": "2026-11-27T00:32:54.128Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4615143",
+      "title": "Logroño United,on cup round of 16",
+      "description": "Team from La Rioja to be the first challenge in the defence of the Copa de la Reina title",
+      "category": "Women",
+      "relativeTime": "Published date 8 hrs ago",
+      "publishedDate": "2026-11-26",
+      "dateLabel": "November 26",
+      "source": "https://www.fcbarcelona.com/en/football/womens-football/news/4615143/logrono-united-rival-de-vuitens-de-copa",
+      "sourceImage": "",
+      "localImage": ""
+    },
     {
       "id": "4615012",
       "title": "Medical update on Balde",
       "description": "First team player has a mild right ankle sprain",
       "category": "First Team",
-      "relativeTime": "Published date 1 hr ago",
+      "relativeTime": "Published date 10 hrs ago",
       "publishedDate": "2026-11-26",
       "dateLabel": "November 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615012/medical-update-on-balde",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Sekulic steps down as Slovenia coach",
       "description": "Coach to focus on leading Barça in a show of commitment to the Club",
       "category": "Basketball",
-      "relativeTime": "Published date 2 hrs ago",
+      "relativeTime": "Published date 11 hrs ago",
       "publishedDate": "2026-11-26",
       "dateLabel": "November 26",
       "source": "https://www.fcbarcelona.com/en/basketball/first-team/news/4615058/aleksander-sekulic-steps-down-as-slovenia-coach",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "Gordon rules in Baku",
       "description": "Englishman scores a brace against Sabah FK to add to the four he got for Newcastle United against Qarabağ",
       "category": "First Team",
-      "relativeTime": "Published date 5 hrs ago",
+      "relativeTime": "Published date 14 hrs ago",
       "publishedDate": "2026-11-26",
       "dateLabel": "November 26",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614985/gordon-rules-in-baku",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Àlex Campos makes his Barça first team debut",
       "description": "The young Catalan enjoys his first minutes for Hansi Flick's team after coming on in the win over Sabah in the Champions League",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 25 Nov 26",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614680/alex-campos-makes-his-fc-barcelona-first-team-debut",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Sabah 1-4 Barça: Gordon strikes again in Baku",
       "description": "Brace from the Englishman and one each from Adeyemi and Gabriel Jesus secure three more points for the Champions League collection",
       "category": "First Team",
-      "relativeTime": "Published date 19 hrs ago",
+      "relativeTime": "Published date 25 Nov 26",
       "publishedDate": "2026-11-25",
       "dateLabel": "November 25",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4614625/sabah-1-4-fc-barcelona-gordon-strikes-again-in-baku",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/football/barca-b/news/4613292/mirza-catovic-injury-news",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/23/25837e2e-abec-4723-989f-1c1c0cdcfa77/2026-11-14_FCBATLETICvsGIRONAB_107.JPG",
       "localImage": "assets/news/4613292.jpg"
-    },
-    {
-      "id": "4611865",
-      "title": "The new La Masia Nutritional Seal",
-      "description": "Initiative combines Club nutritionist knowledge with strength of La Masia brand to offer brands new ways to promote and collaborate with FC Barcelona",
-      "category": "Club",
-      "relativeTime": "Published date 23 Nov 26",
-      "publishedDate": "2026-11-23",
-      "dateLabel": "November 23",
-      "source": "https://www.fcbarcelona.com/en/club/news/4611865/barca-and-mcm-elite-foods-create-the-la-masia-nutritional-seal-to-drive-food-quality",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/20/5be0f117-0746-469d-87f2-4b61dd1e4b05/Creativitat.jpg",
-      "localImage": "assets/news/4611865.jpg"
     }
   ]
 };
