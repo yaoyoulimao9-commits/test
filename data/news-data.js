@@ -1,13 +1,25 @@
 window.BARCA_NEWS = {
-  "updatedAt": "2026-11-28T01:55:40.221Z",
+  "updatedAt": "2026-11-28T10:17:17.221Z",
   "source": "https://www.fcbarcelona.com/en/news/",
   "items": [
+    {
+      "id": "4615103",
+      "title": "Three familiar faces at the Riazor stadium",
+      "description": "Three players with a blaugrana past are members of the Deportivo de A Coruña squad",
+      "category": "First Team",
+      "relativeTime": "Published date 1 hr ago",
+      "publishedDate": "2026-11-28",
+      "dateLabel": "November 28",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615103/three-familiar-faces-at-the-riazor-stadium",
+      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/26/56c17690-dbba-4eb9-981d-fa90367f8a70/_M1A6699.jpg",
+      "localImage": "assets/news/4615103.jpg"
+    },
     {
       "id": "4613143",
       "title": "Another football-packed weekend in store",
       "description": "Barça Atlètic, the youth teams and Barça Live for Deportivo v Barça are all available to watch this weekend on the Club's platforms",
       "category": "Club",
-      "relativeTime": "Published date 8 hrs ago",
+      "relativeTime": "Published date 17 hrs ago",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/club/news/4613143/another-football-packed-weekend-in-store",
@@ -19,7 +31,7 @@ window.BARCA_NEWS = {
       "title": "Àlex Campos: 'My childhood dream has come true'",
       "description": "Catalan makes his first appearance in the blaugrana jersey in the Champions League match against Sabah",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615398/alex-campos-my-childhood-dream-has-come-true",
@@ -31,7 +43,7 @@ window.BARCA_NEWS = {
       "title": "When and where to watch Deportivo v Barça",
       "description": "Our guide to the international kick-off times and channels for the LaLiga matchday 14 fixture, as the blaugranes travel to the Riazor stadium",
       "category": "First Team",
-      "relativeTime": "Published date 10 hrs ago",
+      "relativeTime": "Published date 18 hrs ago",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615039/when-and-where-to-watch-deportivo-de-a-coruna-v-fc-barcelona",
@@ -43,7 +55,7 @@ window.BARCA_NEWS = {
       "title": "Back to work as Rodri returns",
       "description": "Midfielder joins his teammates for part of the training session with the upcoming LaLiga match against Deportivo now the focus",
       "category": "First Team",
-      "relativeTime": "Published date 13 hrs ago",
+      "relativeTime": "Published date 21 hrs ago",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/football/first-team/news/4615404/rodri-back-with-the-group-as-barca-return-to-work",
@@ -55,7 +67,7 @@ window.BARCA_NEWS = {
       "title": "Successful clinic with Barça Academy Pro New York, Miami and the USA campuses",
       "description": "Karim Adeyemi, Laia Aleixandri and Kerolin all stop by for a visit",
       "category": "",
-      "relativeTime": "Published date 14 hrs ago",
+      "relativeTime": "Published date 22 hrs ago",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/news/4615466/successful-clinic-with-barca-academy-pro-new-york-miami-and-the-usa-campuses",
@@ -67,7 +79,7 @@ window.BARCA_NEWS = {
       "title": "The First Blaugrana Charity Gala brings the Barça Family Together",
       "description": "FC Barcelona President Joan Laporta and Barça Foundation General Director Dr. Marta Segú have unveiled the first Blaugrana Charity Gala, an initiative aimed at advancing pediatric palliative care in Catalonia.",
       "category": "",
-      "relativeTime": "Published date 16 hrs ago",
+      "relativeTime": "Published date 27 Nov 26",
       "publishedDate": "2026-11-27",
       "dateLabel": "November 27",
       "source": "https://www.fcbarcelona.com/en/news/4614965/the-first-blaugrana-charity-gala-brings-the-barca-family-together",
@@ -205,18 +217,6 @@ window.BARCA_NEWS = {
       "source": "https://www.fcbarcelona.com/en/news/4614405/joan-laporta-welcomes-penyes-from-baku-and-baghdad",
       "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/25/c48bee10-e8f5-4b39-9fdd-93532879267c/foto-gran.jpeg",
       "localImage": "assets/news/4614405.jpg"
-    },
-    {
-      "id": "4613170",
-      "title": "PREVIEW | Sabah v Barça",
-      "description": "The Champions League returns this Wednesday with the club's first ever visit to Azerbaijan",
-      "category": "First Team",
-      "relativeTime": "Published date 25 Nov 26",
-      "publishedDate": "2026-11-25",
-      "dateLabel": "November 25",
-      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4613170/preview-sabah-v-fc-barcelona",
-      "sourceImage": "https://www.fcbarcelona.com/photo-resources/2026/11/24/07de162b-67f3-4d35-ada9-7e2eeae3a47e/IMG_5991.PNG",
-      "localImage": "assets/news/4613170.png"
     }
   ]
 };
